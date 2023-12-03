@@ -1,9 +1,13 @@
 name: Convert v2ray domail list to clash rule
 
-on: [push]
+on: 
+  schedule:
+    - cron: '0 23 * * *'
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -32,3 +36,11 @@ jobs:
         pnpm install
         pnpm run download
         pnpm run build
+        echo "COMMIT_MSG=Released on UTC $(date -u +%Y%m%d%H%M)" >> $GITHUB_ENV
+    - name: Deploy to release branch
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
+        publish_branch: release
+        commit_message: "${{ env.COMMIT_MSG }}"
