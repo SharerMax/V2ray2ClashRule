@@ -1,0 +1,1 @@
+# V2ray domain list to clash rule
