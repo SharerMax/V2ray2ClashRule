@@ -1,0 +1,32 @@
+{
+  "name": "v2ray2clashrule",
+  "version": "0.0.1",
+  "description": "convert v2ray domain list rule to clash rule",
+  "private": true,
+  "engines": {
+    "node": "^20.0.0"
+  },
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "build": "rimraf dist/* && tsx src/main.ts",
+    "dev": "DEBUG=* tsx watch src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "LGPL-3.0-or-later",
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.2.1",
+    "@tsconfig/node20": "^20.1.2",
+    "@types/debug": "^4.1.12",
+    "@types/node": "^20.10.2",
+    "eslint": "^8.55.0",
+    "rimraf": "^5.0.5",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "debug": "^4.3.4",
+    "yaml": "^2.3.4"
+  }
+}

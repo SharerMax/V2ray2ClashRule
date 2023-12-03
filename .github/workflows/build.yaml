@@ -1,0 +1,19 @@
+name: Convert v2ray domail list to clash rule
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/checkout@v4
+      with:
+        repository: v2fly/domain-list-community
+        fetch-depth: 1
+        sparse-checkout: |
+          data
+        path: 'data'
+    - name: Run script
+      run: |
+        tree
