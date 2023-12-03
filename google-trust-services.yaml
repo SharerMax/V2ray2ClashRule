@@ -1,0 +1,4 @@
+payload:
+  - clients1.google.com
+  - pki.google.com
+  - +.pki.goog
