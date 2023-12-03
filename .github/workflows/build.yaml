@@ -27,6 +27,8 @@ jobs:
         key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
           ${{ runner.os }}-pnpm-store-
-    - name: Run script
+    - name: Build clash rules
       run: |
-        tree
+        pnpm install
+        pnpm run download
+        pnpm run build
