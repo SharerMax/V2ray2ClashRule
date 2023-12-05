@@ -20,8 +20,8 @@ async function generateRuleList() {
 
 async function renderPage() {
   const ruleList = await generateRuleList()
-  const lastUpdateDate = new Date().toUTCString()
-  return ejs.renderFile(path.resolve(__dirname, './ejs/index.ejs'), { lastUpdateDate, ruleList })
+  const latestUpdateDate = new Date().toUTCString()
+  return ejs.renderFile(path.resolve(__dirname, './ejs/index.ejs'), { latestUpdateDate, ruleList })
 }
 
 export async function generateRulePage() {
