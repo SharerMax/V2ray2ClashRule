@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url'
 import Readline from 'node:readline/promises'
 import debug from 'debug'
 import { stringify as yamlStringify } from 'yaml'
+import { generateRulePage } from './page'
 
 const debugLogger = debug('v2ray-2-clash-rule')
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -141,3 +142,6 @@ for (const file of dataListFiles) {
     writeStream.close()
   }
 }
+debugLogger('generate rule list done')
+await generateRulePage()
+debugLogger('generate rule page done')
