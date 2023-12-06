@@ -78,7 +78,11 @@ async function parseV2rayRuleFile(fileFullPath: string) {
       result.keyword = result.keyword.concat(includeResult.keyword)
     }
     else {
-      result.subdomain.push(rule.trim())
+      // Subdomain begins with `domain:`, followed by a valid domain name. The prefix `domain:` may be omitted.
+      if (rule.startsWith('domain:'))
+        result.subdomain.push(rule.slice(7).trim())
+      else
+        result.subdomain.push(rule.trim())
     }
   }
   fileReadStream.close()
