@@ -9,8 +9,9 @@
   "main": "src/main.ts",
   "type": "module",
   "scripts": {
+    "typecheck": "tsc --noEmit",
     "build": "rimraf dist/* && tsx src/main.ts",
-    "dev": "DEBUG=* tsx watch src/main.ts",
+    "dev": "pnpm run typecheck && DEBUG=* tsx watch src/main.ts",
     "download": "rimraf data && giget gh:v2fly/domain-list-community/data#master data"
   },
   "keywords": [],

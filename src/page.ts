@@ -5,30 +5,28 @@ import { existsSync as fileExistsSync } from 'node:fs'
 import ejs from 'ejs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const publicOutDir = path.resolve(__dirname, '../public')
-const publicDir = path.resolve(__dirname, './public')
-const distDir = path.resolve(__dirname, '../dist')
+const publicDir = path.resolve(__dirname, '../public')
 const RAW_HOST = 'https://raw.githubusercontent.com'
 
-async function generateRuleList() {
-  const fileList = await fs.readdir(distDir)
+async function generateRuleList(rulesSourceDir: string) {
+  const fileList = await fs.readdir(rulesSourceDir)
   return fileList.map(file => ({
     name: file,
     url: `${RAW_HOST}/SharerMax/V2ray2ClashRule/release/${file}`,
   }))
 }
 
-async function renderPage() {
-  const ruleList = await generateRuleList()
+async function renderPage(rulesSourceDir: string) {
+  const ruleList = await generateRuleList(rulesSourceDir)
   const latestUpdateDate = new Date().toUTCString()
   return ejs.renderFile(path.resolve(__dirname, './ejs/index.ejs'), { latestUpdateDate, ruleList })
 }
 
-export async function generateRulePage() {
-  if (!fileExistsSync(publicOutDir))
-    await fs.mkdir(publicOutDir, { recursive: true })
-  await fs.writeFile(path.resolve(publicOutDir, 'index.html'), await renderPage())
-  await fs.cp(publicDir, publicOutDir, { recursive: true })
+export async function generateRulePage(rulesSourceDir: string, pageDestDir: string) {
+  if (!fileExistsSync(pageDestDir))
+    await fs.mkdir(pageDestDir, { recursive: true })
+  await fs.writeFile(path.resolve(pageDestDir, 'index.html'), await renderPage(rulesSourceDir))
+  await fs.cp(publicDir, pageDestDir, { recursive: true })
 }
 
 export default {
