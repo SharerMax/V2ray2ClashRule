@@ -1102,8 +1102,6 @@ payload:
   - .sfacg.com
   - .61.com
   - .taomee.com
-  - .tapimg.com
-  - .taptap.com
   - .tgbus.com
   - .tiancity.com
   - .tiancitycdn.com
@@ -1111,11 +1109,23 @@ payload:
   - .u17i.com
   - .u17t.com
   - .vgtime.com
+  - .tapimg.com
+  - .tapimg.net
+  - .taptap.cn
+  - .taptap.com
+  - .taptap.io
+  - .taptapdada.com
+  - .ro.com
+  - .xd.cn
+  - .xd.com
+  - .xdcdn.net
+  - .xindong.com
   - .xhscdn.com
   - .xhscdn.net
   - .xiaohongshu.com
   - .ximalaya.com
   - .xmcdn.com
+  - .yamibo.com
   - .kumiao.com
   - .youku.com
   - .ykimg.com
@@ -1553,6 +1563,8 @@ payload:
   - .lagou.com
   - .lgstatic.com
   - .baidupan.com
+  - .ilanzou.com
+  - .lanosso.com
   - .lanzou.com
   - .lanzoub.com
   - .lanzouc.com
@@ -1575,6 +1587,7 @@ payload:
   - .lanzouw.com
   - .lanzoux.com
   - .lanzouy.com
+  - .lanzov.com
   - .woozooo.com
   - .ldmnq.com
   - .liepin.com
@@ -2548,6 +2561,12 @@ payload:
   - .didimobility.co.jp
   - .didistatic.com
   - .xiaojukeji.com
+  - .dji.com
+  - .dji.net
+  - .djicdn.com
+  - .djiops.com
+  - .djiservice.org
+  - .skypixel.com
   - .hc-cdn.cn
   - .huaweicloud-dns.cn
   - .huaweicloud-dns.com
