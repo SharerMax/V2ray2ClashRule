@@ -6,13 +6,14 @@ import ejs from 'ejs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const publicDir = path.resolve(__dirname, '../public')
-const RAW_HOST = 'https://raw.githubusercontent.com'
+// const RAW_BASE_URL = 'https://raw.githubusercontent.com/SharerMax/V2ray2ClashRule/release'
+const RAW_BASE_URL = 'https://cdn.jsdelivr.net/gh/SharerMax/V2ray2ClashRule@release'
 
 async function generateRuleList(rulesSourceDir: string) {
   const fileList = await fs.readdir(rulesSourceDir)
   return fileList.map(file => ({
     name: file,
-    url: `${RAW_HOST}/SharerMax/V2ray2ClashRule/release/${file}`,
+    url: `${RAW_BASE_URL}/${file}`,
   }))
 }
 
