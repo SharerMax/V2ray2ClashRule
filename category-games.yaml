@@ -19,6 +19,8 @@ payload:
   - .starcraft2.com
   - .playwarcraft3.com
   - .worldofwarcraft.com
+  - .bluearchive.jp
+  - .bluearchive.nexon.com
   - .curseforge.com
   - .forgecdn.net
   - .cygames.jp
@@ -229,6 +231,9 @@ payload:
   - .hoyolab.com
   - .hoyoverse.com
   - .n0vadesktop.com
+  - .nexon.co.jp
+  - .nexon.com
+  - .nexoncdn.co.kr
   - .100classicbooks.com
   - .amiibo.com
   - .ayudanintendo.com
