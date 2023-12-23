@@ -994,6 +994,7 @@ payload:
   - .acplay.net
   - .dandanplay.com
   - .ali213.net
+  - .bilicomic.com
   - .bilicomics.com
   - .acg.tv
   - .acgvideo.com
@@ -3308,6 +3309,8 @@ payload:
   - .fymallqa4.com
   - .fymallqa7.com
   - .fymallqa9.com
+  - .vivo.com
+  - .vivo.com.cn
   - .mi.com
   - .mi-img.com
   - .mifile.cn
