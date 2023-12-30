@@ -1113,7 +1113,9 @@ payload:
   - .ngacn.cc
   - .saraba1st.com
   - .52pojie.cn
+  - .kafan.cn
   - .itsk.com
+  - .wuyou.net
   - .klpbbs.com
   - .mcbbs.net
   - .uiwow.com
@@ -1134,6 +1136,11 @@ payload:
   - .llsapp.com
   - .llscdn.com
   - .llsserver.com
+  - .baicizhan.org
+  - .burningvocabulary.cn
+  - .burningvocabulary.com
+  - .423down.com
+  - .ghxi.com
   - .feng1.com
   - .rongechain.com
   - .sf-airlines.com
@@ -1305,9 +1312,33 @@ payload:
   - .yunpan.com
   - .aliyundrive.com
   - .yunpan.aliyun.com
+  - .baidupan.com
+  - .ilanzou.com
+  - .lanosso.com
+  - .lanzou.com
+  - .lanzoub.com
+  - .lanzouc.com
+  - .lanzoue.com
+  - .lanzouf.com
+  - .lanzoug.com
+  - .lanzouh.com
   - .lanzoui.com
+  - .lanzouj.com
+  - .lanzouk.com
+  - .lanzoul.com
+  - .lanzoum.com
+  - .lanzouo.com
+  - .lanzoup.com
+  - .lanzouq.com
+  - .lanzous.com
+  - .lanzout.com
+  - .lanzouu.com
+  - .lanzouv.com
   - .lanzouw.com
   - .lanzoux.com
+  - .lanzouy.com
+  - .lanzov.com
+  - .woozooo.com
   - .cnmstl.net
   - .fofa.so
   - .t00ls.cc
@@ -1528,33 +1559,6 @@ payload:
   - .keepcdn.com
   - .lagou.com
   - .lgstatic.com
-  - .baidupan.com
-  - .ilanzou.com
-  - .lanosso.com
-  - .lanzou.com
-  - .lanzoub.com
-  - .lanzouc.com
-  - .lanzoue.com
-  - .lanzouf.com
-  - .lanzoug.com
-  - .lanzouh.com
-  - .lanzoui.com
-  - .lanzouj.com
-  - .lanzouk.com
-  - .lanzoul.com
-  - .lanzoum.com
-  - .lanzouo.com
-  - .lanzoup.com
-  - .lanzouq.com
-  - .lanzous.com
-  - .lanzout.com
-  - .lanzouu.com
-  - .lanzouv.com
-  - .lanzouw.com
-  - .lanzoux.com
-  - .lanzouy.com
-  - .lanzov.com
-  - .woozooo.com
   - .ldmnq.com
   - .liepin.com
   - .lietou.com
@@ -3274,14 +3278,15 @@ payload:
   - .fymallqa9.com
   - .vivo.com
   - .vivo.com.cn
-  - .mi.com
   - .mi-img.com
+  - .mi.com
   - .mifile.cn
   - .miui.com
   - .miwifi.com
   - .xiaomi.cn
   - .xiaomi.com
   - .xiaomi.net
+  - .xiaomiev.com
   - .xiaomiyoupin.com
   - .saxyit.com
   - .sandai.net
