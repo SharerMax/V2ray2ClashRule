@@ -457,6 +457,7 @@ payload:
   - .skypedata.akadns.net
   - azure.microsoft.com
   - azuremarketplace.microsoft.com
+  - location.microsoft.com
   - github-cloud.s3.amazonaws.com
   - az764295.vo.msecnd.net
   - bingsettingssearch.trafficmanager.net
