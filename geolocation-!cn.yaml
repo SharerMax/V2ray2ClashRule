@@ -2996,6 +2996,7 @@ payload:
   - .akastream.com
   - .akastream.net
   - .akatns.net
+  - .edgekey.net
   - .iamakamai.com
   - .iamakamai.net
   - .soasta-dswb.com
@@ -3110,12 +3111,10 @@ payload:
   - .certificat2.com
   - .trendmicro.com
   - .gandi.net
-  - .alphassl.com
   - .globalsign-media.com
   - .globalsign.be
   - .globalsign.ch
   - .globalsign.co.uk
-  - .globalsign.com
   - .globalsign.com.au
   - .globalsign.com.br
   - .globalsign.com.hk
@@ -6198,6 +6197,7 @@ payload:
   - .linetv.tw
   - .litv.tv
   - .megaphone.fm
+  - .mikanani.me
   - .moov.hk
   - .odysee.com
   - .omobi.cc
@@ -11034,6 +11034,7 @@ payload:
   - .hmd.site
   - .hmfby.com
   - .hmfun.top
+  - .hmovie-moe.us
   - .hnalady.com
   - .hnext.jp
   - .hnntube.com
@@ -14782,6 +14783,18 @@ payload:
   - .maa.plus
   - .prts.plus
   - .poi.moe
+  - .clock.isc.org
+  - .ntp.fiord.ru
+  - .ntp.nat.ms
+  - .ntp.nic.cz
+  - .ntp.nict.jp
+  - .ntp.ripe.net
+  - .ntp.se
+  - .ntp.ufe.cz
+  - .pool.ntp.org
+  - .time.cloudflare.com
+  - .time.nrc.ca
+  - .time.windows.com
   - .decrypt.day
   - .accuweather.com
   - .getadblock.com
@@ -19663,6 +19676,7 @@ payload:
   - .bing
   - .bing.com
   - .bing.net
+  - .bing123.com
   - .bingads.com
   - .bingagencyawards.com
   - .bingapis.com
@@ -19873,6 +19887,7 @@ payload:
   - .microsoft.vn
   - .femalefounderscomp.com
   - .m12.vc
+  - .a-msedge.net
   - .aka.ms
   - .ankarazirvesi2018.com
   - .applicationinsights.io
@@ -20014,7 +20029,9 @@ payload:
   - .projectmurphy.net
   - .projectsangam.com
   - .pxt.io
+  - .s-dc-msedge.net
   - .s-microsoft.com
+  - .s-msedge.net
   - .s-msft.com
   - .s-msn.com
   - .sfbassets.com
@@ -20509,6 +20526,7 @@ payload:
   - .sonytc.co.jp
   - .sovec.net
   - .spacex.com
+  - .st.com
   - .boringcompany.com
   - .internetdownloadmanager.com
   - .registeridm.com

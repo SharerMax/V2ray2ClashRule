@@ -56,6 +56,7 @@ payload:
   - .bing
   - .bing.com
   - .bing.net
+  - .bing123.com
   - .bingads.com
   - .bingagencyawards.com
   - .bingapis.com
@@ -266,6 +267,7 @@ payload:
   - .microsoft.vn
   - .femalefounderscomp.com
   - .m12.vc
+  - .a-msedge.net
   - .aka.ms
   - .ankarazirvesi2018.com
   - .applicationinsights.io
@@ -407,7 +409,9 @@ payload:
   - .projectmurphy.net
   - .projectsangam.com
   - .pxt.io
+  - .s-dc-msedge.net
   - .s-microsoft.com
+  - .s-msedge.net
   - .s-msft.com
   - .s-msn.com
   - .sfbassets.com
