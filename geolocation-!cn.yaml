@@ -5017,6 +5017,11 @@ payload:
   - .hayabusa.io
   - .hayabusa.media
   - .winticket.jp
+  - .amc.com
+  - .amcn.com
+  - .amcnetworks.com
+  - .amcplus.com
+  - .e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
   - .9anime.cz
   - .9anime.id
   - .9anime.to
@@ -20293,6 +20298,7 @@ payload:
   - .pccwglobal.com
   - .pccwsolutions.com
   - .moov.hk
+  - .perplexity.ai
   - .myqnapcloud.com
   - .qlink.to
   - .qnap.com
