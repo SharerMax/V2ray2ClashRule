@@ -4679,16 +4679,17 @@ payload:
   - .openweather.co.uk
   - .openweathermap.org
   - .oracle
+  - .ateam-oracle.com
+  - .bronto.com
+  - .covid19-rx.org
+  - .covid19rx.org
   - .oracle.com
   - .oraclecloud.com
   - .oraclefoundation.org
   - .oracleimg.com
   - .oracleinfinity.io
-  - .ateam-oracle.com
-  - .bronto.com
-  - .covid19-rx.org
-  - .covid19rx.org
   - .sun.com
+  - .virtualbox.org
   - .addthis.com
   - .addthiscdn.com
   - .addthisedge.com
@@ -5689,5 +5690,7 @@ payload:
   - d2anahhhmp1ffz.cloudfront.net
   - qualcomm.sc.omtrdc.net
   - impala-media-production.s3.amazonaws.com
+  - cdn.js7k.com
+  - cdn.js7k.com
   - client-teamviewer-com.trafficmanager.net
   - teamviewer.com.cdn.cloudflare.net

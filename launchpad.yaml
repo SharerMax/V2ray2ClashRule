@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .launchpad.net
+  - .launchpadcontent.net
   - .launchpadlibrarian.com
   - .launchpadlibrarian.net
   - .launchpadlibrarian.org

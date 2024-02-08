@@ -109,6 +109,7 @@ payload:
   - .captive.apple.com
   - .connectivitycheck.gstatic.com
   - .networkcheck.kde.org
+  - .location.services.mozilla.com
   - .hiwifi.com
   - .leike.cc
   - .my.router
