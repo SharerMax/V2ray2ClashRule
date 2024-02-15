@@ -2598,6 +2598,7 @@ payload:
   - .djiservice.org
   - .skypixel.com
   - .ami-alliance.org.cn
+  - .b2bgo.com
   - .eduapaashwc.com
   - .hc-cdn.cn
   - .hc-cdn.com
@@ -2667,7 +2668,9 @@ payload:
   - .powerapp.io
   - .cn-east-2.myhuaweicloud.com
   - .cn-east-3.myhuaweicloud.com
+  - .cn-east-5.myhuaweicloud.com
   - .cn-north-1.myhuaweicloud.com
+  - .cn-north-11.myhuaweicloud.com
   - .cn-north-2.myhuaweicloud.com
   - .cn-north-3.myhuaweicloud.com
   - .cn-north-4.myhuaweicloud.com
@@ -2812,7 +2815,6 @@ payload:
   - .8gcdp.cn
   - .kma1g.cn
   - .576nt.cn
-  - .b2bgo.com
   - .abhouses.com
   - .agconnect.link
   - .dbank.com

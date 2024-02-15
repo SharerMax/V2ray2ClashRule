@@ -83,6 +83,10 @@ payload:
   - .dartpad.dev
   - .fastlane.ci
   - .fastlane.tools
+  - .firebase.com
+  - .firebase.io
+  - .firebaseapp.com
+  - .firebaseio.com
   - .flutter.dev
   - .flutterapp.com
   - .go-lang.com
@@ -498,10 +502,6 @@ payload:
   - .google.vg
   - .google.vu
   - .google.ws
-  - .firebase.com
-  - .firebase.io
-  - .firebaseapp.com
-  - .firebaseio.com
   - .0emm.com
   - .1e100.net
   - .1ucrs.com
@@ -776,6 +776,18 @@ payload:
   - .xn--ngstr-lra8j.com
   - .xplr.co
   - .zukunftswerkstatt.de
+  - firebase.google.com
+  - firebase.googleapis.com
+  - firebaseappcheck.googleapis.com
+  - firebasedynamiclinks-ipv4.googleapis.com
+  - firebasedynamiclinks-ipv6.googleapis.com
+  - firebasedynamiclinks.googleapis.com
+  - firebaseinappmessaging.googleapis.com
+  - firebaseinstallations.googleapis.com
+  - firebaselogging-pa.googleapis.com
+  - firebaselogging.googleapis.com
+  - firebaseperusertopics-pa.googleapis.com
+  - firebaseremoteconfig.googleapis.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
@@ -863,15 +875,3 @@ payload:
   - alt7-mtalk.google.com
   - alt8-mtalk.google.com
   - mtalk.google.com
-  - firebase.google.com
-  - firebase.googleapis.com
-  - firebaseappcheck.googleapis.com
-  - firebasedynamiclinks-ipv4.googleapis.com
-  - firebasedynamiclinks-ipv6.googleapis.com
-  - firebasedynamiclinks.googleapis.com
-  - firebaseinappmessaging.googleapis.com
-  - firebaseinstallations.googleapis.com
-  - firebaselogging-pa.googleapis.com
-  - firebaselogging.googleapis.com
-  - firebaseperusertopics-pa.googleapis.com
-  - firebaseremoteconfig.googleapis.com
