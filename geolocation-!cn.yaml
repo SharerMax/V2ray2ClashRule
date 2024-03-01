@@ -13668,6 +13668,7 @@ payload:
   - .apkcombo.com
   - .apkmirror.com
   - .apkpure.com
+  - .apkpure.net
   - .cdnpure.com
   - .pureapk.com
   - .winudf.com
@@ -14045,6 +14046,9 @@ payload:
   - .cloudlatex.io
   - .overleaf.com
   - .auroraoss.com
+  - .cookiepro.com
+  - .cookielaw.org
+  - .onetrust.com
   - .anaconda.cloud
   - .anaconda.com
   - .anaconda.org
