@@ -4960,6 +4960,9 @@ payload:
   - .sovec.net
   - .spacex.com
   - .st.com
+  - .tailscale.com
+  - .tailscale.io
+  - .ts.net
   - .boringcompany.com
   - .internetdownloadmanager.com
   - .registeridm.com

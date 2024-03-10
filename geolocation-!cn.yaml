@@ -1921,6 +1921,7 @@ payload:
   - .cf-ipfs.com
   - .cloudflare-ipfs.com
   - .argotunnel.com
+  - .cfl.re
   - .cloudflare-dns.com
   - .cloudflare-ech.com
   - .cloudflare-esni.com
@@ -2535,6 +2536,9 @@ payload:
   - .localbitcoinschain.com
   - .okex.com
   - .okx.com
+  - .okx-dns.com
+  - .okx-dns1.com
+  - .okx-dns2.com
   - .onekey-asset.com
   - .onekey.so
   - .onekeycn.com
@@ -5217,6 +5221,7 @@ payload:
   - .qr.ae
   - .quora.com
   - .quoracdn.net
+  - .reddit.app.link
   - .reddit.com
   - .redditstatic.com
   - .redditmail.com
@@ -5852,6 +5857,7 @@ payload:
   - .bbc.co.uk
   - .bbc.com
   - .bbc.in
+  - .bbc.mp-pxcdn.com
   - .bbc.net.uk
   - .bbcfmt.s.llnwi.net
   - .bbci.co.uk
@@ -14337,9 +14343,11 @@ payload:
   - .openwrt.org
   - .lede-project.org
   - .osdn.net
+  - .perl.apache.org
   - .perl.org
   - .cpan.org
   - .metacpan.org
+  - .modperl.pl
   - .polymer-project.org
   - .polymerproject.org
   - .pycon.org
@@ -19464,6 +19472,9 @@ payload:
   - .sovec.net
   - .spacex.com
   - .st.com
+  - .tailscale.com
+  - .tailscale.io
+  - .ts.net
   - .boringcompany.com
   - .internetdownloadmanager.com
   - .registeridm.com
