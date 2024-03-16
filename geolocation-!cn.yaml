@@ -5227,6 +5227,7 @@ payload:
   - .redditmail.com
   - .redditmedia.com
   - .redd.it
+  - .yamibo.com
   - .18p2p.com
   - .avsforum.com
   - .disp.cc
@@ -13915,6 +13916,7 @@ payload:
   - .pros.ee
   - .pse.is
   - .ping.pe
+  - .ping.sx
   - .playcover.io
   - .playcover.workers.dev
   - .pm.me
@@ -20884,6 +20886,7 @@ payload:
   - brightcove.imgix.net
   - d33wubrfki0l68.cloudfront.net
   - live-patreon-marketing.pantheonsite.io
+  - public-us-pingsx.api.clonoth.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
