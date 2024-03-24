@@ -1063,6 +1063,7 @@ payload:
   - .pplive.com
   - .pptv.com
   - .qingting.fm
+  - .qtfm.cn
   - .sfacg.com
   - .61.com
   - .taomee.com
@@ -2957,8 +2958,6 @@ payload:
   - .yeah.net
   - .youdao.com
   - .zhuanzfx.com
-  - .nubia.cn
-  - .nubia.com
   - .coloros.com
   - .finzfin.com
   - .heytap.com
@@ -3396,6 +3395,12 @@ payload:
   - .thundercdn.com
   - .xycloud.com
   - .xycdn.com
+  - .nubia.cn
+  - .nubia.com
+  - .redmagic.com
+  - .zte.com.cn
+  - .ztemall.com
+  - .ztems.com
   - .ezpro.pro
   - .10099.com.cn
   - .chn.cn
@@ -3512,6 +3517,16 @@ payload:
   - .zhiyuanyun.com.cn
   - .zyhe.com.cn
   - .zzdtec.com
+  - .aitcfw.com
+  - .aizgtc.com
+  - .hangzhouyq.cn
+  - .hangzhouyq.com
+  - .zgxytc.com
+  - .zgzsa.com
+  - .zhonshian.cn
+  - .zhonshian.com
+  - .zhonshian.com.cn
+  - .zjzsa.com
   - .0123456789.com
   - .0379home.com
   - .055110.com
@@ -4601,10 +4616,12 @@ payload:
   - .ssjlicai.com
   - .sui.com
   - .narwal.com
+  - .narwaltech.com
   - .roborock.com
   - .huaban.com
   - .dancf.com
   - .kujiale.com
+  - .wss.zone
   - manga.bilibili.com
   - upos-hz-mirrorakam.akamaized.net
   - hospital.pku.edu.cn
@@ -4636,3 +4653,5 @@ payload:
   - p7-juejin.byteimg.com
   - p8-juejin.byteimg.com
   - p9-juejin.byteimg.com
+  - bbs.ztedevices.com
+  - www.ztedevices.com
