@@ -1120,6 +1120,7 @@ payload:
   - .mcbbs.net
   - .uiwow.com
   - .right.com.cn
+  - .pcbeta.com
   - .fofa.info
   - .leigod.com
   - .tmjiasuqi.com
@@ -1638,6 +1639,7 @@ payload:
   - .mihuashi.com
   - .tower.im
   - .udesk.cn
+  - .xedge.cc
   - .bcy.net
   - .bcyimg.com
   - .lf-rc1.yhgfb-cn-static.com
@@ -3527,6 +3529,11 @@ payload:
   - .zhonshian.com
   - .zhonshian.com.cn
   - .zjzsa.com
+  - .diiing.cn
+  - .dingdachuxing.com
+  - .dingdatech.com
+  - .jintdev.com
+  - .xiangbababus.com
   - .0123456789.com
   - .0379home.com
   - .055110.com
@@ -4228,7 +4235,6 @@ payload:
   - .paipaibang.com
   - .paopaoche.net
   - .pc6.com
-  - .pcbeta.com
   - .pchome.net
   - .pcpop.com
   - .peccn.com
@@ -4622,6 +4628,7 @@ payload:
   - .dancf.com
   - .kujiale.com
   - .wss.zone
+  - .hisensehitachi.com
   - manga.bilibili.com
   - upos-hz-mirrorakam.akamaized.net
   - hospital.pku.edu.cn
