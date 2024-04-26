@@ -17740,6 +17740,14 @@ payload:
   - .xn--6eup7j.net
   - .hubblephone.com
   - .tsi.ai
+  - .consul.io
+  - .hashicorp.com
+  - .nomadproject.io
+  - .packer.io
+  - .terraform.io
+  - .vagrantcloud.com
+  - .vagrantup.com
+  - .vaultproject.io
   - .ibm
   - .weatherchannel
   - .weather
