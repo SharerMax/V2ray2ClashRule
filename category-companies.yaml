@@ -2913,6 +2913,7 @@ payload:
   - .firebaseio.com
   - .flutter.dev
   - .flutterapp.com
+  - .pub.dev
   - .go-lang.com
   - .go-lang.net
   - .go-lang.org
