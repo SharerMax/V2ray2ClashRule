@@ -235,6 +235,12 @@ payload:
   - .nexon.com
   - .nexon.io
   - .nexoncdn.co.kr
+  - .nikke-de.com
+  - .nikke-en.com
+  - .nikke-fr.com
+  - .nikke-jp.com
+  - .nikke-kr.com
+  - .nikke-sea.com
   - .100classicbooks.com
   - .amiibo.com
   - .ayudanintendo.com
@@ -347,22 +353,16 @@ payload:
   - .wiiugamepad.com
   - .wiivc.net
   - .xenoblade.com
-  - .nikke-de.com
-  - .nikke-en.com
-  - .nikke-fr.com
-  - .nikke-jp.com
-  - .nikke-kr.com
-  - .nikke-sea.com
   - .op.gg
   - .joyjoy.net
   - .pandanet-igs.com
   - .pinkcore.com
   - .pinkcore.net
-  - .sekai.colorfulpalette.org
   - .playstation
   - .playstation.com
   - .playstation.net
   - .sonyentertainmentnetwork.com
+  - .sekai.colorfulpalette.org
   - .api-priconne-redive.cygames.jp
   - .omotenashi.cygames.jp
   - .historyofdota.com
@@ -484,10 +484,14 @@ payload:
   - .xboxstudios.com
   - .xbx.lv
   - .ynoproject.net
+  - .dodi-repacks.download
+  - .dodi-repacks.site
   - .fanatical.com
   - .fitgirl-repacks.site
+  - .game-repack.site
   - .humblebundle.com
   - .loverslab.com
+  - .minecraft.wiki
   - .modrinth.com
   - .nexusmods.com
   - .papermc.io

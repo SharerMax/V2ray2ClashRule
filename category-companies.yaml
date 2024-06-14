@@ -4056,10 +4056,63 @@ payload:
   - .xn--ztsq84g.cn
   - .xscale.com
   - .barefootnetworks.com
+  - .daum.net
+  - .daumcdn.net
+  - .daumkakao.io
   - .kakao.com
+  - .kakao.co.kr
   - .kakaocdn.net
   - .kakaocorp.com
   - .kakaotalk.jp
+  - .kgslb.com
+  - .onkakao.net
+  - .kakao.vc
+  - .kakaobrain.com
+  - .kakaoinvestment.com
+  - .kakaomobility.com
+  - .kakaopiccoma.com
+  - .kakaobank.com
+  - .kakaobank.io
+  - .kakaobankcontent.com
+  - .kakaoenterprise.com
+  - .kakaocloud.com
+  - .kakaoilaas.com
+  - .1thek.com
+  - .antenna.co.kr
+  - .awesomeent.co.kr
+  - .bhent.co.kr
+  - .dolphiners.com
+  - .gleline.com
+  - .istent.co.kr
+  - .jwide.co.kr
+  - .kakaoent.com
+  - .krosspictures.com
+  - .logosfilm.co.kr
+  - .megamon.co.kr
+  - .melon.com
+  - .msoopent.com
+  - .ootbstudio.co.kr
+  - .shownote.com
+  - .starship-ent.com
+  - .stuidok110.com
+  - .vastenm.com
+  - .zipcine.com
+  - .daumpcbang.com
+  - .kakaogamescorp.com
+  - .kakaovx.com
+  - .lionhearts.co.kr
+  - .metabora.io
+  - .sena.co.kr
+  - .kakaohealthcare.com
+  - .karechat.ai
+  - .pastahealth.com
+  - .kakaopay.com
+  - .kakaopaysec.com
+  - .kpinsurances.com
+  - .fashionbykakao.com
+  - .kakaostyle.com
+  - .posty.kr
+  - .zigzag.kr
   - .lg.com
   - .lgappstv.com
   - .lge.co.kr
@@ -5185,14 +5238,36 @@ payload:
   - .lineshoppingseller.com
   - .linetv.tw
   - .nhncorp.jp
-  - .grafolio.com
   - .naver.com
-  - .naver.jp
+  - .naver.me
   - .naver.net
+  - .naver.com.akadns.net
   - .navercorp.com
-  - .plug.game
+  - .nheos.com
   - .pstatic.net
+  - .clova.ai
+  - .navercloudcorp.com
+  - .naverncp.com
+  - .ncloud.com
+  - .worksmobile.com
+  - .naverfincorp.com
+  - .snow.me
+  - .snowcorp.com
+  - .vday.io
+  - .studiolico.com
+  - .studioncorp.com
+  - .wattpad.com
   - .webtoons.com
+  - .webtoonscorp.com
+  - .band.us
+  - .grafolio.com
+  - .modoo.at
+  - .naver.jp
+  - .naverads.com
+  - .naverads.com.akadns.net
+  - .naverlabs.com
+  - .plug.game
+  - .prismlive.com
   - .neuralink.com
   - .geforce.co.kr
   - .geforce.co.uk
@@ -5255,6 +5330,7 @@ payload:
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
+  - .openai.com.cdn.cloudflare.net
   - .openweather.co.uk
   - .openweathermap.org
   - .oracle
@@ -6264,7 +6340,6 @@ payload:
   - statics-marketingsites-wcus-ms-com.akamaized.net
   - mdn.mozillademos.org
   - nvidia.tt.omtrdc.net
-  - chat.openai.com.cdn.cloudflare.net
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net

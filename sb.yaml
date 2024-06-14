@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .dns.sb
+  - .ip.gs
   - .ip.sb
   - .loli.net
   - .sb.sb
