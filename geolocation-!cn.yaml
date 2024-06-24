@@ -21372,6 +21372,8 @@ payload:
   - nab.demdex.net
   - nationalaustraliaban.tt.omtrdc.net
   - venmo.s3.amazonaws.com
+  - publicca.googleapis.com
+  - preprod-publicca.googleapis.com
   - clients1.google.com
   - pki.google.com
   - crl.microsoft.com
@@ -21893,6 +21895,8 @@ payload:
   - scholar.google.sk
   - scholar.googleusercontent.com
   - scholar.l.google.com
+  - publicca.googleapis.com
+  - preprod-publicca.googleapis.com
   - clients1.google.com
   - pki.google.com
   - alt1-mtalk.google.com

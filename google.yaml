@@ -865,6 +865,8 @@ payload:
   - scholar.google.sk
   - scholar.googleusercontent.com
   - scholar.l.google.com
+  - publicca.googleapis.com
+  - preprod-publicca.googleapis.com
   - clients1.google.com
   - pki.google.com
   - alt1-mtalk.google.com

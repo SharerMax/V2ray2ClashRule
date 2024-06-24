@@ -2,5 +2,7 @@
 # type: domain
 payload:
   - .pki.goog
+  - publicca.googleapis.com
+  - preprod-publicca.googleapis.com
   - clients1.google.com
   - pki.google.com

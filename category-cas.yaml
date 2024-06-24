@@ -377,6 +377,8 @@ payload:
   - .trustcor.ca
   - .trustcor.com
   - .trustisfps.com
+  - publicca.googleapis.com
+  - preprod-publicca.googleapis.com
   - clients1.google.com
   - pki.google.com
   - crl.microsoft.com
