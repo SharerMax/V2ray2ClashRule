@@ -11,6 +11,7 @@ payload:
   - .baidu.cn
   - .baidu.com
   - .baidu.com.cn
+  - .baiduapp.com
   - .baidubce.com
   - .baiducontent.com
   - .baidupcs.com
@@ -45,3 +46,15 @@ payload:
   - .tiebaimg.com
   - .xianfae.com
   - .xiaodutv.com
+  - .duxiaoman-int.com
+  - .duxiaoman.com
+  - .duxiaomanfintech.com
+  - .duxiaomantech.com
+  - .dxm-cdn.com
+  - .dxm-int.com
+  - .dxmlcf.com
+  - .dxmlcfintech.com
+  - .dxmpay.com
+  - .dxmstatic.com
+  - .dxmyqh.com
+  - .paydxm.com

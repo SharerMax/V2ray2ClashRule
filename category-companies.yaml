@@ -125,13 +125,7 @@ payload:
   - .pdf.new
   - .sign.new
   - .scene7.com
-  - .alibabacloud.co.in
   - .alibabacloud.com
-  - .alibabacloud.com.au
-  - .alibabacloud.com.hk
-  - .alibabacloud.com.my
-  - .alibabacloud.com.sg
-  - .alibabacloud.com.tw
   - .alicloud.com
   - .amazontrust.com
   - .awstrust.com
@@ -3391,6 +3385,7 @@ payload:
   - .devsitetest.how
   - .dialogflow.com
   - .digitalassetlinks.org
+  - .docs.new
   - .episodic.com
   - .feedburner.com
   - .fflick.com
@@ -3540,6 +3535,8 @@ payload:
   - .schemer.com
   - .screenwisetrends.com
   - .screenwisetrendspanel.com
+  - .sheets.new
+  - .slides.new
   - .snapseed.com
   - .solveforx.com
   - .stadia.dev
@@ -3583,6 +3580,7 @@ payload:
   - .webrtc.org
   - .weltweitwachsen.de
   - .whatbrowser.org
+  - .whats.new
   - .widevine.com
   - .withgoogle.com
   - .womenwill.com
@@ -5421,6 +5419,7 @@ payload:
   - .uplinq.com
   - .wipower.com
   - .wirelessreach.com
+  - .xtracloud.net
   - .brewmp.com
   - .qwant.com
   - .qwant.de

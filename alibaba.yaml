@@ -5,13 +5,7 @@ payload:
   - .alipay
   - .taobao
   - .tmall
-  - .alibabacloud.co.in
   - .alibabacloud.com
-  - .alibabacloud.com.au
-  - .alibabacloud.com.hk
-  - .alibabacloud.com.my
-  - .alibabacloud.com.sg
-  - .alibabacloud.com.tw
   - .alicloud.com
   - .alibabadns.com
   - .alicdn.com
@@ -80,7 +74,9 @@ payload:
   - .teambition.net
   - .teambitionapis.com
   - .uc.cn
+  - .uc123.com
   - .ucweb.com
+  - .uczzd.cn
   - .mobmore.com
   - .umeng.com
   - .umengcloud.com
@@ -105,7 +101,6 @@ payload:
   - .alibabausercontent.com
   - .alifanyi.com
   - .alihealth.com.cn
-  - .alihealth.hk
   - .aliimg.com
   - .alikmd.com
   - .alimama.com
@@ -181,7 +176,6 @@ payload:
   - .yushanfang.com
   - .zuodao.com
   - .aliexpress.com
-  - .aliexpress.ru
   - .alipayplus.com
   - .alicloudccp.com
   - .alipan.com
@@ -216,7 +210,6 @@ payload:
   - .tbcache.com
   - .tburl.in
   - .tmall.com
-  - .tmall.ru
   - .tmalltv.com
   - .tmjl.ai
   - .quark.cn
@@ -224,7 +217,6 @@ payload:
   - .feizhu.cn
   - .feizhu.com
   - .fliggy.com
-  - .fliggy.hk
   - .iuynfg.com
   - .a-map.cn
   - .a-map.co

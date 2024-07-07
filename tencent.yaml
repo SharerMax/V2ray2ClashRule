@@ -233,7 +233,10 @@ payload:
   - .openmidas.com
   - .qq.design
   - .qqgamedesign.com
+  - .tencent-cloud.cn
+  - .tencent-cloud.com
   - .tencent.design
+  - .tencentcloud.com
   - .tjstats.com
   - .wegamedeveloper.com
   - .weixinbridge.com
@@ -250,6 +253,7 @@ payload:
   - .qq.xn--fiqs8s
   - .xn--r70as2s.xn--fiqs8s
   - .apcdns.net
+  - .cdn-go.cn
   - .foxmail.com
   - .foxmail.com.cn
   - .gtimg.cn
@@ -271,15 +275,17 @@ payload:
   - .tencent.cn
   - .tencent.com
   - .tencent.com.cn
-  - .tencent.com.hk
   - .tencent.net
   - .tencent.net.cn
   - .tencentmusic.com
   - .tenpay.com
   - .tfogc.com
+  - .tlivepush.com
+  - .txlivecdn.com
   - .wechat.com
   - .wechatpay.cn
   - .weiyun.com
+  - .wxlivecdn.com
   - .alloyteam.com
   - .imweb.io
   - .ivweb.io

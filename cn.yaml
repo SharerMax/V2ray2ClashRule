@@ -109,10 +109,8 @@ payload:
   - .ccbfund.com.cn
   - .ccbfutures.cn
   - .ccbfutures.com
-  - .ccbintl.com.hk
   - .ccbleasing.com
   - .ccblife-test.com.cn
-  - .ccbseoul.com
   - .ccbtrust.com.cn
   - .ccbxt.com
   - .8008205555.cn
@@ -124,13 +122,11 @@ payload:
   - .cmbchina.biz
   - .cmbchina.cn
   - .cmbchina.com
-  - .cmbi.com.hk
   - .cmbimg.cn
   - .cmbimg.com
   - .cmbt.cn
   - .cmbuat.com
   - .cmburl.cn
-  - .cmbwinglungbank.com
   - .cmf.biz
   - .cmf.ltd
   - .cmfchina.com
@@ -377,7 +373,6 @@ payload:
   - .dfcfw.com
   - .eastmoney.com
   - .eastmoneyfutures.com
-  - .emsec.hk
   - .guba.com.cn
   - .cebbank.com
   - .ceblease.com
@@ -396,7 +391,6 @@ payload:
   - .sunlife-everbright.com
   - .pingan.com
   - .pingan.com.cn
-  - .pingan.com.hk
   - .yqb.com
   - .taikang.com
   - .taikanglife.com
@@ -576,20 +570,12 @@ payload:
   - .c-ctrip.com
   - .colinker.com
   - .ctrip.cn
-  - .ctrip.co.id
-  - .ctrip.co.kr
-  - .ctrip.co.th
   - .ctrip.com
-  - .ctrip.com.hk
-  - .ctrip.my
-  - .ctrip.sg
   - .ctripbiz.com
-  - .ctripbuy.hk
   - .ctripteam.com
   - .doticloud.com
   - .easytrip.com
   - .hhtravel.com
-  - .hhtravel.com.tw
   - .izuchebao.com
   - .lvtds.com
   - .shuntu.cn
@@ -599,7 +585,6 @@ payload:
   - .tieyou.com
   - .toptown.cn
   - .toursbms.com
-  - .trip.com
   - .tripcdn.com
   - .vipdlt.com
   - .dangdang.com
@@ -746,12 +731,8 @@ payload:
   - .jd-ex.com.cn
   - .jd-ex.net
   - .jd.cn
-  - .jd.co.th
   - .jd.com
   - .jd.com.cn
-  - .jd.hk
-  - .jd.id
-  - .jd.ru
   - .jd.shop
   - .jdbusiness.com
   - .jdcache.com
@@ -983,7 +964,6 @@ payload:
   - .bilivideo.cn
   - .bilivideo.com
   - .bilivideo.net
-  - .dreamcast.hk
   - .hdslb.com
   - .hdslb.org
   - .im9.com
@@ -1747,13 +1727,7 @@ payload:
   - .alipay
   - .taobao
   - .tmall
-  - .alibabacloud.co.in
   - .alibabacloud.com
-  - .alibabacloud.com.au
-  - .alibabacloud.com.hk
-  - .alibabacloud.com.my
-  - .alibabacloud.com.sg
-  - .alibabacloud.com.tw
   - .alicloud.com
   - .alibabadns.com
   - .alicdn.com
@@ -1822,7 +1796,9 @@ payload:
   - .teambition.net
   - .teambitionapis.com
   - .uc.cn
+  - .uc123.com
   - .ucweb.com
+  - .uczzd.cn
   - .mobmore.com
   - .umeng.com
   - .umengcloud.com
@@ -1847,7 +1823,6 @@ payload:
   - .alibabausercontent.com
   - .alifanyi.com
   - .alihealth.com.cn
-  - .alihealth.hk
   - .aliimg.com
   - .alikmd.com
   - .alimama.com
@@ -1923,7 +1898,6 @@ payload:
   - .yushanfang.com
   - .zuodao.com
   - .aliexpress.com
-  - .aliexpress.ru
   - .alipayplus.com
   - .alicloudccp.com
   - .alipan.com
@@ -1958,7 +1932,6 @@ payload:
   - .tbcache.com
   - .tburl.in
   - .tmall.com
-  - .tmall.ru
   - .tmalltv.com
   - .tmjl.ai
   - .quark.cn
@@ -1966,7 +1939,6 @@ payload:
   - .feizhu.cn
   - .feizhu.com
   - .fliggy.com
-  - .fliggy.hk
   - .iuynfg.com
   - .a-map.cn
   - .a-map.co
@@ -1996,6 +1968,7 @@ payload:
   - .baidu.cn
   - .baidu.com
   - .baidu.com.cn
+  - .baiduapp.com
   - .baidubce.com
   - .baiducontent.com
   - .baidupcs.com
@@ -2030,6 +2003,18 @@ payload:
   - .tiebaimg.com
   - .xianfae.com
   - .xiaodutv.com
+  - .duxiaoman-int.com
+  - .duxiaoman.com
+  - .duxiaomanfintech.com
+  - .duxiaomantech.com
+  - .dxm-cdn.com
+  - .dxm-int.com
+  - .dxmlcf.com
+  - .dxmlcfintech.com
+  - .dxmpay.com
+  - .dxmstatic.com
+  - .dxmyqh.com
+  - .paydxm.com
   - .bcy.net
   - .bcyimg.com
   - .lf-rc1.yhgfb-cn-static.com
@@ -2665,13 +2650,9 @@ payload:
   - .faceu.com
   - .ulikecam.com
   - .rsproxy.cn
-  - .didi-food.com
   - .didi.cn
   - .didialift.com
-  - .didiaustralia.blog
   - .didichuxing.com
-  - .didiglobal.com
-  - .didimobility.co.jp
   - .didistatic.com
   - .diditaxi.com.cn
   - .udache.com
@@ -2965,6 +2946,8 @@ payload:
   - .testplus.cn
   - .wps.cn
   - .wps.com
+  - .wpscdn.cn
+  - .wpscdn.com
   - .kscord.com
   - .51dzt.com
   - .iciba.com
@@ -3435,7 +3418,10 @@ payload:
   - .openmidas.com
   - .qq.design
   - .qqgamedesign.com
+  - .tencent-cloud.cn
+  - .tencent-cloud.com
   - .tencent.design
+  - .tencentcloud.com
   - .tjstats.com
   - .wegamedeveloper.com
   - .weixinbridge.com
@@ -3452,6 +3438,7 @@ payload:
   - .qq.xn--fiqs8s
   - .xn--r70as2s.xn--fiqs8s
   - .apcdns.net
+  - .cdn-go.cn
   - .foxmail.com
   - .foxmail.com.cn
   - .gtimg.cn
@@ -3473,15 +3460,17 @@ payload:
   - .tencent.cn
   - .tencent.com
   - .tencent.com.cn
-  - .tencent.com.hk
   - .tencent.net
   - .tencent.net.cn
   - .tencentmusic.com
   - .tenpay.com
   - .tfogc.com
+  - .tlivepush.com
+  - .txlivecdn.com
   - .wechat.com
   - .wechatpay.cn
   - .weiyun.com
+  - .wxlivecdn.com
   - .alloyteam.com
   - .imweb.io
   - .ivweb.io
@@ -3515,6 +3504,7 @@ payload:
   - .mi-img.com
   - .mi.com
   - .mifile.cn
+  - .mijia.tech
   - .miui.com
   - .miwifi.com
   - .xiaomi.cn
@@ -3522,6 +3512,7 @@ payload:
   - .xiaomi.net
   - .xiaomiev.com
   - .xiaomimobile.com
+  - .xiaomixiaoai.com
   - .xiaomiyoupin.com
   - .saxyit.com
   - .sandai.net
@@ -3564,23 +3555,15 @@ payload:
   - .fetionpic.com
   - .mmarket.com
   - .mmarket6.com
-  - .ctexcel.ca
-  - .ctexcel.com
-  - .ctexcel.com.hk
-  - .ctexcel.fr
-  - .ctexcel.us
   - .189.cn
   - .chinatelecom-h.com
   - .chinatelecom.com.cn
-  - .chinatelecomglobal.com
   - .chntel.com
   - .10010.com
   - .10010.com.cn
   - .114menhu.com
   - .chinaunicom.com
   - .chinaunicom.com.cn
-  - .chinaunicom.com.hk
-  - .chinaunicomglobal.com
   - .mychinaunicom.com
   - .wo.cn
   - .wo.com.cn
@@ -4439,7 +4422,6 @@ payload:
   - .qunarzz.com
   - .qunjielong.com
   - .qyer.com
-  - .rfchost.com
   - .rockyenglish.com
   - .rong360.com
   - .rtbasia.com
@@ -4794,7 +4776,6 @@ payload:
   - .dongjiao.cc
   - .dongjiaoapp.com
   - manga.bilibili.com
-  - upos-hz-mirrorakam.akamaized.net
   - hospital.pku.edu.cn
   - ss.bjmu.edu.cn
   - moocs.unipus.cn
