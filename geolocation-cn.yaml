@@ -1669,17 +1669,6 @@ payload:
   - .pgyer.com
   - .tracup.com
   - .frontjs.com
-  - .ruby-china.org
-  - .rubyconfchina.org
-  - .segmentfault.com
-  - .sifou.com
-  - .mysxl.cn
-  - .sxl.cn
-  - .sxlcdn.cn
-  - .tipdim.org
-  - .openkylin.top
-  - .ubuntukylin.com
-  - .xueyuanjun.com
   - .asktug.com
   - .pingcap.cn
   - .pingcap.com
@@ -1687,6 +1676,27 @@ payload:
   - .tidb.net
   - .tidbcloud.com
   - .tikv.org
+  - .ruby-china.org
+  - .rubyconfchina.org
+  - .segmentfault.com
+  - .sifou.com
+  - .mysxl.cn
+  - .sxl.cn
+  - .sxlcdn.cn
+  - .openmidas.com
+  - .qq.design
+  - .qqgamedesign.com
+  - .tencent-cloud.cn
+  - .tencent-cloud.com
+  - .tencent.design
+  - .tencentcloud.com
+  - .tjstats.com
+  - .wegamedeveloper.com
+  - .weixinbridge.com
+  - .tipdim.org
+  - .openkylin.top
+  - .ubuntukylin.com
+  - .xueyuanjun.com
   - .alibaba
   - .alipay
   - .taobao
