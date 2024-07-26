@@ -64,6 +64,8 @@ payload:
   - .quay.io
   - .registry.gitlab.com
   - .registry.k8s.io
+  - .codeberg.org
+  - .codeberg.page
   - .dart.dev
   - .dartlang.org
   - .dartpad.dev
@@ -389,7 +391,6 @@ payload:
   - .chocolatey.org
   - .clojure.org
   - .cnpmjs.org
-  - .codeberg.org
   - .cygwin.com
   - .cython.org
   - .deno.land

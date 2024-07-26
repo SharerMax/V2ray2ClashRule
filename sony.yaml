@@ -20,6 +20,11 @@ payload:
   - .wwtbam.com
   - .yourfantasybeginsnow.com
   - .sony
+  - .sonynetwork.co.jp
+  - .nuro.jp
+  - .so-net.ne.jp
+  - .sony-semicon.co.jp
+  - .sony-semicon.com
   - .ginzasonypark.jp
   - .sony-africa.com
   - .sony-asia.com
@@ -29,11 +34,11 @@ payload:
   - .sony-mea.com
   - .sony-olympus-medical.com
   - .sony-promotion.eu
-  - .sony-semicon.co.jp
   - .sony.at
   - .sony.ba
   - .sony.be
   - .sony.bg
+  - .sony.biz
   - .sony.ca
   - .sony.ch
   - .sony.cl
@@ -110,3 +115,4 @@ payload:
   - .sonystoragemedia.co.jp
   - .sonytc.co.jp
   - .sovec.net
+  - .so-net.net.tw

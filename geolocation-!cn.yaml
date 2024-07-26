@@ -1249,6 +1249,77 @@ payload:
   - .volvotruckcenter.se
   - .volvotruckrental.be
   - .udtrucksmeena.com
+  - .hsbc
+  - .hsbc.com
+  - .hsbc.net
+  - .hsbcinnovationbanking.com
+  - .hsbcnet.com
+  - .hsbcprivatebank.com
+  - .hsbc.ae
+  - .hsbc.am
+  - .hsbc.bm
+  - .hsbc.co.id
+  - .hsbc.co.in
+  - .hsbc.co.kr
+  - .hsbc.co.mu
+  - .hsbc.co.nz
+  - .hsbc.co.th
+  - .hsbc.co.uk
+  - .hsbc.uk
+  - .hsbc.com.ar
+  - .hsbc.com.au
+  - .hsbc.com.bd
+  - .hsbc.com.bh
+  - .hsbc.com.br
+  - .hsbc.com.cn
+  - .hsbc.com.eg
+  - .hsbc.com.hk
+  - .hsbc.com.mo
+  - .hsbc.com.mt
+  - .hsbc.com.mx
+  - .hsbc.com.my
+  - .hsbcamanah.com.my
+  - .hsbc.com.ph
+  - .hsbc.com.sg
+  - .hsbc.com.tr
+  - .hsbc.com.tw
+  - .hsbc.com.uy
+  - .hsbc.com.vn
+  - .hsbc.de
+  - .hsbc-alternatives.de
+  - .hsbc-transactionservices.de
+  - .hsbc-zertifikate.de
+  - .hsbc.lk
+  - .hsbc.ca
+  - .hsbc.co.jp
+  - .hsbc.fr
+  - .hsbctrinkaus.de
+  - .fsmone.com
+  - .fsmone.com.hk
+  - .fsmone.com.my
+  - .fundsupermart.com
+  - .ifastcapital.com.my
+  - .ifastcorp.com
+  - .ifastfinancial.com.hk
+  - .ifastfinancial.co.in
+  - .ifastgb.com
+  - .ifastgp.com
+  - .ifastgp.com.hk
+  - .ifastnetwork.com
+  - .ifasttv.com
+  - .longbridge.cloud
+  - .longbridge.global
+  - .longbridge.hk
+  - .longbridge.sg
+  - .longbridgeapp.com
+  - .longportapp.com
+  - .lbkrs.com
+  - .wbrks.com
+  - .transferwise.com
+  - .wise.com
+  - .fxcorporate.com
+  - .mql5.com
+  - .tradingview.com
   - .djreprints.com
   - .dowjones.com
   - .dowjones.io
@@ -1977,6 +2048,9 @@ payload:
   - .cloudimg.io
   - .stackpath.com
   - .stackpath.dev
+  - .embedwistia-a.akamaihd.net
+  - .wistia.com
+  - .wistia.net
   - .actalis.com
   - .actalis.it
   - .amazontrust.com
@@ -2552,6 +2626,8 @@ payload:
   - .zb.com
   - .zb.io
   - .zb.live
+  - .kucoin.com
+  - .kucoin.plus
   - .1inch.io
   - .aave.com
   - .bitbank.cc
@@ -3776,7 +3852,11 @@ payload:
   - .dotcernpilot.info
   - .ippog.org
   - .linearcollider.org
+  - .cnet.co.kr
   - .cnet.com
+  - .cnet.de
+  - .cnetfrance.fr
+  - .download.com
   - .code.org
   - .codecademy.com
   - .codeforces.com
@@ -4345,6 +4425,7 @@ payload:
   - .playstation.net
   - .sonyentertainmentnetwork.com
   - .sekai.colorfulpalette.org
+  - .priconne-redive.jp
   - .api-priconne-redive.cygames.jp
   - .omotenashi.cygames.jp
   - .historyofdota.com
@@ -11247,6 +11328,7 @@ payload:
   - .nudistsexvideos.com
   - .nudistvoyeurbeach.com
   - .nudity911.com
+  - .nudogram.com
   - .nudography.com
   - .nudostar.tv
   - .nuespournous.com
@@ -12805,7 +12887,9 @@ payload:
   - .twavking.com
   - .twcomix.com
   - .twhentai.com
+  - .twi-videos.net
   - .twidouga.net
+  - .twidouga.tv
   - .twifuli.com
   - .twinkboyfriends.tv
   - .twinkspornos.com
@@ -13775,7 +13859,6 @@ payload:
   - .ntp.fiord.ru
   - .ntp.nat.ms
   - .ntp.nic.cz
-  - .ntp.nict.jp
   - .ntp.ripe.net
   - .ntp.se
   - .ntp.ufe.cz
@@ -13783,6 +13866,34 @@ payload:
   - .time.cloudflare.com
   - .time.nrc.ca
   - .time.windows.com
+  - .ats1.e-timing.ne.jp
+  - .ntp.jst.mfeed.ad.jp
+  - .ntp1.jst.mfeed.ad.jp
+  - .ntp2.jst.mfeed.ad.jp
+  - .ntp3.jst.mfeed.ad.jp
+  - .ntp1.v6.mfeed.ad.jp
+  - .ntp2.v6.mfeed.ad.jp
+  - .ntp3.v6.mfeed.ad.jp
+  - .s2csntp.miz.nao.ac.jp
+  - .ntp.nict.jp
+  - .ntp-tk01.ocn.ad.jp
+  - .ntp-tk02.ocn.ad.jp
+  - .ntp-os01.ocn.ad.jp
+  - .ntp1.plala.or.jp
+  - .ntp2.plala.or.jp
+  - .ntp.ring.gr.jp
+  - .ntp0.ring.gr.jp
+  - .ntp1.ring.gr.jp
+  - .ntp2.ring.gr.jp
+  - .ntp.t.ring.gr.jp
+  - .ntp.dnsbalance.ring.gr.jp
+  - .ntp.nc.u-tokyo.ac.jp
+  - .ntp.tohoku.ac.jp
+  - .ntp1.tohoku.ac.jp
+  - .ntp2.tohoku.ac.jp
+  - .ntp.tut.ac.jp
+  - .ntp1.wakwak.com
+  - .ntp2.wakwak.com
   - .decrypt.day
   - .accuweather.com
   - .getadblock.com
@@ -14203,6 +14314,8 @@ payload:
   - .quay.io
   - .registry.gitlab.com
   - .registry.k8s.io
+  - .codeberg.org
+  - .codeberg.page
   - .dart.dev
   - .dartlang.org
   - .dartpad.dev
@@ -14528,7 +14641,6 @@ payload:
   - .chocolatey.org
   - .clojure.org
   - .cnpmjs.org
-  - .codeberg.org
   - .cygwin.com
   - .cython.org
   - .deno.land
@@ -14728,8 +14840,12 @@ payload:
   - .acmvalidationsaws.com
   - .aesworkshops.com
   - .amazonaws-china.com
+  - .amazonaws.biz
   - .amazonaws.co.uk
   - .amazonaws.com
+  - .amazonaws.info
+  - .amazonaws.net
+  - .amazonaws.org
   - .amazonaws.tv
   - .amazonses.com
   - .amazonworkdocs.com
@@ -17990,6 +18106,7 @@ payload:
   - .feedburner.com
   - .fflick.com
   - .financeleadsonline.com
+  - .fitbit.com
   - .foofle.com
   - .froogle.com
   - .fuchsia.dev
@@ -20128,6 +20245,11 @@ payload:
   - .wwtbam.com
   - .yourfantasybeginsnow.com
   - .sony
+  - .sonynetwork.co.jp
+  - .nuro.jp
+  - .so-net.ne.jp
+  - .sony-semicon.co.jp
+  - .sony-semicon.com
   - .ginzasonypark.jp
   - .sony-africa.com
   - .sony-asia.com
@@ -20137,11 +20259,11 @@ payload:
   - .sony-mea.com
   - .sony-olympus-medical.com
   - .sony-promotion.eu
-  - .sony-semicon.co.jp
   - .sony.at
   - .sony.ba
   - .sony.be
   - .sony.bg
+  - .sony.biz
   - .sony.ca
   - .sony.ch
   - .sony.cl
@@ -20218,6 +20340,7 @@ payload:
   - .sonystoragemedia.co.jp
   - .sonytc.co.jp
   - .sovec.net
+  - .so-net.net.tw
   - .spacex.com
   - .spacemail.com
   - .spaceship.com
