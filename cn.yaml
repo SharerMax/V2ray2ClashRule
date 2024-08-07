@@ -132,6 +132,9 @@ payload:
   - .cmfchina.com
   - .cmfunds.cn
   - .test-cignacmb.com
+  - .hsbc.com.cn
+  - .hsbcqh.com.cn
+  - .hsbcinsurance.com.cn
   - .icbc
   - .95588.com
   - .95588.com.cn
@@ -167,7 +170,6 @@ payload:
   - .cib.com.cn
   - .citibank.com.cn
   - .cmbc.com.cn
-  - .hsbc.com.cn
   - .hxb.com.cn
   - .njcb.com.cn
   - .psbc.com
@@ -397,6 +399,11 @@ payload:
   - .taikangzhijia.com
   - .tkhealthcare.com
   - .huangyuhui.net
+  - .114blog.com
+  - .mryys.com
+  - .mryys.cn
+  - .4thworkshop.com
+  - .4thworkshop.cn
   - .517lppz.com
   - .lppz.com
   - .lppzimg.com
@@ -844,7 +851,9 @@ payload:
   - .pinduoduo.net
   - .yangkeduo.com
   - .smzdm.com
+  - .smzdmimg.com
   - .zdmimg.com
+  - .zhidemai.com
   - .cnsuning.com
   - .suning.com
   - .suningcloud.com
@@ -1014,11 +1023,13 @@ payload:
   - .kkmh.com
   - .kuaikanmanhua.com
   - .gifshow.com
+  - .inkwai.com
   - .ksapisrv.com
   - .kuaishou.com
-  - .yximgs.com
   - .kwaizt.com
   - .kuaishouzt.com
+  - .kwimgs.com
+  - .yximgs.com
   - .kgimg.com
   - .kugou.com
   - .le.com
@@ -1343,6 +1354,7 @@ payload:
   - .fuwai.com
   - .pkuh6.cn
   - .puh3.net.cn
+  - .yctdyy.com
   - .lkcoffee.com
   - .luckincoffeecdn.com
   - .yyds.co
@@ -1577,6 +1589,10 @@ payload:
   - .nowcoder.org
   - .polyv.net
   - .videocc.net
+  - .hecdn.net
+  - .heweather.net
+  - .qweather.com
+  - .qweather.net
   - .renren.com
   - .renren-inc.com
   - .tendcloud.com
@@ -2965,6 +2981,7 @@ payload:
   - .iciba.com
   - .docer.com
   - .kdocs.cn
+  - .wpsmail.net
   - .papocket.com
   - .wpspdf.cn
   - .kimg.cn
@@ -3639,6 +3656,10 @@ payload:
   - .ycrx360.com
   - .jikeiot.cloud
   - .zyh365.com
+  - .cma.gov.cn
+  - .cma.cn
+  - .nmc.cn
+  - .cnr.cn
   - .cyol.com
   - .webterren.com
   - .bjyouth.gov.cn
@@ -4453,6 +4474,7 @@ payload:
   - .saibo.com
   - .sanguosha.com
   - .sanwen.net
+  - .sast.fun
   - .scdng.com
   - .scoregg.com
   - .sczsxx.com
@@ -4491,6 +4513,7 @@ payload:
   - .simuwang.com
   - .sinesafe.com
   - .sjwyx.com
+  - .skimit.net
   - .skycn.com
   - .sllssrq.com
   - .snimay.com
@@ -4797,6 +4820,15 @@ payload:
   - .djdjapp.com
   - .dongjiao.cc
   - .dongjiaoapp.com
+  - .jsw118.com
+  - .sxcxldjy.com
+  - .shanxijianzhuzizhi.com
+  - .jztvnews.com
+  - .vhengdata.com
+  - .nanyuenews.com
+  - .educoder.net
+  - .tokcoder.com
+  - .trustie.net
   - manga.bilibili.com
   - hospital.pku.edu.cn
   - ss.bjmu.edu.cn

@@ -53,6 +53,9 @@ payload:
   - .cmfchina.com
   - .cmfunds.cn
   - .test-cignacmb.com
+  - .hsbc.com.cn
+  - .hsbcqh.com.cn
+  - .hsbcinsurance.com.cn
   - .icbc
   - .95588.com
   - .95588.com.cn
@@ -88,7 +91,6 @@ payload:
   - .cib.com.cn
   - .citibank.com.cn
   - .cmbc.com.cn
-  - .hsbc.com.cn
   - .hxb.com.cn
   - .njcb.com.cn
   - .psbc.com
