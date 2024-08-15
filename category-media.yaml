@@ -22,13 +22,6 @@ payload:
   - .ninemsn.com.au
   - .static9.net.au
   - .yourtv.com.au
-  - .9to5google.com
-  - .9to5mac.com
-  - .9to5terminal.com
-  - .9to5toys.com
-  - .dronedj.com
-  - .electrek.co
-  - .spaceexplored.com
   - .afp.com
   - .afpforum.com
   - .ajplus.net
@@ -1088,8 +1081,6 @@ payload:
   - .theguardiandns.com
   - .theinitium.com
   - .init.shop
-  - .thetype.com
-  - .typeisbeautiful.com
   - .reut.rs
   - .reuters.com
   - .reuters.tv
@@ -1226,8 +1217,6 @@ payload:
   - .superstation.com.tw
   - .watchout.tw
   - .waa.tw
-  - .startupschool.org
-  - .ycombinator.com
   - .chuokoron.jp
   - .fujinkoron.jp
   - .hochi.news
@@ -1266,10 +1255,33 @@ payload:
   - .zeebiz.com
   - .zeeentertainment.com
   - .zeenews.com
+  - .9to5google.com
+  - .9to5mac.com
+  - .9to5terminal.com
+  - .9to5toys.com
+  - .dronedj.com
+  - .electrek.co
+  - .spaceexplored.com
+  - .thetype.com
+  - .typeisbeautiful.com
+  - .startupschool.org
+  - .ycombinator.com
+  - .androidauthority.com
+  - .androidpolice.com
+  - .appleinsider.com
+  - .digitaltrends.com
+  - .engadget.com
+  - .macrumors.com
+  - .slashdot.org
+  - .technews.tw
+  - .techradar.com
+  - .theverge.com
+  - .tomsguide.com
+  - .zdnet.com
+  - .zdnet.redvideo.io
   - .881903.com
   - .am730.com.hk
   - .americasvoice.news
-  - .appleinsider.com
   - .axios.com
   - .bbgwatch.com
   - .bnext.com.tw
@@ -1308,7 +1320,6 @@ payload:
   - .limedia.tw
   - .localpresshk.com
   - .ltsports.com.tw
-  - .macrumors.com
   - .mdnkids.com
   - .mirrormedia.com.tw
   - .mirrormedia.mg
@@ -1333,12 +1344,10 @@ payload:
   - .shuziyimin.org
   - .singpao.com.hk
   - .sinoinsider.com
-  - .slashdot.org
   - .socrec.org
   - .storm.mg
   - .taipeitimes.com
   - .taiwannews.com.tw
-  - .technews.tw
   - .theaffairs.com
   - .theatlantic.com
   - .thegatewaypundit.com
