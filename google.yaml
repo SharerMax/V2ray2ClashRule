@@ -98,11 +98,14 @@ payload:
   - .golang.com
   - .golang.net
   - .golang.org
-  - .gemini.google.com
+  - .deepmind.com
+  - .deepmind.google
   - .ai.google.dev
   - .aistudio.google.com
+  - .bard.google.com
+  - .gemini.google.com
   - .generativelanguage.googleapis.com
-  - .alkalimakersuite-pa.clients6.google.com
+  - .makersuite.google.com
   - .charlestonroadregistry.com
   - .crr.com
   - .registry.google
@@ -568,7 +571,6 @@ payload:
   - .dataliberation.org
   - .debug.com
   - .debugproject.com
-  - .deepmind.com
   - .devsitetest.how
   - .dialogflow.com
   - .digitalassetlinks.org
@@ -799,6 +801,7 @@ payload:
   - firebaselogging.googleapis.com
   - firebaseperusertopics-pa.googleapis.com
   - firebaseremoteconfig.googleapis.com
+  - alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
