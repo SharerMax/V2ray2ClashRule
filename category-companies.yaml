@@ -2932,12 +2932,14 @@ payload:
   - .golang.org
   - .deepmind.com
   - .deepmind.google
-  - .ai.google.dev
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
-  - .generativelanguage.googleapis.com
-  - .makersuite.google.com
   - .charlestonroadregistry.com
   - .crr.com
   - .registry.google
@@ -5346,6 +5348,7 @@ payload:
   - .tegrazone.com
   - .tegrazone.jp
   - .tegrazone.kr
+  - .ai.com
   - .chatgpt.com
   - .oaistatic.com
   - .oaiusercontent.com
@@ -6253,6 +6256,8 @@ payload:
   - firebaselogging.googleapis.com
   - firebaseperusertopics-pa.googleapis.com
   - firebaseremoteconfig.googleapis.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at

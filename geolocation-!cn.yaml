@@ -5,22 +5,30 @@ payload:
   - .claude.ai
   - .deepmind.com
   - .deepmind.google
-  - .ai.google.dev
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
-  - .generativelanguage.googleapis.com
-  - .makersuite.google.com
+  - .ai.com
   - .chatgpt.com
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
   - .openai.com.cdn.cloudflare.net
+  - .perplexity.ai
   - .poe.com
   - .poecdn.net
   - .x.ai
+  - .clipdrop.co
+  - .jasper.ai
   - .notebooklm.google
   - .notebooklm.google.com
+  - .dify.ai
+  - .gateway.ai.cloudflare.com
   - .meta.ai
   - .openart.ai
   - .colorfulstage.com
@@ -4031,6 +4039,7 @@ payload:
   - .abema.io
   - .abema.tv
   - .abema-tv.com
+  - .abematv.co.jp
   - .adx.promo
   - .ameba.jp
   - .amebame.com
@@ -17667,12 +17676,14 @@ payload:
   - .golang.org
   - .deepmind.com
   - .deepmind.google
-  - .ai.google.dev
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
-  - .generativelanguage.googleapis.com
-  - .makersuite.google.com
   - .charlestonroadregistry.com
   - .crr.com
   - .registry.google
@@ -20081,6 +20092,7 @@ payload:
   - .tegrazone.com
   - .tegrazone.jp
   - .tegrazone.kr
+  - .ai.com
   - .chatgpt.com
   - .oaistatic.com
   - .oaiusercontent.com
@@ -21572,6 +21584,8 @@ payload:
   - .xdty.org
   - .xingrz.me
   - servd-anthropic-website.b-cdn.net
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -22026,6 +22040,8 @@ payload:
   - firebaselogging.googleapis.com
   - firebaseperusertopics-pa.googleapis.com
   - firebaseremoteconfig.googleapis.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at

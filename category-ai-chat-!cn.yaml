@@ -5,25 +5,35 @@ payload:
   - .claude.ai
   - .deepmind.com
   - .deepmind.google
-  - .ai.google.dev
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
-  - .generativelanguage.googleapis.com
-  - .makersuite.google.com
+  - .ai.com
   - .chatgpt.com
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
   - .openai.com.cdn.cloudflare.net
+  - .perplexity.ai
   - .poe.com
   - .poecdn.net
   - .x.ai
+  - .clipdrop.co
+  - .jasper.ai
   - .notebooklm.google
   - .notebooklm.google.com
+  - .dify.ai
+  - .gateway.ai.cloudflare.com
   - .meta.ai
   - .openart.ai
   - servd-anthropic-website.b-cdn.net
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net

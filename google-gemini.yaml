@@ -3,10 +3,14 @@
 payload:
   - .deepmind.com
   - .deepmind.google
-  - .ai.google.dev
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
-  - .generativelanguage.googleapis.com
-  - .makersuite.google.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
