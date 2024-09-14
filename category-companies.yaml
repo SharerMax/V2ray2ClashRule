@@ -2940,6 +2940,23 @@ payload:
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
+  - .deepmind.com
+  - .deepmind.google
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
+  - .aistudio.google.com
+  - .bard.google.com
+  - .gemini.google.com
+  - .googleplay.com
+  - .play-fe.googleapis.com
+  - .play-games.googleusercontent.com
+  - .play-lh.googleusercontent.com
+  - .play.google.com
+  - .play.googleapis.com
+  - .xn--ngstr-lra8j.com
   - .charlestonroadregistry.com
   - .crr.com
   - .registry.google
@@ -3468,7 +3485,6 @@ payload:
   - .googlemaps.com
   - .googlepagecreator.com
   - .googlephotos.com
-  - .googleplay.com
   - .googleplus.com
   - .googlesource.com
   - .googlestore.com
@@ -3620,7 +3636,6 @@ payload:
   - .xn--ggle-55da.com
   - .xn--gogl-0nd52e.com
   - .xn--gogl-1nd42e.com
-  - .xn--ngstr-lra8j.com
   - .xplr.co
   - .zukunftswerkstatt.de
   - .hetzner.cloud
@@ -5240,6 +5255,8 @@ payload:
   - .getpocket.com
   - .seamonkey-project.org
   - .thunderbird.net
+  - .location.services.mozilla.com
+  - .push.services.mozilla.com
   - .musixmatch.com
   - .mxmcdn.net
   - .gcld-line.com
@@ -6261,6 +6278,9 @@ payload:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
@@ -6349,7 +6369,10 @@ payload:
   - alt6-mtalk.google.com
   - alt7-mtalk.google.com
   - alt8-mtalk.google.com
+  - mtalk-dev.google.com
+  - mtalk-staging.google.com
   - mtalk.google.com
+  - mtalk4.google.com
   - hpstore.corpmerchandise.com
   - lgelectronics.122.2o7.net
   - fbcdn-a.akamaihd.net

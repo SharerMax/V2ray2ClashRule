@@ -5024,6 +5024,7 @@ payload:
   - .tver.jp
   - .ext-twitch.tv
   - .jtvnw.net
+  - .live-video.net
   - .ttvnw.net
   - .twitch.tv
   - .twitchcdn.net
@@ -17685,6 +17686,23 @@ payload:
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
+  - .deepmind.com
+  - .deepmind.google
+  - .geller-pa.googleapis.com
+  - .generativelanguage.googleapis.com
+  - .proactivebackend-pa.googleapis.com
+  - .generativeai.google
+  - .makersuite.google.com
+  - .aistudio.google.com
+  - .bard.google.com
+  - .gemini.google.com
+  - .googleplay.com
+  - .play-fe.googleapis.com
+  - .play-games.googleusercontent.com
+  - .play-lh.googleusercontent.com
+  - .play.google.com
+  - .play.googleapis.com
+  - .xn--ngstr-lra8j.com
   - .charlestonroadregistry.com
   - .crr.com
   - .registry.google
@@ -18213,7 +18231,6 @@ payload:
   - .googlemaps.com
   - .googlepagecreator.com
   - .googlephotos.com
-  - .googleplay.com
   - .googleplus.com
   - .googlesource.com
   - .googlestore.com
@@ -18365,7 +18382,6 @@ payload:
   - .xn--ggle-55da.com
   - .xn--gogl-0nd52e.com
   - .xn--gogl-1nd42e.com
-  - .xn--ngstr-lra8j.com
   - .xplr.co
   - .zukunftswerkstatt.de
   - .hetzner.cloud
@@ -19985,6 +20001,8 @@ payload:
   - .getpocket.com
   - .seamonkey-project.org
   - .thunderbird.net
+  - .location.services.mozilla.com
+  - .push.services.mozilla.com
   - .musixmatch.com
   - .mxmcdn.net
   - .gcld-line.com
@@ -21787,6 +21805,31 @@ payload:
   - spotify.map.fastly.net
   - spotify.map.fastlylb.net
   - i.jeded.com
+  - d1g1f25tn8m2e6.cloudfront.net
+  - d1m7jfoe9zdc1j.cloudfront.net
+  - d1mhjrowxxagfy.cloudfront.net
+  - d1oca24q5dwo6d.cloudfront.net
+  - d1w2poirtb3as9.cloudfront.net
+  - d1xhnb4ptk05mw.cloudfront.net
+  - d1ymi26ma8va5x.cloudfront.net
+  - d2aba1wr3818hz.cloudfront.net
+  - d2dylwb3shzel1.cloudfront.net
+  - d2e2de1etea730.cloudfront.net
+  - d2nvs31859zcd8.cloudfront.net
+  - d2um2qdswy1tb0.cloudfront.net
+  - d2vjef5jvl6bfs.cloudfront.net
+  - d2xmjdvx03ij56.cloudfront.net
+  - d36nr0u3xmc4mm.cloudfront.net
+  - d3aqoihi2n8ty8.cloudfront.net
+  - d3c27h4odz752x.cloudfront.net
+  - d3vd9lfkzbru3h.cloudfront.net
+  - d6d4ismr40iw.cloudfront.net
+  - d6tizftlrpuof.cloudfront.net
+  - ddacn6pr5v0tl.cloudfront.net
+  - dgeft87wbj63p.cloudfront.net
+  - dqrpb9wgowsf5.cloudfront.net
+  - ds0h3roq6wcgc.cloudfront.net
+  - dykkng5hnh52u.cloudfront.net
   - api.viu.now.com
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
@@ -22046,6 +22089,9 @@ payload:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
@@ -22134,7 +22180,10 @@ payload:
   - alt6-mtalk.google.com
   - alt7-mtalk.google.com
   - alt8-mtalk.google.com
+  - mtalk-dev.google.com
+  - mtalk-staging.google.com
   - mtalk.google.com
+  - mtalk4.google.com
   - hpstore.corpmerchandise.com
   - lgelectronics.122.2o7.net
   - fbcdn-a.akamaihd.net

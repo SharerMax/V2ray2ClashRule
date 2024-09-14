@@ -25,4 +25,6 @@ payload:
   - .getpocket.com
   - .seamonkey-project.org
   - .thunderbird.net
+  - .location.services.mozilla.com
+  - .push.services.mozilla.com
   - mdn.mozillademos.org
