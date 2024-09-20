@@ -3,3 +3,4 @@
 payload:
   - .themoviedb.org
   - .tmdb.org
+  - tmdb-image-prod.b-cdn.net
