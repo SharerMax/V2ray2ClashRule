@@ -916,3 +916,4 @@ payload:
   - mtalk-staging.google.com
   - mtalk.google.com
   - mtalk4.google.com
+  - google-ohttp-relay-safebrowsing.fastly-edge.com

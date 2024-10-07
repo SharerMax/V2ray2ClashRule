@@ -3,6 +3,7 @@
 payload:
   - .anthropic.com
   - .claude.ai
+  - .claudeusercontent.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com

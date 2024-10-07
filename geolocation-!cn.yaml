@@ -3,6 +3,7 @@
 payload:
   - .anthropic.com
   - .claude.ai
+  - .claudeusercontent.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -2086,11 +2087,13 @@ payload:
   - .videodelivery.net
   - .warp.plus
   - .workers.dev
+  - .fastly-edge.com
+  - .fastly-terrarium.com
   - .fastly.com
+  - .fastly.io
   - .fastly.net
   - .fastlylabs.com
   - .fastlylb.net
-  - .fastly-terrarium.com
   - .zencdn.net
   - .imgix.com
   - .imgix.net
@@ -2659,6 +2662,7 @@ payload:
   - .gateimg.com
   - .gateio.live
   - .gateio.services
+  - .htx.com
   - .hbabit.com
   - .hbfile.net
   - .huobi.com
@@ -9926,6 +9930,7 @@ payload:
   - .hoyolab.com
   - .hoyoverse.com
   - .n0vadesktop.com
+  - .zenlesszonezero.com
   - .nexon.co.jp
   - .nexon.com
   - .nexon.io
@@ -10493,6 +10498,7 @@ payload:
   - .hoyolab.com
   - .hoyoverse.com
   - .n0vadesktop.com
+  - .zenlesszonezero.com
   - .biggggg.com
   - .mudvod.tv
   - .nbys.tv
@@ -11498,6 +11504,7 @@ payload:
   - .vk.design
   - .vk.link
   - .vk.me
+  - .vk.ru
   - .vkcache.com
   - .vkgo.app
   - .vklive.app
@@ -20058,6 +20065,7 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
+  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev
@@ -20637,6 +20645,7 @@ payload:
   - .radeon.com
   - .anthropic.com
   - .claude.ai
+  - .claudeusercontent.com
   - .appleswift.com
   - .swift.org
   - .calendarserver.org
@@ -25162,6 +25171,7 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
+  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev
@@ -25489,6 +25499,7 @@ payload:
   - .sfx.ms
   - .sharepoint.com
   - .sharepointonline.com
+  - .signalr.net
   - .skype.com
   - .skype.net
   - .skypeassets.com
@@ -26031,6 +26042,12 @@ payload:
   - .uber-assets.com
   - .uber.com
   - .ubereats.com
+  - .amplifi.com
+  - .frontrow.com
+  - .ubncloud.com
+  - .ui.com
+  - .uisp.com
+  - .wifiman.com
   - .flickr
   - .flic.kr
   - .flickr.com
@@ -27788,6 +27805,7 @@ payload:
   - mtalk-staging.google.com
   - mtalk.google.com
   - mtalk4.google.com
+  - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hpstore.corpmerchandise.com
   - lgelectronics.122.2o7.net
   - fbcdn-a.akamaihd.net

@@ -2710,6 +2710,8 @@ payload:
   - .djiops.com
   - .djiservice.org
   - .skypixel.com
+  - .aadcloud.cn
+  - .aadcloud.com
   - .ami-alliance.org.cn
   - .b2bgo.com
   - .eduapaashwc.com
@@ -2720,6 +2722,8 @@ payload:
   - .huaweiapaas.com
   - .huaweicloud-dns.cn
   - .huaweicloud-dns.com
+  - .huaweicloud-idme.cn
+  - .huaweicloud-idme.com
   - .huaweicloud-smn.cn
   - .huaweicloud-smn.com
   - .huaweicloud-smn.net
@@ -2757,8 +2761,15 @@ payload:
   - .hwcloudsite.com
   - .hwcloudvis.cn
   - .hwcloudvis.com
+  - .hweventgrid.cn
+  - .hweventgrid.com
+  - .idonguapi.cn
+  - .idonguapi.com
   - .imc-oneaccess.cn
   - .imcapptest.com
+  - .inanguapi.cn
+  - .inanguapi.com
+  - .ixiguapi.com
   - .km6g.cn
   - .km7g.cn
   - .km8g.cn
@@ -2768,6 +2779,14 @@ payload:
   - .kmop-cn-east-3.cn
   - .kmop-cn-north-4.cn
   - .livehwc3.cn
+  - .modelarts-infer.cn
+  - .modelarts-infer.com
+  - .myhuaweicloud-custom.cn
+  - .myhuaweicloud-custom.com
+  - .myhuaweicloud-koodrive.cn
+  - .myhuaweicloud-koodrive.com
+  - .myhuaweicloud-obs.cn
+  - .myhuaweicloud-obs.com
   - .myhuaweicloud.cn
   - .myhwcdn.cn
   - .myhwcdn.com
@@ -2781,6 +2800,7 @@ payload:
   - .powerapp.io
   - .cn-east-2.myhuaweicloud.com
   - .cn-east-3.myhuaweicloud.com
+  - .cn-east-4.myhuaweicloud.com
   - .cn-east-5.myhuaweicloud.com
   - .cn-north-1.myhuaweicloud.com
   - .cn-north-11.myhuaweicloud.com

@@ -288,6 +288,7 @@ payload:
   - .radeon.com
   - .anthropic.com
   - .claude.ai
+  - .claudeusercontent.com
   - .appleswift.com
   - .swift.org
   - .calendarserver.org
@@ -4813,6 +4814,7 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
+  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev
@@ -5140,6 +5142,7 @@ payload:
   - .sfx.ms
   - .sharepoint.com
   - .sharepointonline.com
+  - .signalr.net
   - .skype.com
   - .skype.net
   - .skypeassets.com
@@ -5682,6 +5685,12 @@ payload:
   - .uber-assets.com
   - .uber.com
   - .ubereats.com
+  - .amplifi.com
+  - .frontrow.com
+  - .ubncloud.com
+  - .ui.com
+  - .uisp.com
+  - .wifiman.com
   - .flickr
   - .flic.kr
   - .flickr.com
@@ -6373,6 +6382,7 @@ payload:
   - mtalk-staging.google.com
   - mtalk.google.com
   - mtalk4.google.com
+  - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hpstore.corpmerchandise.com
   - lgelectronics.122.2o7.net
   - fbcdn-a.akamaihd.net
