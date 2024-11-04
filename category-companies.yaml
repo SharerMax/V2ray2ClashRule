@@ -5680,6 +5680,11 @@ payload:
   - .spacemail.com
   - .spaceship.com
   - .st.com
+  - .gofile.me
+  - .quickconnect.to
+  - .synology.com
+  - .synologydownload.com
+  - .synologyupdate.com
   - .tailscale.com
   - .tailscale.io
   - .ts.net

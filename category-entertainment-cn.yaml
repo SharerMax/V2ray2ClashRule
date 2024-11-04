@@ -127,6 +127,13 @@ payload:
   - .gcores.com
   - .gitv.cn
   - .gitv.tv
+  - .hifuntv.com
+  - .hitv.com
+  - .hnbntv.com
+  - .hunaniptv.com
+  - .hunantv.com
+  - .imgo.tv
+  - .mgtv.com
   - .huya.com
   - .msstatic.com
   - .71.am
@@ -154,6 +161,9 @@ payload:
   - .yximgs.com
   - .kgimg.com
   - .kugou.com
+  - .koowo.cn
+  - .koowo.com
+  - .kuwo.cn
   - .le.com
   - .lecloud.com
   - .lemall.com
@@ -205,5 +215,6 @@ payload:
   - .lsplayer.com
   - .yeshen.com
   - .ledu.com
+  - .pearvideo.com
   - .wo1wan.com
   - manga.bilibili.com
