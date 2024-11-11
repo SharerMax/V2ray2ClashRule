@@ -19963,6 +19963,8 @@ payload:
   - .developer.apple.com
   - .devimages-cdn.apple.com
   - .devstreaming-cdn.apple.com
+  - .developerservices2.apple.com
+  - .timestamp.apple.com
   - .foundationdb.org
   - .macosforge.org
   - .macruby.com
@@ -20698,6 +20700,8 @@ payload:
   - .developer.apple.com
   - .devimages-cdn.apple.com
   - .devstreaming-cdn.apple.com
+  - .developerservices2.apple.com
+  - .timestamp.apple.com
   - .foundationdb.org
   - .macosforge.org
   - .macruby.com
@@ -27559,6 +27563,8 @@ payload:
   - d33wubrfki0l68.cloudfront.net
   - live-patreon-marketing.pantheonsite.io
   - public-us-pingsx.api.clonoth.com
+  - notary-submissions-prod.s3-accelerate.amazonaws.com
+  - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
@@ -27735,6 +27741,8 @@ payload:
   - wwis-dubc1-vip98.adobe.com
   - wwis-dubc1-vip99.adobe.com
   - servd-anthropic-website.b-cdn.net
+  - notary-submissions-prod.s3-accelerate.amazonaws.com
+  - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
