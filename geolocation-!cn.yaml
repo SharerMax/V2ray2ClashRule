@@ -16,6 +16,7 @@ payload:
   - .gemini.google.com
   - .ai.com
   - .chatgpt.com
+  - .chat.com
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
@@ -21452,6 +21453,7 @@ payload:
   - .applemx-icloud.com
   - .icloud-content.com
   - .icloud-isupport.com
+  - .icloud-sandbox.com
   - .icloud.ch
   - .icloud.com
   - .icloud.de
@@ -25782,6 +25784,7 @@ payload:
   - .tegrazone.kr
   - .ai.com
   - .chatgpt.com
+  - .chat.com
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
