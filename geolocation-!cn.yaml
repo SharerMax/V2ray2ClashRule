@@ -22,10 +22,17 @@ payload:
   - .openai.com
   - .sora.com
   - .openai.com.cdn.cloudflare.net
+  - .chatgpt.livekit.cloud
+  - .host.livekit.cloud
+  - .turn.livekit.cloud
   - .perplexity.ai
   - .poe.com
   - .poecdn.net
   - .x.ai
+  - .cursor-cdn.com
+  - .cursor.com
+  - .cursor.sh
+  - .cursorapi.com
   - .clipdrop.co
   - .jasper.ai
   - .notebooklm.google
@@ -9900,6 +9907,7 @@ payload:
   - .easyanticheat.net
   - .epicgames.com
   - .epicgames.dev
+  - .epicgamescdn.com
   - .fortnite.com
   - .paragon.com
   - .playparagon.com
@@ -10121,6 +10129,8 @@ payload:
   - .convrgencegame.com
   - .rockstargames.com
   - .rsg.sc
+  - .snk-corp.co.jp
+  - .snkplaymore.info
   - .playartifact.com
   - .s.team
   - .steam.tv
@@ -10146,6 +10156,9 @@ payload:
   - .steam.cdn.slingshot.co.nz
   - .steam.cdn.webra.ru
   - .steamunlocked.net
+  - .supercell.com
+  - .supercell.net
+  - .supercell.helpshift.com
   - .ubi.com
   - .ubisoft.com
   - .ubisoftconnect.com
@@ -11473,6 +11486,40 @@ payload:
   - .linkedin.at
   - .linkedin.com
   - .lnkd.in
+  - .misskey.io
+  - .misskeyusercontent.jp
+  - .9ineverse.com
+  - .buicha.social
+  - .gyutte.site
+  - .labo.wovs.tk
+  - .maniakey.homes
+  - .mfmf.club
+  - .mi.kochudaho.me
+  - .mi.mashiro.site
+  - .mi.nakn.jp
+  - .misskey-square.net
+  - .misskey.04.si
+  - .misskey.always-we-need.games
+  - .misskey.art
+  - .misskey.cloud
+  - .misskey.design
+  - .misskey.flowers
+  - .misskey.gamelore.fun
+  - .misskey.gg
+  - .misskey.noellabo.jp
+  - .misskey.ranranhome.info
+  - .misskey.stream
+  - .misskey.yukineko.me
+  - .mk.shrimpia.network
+  - .mk.yopo.work
+  - .mof.kemomi.me
+  - .msk.ilnk.info
+  - .msk.kitazawa.me
+  - .nijimiss.moe
+  - .oekakiskey.com
+  - .submarin.online
+  - .sushi.ski
+  - .trpger.us
   - .threads.net
   - .ads-twitter.com
   - .cms-twdigitalassets.com
@@ -12599,6 +12646,7 @@ payload:
   - .sky
   - .sky.com
   - .skyassets.com
+  - .skymansion.net
   - .skyoceanrescue.com
   - .skyoceanrescue.de
   - .skyoceanrescue.it
@@ -19551,6 +19599,15 @@ payload:
   - .maa.plus
   - .prts.plus
   - .poi.moe
+  - .borneo.world
+  - .borneoasia.com
+  - .borneoschematic.com
+  - .bosharso.net
+  - .hostborneo.org
+  - .easy-jtag.com
+  - .z3x-team.com
+  - .androidfilehost.com
+  - .unlocktool.net
   - .clock.isc.org
   - .ntp.fiord.ru
   - .ntp.nat.ms
@@ -23202,6 +23259,9 @@ payload:
   - .dell-brand.com
   - .dell.com
   - .dellcdn.com
+  - .dellsupportcenter.com
+  - .delltechnologies.com
+  - .emc.com
   - .digitalocean.com
   - .digitaloceanspaces.com
   - .do.co
@@ -24226,6 +24286,21 @@ payload:
   - .www8-hp.com
   - .xn--6eup7j.com
   - .xn--6eup7j.net
+  - .greenlakeaas.com
+  - .greenlakehybridcloud.com
+  - .hewlett-packard.asia
+  - .hewlett-packard.ch
+  - .hewlett-packard.co.il
+  - .hewlett-packard.co.uk
+  - .hewlett-packard.co
+  - .hewlett-packard.com.cn
+  - .hewlett-packard.com.mx
+  - .hewlett-packard.com.sg
+  - .hewlett-packard.jp
+  - .hewlett-packard.mobi
+  - .hewlettpackard.enterprises
+  - .hpe.com
+  - .hpecyber.com
   - .hubblephone.com
   - .tsi.ai
   - .consul.io
@@ -25725,6 +25800,13 @@ payload:
   - .naverlabs.com
   - .plug.game
   - .prismlive.com
+  - .customercontrolpanel.de
+  - .netcup.com
+  - .netcup.de
+  - .netcup.eu
+  - .netcup.net
+  - .netcup-news.de
+  - .netcup-sonderangebote.de
   - .neuralink.com
   - .geforce.co.kr
   - .geforce.co.uk
@@ -25791,6 +25873,9 @@ payload:
   - .openai.com
   - .sora.com
   - .openai.com.cdn.cloudflare.net
+  - .chatgpt.livekit.cloud
+  - .host.livekit.cloud
+  - .turn.livekit.cloud
   - .openweather.co.uk
   - .openweathermap.org
   - .oracle
@@ -27875,6 +27960,7 @@ payload:
   - mtalk4.google.com
   - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hpstore.corpmerchandise.com
+  - hpefonts.s3.amazonaws.com
   - lgelectronics.122.2o7.net
   - fbcdn-a.akamaihd.net
   - developers.facebook.com

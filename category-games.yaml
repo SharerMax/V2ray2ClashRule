@@ -199,6 +199,7 @@ payload:
   - .easyanticheat.net
   - .epicgames.com
   - .epicgames.dev
+  - .epicgamescdn.com
   - .fortnite.com
   - .paragon.com
   - .playparagon.com
@@ -420,6 +421,8 @@ payload:
   - .convrgencegame.com
   - .rockstargames.com
   - .rsg.sc
+  - .snk-corp.co.jp
+  - .snkplaymore.info
   - .playartifact.com
   - .s.team
   - .steam.tv
@@ -445,6 +448,9 @@ payload:
   - .steam.cdn.slingshot.co.nz
   - .steam.cdn.webra.ru
   - .steamunlocked.net
+  - .supercell.com
+  - .supercell.net
+  - .supercell.helpshift.com
   - .ubi.com
   - .ubisoft.com
   - .ubisoftconnect.com

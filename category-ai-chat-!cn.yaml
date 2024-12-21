@@ -22,10 +22,17 @@ payload:
   - .openai.com
   - .sora.com
   - .openai.com.cdn.cloudflare.net
+  - .chatgpt.livekit.cloud
+  - .host.livekit.cloud
+  - .turn.livekit.cloud
   - .perplexity.ai
   - .poe.com
   - .poecdn.net
   - .x.ai
+  - .cursor-cdn.com
+  - .cursor.com
+  - .cursor.sh
+  - .cursorapi.com
   - .clipdrop.co
   - .jasper.ai
   - .notebooklm.google

@@ -123,6 +123,34 @@ payload:
   - .douyutv.com
   - .dtstatic.com
   - .duitang.com
+  - .activity-zhendingtech.com
+  - .changdunovel.com
+  - .fanqienovel.com
+  - .fanqieopen.com
+  - .fanqieopenpic.com
+  - .fanqieopenstatic.com
+  - .fanqieopenvod.com
+  - .fanqiesdk.com
+  - .fanqiesdkpic.com
+  - .fanqiesdkstatic.com
+  - .fanqiesdkvod.com
+  - .fqnovel.com
+  - .fqnovelim.com
+  - .fqnovel-op.com
+  - .fqnovelop.com
+  - .fqnovelpic.com
+  - .fqnovelstatic.com
+  - .fqnovelvod.com
+  - .ihaohaoxuexi.com
+  - .muyewx.com
+  - .novelfm.com
+  - .novelfmpic.com
+  - .novelfmstatic.com
+  - .novelfmvod.com
+  - .qznovel.com
+  - .qznovelpic.com
+  - .qznovelstatic.com
+  - .qznovelvod.com
   - .gamersky.com
   - .gcores.com
   - .gitv.cn
@@ -159,14 +187,31 @@ payload:
   - .kuaishouzt.com
   - .kwimgs.com
   - .yximgs.com
+  - .fanxingliveshow.com
   - .kgimg.com
+  - .kglink.cn
+  - .ktv.com
+  - .kugoo.com
   - .kugou.com
+  - .kugou.net
+  - .kugouaudio.com
+  - .kugouipv6.com
+  - .kugoukid.com
+  - .kugouliveshow.com
+  - .kugouringtone.com
+  - .kugousenior.com
+  - .kugoustore.com
+  - .kugouvoice.com
+  - .kugouyouth.com
   - .koowo.cn
   - .koowo.com
   - .kuwo.cn
   - .le.com
+  - .leautolink.com
   - .lecloud.com
+  - .lecloudapi.com
   - .lemall.com
+  - .leso.cn
   - .letv.com
   - .letvcdn.com
   - .letvimg.com
@@ -178,6 +223,12 @@ payload:
   - .pplive.cn
   - .pplive.com
   - .pptv.com
+  - .jiuyue919.com
+  - .qimao.com
+  - .qm989.com
+  - .qmniu.com
+  - .quehu.com
+  - .wtzw.com
   - .qingting.fm
   - .qtfm.cn
   - .sfacg.com
@@ -218,3 +269,5 @@ payload:
   - .pearvideo.com
   - .wo1wan.com
   - manga.bilibili.com
+  - p3-novel.byteimg.com
+  - p6-novel.byteimg.com

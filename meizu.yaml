@@ -2,6 +2,8 @@
 # type: domain
 payload:
   - .flyme.cn
+  - .flyme.com
+  - .flymeauto.com
   - .meizu.cn
   - .meizu.com
   - .mzres.com
