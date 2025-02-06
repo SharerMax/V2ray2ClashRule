@@ -14,6 +14,7 @@ payload:
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google.com
+  - .groq.com
   - .ai.com
   - .chatgpt.com
   - .chat.com
