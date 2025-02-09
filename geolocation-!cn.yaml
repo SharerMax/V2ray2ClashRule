@@ -15,7 +15,6 @@ payload:
   - .bard.google.com
   - .gemini.google.com
   - .groq.com
-  - .ai.com
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
@@ -25895,7 +25894,6 @@ payload:
   - .tegrazone.com
   - .tegrazone.jp
   - .tegrazone.kr
-  - .ai.com
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
