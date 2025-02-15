@@ -11551,6 +11551,7 @@ payload:
   - .twitter.biz
   - .twitter.com
   - .twitter.jp
+  - .twitter.map.fastly.net
   - .twittercommunity.com
   - .twitterflightschool.com
   - .twitterinc.com
@@ -19681,6 +19682,7 @@ payload:
   - .ntp2.wakwak.com
   - .decrypt.day
   - .accuweather.com
+  - .adblockcdn.com
   - .getadblock.com
   - .adblockplus.org
   - .addthis.com
@@ -24150,6 +24152,8 @@ payload:
   - .second-ns.de
   - .your-objectstorage.com
   - .your-server.de
+  - .your-storagebox.de
+  - .your-storageshare.de
   - .eca.hinet.net
   - .gtlsca.nat.gov.tw
   - .cht.com.tw

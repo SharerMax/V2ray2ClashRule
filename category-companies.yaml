@@ -3656,6 +3656,8 @@ payload:
   - .second-ns.de
   - .your-objectstorage.com
   - .your-server.de
+  - .your-storagebox.de
+  - .your-storageshare.de
   - .eca.hinet.net
   - .gtlsca.nat.gov.tw
   - .cht.com.tw
