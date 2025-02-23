@@ -61,6 +61,7 @@ payload:
   - .umtrack.com
   - .uyunad.com
   - .whalecloud.com
+  - .deepseek.com
   - .rwkv.cn
   - .rwkv.com
   - .tongyi.aliyun.com
@@ -80,6 +81,7 @@ payload:
   - .baichuan-ai.com
   - .botvip.cn
   - .liblib.art
+  - .cueme.cn
   - .airchina.com.cn
   - .airchinacargo.com
   - .hainanairlines.com
@@ -170,6 +172,7 @@ payload:
   - .cmfchina.com
   - .cmfunds.cn
   - .test-cignacmb.com
+  - .joying.com
   - .hsbc.com.cn
   - .hsbcqh.com.cn
   - .hsbcinsurance.com.cn
@@ -987,6 +990,13 @@ payload:
   - .acplay.net
   - .dandanplay.com
   - .ali213.net
+  - .bbtv.cn
+  - .bestv.com.cn
+  - .bestvcdn.cn
+  - .bestvcdn.com
+  - .bestvcdn.com.cn
+  - .bestvcdn.net
+  - .smgbb.cn
   - .bilicomic.com
   - .bilicomics.com
   - .acg.tv
@@ -1166,6 +1176,12 @@ payload:
   - .u17i.com
   - .u17t.com
   - .vgtime.com
+  - .aichongzoo.cn
+  - .hzdtv.tv
+  - .hzman.net
+  - .wasu.cn
+  - .wasu.tv
+  - .wasumedia.cn
   - .tapimg.com
   - .tapimg.net
   - .taptap.cn
@@ -1497,6 +1513,9 @@ payload:
   - .17zuoye.net
   - .applysquare.com
   - .applysquare.net
+  - .hugecore.net
+  - .shareintelli.com
+  - .mojidict.com
   - .cctalk.com
   - .hjapi.com
   - .hjfile.cn
@@ -2085,6 +2104,7 @@ payload:
   - .alimama.com
   - .alimebot.com
   - .alimei.com
+  - .alimmdn.com
   - .alios.cn
   - .alipay.cn
   - .alipay.com
@@ -2188,10 +2208,12 @@ payload:
   - .taopiaopiao.com
   - .tb.cn
   - .tbcache.com
+  - .tbcdn.cn
   - .tburl.in
   - .tmall.com
   - .tmalltv.com
   - .tmjl.ai
+  - .cueme.cn
   - .quark.cn
   - .alitrip.com
   - .feizhu.cn
@@ -3405,6 +3427,31 @@ payload:
   - .75.team
   - .75team.com
   - .baomitu.com
+  - .360-api.cn
+  - .360-g.cn
+  - .360-g.net
+  - .360-game.net
+  - .360pay.cn
+  - .360sjyh.cn
+  - .gamepack.cn
+  - .qftexpay.cn
+  - .qikoo.com
+  - .qiku.com
+  - .qikucdn.com
+  - .starworldgames.com
+  - .theworld.cn
+  - .warsaga.cn
+  - .wggames.cn
+  - .worldofship.cn
+  - .worldoftank.cn
+  - .worldoftanks.cn
+  - .worldoftanks.com.cn
+  - .wotgame.cn
+  - .wowsgame.cn
+  - .woxihuan.com
+  - .wztsy.cn
+  - .wztsy.com
+  - .yiwanzhushou.com
   - .360.cn
   - .360.com
   - .360.net
@@ -3582,6 +3629,7 @@ payload:
   - .hr-welink.com
   - .idcgcloudcs.com
   - .iemiq.com
+  - .igtm-meeting-tencent.com
   - .igtm.pub
   - .isd.com
   - .ispqcloud.com
@@ -3833,6 +3881,8 @@ payload:
   - .thtf.com.cn
   - .tongfangpc.com
   - .mechrevo.com
+  - .iqoo.com
+  - .vivo.cn
   - .vivo.com
   - .vivo.com.cn
   - .mi-img.com
@@ -3840,15 +3890,36 @@ payload:
   - .mifile.cn
   - .migames.com
   - .mijia.tech
+  - .mipay.com
   - .miui.com
   - .miwifi.com
   - .xiaomi.cn
   - .xiaomi.com
   - .xiaomi.net
   - .xiaomiev.com
+  - .xiaomicp.com
+  - .xiaomidns.cn
+  - .xiaomidns.com
+  - .xiaomidns.com.cn
+  - .xiaomidns.net
+  - .xiaomiev.com
+  - .xiaomiinc.cn
+  - .xiaomiinc.com
+  - .xiaomiinc.com.cn
+  - .xiaomiinc.net
   - .xiaomimobile.com
+  - .xiaominr.com
+  - .xiaomiprint.com
+  - .xiaomisa.cn
+  - .xiaomisa.com
+  - .xiaomisa.net
+  - .xiaomisa.org
+  - .xiaomiwear.com
   - .xiaomixiaoai.com
   - .duokan.com
+  - .duokanbox.com
+  - .youpin.cn
+  - .youpin.com.cn
   - .xiaomiyoupin.com
   - .zmifi.com
   - .saxyit.com
@@ -3934,7 +4005,6 @@ payload:
   - .webmasterhome.cn
   - .guoxuedashi.com
   - .guoxuemi.com
-  - .mojidict.com
   - .aamgame.net
   - .aamgame.com
   - .aamgame.mobi
@@ -5141,6 +5211,19 @@ payload:
   - .jslife.net
   - .nanhaicorp.com
   - .fanmingming.com
+  - .guoocang.com
+  - .kuajing84.com
+  - .ozonbigsell.com
+  - .ozonabc.com
+  - .qingping.co
+  - .cleargrass.com
+  - .bdmozon.com
+  - .51selling.com
+  - .ruseer.com
+  - .bdmozon.com
+  - .bdcat.top
+  - .ningtingche.com
+  - cueme-api.quark.cn
   - manga.bilibili.com
   - p3-novel.byteimg.com
   - p6-novel.byteimg.com

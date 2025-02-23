@@ -62,6 +62,13 @@ payload:
   - .acplay.net
   - .dandanplay.com
   - .ali213.net
+  - .bbtv.cn
+  - .bestv.com.cn
+  - .bestvcdn.cn
+  - .bestvcdn.com
+  - .bestvcdn.com.cn
+  - .bestvcdn.net
+  - .smgbb.cn
   - .bilicomic.com
   - .bilicomics.com
   - .acg.tv
@@ -241,6 +248,12 @@ payload:
   - .u17i.com
   - .u17t.com
   - .vgtime.com
+  - .aichongzoo.cn
+  - .hzdtv.tv
+  - .hzman.net
+  - .wasu.cn
+  - .wasu.tv
+  - .wasumedia.cn
   - .tapimg.com
   - .tapimg.net
   - .taptap.cn
