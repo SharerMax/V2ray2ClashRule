@@ -6,18 +6,17 @@ payload:
   - .mifile.cn
   - .migames.com
   - .mijia.tech
-  - .mipay.com
   - .miui.com
   - .miwifi.com
   - .xiaomi.cn
   - .xiaomi.com
   - .xiaomi.net
-  - .xiaomiev.com
   - .xiaomicp.com
   - .xiaomidns.cn
   - .xiaomidns.com
   - .xiaomidns.com.cn
   - .xiaomidns.net
+  - .xiaomiev.com
   - .xiaomiev.com
   - .xiaomiinc.cn
   - .xiaomiinc.com
@@ -32,10 +31,12 @@ payload:
   - .xiaomisa.org
   - .xiaomiwear.com
   - .xiaomixiaoai.com
+  - .airstarfinance.net
+  - .mipay.com
   - .duokan.com
   - .duokanbox.com
+  - .xiaomiyoupin.com
   - .youpin.cn
   - .youpin.com.cn
-  - .xiaomiyoupin.com
   - .zmifi.com
   - .saxyit.com
