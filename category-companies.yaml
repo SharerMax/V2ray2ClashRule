@@ -168,6 +168,10 @@ payload:
   - .containersonaws.com
   - .elasticbeanstalk.com
   - .thinkboxsoftware.com
+  - .amzndns.co.uk
+  - .amzndns.com
+  - .amzndns.net
+  - .amzndns.org
   - .imdb
   - .boxofficemojo.com
   - .imdb.com

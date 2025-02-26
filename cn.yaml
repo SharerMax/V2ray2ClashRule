@@ -3199,6 +3199,26 @@ payload:
   - .8gcdp.cn
   - .kma1g.cn
   - .576nt.cn
+  - .cdnhwc1.cn
+  - .cdnhwc2.cn
+  - .cdnhwc3.cn
+  - .cdnhwc4.cn
+  - .cdnhwc5.cn
+  - .cdnhwc6.cn
+  - .cdnhwc7.cn
+  - .cdnhwc8.cn
+  - .cdnhwc9.cn
+  - .cdnhwc10.cn
+  - .cdnhwc1.com
+  - .cdnhwc2.com
+  - .cdnhwc3.com
+  - .cdnhwc4.com
+  - .cdnhwc5.com
+  - .cdnhwc6.com
+  - .cdnhwc7.com
+  - .cdnhwc8.com
+  - .cdnhwc9.com
+  - .cdnhwc10.com
   - .abhouses.com
   - .agconnect.link
   - .dbank.com
@@ -3778,6 +3798,48 @@ payload:
   - .yufuid.com.cn
   - .yufuid.net
   - .yunjitele.com
+  - .dnse0.cn
+  - .dnse1.cn
+  - .dnse2.cn
+  - .dnse3.cn
+  - .dnse4.cn
+  - .dnse5.cn
+  - .dnse0.com
+  - .dnse1.com
+  - .dnse2.com
+  - .dnse3.com
+  - .dnse4.com
+  - .dnse5.com
+  - .tdnsv1.com
+  - .tdnsv2.com
+  - .tdnsv3.com
+  - .tdnsv4.com
+  - .tdnsv5.com
+  - .tdnsv6.com
+  - .tdnsv7.com
+  - .tdnsv8.com
+  - .tdnsv9.com
+  - .tdnsv10.com
+  - .tdnsv11.com
+  - .tdnsv12.com
+  - .tdnsv13.com
+  - .tdnsv14.com
+  - .tdnsv15.com
+  - .tdnsv1.net
+  - .tdnsv2.net
+  - .tdnsv3.net
+  - .tdnsv4.net
+  - .tdnsv5.net
+  - .tdnsv6.net
+  - .tdnsv7.net
+  - .tdnsv8.net
+  - .tdnsv9.net
+  - .tdnsv10.net
+  - .tdnsv11.net
+  - .tdnsv12.net
+  - .tdnsv13.net
+  - .tdnsv14.net
+  - .tdnsv15.net
   - .costj.myqcloud.com
   - .cosbj.myqcloud.com
   - .cossh.myqcloud.com
