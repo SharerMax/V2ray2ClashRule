@@ -11980,6 +11980,8 @@ payload:
   - .forbes.com
   - .forbesimg.com
   - .fox
+  - .tubi.io
+  - .tubitv.com
   - .fox-corporation.com
   - .fox-news.com
   - .fox.com
@@ -25940,6 +25942,7 @@ payload:
   - .dnsserver1.de
   - .dnsserver2.de
   - .luckysrv.de
+  - .netcup.cafe
   - .netcup.com
   - .netcup.de
   - .netcup.eu
