@@ -2746,6 +2746,7 @@ payload:
   - .coinmarketcap.com
   - .crypto.com
   - .cryptocompare.com
+  - .cryptomus.com
   - .curve.fi
   - .cyberx.com
   - .debank.com
@@ -10181,6 +10182,7 @@ payload:
   - .steam.cdn.slingshot.co.nz
   - .steam.cdn.webra.ru
   - .steamunlocked.net
+  - .brawlstarsgame.com
   - .supercell.com
   - .supercell.net
   - .supercell.helpshift.com
