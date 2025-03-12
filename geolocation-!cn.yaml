@@ -26,6 +26,7 @@ payload:
   - .host.livekit.cloud
   - .turn.livekit.cloud
   - .perplexity.ai
+  - .pplx.ai
   - .poe.com
   - .poecdn.net
   - .grok.com
@@ -26090,6 +26091,7 @@ payload:
   - .pccwsolutions.com
   - .moov.hk
   - .perplexity.ai
+  - .pplx.ai
   - .myqnapcloud.com
   - .qlink.to
   - .qnap.com
@@ -27547,6 +27549,7 @@ payload:
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net
   - production-openaicom-storage.azureedge.net
+  - pplx-res.cloudinary.com
   - fontshop-prod-responsive-images.s3.amazonaws.com
   - tesla-cdn.thron.com
   - nab.demdex.net
@@ -28217,6 +28220,7 @@ payload:
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
+  - pplx-res.cloudinary.com
   - qualcomm.sc.omtrdc.net
   - impala-media-production.s3.amazonaws.com
   - cdn.js7k.com

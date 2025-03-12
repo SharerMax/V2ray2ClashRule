@@ -5502,6 +5502,7 @@ payload:
   - .pccwsolutions.com
   - .moov.hk
   - .perplexity.ai
+  - .pplx.ai
   - .myqnapcloud.com
   - .qlink.to
   - .qnap.com
@@ -6513,6 +6514,7 @@ payload:
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
+  - pplx-res.cloudinary.com
   - qualcomm.sc.omtrdc.net
   - impala-media-production.s3.amazonaws.com
   - cdn.js7k.com
