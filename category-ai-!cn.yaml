@@ -15,6 +15,8 @@ payload:
   - .bard.google.com
   - .gemini.google.com
   - .groq.com
+  - .hf.co
+  - .huggingface.co
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
@@ -43,6 +45,7 @@ payload:
   - .gateway.ai.cloudflare.com
   - .meta.ai
   - .openart.ai
+  - .openrouter.ai
   - servd-anthropic-website.b-cdn.net
   - ai.google.dev
   - alkalicore-pa.clients6.google.com

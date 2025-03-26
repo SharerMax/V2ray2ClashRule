@@ -15,6 +15,8 @@ payload:
   - .bard.google.com
   - .gemini.google.com
   - .groq.com
+  - .hf.co
+  - .huggingface.co
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
@@ -43,6 +45,7 @@ payload:
   - .gateway.ai.cloudflare.com
   - .meta.ai
   - .openart.ai
+  - .openrouter.ai
   - .colorfulstage.com
   - .crypton.co.jp
   - .lapriere.jp
@@ -9959,6 +9962,8 @@ payload:
   - .gog-statics.com
   - .illusion.co.jp
   - .illusion.jp
+  - .itch.io
+  - .itch.zone
   - .lowiro.com
   - .genshinimpact.com
   - .honkaiimpact3.com
@@ -13141,6 +13146,7 @@ payload:
   - .un.org
   - .w3.org
   - .who.int
+  - .wi-fi.org
   - .wto.org
   - .18comic-god.cc
   - .18comic-god.club
@@ -20589,7 +20595,6 @@ payload:
   - .xposed.info
   - .yarnpkg.com
   - .zsh.org
-  - .huggingface.co
   - .acer-group.com
   - .acer.com
   - .typekit.com
@@ -20714,6 +20719,7 @@ payload:
   - .pdf.new
   - .sign.new
   - .scene7.com
+  - .adobestats.io
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -23271,6 +23277,8 @@ payload:
   - .merakigo.com
   - .tail-f.com
   - .tailf.com
+  - .umbrella.com
+  - .opendns.com
   - .clco.cc
   - .cloudc.one
   - .cloudcone.com
@@ -25389,6 +25397,7 @@ payload:
   - .azuresmartspaces.net
   - .azurestackvalidation.com
   - .azurewebsites.net
+  - .botframework.com
   - .cosmosdb.info
   - .cosmosdb.net
   - .devopsms.com
@@ -25959,10 +25968,15 @@ payload:
   - .naverlabs.com
   - .plug.game
   - .prismlive.com
+  - .bestsrv.de
   - .customercontrolpanel.de
   - .dnsserver1.de
   - .dnsserver2.de
+  - .goodsrv.de
+  - .happysrv.de
+  - .hotsrv.de
   - .luckysrv.de
+  - .megasrv.de
   - .netcup.cafe
   - .netcup.com
   - .netcup.de
@@ -25971,8 +25985,12 @@ payload:
   - .netcup-news.de
   - .netcup-sonderangebote.de
   - .netcup-wiki.de
+  - .nicesrv.de
+  - .powersrv.de
+  - .quicksrv.de
   - .servercontrolpanel.de
   - .supersrv.de
+  - .ultrasrv.de
   - .yourvserver.net
   - .neuralink.com
   - .geforce.co.kr

@@ -35,6 +35,7 @@ payload:
   - .azuresmartspaces.net
   - .azurestackvalidation.com
   - .azurewebsites.net
+  - .botframework.com
   - .cosmosdb.info
   - .cosmosdb.net
   - .devopsms.com

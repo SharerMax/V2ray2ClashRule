@@ -125,6 +125,7 @@ payload:
   - .pdf.new
   - .sign.new
   - .scene7.com
+  - .adobestats.io
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -2682,6 +2683,8 @@ payload:
   - .merakigo.com
   - .tail-f.com
   - .tailf.com
+  - .umbrella.com
+  - .opendns.com
   - .clco.cc
   - .cloudc.one
   - .cloudcone.com
@@ -4800,6 +4803,7 @@ payload:
   - .azuresmartspaces.net
   - .azurestackvalidation.com
   - .azurewebsites.net
+  - .botframework.com
   - .cosmosdb.info
   - .cosmosdb.net
   - .devopsms.com
@@ -5370,10 +5374,15 @@ payload:
   - .naverlabs.com
   - .plug.game
   - .prismlive.com
+  - .bestsrv.de
   - .customercontrolpanel.de
   - .dnsserver1.de
   - .dnsserver2.de
+  - .goodsrv.de
+  - .happysrv.de
+  - .hotsrv.de
   - .luckysrv.de
+  - .megasrv.de
   - .netcup.cafe
   - .netcup.com
   - .netcup.de
@@ -5382,8 +5391,12 @@ payload:
   - .netcup-news.de
   - .netcup-sonderangebote.de
   - .netcup-wiki.de
+  - .nicesrv.de
+  - .powersrv.de
+  - .quicksrv.de
   - .servercontrolpanel.de
   - .supersrv.de
+  - .ultrasrv.de
   - .yourvserver.net
   - .neuralink.com
   - .geforce.co.kr
