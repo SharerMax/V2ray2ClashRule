@@ -126,6 +126,10 @@ payload:
   - .sign.new
   - .scene7.com
   - .adobestats.io
+  - .1password.ca
+  - .1password.com
+  - .1password.eu
+  - .agilebits.com
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -322,6 +326,7 @@ payload:
   - .webkitgtk.org
   - .wpewebkit.org
   - .webobjects.com
+  - .tv.apple.com
   - .appldnld.apple.com
   - .gg.apple.com
   - .gnf-mdn.apple.com
@@ -2693,6 +2698,8 @@ payload:
   - .collabora.com
   - .collabora.org
   - .collaboraoffice.com
+  - .comodo.com
+  - .comodo.net
   - .corel.com
   - .corel.net
   - .coreldraw.app
@@ -3668,6 +3675,9 @@ payload:
   - .your-storageshare.de
   - .eca.hinet.net
   - .gtlsca.nat.gov.tw
+  - .pki.hinet.net
+  - .publicca.hinet.net
+  - .tls.hinet.net
   - .cht.com.tw
   - .chtf.org.tw
   - .emome.net
@@ -4143,6 +4153,8 @@ payload:
   - .xn--ztsq84g.cn
   - .xscale.com
   - .barefootnetworks.com
+  - .ixsystems.com
+  - .truenas.com
   - .daum.net
   - .daumcdn.net
   - .daumkakao.io
@@ -4770,6 +4782,7 @@ payload:
   - .meta.ai
   - .meta.com
   - .azure
+  - .aadrm.com
   - .azure-devices-int.net
   - .azure-devices.net
   - .azure-mobile.net
@@ -4810,10 +4823,13 @@ payload:
   - .gotcosmos.com
   - .management-azure-devices-int.net
   - .management-azure-devices.net
+  - .microsoftazuread-sso.com
   - .microsoftazuresponsorships.com
   - .microsofteca.com
   - .microsoftiotcentral.com
   - .msn.net
+  - .playfab.com
+  - .playfabapi.com
   - .serverlesslibrary.net
   - .trafficmanager.net
   - .tryfunctions.com
@@ -5771,6 +5787,7 @@ payload:
   - .synology.com
   - .synologydownload.com
   - .synologyupdate.com
+  - .symantec.com
   - .tailscale.com
   - .tailscale.io
   - .ts.net
@@ -5787,6 +5804,39 @@ payload:
   - .ui.com
   - .uisp.com
   - .wifiman.com
+  - .verisign.asia
+  - .verisign.biz
+  - .verisign.ch
+  - .verisign.co.in
+  - .verisign.co.uk
+  - .verisign.com
+  - .verisign.com.au
+  - .verisign.com.br
+  - .verisign.com.cn
+  - .verisign.com.es
+  - .verisign.com.hk
+  - .verisign.com.sg
+  - .verisign.com.tw
+  - .verisign.com.vn
+  - .verisign.de
+  - .verisign.dk
+  - .verisign.es
+  - .verisign.fr
+  - .verisign.hk
+  - .verisign.in
+  - .verisign.info
+  - .verisign.jobs
+  - .verisign.mobi
+  - .verisign.name
+  - .verisign.net
+  - .verisign.org
+  - .verisign.pro
+  - .verisign.se
+  - .verisign.sg
+  - .verisign.tw
+  - .verisign.us
+  - .verisign.vn
+  - .verisigninc.com
   - .flickr
   - .flic.kr
   - .flickr.com
@@ -5971,7 +6021,6 @@ payload:
   - .verizonwireless.com
   - .vzw.com
   - .xo.com
-  - .omniroot.com
   - .vultr.com
   - .g-technology.com
   - .sandisk.ae
@@ -6359,6 +6408,13 @@ payload:
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
+  - apple-tv-plus-press.apple.com
+  - hls-amt.itunes.apple.com
+  - hls.itunes.apple.com
+  - np-edge.itunes.apple.com
+  - play-edge.itunes.apple.com
+  - tv.applemusic.com
+  - uts-api.itunes.apple.com
   - beatselectronicsllc.tt.omtrdc.net
   - www-cdn.icloud.com.akadns.net
   - apple.com.akadns.net

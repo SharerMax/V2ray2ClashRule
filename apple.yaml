@@ -29,6 +29,7 @@ payload:
   - .webkitgtk.org
   - .wpewebkit.org
   - .webobjects.com
+  - .tv.apple.com
   - .appldnld.apple.com
   - .gg.apple.com
   - .gnf-mdn.apple.com
@@ -1505,6 +1506,13 @@ payload:
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
+  - apple-tv-plus-press.apple.com
+  - hls-amt.itunes.apple.com
+  - hls.itunes.apple.com
+  - np-edge.itunes.apple.com
+  - play-edge.itunes.apple.com
+  - tv.applemusic.com
+  - uts-api.itunes.apple.com
   - beatselectronicsllc.tt.omtrdc.net
   - www-cdn.icloud.com.akadns.net
   - apple.com.akadns.net

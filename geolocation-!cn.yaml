@@ -1966,6 +1966,7 @@ payload:
   - .visa-news.jp
   - .visabank.org
   - .visabusinessinsights.com
+  - .visaca.com
   - .visacarddesignlab.com
   - .visacards.com
   - .visacheckout.net
@@ -2145,17 +2146,11 @@ payload:
   - .certum.pl
   - .ocsp-certum.com
   - .ocsp-responder.com
-  - .comodo.com
-  - .comodo.net
-  - .comodoca.com
-  - .comodoca2.com
-  - .comodoca3.com
-  - .comodoca4.com
-  - .cybertrust.co.jp
-  - .cybertrust.ne.jp
   - .digicert-cn.com
   - .digicert-validation.com
+  - .digicert.co.jp
   - .digicert.com
+  - .digicert.eu
   - .digitalcertvalidation.com
   - .freessl.com
   - .geotrust.com
@@ -2163,8 +2158,68 @@ payload:
   - .thawte.com
   - .thawte.de
   - .thawte.fr
+  - .cybertrust.co.jp
+  - .cybertrust.ne.jp
+  - .adobe-crl.verisign.com
+  - .certipath-aia.verisign.com
+  - .certipath-crl.verisign.com
+  - .crl.verisign.com
+  - .csc3-2004-aia.verisign.com
+  - .csc3-2004-crl.verisign.com
+  - .csc3-2009-2-aia.verisign.com
+  - .csc3-2009-2-crl.verisign.com
+  - .csc3-2009-aia.verisign.com
+  - .csc3-2009-crl.verisign.com
+  - .csc3-2010-aia.verisign.com
+  - .csc3-2010-crl.verisign.com
+  - .eca-client-crl.verisign.com
+  - .eca-client-ocsp.verisign.com
+  - .evintl-aia.verisign.com
+  - .evintl-crl.verisign.com
+  - .evintl-ocsp.verisign.com
+  - .evintl-t1-crl.verisign.com
+  - .evsecure-aia.verisign.com
+  - .evsecure-crl.verisign.com
+  - .evsecure-ocsp.verisign.com
+  - .evsecure-t1-aia.verisign.com
+  - .evsecure-t1-crl.verisign.com
+  - .ocsp.verisign.com
+  - .onsitecrl.verisign.com
+  - .orgc3-crl.verisign.com
+  - .pki-ocsp.verisign.com
+  - .ssp-aia.verisign.com
+  - .ssp-crl.verisign.com
+  - .ssp-ocsp.verisign.com
+  - .svr-wimax-ocsp.verisign.com
+  - .svrintl-aia.verisign.com
+  - .svrintl-crl.verisign.com
+  - .svrintl-g3-aia.verisign.com
+  - .svrintl-g3-crl.verisign.com
+  - .svrintl-t1-aia.verisign.com
+  - .svrintl-t1-crl.verisign.com
+  - .svrsecure-aia.verisign.com
+  - .svrsecure-crl.verisign.com
+  - .svrsecure-g2-aia.verisign.com
+  - .svrsecure-g2-crl.verisign.com
+  - .svrsecure-g3-aia.verisign.com
+  - .svrsecure-g3-crl.verisign.com
+  - .svrsecure-oracle-aia.verisign.com
+  - .svrsecure-oracle-crl.verisign.com
+  - .svrsecure-oracle-ocsp.verisign.com
+  - .svrsecure-t1-aia.verisign.com
+  - .svrsecure-t1-crl.verisign.com
+  - .svrtrial-g2-aia.verisign.com
+  - .svrtrial-g2-crl.verisign.com
+  - .pki.symantec.com
+  - .symauth.com
+  - .symcb.com
+  - .symcd.com
+  - .ws.symantec.com
   - .quovadisglobal.com
   - .public-trust.com
+  - .omniroot.com
+  - .entrust.cn
+  - .entrust.com
   - .entrust.net
   - .entrustdatacard.com
   - .affirmtrust.com
@@ -2193,6 +2248,9 @@ payload:
   - .pki.goog
   - .eca.hinet.net
   - .gtlsca.nat.gov.tw
+  - .pki.hinet.net
+  - .publicca.hinet.net
+  - .tls.hinet.net
   - .hongkongpost.gov.hk
   - .ecert.gov.hk
   - .identrust.com
@@ -2219,6 +2277,10 @@ payload:
   - .catcert.cat
   - .incommon-rsa.org
   - .netsolssl.com
+  - .comodoca.com
+  - .comodoca2.com
+  - .comodoca3.com
+  - .comodoca4.com
   - .ssl.com
   - .starfieldtech.com
   - .digital-id.ch
@@ -2252,48 +2314,11 @@ payload:
   - .trustdoc.ch
   - .trustsign.ch
   - .zert.ch
-  - .managedpki.com
-  - .symantec.com
-  - .symcb.com
-  - .symcd.com
   - .telekom.com
   - .telekom.de
   - .telesec.de
   - .trustwave.com
   - .twca.com.tw
-  - .verisign.asia
-  - .verisign.biz
-  - .verisign.ch
-  - .verisign.co.in
-  - .verisign.co.uk
-  - .verisign.com
-  - .verisign.com.au
-  - .verisign.com.br
-  - .verisign.com.cn
-  - .verisign.com.es
-  - .verisign.com.hk
-  - .verisign.com.sg
-  - .verisign.com.tw
-  - .verisign.com.vn
-  - .verisign.de
-  - .verisign.dk
-  - .verisign.es
-  - .verisign.fr
-  - .verisign.hk
-  - .verisign.in
-  - .verisign.info
-  - .verisign.jobs
-  - .verisign.mobi
-  - .verisign.name
-  - .verisign.net
-  - .verisign.org
-  - .verisign.pro
-  - .verisign.se
-  - .verisign.sg
-  - .verisign.tw
-  - .verisign.us
-  - .verisign.vn
-  - .verisigninc.com
   - .flickr
   - .flic.kr
   - .flickr.com
@@ -2478,7 +2503,6 @@ payload:
   - .verizonwireless.com
   - .vzw.com
   - .xo.com
-  - .omniroot.com
   - .myvodafone.com.au
   - .myvodafone.com.ws
   - .vodafone.co.uk
@@ -2502,6 +2526,7 @@ payload:
   - .harica.gr
   - .infocert.digital
   - .infocert.it
+  - .managedpki.com
   - .netlock.hu
   - .trustcor.ca
   - .trustcor.com
@@ -3544,6 +3569,9 @@ payload:
   - .xn--74q035i.xn--hxt814e
   - .nordstrom.com
   - .nordstrommedia.com
+  - .ozon.ru
+  - .ozone.ru
+  - .ozonusercontent.com
   - .ecimg.tw
   - .pchome.com.tw
   - .pchomeec.tw
@@ -3587,6 +3615,14 @@ payload:
   - .shopee.vn
   - .shopeemobile.com
   - .shp.ee
+  - .myshopify.com
+  - .shop.app
+  - .shopify.com
+  - .shopify.dev
+  - .shopifycdn.com
+  - .shopifycloud.com
+  - .shopifystatus.com
+  - .shopifysvc.com
   - .suruga-ya.com
   - .suruga-ya.jp
   - .target
@@ -9714,6 +9750,7 @@ payload:
   - .gogo-load.com
   - .gogocdn.net
   - .hidive.com
+  - .tv.apple.com
   - .ao3.org
   - .archiveofourown.org
   - .archiveofourown.com
@@ -20720,6 +20757,10 @@ payload:
   - .sign.new
   - .scene7.com
   - .adobestats.io
+  - .1password.ca
+  - .1password.com
+  - .1password.eu
+  - .agilebits.com
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -20916,6 +20957,7 @@ payload:
   - .webkitgtk.org
   - .wpewebkit.org
   - .webobjects.com
+  - .tv.apple.com
   - .appldnld.apple.com
   - .gg.apple.com
   - .gnf-mdn.apple.com
@@ -23287,6 +23329,8 @@ payload:
   - .collabora.com
   - .collabora.org
   - .collaboraoffice.com
+  - .comodo.com
+  - .comodo.net
   - .corel.com
   - .corel.net
   - .coreldraw.app
@@ -24262,6 +24306,9 @@ payload:
   - .your-storageshare.de
   - .eca.hinet.net
   - .gtlsca.nat.gov.tw
+  - .pki.hinet.net
+  - .publicca.hinet.net
+  - .tls.hinet.net
   - .cht.com.tw
   - .chtf.org.tw
   - .emome.net
@@ -24737,6 +24784,8 @@ payload:
   - .xn--ztsq84g.cn
   - .xscale.com
   - .barefootnetworks.com
+  - .ixsystems.com
+  - .truenas.com
   - .daum.net
   - .daumcdn.net
   - .daumkakao.io
@@ -25364,6 +25413,7 @@ payload:
   - .meta.ai
   - .meta.com
   - .azure
+  - .aadrm.com
   - .azure-devices-int.net
   - .azure-devices.net
   - .azure-mobile.net
@@ -25404,10 +25454,13 @@ payload:
   - .gotcosmos.com
   - .management-azure-devices-int.net
   - .management-azure-devices.net
+  - .microsoftazuread-sso.com
   - .microsoftazuresponsorships.com
   - .microsofteca.com
   - .microsoftiotcentral.com
   - .msn.net
+  - .playfab.com
+  - .playfabapi.com
   - .serverlesslibrary.net
   - .trafficmanager.net
   - .tryfunctions.com
@@ -26365,6 +26418,7 @@ payload:
   - .synology.com
   - .synologydownload.com
   - .synologyupdate.com
+  - .symantec.com
   - .tailscale.com
   - .tailscale.io
   - .ts.net
@@ -26381,6 +26435,39 @@ payload:
   - .ui.com
   - .uisp.com
   - .wifiman.com
+  - .verisign.asia
+  - .verisign.biz
+  - .verisign.ch
+  - .verisign.co.in
+  - .verisign.co.uk
+  - .verisign.com
+  - .verisign.com.au
+  - .verisign.com.br
+  - .verisign.com.cn
+  - .verisign.com.es
+  - .verisign.com.hk
+  - .verisign.com.sg
+  - .verisign.com.tw
+  - .verisign.com.vn
+  - .verisign.de
+  - .verisign.dk
+  - .verisign.es
+  - .verisign.fr
+  - .verisign.hk
+  - .verisign.in
+  - .verisign.info
+  - .verisign.jobs
+  - .verisign.mobi
+  - .verisign.name
+  - .verisign.net
+  - .verisign.org
+  - .verisign.pro
+  - .verisign.se
+  - .verisign.sg
+  - .verisign.tw
+  - .verisign.us
+  - .verisign.vn
+  - .verisigninc.com
   - .flickr
   - .flic.kr
   - .flickr.com
@@ -26565,7 +26652,6 @@ payload:
   - .verizonwireless.com
   - .vzw.com
   - .xo.com
-  - .omniroot.com
   - .vultr.com
   - .g-technology.com
   - .sandisk.ae
@@ -27688,6 +27774,13 @@ payload:
   - ds-vod-abematv.akamaized.net
   - linear-abematv.akamaized.net
   - vod-abematv.akamaized.net
+  - apple-tv-plus-press.apple.com
+  - hls-amt.itunes.apple.com
+  - hls.itunes.apple.com
+  - np-edge.itunes.apple.com
+  - play-edge.itunes.apple.com
+  - tv.applemusic.com
+  - uts-api.itunes.apple.com
   - gamer2-cds.cdn.hinet.net
   - gamer-cds.cdn.hinet.net
   - blizzard.nefficient.co.kr
@@ -28070,6 +28163,13 @@ payload:
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
+  - apple-tv-plus-press.apple.com
+  - hls-amt.itunes.apple.com
+  - hls.itunes.apple.com
+  - np-edge.itunes.apple.com
+  - play-edge.itunes.apple.com
+  - tv.applemusic.com
+  - uts-api.itunes.apple.com
   - beatselectronicsllc.tt.omtrdc.net
   - www-cdn.icloud.com.akadns.net
   - apple.com.akadns.net
