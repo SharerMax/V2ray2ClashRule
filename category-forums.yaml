@@ -57,6 +57,7 @@ payload:
   - .redditspace.com
   - .redditstatic.com
   - .redditstatus.com
+  - .reddit.map.fastly.net
   - .maintracker.org
   - .rutracker.cc
   - .rutracker.cr
@@ -79,4 +80,3 @@ payload:
   - .safechat.com
   - .sis001.com
   - .v2ex.com
-  - reddit.map.fastly.net

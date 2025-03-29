@@ -11087,6 +11087,7 @@ payload:
   - .redditspace.com
   - .redditstatic.com
   - .redditstatus.com
+  - .reddit.map.fastly.net
   - .maintracker.org
   - .rutracker.cc
   - .rutracker.cr
@@ -27886,7 +27887,6 @@ payload:
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
   - paper-attachments.s3.amazonaws.com
-  - reddit.map.fastly.net
   - fbcdn-a.akamaihd.net
   - e122475.dscg.akamaiedge.net
   - licdn.cn.cdn20.com
