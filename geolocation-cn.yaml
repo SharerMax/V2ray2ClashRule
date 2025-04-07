@@ -4048,6 +4048,8 @@ payload:
   - .wechat.com
   - .wechatpay.cn
   - .weiyun.com
+  - .wxcloudrun.com
+  - .wxgateway.com
   - .wxlivecdn.com
   - .alloyteam.com
   - .imweb.io
