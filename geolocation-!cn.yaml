@@ -41,9 +41,11 @@ payload:
   - .jasper.ai
   - .notebooklm.google
   - .notebooklm.google.com
+  - .chutes.ai
   - .dify.ai
   - .gateway.ai.cloudflare.com
   - .meta.ai
+  - .mistral.ai
   - .openart.ai
   - .openrouter.ai
   - .colorfulstage.com
@@ -9969,6 +9971,10 @@ payload:
   - .uo.com
   - .uoherald.com
   - .xdsummit.com
+  - .3lateral.com
+  - .artstation.com
+  - .capturingreality.com
+  - .cubicmotion.com
   - .battlebreakers.com
   - .eac-cdn.com
   - .easy.ac
@@ -9976,12 +9982,20 @@ payload:
   - .epicgames.com
   - .epicgames.dev
   - .epicgamescdn.com
+  - .fab.com
   - .fortnite.com
+  - .hyprsense.com
   - .paragon.com
   - .playparagon.com
+  - .quixel.com
+  - .quixel.se
+  - .radgametools.com
+  - .realityscan.com
   - .roborecall.com
   - .shadowcomplex.com
+  - .sketchfab.com
   - .spyjinx.com
+  - .twinmotion.com
   - .unrealengine.com
   - .unrealtournament.com
   - .tarkov.com
@@ -19817,6 +19831,7 @@ payload:
   - .addthiscdn.com
   - .addthisedge.com
   - .addtoany.com
+  - .adguardaccount.com
   - .adguard.app
   - .adguard.com
   - .adguard.info
@@ -20404,6 +20419,7 @@ payload:
   - .datalore.io
   - .kotlinlang.org
   - .jb.gg
+  - .youtrack.cloud
   - .grazie.ai
   - .grazie.aws.intellij.net
   - .jetbrains.ai
@@ -20794,6 +20810,7 @@ payload:
   - .amplifyapp.com
   - .amplifyframework.com
   - .aws-iot-hackathon.com
+  - .aws.com
   - .awsautopilot.com
   - .awsautoscaling.com
   - .awsbraket.com
@@ -21696,6 +21713,7 @@ payload:
   - .wholesaleonlinemart.com
   - .worldcoinpay.com
   - .yourmonsterbeats.com
+  - .mask-api.icloud.com
   - .mask-h2.icloud.com
   - .mask.icloud.com
   - .applemx-icloud.com
@@ -27941,6 +27959,7 @@ payload:
   - anime-rule34-world.b-cdn.net
   - time.apple.com
   - time.euro.apple.com
+  - time.aws.com
   - time.facebook.com
   - time1.facebook.com
   - time2.facebook.com

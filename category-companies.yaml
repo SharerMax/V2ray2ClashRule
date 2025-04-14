@@ -152,6 +152,7 @@ payload:
   - .amplifyapp.com
   - .amplifyframework.com
   - .aws-iot-hackathon.com
+  - .aws.com
   - .awsautopilot.com
   - .awsautoscaling.com
   - .awsbraket.com
@@ -1054,6 +1055,7 @@ payload:
   - .wholesaleonlinemart.com
   - .worldcoinpay.com
   - .yourmonsterbeats.com
+  - .mask-api.icloud.com
   - .mask-h2.icloud.com
   - .mask.icloud.com
   - .applemx-icloud.com
