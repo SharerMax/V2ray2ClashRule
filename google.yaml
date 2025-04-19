@@ -78,6 +78,7 @@ payload:
   - .blogspot.tw
   - .blogspot.ug
   - .blogspot.vn
+  - .blogger.googleusercontent.com
   - .dart.dev
   - .dartlang.org
   - .dartpad.dev
@@ -107,6 +108,7 @@ payload:
   - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
+  - .gemini.google
   - .gemini.google.com
   - .deepmind.com
   - .deepmind.google
@@ -117,6 +119,7 @@ payload:
   - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
+  - .gemini.google
   - .gemini.google.com
   - .googleplay.com
   - .play-fe.googleapis.com

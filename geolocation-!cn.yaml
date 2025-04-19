@@ -13,6 +13,7 @@ payload:
   - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
+  - .gemini.google
   - .gemini.google.com
   - .groq.com
   - .hf.co
@@ -129,6 +130,7 @@ payload:
   - .ooni.org
   - .openvpn.net
   - .privacytools.io
+  - .proxifier.com
   - .psiphon.ca
   - .psiphon3.com
   - .sagernet.org
@@ -141,10 +143,12 @@ payload:
   - .turkeyblocks.org
   - .twister.net.co
   - .uproxy.org
+  - .vpnrouter.homes
   - .vuvuzela.io
   - .whonix.org
   - .wikileaks.org
   - .wireguard.com
+  - .xtls.github.io
   - .zeronet.io
   - .artstation.com
   - .artstationmedia.com
@@ -2070,6 +2074,7 @@ payload:
   - .cf-ipfs.com
   - .cloudflare-ipfs.com
   - .argotunnel.com
+  - .cfargotunnel.com
   - .cfl.re
   - .cloudflare-dns.com
   - .cloudflare-ech.com
@@ -2800,6 +2805,7 @@ payload:
   - .opensea.io
   - .osl.com
   - .paxful.com
+  - .polymarket.com
   - .ripple.com
   - .satoshilabs.com
   - .theblock.co
@@ -11114,8 +11120,11 @@ payload:
   - .rutracker.org
   - .rutrecker.net
   - .rutrk.org
+  - .soyjak.party
+  - .soyjak.st
   - .yamibo.com
   - .18p2p.com
+  - .8chan.moe
   - .avsforum.com
   - .disp.cc
   - .doom9.org
@@ -16624,6 +16633,7 @@ payload:
   - .leakxxx.com
   - .legsjapan.com
   - .leliao1.com
+  - .lemmynsfw.com
   - .lemoncams.com
   - .lenkino.xxx
   - .lenporno.net
@@ -19860,6 +19870,7 @@ payload:
   - .bitwarden.com
   - .bitwarden.eu
   - .bitwarden.net
+  - .btwrdn.co
   - .btwrdn.com
   - .bigbuckbunny.org
   - .blender.org
@@ -20784,10 +20795,19 @@ payload:
   - .sign.new
   - .scene7.com
   - .adobestats.io
+  - .1infra.net
   - .1password.ca
+  - .1password.co
   - .1password.com
+  - .1password.community
   - .1password.eu
+  - .1password.io
+  - .1passwordservices.com
+  - .1passwordusercontent.ca
+  - .1passwordusercontent.com
+  - .1passwordusercontent.eu
   - .agilebits.com
+  - .passage.id
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -23592,6 +23612,7 @@ payload:
   - .blogspot.tw
   - .blogspot.ug
   - .blogspot.vn
+  - .blogger.googleusercontent.com
   - .dart.dev
   - .dartlang.org
   - .dartpad.dev
@@ -23621,6 +23642,7 @@ payload:
   - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
+  - .gemini.google
   - .gemini.google.com
   - .deepmind.com
   - .deepmind.google
@@ -23631,6 +23653,7 @@ payload:
   - .makersuite.google.com
   - .aistudio.google.com
   - .bard.google.com
+  - .gemini.google
   - .gemini.google.com
   - .googleplay.com
   - .play-fe.googleapis.com
@@ -25839,6 +25862,7 @@ payload:
   - .msftnet.org
   - .msgamesresearch.com
   - .mshome.net
+  - .msidentity.com
   - .msocdn.com
   - .msturing.org
   - .msudalosti.com
@@ -26246,6 +26270,7 @@ payload:
   - .razersupport.com
   - .razerzone.jp
   - .respawnbyrazer.com
+  - .rzr.to
   - .appcloud.com
   - .appexchange.com
   - .attic.io
@@ -28189,6 +28214,7 @@ payload:
   - wwis-dubc1-vip97.adobe.com
   - wwis-dubc1-vip98.adobe.com
   - wwis-dubc1-vip99.adobe.com
+  - 1password.drift.click
   - servd-anthropic-website.b-cdn.net
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
