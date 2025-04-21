@@ -1516,6 +1516,7 @@ payload:
   - uts-api.itunes.apple.com
   - beatselectronicsllc.tt.omtrdc.net
   - www-cdn.icloud.com.akadns.net
+  - ingest.apple-studies.com
   - apple.com.akadns.net
   - courier-push-apple.com.akadns.net
   - push-apple.com.akadns.net
