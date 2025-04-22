@@ -794,6 +794,9 @@ payload:
   - .toptown.cn
   - .toursbms.com
   - .vipdlt.com
+  - .qunar.com
+  - .qunarcdn.com
+  - .qunarzz.com
   - .dangdang.com
   - .ddimg.cn
   - .doservice.com
@@ -1080,10 +1083,13 @@ payload:
   - .ziroomapartment.com
   - .kongfz.com
   - .kfzimg.com
+  - .pupuapi.com
+  - .pupumall.com
   - .appsimg.com
   - .appvipshop.com
   - .vip.com
   - .vipstatic.com
+  - .xiamai.net
   - .3dmgame.com
   - .3304399.com
   - .3304399.net
@@ -1420,6 +1426,7 @@ payload:
   - .kafan.cn
   - .kanxue.com
   - .kdslife.com
+  - .jandan.net
   - .klpbbs.com
   - .mcbbs.net
   - .pcbeta.com
@@ -1627,9 +1634,20 @@ payload:
   - .yunpan.com
   - .123pan.cn
   - .123pan.com
+  - .alicloudccp.com
   - .alipan.com
   - .aliyundrive.com
+  - .aliyundrive.net
   - .yunpan.aliyun.com
+  - .115.com
+  - .115cdn.com
+  - .115cdn.net
+  - .115img.com
+  - .116cd.cn
+  - .116cd.com
+  - .116cd.net
+  - .anxia.com
+  - .sq.cc
   - .baidupan.com
   - .ilanzou.com
   - .lanosso.com
@@ -1879,15 +1897,6 @@ payload:
   - .hongen.com
   - .wanfangdata.com.cn
   - .wf.pub
-  - .115.com
-  - .115cdn.com
-  - .115cdn.net
-  - .115img.com
-  - .116cd.cn
-  - .116cd.com
-  - .116cd.net
-  - .anxia.com
-  - .sq.cc
   - .3type.cn
   - .4paradigm.com
   - .51job.com
@@ -3155,7 +3164,18 @@ payload:
   - .365yg.com
   - .gogokid.com.cn
   - .gogokid.com
+  - .hapierxia.com
+  - .hapipixia.com
+  - .hapiyixia.com
+  - .kuailepipixia.com
   - .pipix.com
+  - .pipixiaha.com
+  - .piyipiba.com
+  - .ppxhhh.com
+  - .ppximg.com
+  - .ppxstatic.com
+  - .ppxvod.com
+  - .xiaoxiaapi.com
   - .faceu.com
   - .ulikecam.com
   - .rsproxy.cn
@@ -3172,6 +3192,14 @@ payload:
   - .djiops.com
   - .djiservice.org
   - .skypixel.com
+  - .hihonor.cn
+  - .hihonor.com
+  - .hihonorcdn.com
+  - .hihonorcloud.com
+  - .honor.cn
+  - .honor.com
+  - .honor.com.cn
+  - .honorfile.com
   - .aadcloud.cn
   - .aadcloud.com
   - .ami-alliance.org.cn
@@ -3444,8 +3472,6 @@ payload:
   - .dbankedge.cn
   - .dbankedge.net
   - .hicloud.com
-  - .hihonor.com
-  - .honor.cn
   - .huawei.cn
   - .huawei.com
   - .huawei.com.cn
@@ -4233,12 +4259,17 @@ payload:
   - .ztemall.com
   - .ztems.com
   - .huorong.cn
+  - .socpk.com
   - .udesk.cn
   - .fdcyun.com
   - .mingyuanyun.com
   - .mypaas.com
   - .mypaas.com.cn
   - .myypark.com
+  - .kaipuyun.cn
+  - .kaipuyun.com
+  - .kaipuyun.com.cn
+  - .kaipuyun.net
   - .51togic.com
   - .ezpro.pro
   - .xedge.cc
@@ -4921,7 +4952,6 @@ payload:
   - .itmop.com
   - .iyiou.com
   - .izuche.com
-  - .jandan.net
   - .jb51.com
   - .jia.com
   - .jiameng.com
@@ -5150,8 +5180,6 @@ payload:
   - .qtmojo.com
   - .qudong.com
   - .qugame.com
-  - .qunar.com
-  - .qunarzz.com
   - .qunjielong.com
   - .qyer.com
   - .rockyenglish.com
