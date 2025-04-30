@@ -32,6 +32,7 @@ payload:
   - .qianwen.aliyun.com
   - .qwen.ai
   - .qwenlm.ai
+  - .tongyi.com
   - .yiyan.baidu.com
   - .tiangong.cn
   - .doubao.com
@@ -1868,8 +1869,10 @@ payload:
   - .yingjiesheng.com
   - .yingjiesheng.net
   - .zhiding.com.cn
+  - .afdian.com
   - .afdian.net
   - .afdiancdn.com
+  - .ifdian.net
   - .agora.io
   - .agoraio.cn
   - .agoralab.co
@@ -3153,6 +3156,7 @@ payload:
   - .dji.com
   - .dji.net
   - .djicdn.com
+  - .djiits.com
   - .djiops.com
   - .djiservice.org
   - .skypixel.com
@@ -4175,6 +4179,7 @@ payload:
   - .miwifi.com
   - .xiaomi.cn
   - .xiaomi.com
+  - .xiaomi.eu
   - .xiaomi.net
   - .xiaomicp.com
   - .xiaomidns.cn
@@ -5059,6 +5064,7 @@ payload:
   - .moleecel.com
   - .moocollege.com
   - .mop.com
+  - .morefreegame.com
   - .msanjia.com
   - .mscbsc.com
   - .mukewang.com

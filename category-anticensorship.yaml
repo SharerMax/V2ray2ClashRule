@@ -75,6 +75,7 @@ payload:
   - .psiphon.ca
   - .psiphon3.com
   - .sagernet.org
+  - .sing-box.app
   - .shadowsocks.org
   - .sspanel.net
   - .stunnel.org
@@ -90,4 +91,6 @@ payload:
   - .wikileaks.org
   - .wireguard.com
   - .xtls.github.io
+  - .trojan-gfw.github.io
   - .zeronet.io
+  - .metacubex.one
