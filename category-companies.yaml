@@ -4001,6 +4001,7 @@ payload:
   - .s-bluemix.net
   - .s81c.com
   - .ibkr.com
+  - .ibllc.com
   - .interactivebrokers.ca
   - .interactivebrokers.co.in
   - .interactivebrokers.co.jp
@@ -5912,6 +5913,19 @@ payload:
   - .synology.com
   - .synologydownload.com
   - .synologyupdate.com
+  - .diskstation.me
+  - .dscloud.biz
+  - .dscloud.me
+  - .dscloud.mobi
+  - .dsmynas.com
+  - .dsmynas.net
+  - .dsmynas.org
+  - .familyds.com
+  - .familyds.net
+  - .familyds.org
+  - .i234.me
+  - .myds.me
+  - .synology.me
   - .symantec.com
   - .tailscale.com
   - .tailscale.io
@@ -6570,9 +6584,11 @@ payload:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be

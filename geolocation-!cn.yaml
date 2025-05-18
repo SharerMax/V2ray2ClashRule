@@ -38,6 +38,8 @@ payload:
   - .cursor.com
   - .cursor.sh
   - .cursorapi.com
+  - .coderabbit.ai
+  - .coderabbit.gallery.vsassets.io
   - .clipdrop.co
   - .jasper.ai
   - .notebooklm.google
@@ -1380,6 +1382,18 @@ payload:
   - .hsbc.co.jp
   - .hsbc.fr
   - .hsbctrinkaus.de
+  - .ibkr.com
+  - .ibllc.com
+  - .interactivebrokers.ca
+  - .interactivebrokers.co.in
+  - .interactivebrokers.co.jp
+  - .interactivebrokers.co.uk
+  - .interactivebrokers.com
+  - .interactivebrokers.com.au
+  - .interactivebrokers.com.hk
+  - .interactivebrokers.com.sg
+  - .interactivebrokers.eu
+  - .interactivebrokers.ie
   - .fsmone.com
   - .fsmone.com.hk
   - .fsmone.com.my
@@ -2737,6 +2751,8 @@ payload:
   - .huobitoken.com
   - .kraken.com
   - .kraken.onl
+  - .kucoin.com
+  - .kucoin.plus
   - .localbitcoins.com
   - .localbitcoinschain.com
   - .nexo.com
@@ -2749,6 +2765,12 @@ payload:
   - .onekey-asset.com
   - .onekey.so
   - .onekeycn.com
+  - .redotpay.com
+  - .redotpay.zendesk.com
+  - .pod-15-sunco-ws.zendesk.com
+  - .xhpjc6-cdn-settings.appsflyersdk.com
+  - .rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+  - .trustwallet.com
   - .wisecoin.com
   - .wiseid.com
   - .wisekey.com
@@ -2759,13 +2781,6 @@ payload:
   - .zb.com
   - .zb.io
   - .zb.live
-  - .kucoin.com
-  - .kucoin.plus
-  - .redotpay.com
-  - .redotpay.zendesk.com
-  - .pod-15-sunco-ws.zendesk.com
-  - .xhpjc6-cdn-settings.appsflyersdk.com
-  - .rp-static-apne1.s3.ap-northeast-1.amazonaws.com
   - .1inch.io
   - .aave.com
   - .bitbank.cc
@@ -9376,6 +9391,7 @@ payload:
   - .1lib.eu
   - .1lib.limited
   - .1lib.pl
+  - .1lib.sk
   - .1lib.to
   - .1lib.tw
   - .2lib.org
@@ -9406,7 +9422,11 @@ payload:
   - .singlelogin.me
   - .singlelogin.re
   - .singlelogin.site
+  - .z-lib.fm
+  - .z-lib.gd
+  - .z-lib.gl
   - .z-lib.org
+  - .z-library.sk
   - .z-library.se
   - .zlib.life
   - .zlibcdn.com
@@ -20299,6 +20319,7 @@ payload:
   - .compose-spec.io
   - .docker.com
   - .docker.io
+  - .dockerstatic.com
   - .embed.ly
   - .embedly.com
   - .playerjs.io
@@ -24687,6 +24708,7 @@ payload:
   - .s-bluemix.net
   - .s81c.com
   - .ibkr.com
+  - .ibllc.com
   - .interactivebrokers.ca
   - .interactivebrokers.co.in
   - .interactivebrokers.co.jp
@@ -26598,6 +26620,19 @@ payload:
   - .synology.com
   - .synologydownload.com
   - .synologyupdate.com
+  - .diskstation.me
+  - .dscloud.biz
+  - .dscloud.me
+  - .dscloud.mobi
+  - .dsmynas.com
+  - .dsmynas.net
+  - .dsmynas.org
+  - .familyds.com
+  - .familyds.net
+  - .familyds.org
+  - .i234.me
+  - .myds.me
+  - .synology.me
   - .symantec.com
   - .tailscale.com
   - .tailscale.io
@@ -27829,6 +27864,7 @@ payload:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net
@@ -28166,6 +28202,8 @@ payload:
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
+  - docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+  - docker-pinata-support.s3.amazonaws.com
   - developers.facebook.com
   - firebase.google.com
   - firebase.googleapis.com
@@ -28381,9 +28419,11 @@ payload:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be

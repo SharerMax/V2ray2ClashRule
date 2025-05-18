@@ -9,6 +9,7 @@ payload:
   - .test
   - .local
   - .home.arpa
+  - .internal
   - .0.in-addr.arpa
   - .2.0.192.in-addr.arpa
   - .10.in-addr.arpa

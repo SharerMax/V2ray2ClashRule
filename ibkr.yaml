@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .ibkr.com
+  - .ibllc.com
   - .interactivebrokers.ca
   - .interactivebrokers.co.in
   - .interactivebrokers.co.jp

@@ -76,6 +76,7 @@ payload:
   - .compose-spec.io
   - .docker.com
   - .docker.io
+  - .dockerstatic.com
   - .embed.ly
   - .embedly.com
   - .playerjs.io
@@ -469,6 +470,8 @@ payload:
   - appleworldwidedeveloper.hb-api.omtrdc.net
   - appleworldwidedeveloper.sc.omtrdc.net
   - p-events-delivery.akamaized.net
+  - docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+  - docker-pinata-support.s3.amazonaws.com
   - developers.facebook.com
   - firebase.google.com
   - firebase.googleapis.com
