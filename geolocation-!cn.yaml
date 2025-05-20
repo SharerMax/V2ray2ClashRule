@@ -11106,6 +11106,8 @@ payload:
   - .hkgolden.media
   - .lih.kg
   - .lihkg.com
+  - .linux.do
+  - .ldstatic.com
   - .5i01.com
   - .mobile01.com
   - .pimg.tw
@@ -11147,6 +11149,10 @@ payload:
   - .rutrk.org
   - .soyjak.party
   - .soyjak.st
+  - .xda-cdn.com
+  - .xda-developers.com
+  - .xdaforums.com
+  - .xdaimages.com
   - .yamibo.com
   - .18p2p.com
   - .8chan.moe
@@ -20627,10 +20633,6 @@ payload:
   - .v8.dev
   - .v8project.org
   - .vim.org
-  - .xda-cdn.com
-  - .xda-developers.com
-  - .xdaforums.com
-  - .xdaimages.com
   - .adventofcode.com
   - .alpinelinux.org
   - .apache.org
@@ -28104,6 +28106,7 @@ payload:
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
   - paper-attachments.s3.amazonaws.com
+  - bbs.boingboing.net
   - fbcdn-a.akamaihd.net
   - e122475.dscg.akamaiedge.net
   - licdn.cn.cdn20.com
