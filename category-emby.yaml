@@ -21,12 +21,14 @@ payload:
   - .misakaf.org
   - .gfwemby.org
   - .loseremby.org
+  - .nebula-emby.com
   - .feverss.cloud
   - .nvidia.rip
   - .media-1.co.uk
   - .sptv.ii00.cc
   - .sgtv.ii00.cc
   - .cn-music.mefun.vip
+  - .hongxingyunmovie.vip
   - plex.llon.net
   - emby.nexitally.com
   - emby.cjpc.cc
@@ -86,4 +88,3 @@ payload:
   - emby.p-p.men
   - emby.aiyowei.ml
   - cc.ccemby.tk
-  - direct.nebula-emby.com

@@ -15,6 +15,10 @@ payload:
   - .bard.google.com
   - .gemini.google
   - .gemini.google.com
+  - .notebooklm.google
+  - .notebooklm.google.com
+  - .jules.google
+  - .jules.google.com
   - .groq.com
   - .hf.co
   - .huggingface.co
@@ -42,8 +46,6 @@ payload:
   - .coderabbit.gallery.vsassets.io
   - .clipdrop.co
   - .jasper.ai
-  - .notebooklm.google
-  - .notebooklm.google.com
   - .chutes.ai
   - .dify.ai
   - .gateway.ai.cloudflare.com
@@ -1382,7 +1384,16 @@ payload:
   - .hsbc.co.jp
   - .hsbc.fr
   - .hsbctrinkaus.de
+  - .ibkr.ca
+  - .ibkr.co.in
+  - .ibkr.co.uk
   - .ibkr.com
+  - .ibkr.com.au
+  - .ibkr.com.hk
+  - .ibkr.com.sg
+  - .ibkr.eu
+  - .ibkr.ie
+  - .ibkrguides.com
   - .ibllc.com
   - .interactivebrokers.ca
   - .interactivebrokers.co.in
@@ -11704,8 +11715,10 @@ payload:
   - .twvid.com
   - .vine.co
   - .x.com
+  - .mradx.net
   - .mvk.com
   - .userapi.com
+  - .vk-analytics.ru
   - .vk-apps.com
   - .vk-apps.ru
   - .vk-cdn.me
@@ -13137,6 +13150,7 @@ payload:
   - .4pcdn.org
   - .4plebs.org
   - .archive-it.org
+  - .archive.md
   - .archive.org
   - .archive.ph
   - .archive.today
@@ -19836,17 +19850,6 @@ payload:
   - .z3x-team.com
   - .androidfilehost.com
   - .unlocktool.net
-  - .clock.isc.org
-  - .ntp.fiord.ru
-  - .ntp.nat.ms
-  - .ntp.nic.cz
-  - .ntp.ripe.net
-  - .ntp.se
-  - .ntp.ufe.cz
-  - .pool.ntp.org
-  - .time.cloudflare.com
-  - .time.nrc.ca
-  - .time.windows.com
   - .ats1.e-timing.ne.jp
   - .ntp.jst.mfeed.ad.jp
   - .ntp1.jst.mfeed.ad.jp
@@ -19875,6 +19878,15 @@ payload:
   - .ntp.tut.ac.jp
   - .ntp1.wakwak.com
   - .ntp2.wakwak.com
+  - .clock.isc.org
+  - .ntp.fiord.ru
+  - .ntp.nat.ms
+  - .ntp.nic.cz
+  - .ntp.ripe.net
+  - .ntp.se
+  - .ntp.ufe.cz
+  - .pool.ntp.org
+  - .time.nrc.ca
   - .decrypt.day
   - .accuweather.com
   - .adblockcdn.com
@@ -23787,6 +23799,10 @@ payload:
   - .bard.google.com
   - .gemini.google
   - .gemini.google.com
+  - .notebooklm.google
+  - .notebooklm.google.com
+  - .jules.google
+  - .jules.google.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -23798,6 +23814,10 @@ payload:
   - .bard.google.com
   - .gemini.google
   - .gemini.google.com
+  - .notebooklm.google
+  - .notebooklm.google.com
+  - .jules.google
+  - .jules.google.com
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
@@ -24709,7 +24729,16 @@ payload:
   - .ibm.us
   - .s-bluemix.net
   - .s81c.com
+  - .ibkr.ca
+  - .ibkr.co.in
+  - .ibkr.co.uk
   - .ibkr.com
+  - .ibkr.com.au
+  - .ibkr.com.hk
+  - .ibkr.com.sg
+  - .ibkr.eu
+  - .ibkr.ie
+  - .ibkrguides.com
   - .ibllc.com
   - .interactivebrokers.ca
   - .interactivebrokers.co.in
@@ -27070,7 +27099,10 @@ payload:
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
   - .dzen.ru
+  - .rostaxi.org
   - .ya.ru
+  - .yandex-bank.net
+  - .yandex-images.clstorage.net
   - .yandex.aero
   - .yandex.az
   - .yandex.by
@@ -27102,7 +27134,10 @@ payload:
   - .yandex.tm
   - .yandex.ua
   - .yandex.uz
+  - .yandexadexchange.net
   - .yandexcloud.net
+  - .yandexcom.net
+  - .yandexwebcache.org
   - .yastatic.net
   - .grok.com
   - .x.ai
@@ -27257,8 +27292,6 @@ payload:
   - .wmflabs.org
   - .atwiki.jp
   - .touhouwiki.net
-  - .api.nebula-emby.com
-  - .web.nebula-emby.com
   - .avxhm.se
   - .avh.world
   - .avxde.org
@@ -28152,6 +28185,7 @@ payload:
   - time.apple.com
   - time.euro.apple.com
   - time.aws.com
+  - time.cloudflare.com
   - time.facebook.com
   - time1.facebook.com
   - time2.facebook.com
@@ -28163,6 +28197,8 @@ payload:
   - time2.google.com
   - time3.google.com
   - time4.google.com
+  - ntp.ubuntu.com
+  - time.windows.com
   - ut1-wwv.nist.gov
   - ntp-b.nist.gov
   - ntp-d.nist.gov

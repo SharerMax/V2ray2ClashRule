@@ -12,6 +12,8 @@ payload:
   - .speedtest.net
   - .speedtestcustom.com
   - .webtest.net
+  - .open.cachefly.net
+  - .openspeedtest.com
   - .fast.com
   - .measurementlab.net
   - .nperf.com

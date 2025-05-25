@@ -110,6 +110,10 @@ payload:
   - .bard.google.com
   - .gemini.google
   - .gemini.google.com
+  - .notebooklm.google
+  - .notebooklm.google.com
+  - .jules.google
+  - .jules.google.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -121,6 +125,10 @@ payload:
   - .bard.google.com
   - .gemini.google
   - .gemini.google.com
+  - .notebooklm.google
+  - .notebooklm.google.com
+  - .jules.google
+  - .jules.google.com
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
