@@ -28238,6 +28238,7 @@ payload:
   - d33wubrfki0l68.cloudfront.net
   - live-patreon-marketing.pantheonsite.io
   - public-us-pingsx.api.clonoth.com
+  - android.googlesource.com
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
@@ -28445,6 +28446,7 @@ payload:
   - gigabyte2.azureedge.net
   - sa78gs.wpc.edgecastcdn.net
   - sni1dcb6gl.wpc.edgecastcdn.net
+  - android.googlesource.com
   - firebase.google.com
   - firebase.googleapis.com
   - firebaseappcheck.googleapis.com

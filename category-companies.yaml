@@ -6594,6 +6594,7 @@ payload:
   - gigabyte2.azureedge.net
   - sa78gs.wpc.edgecastcdn.net
   - sni1dcb6gl.wpc.edgecastcdn.net
+  - android.googlesource.com
   - firebase.google.com
   - firebase.googleapis.com
   - firebaseappcheck.googleapis.com
