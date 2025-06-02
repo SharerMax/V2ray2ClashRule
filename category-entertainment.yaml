@@ -555,12 +555,18 @@ payload:
   - .ubisoft.com
   - .ubisoftconnect.com
   - .uplay.com
+  - .asobostudio.com
+  - .flightsimulator.com
   - .beth.games
   - .bethesda.net
   - .bethesdagamestudios.com
   - .bethsoft.com
   - .doom.com
   - .elderscrolls.com
+  - .forza.net
+  - .forzamotorsport.net
+  - .forzaracingchampionship.com
+  - .forzarc.com
   - .callersbane.com
   - .minecraft-services.net
   - .minecraft.net
@@ -568,9 +574,6 @@ payload:
   - .minecraftshop.com
   - .mojang.com
   - .xbox
-  - .forzamotorsport.net
-  - .forzaracingchampionship.com
-  - .forzarc.com
   - .gamepass.com
   - .orithegame.com
   - .renovacionxboxlive.com
@@ -1357,6 +1360,8 @@ payload:
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubistatic3-a.akamaihd.net
+  - flightsimulator.azureedge.net
+  - prodforza.blob.core.windows.net
   - espn.api.edge.bamgrid.com
   - espn.hb.omtrdc.net
   - espndotcom.tt.omtrdc.net

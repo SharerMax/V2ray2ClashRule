@@ -193,12 +193,18 @@ payload:
   - .onedrive.org
   - .onedrive.live.com
   - .storage.live.com
+  - .asobostudio.com
+  - .flightsimulator.com
   - .beth.games
   - .bethesda.net
   - .bethesdagamestudios.com
   - .bethsoft.com
   - .doom.com
   - .elderscrolls.com
+  - .forza.net
+  - .forzamotorsport.net
+  - .forzaracingchampionship.com
+  - .forzarc.com
   - .callersbane.com
   - .minecraft-services.net
   - .minecraft.net
@@ -206,9 +212,6 @@ payload:
   - .minecraftshop.com
   - .mojang.com
   - .xbox
-  - .forzamotorsport.net
-  - .forzaracingchampionship.com
-  - .forzarc.com
   - .gamepass.com
   - .orithegame.com
   - .renovacionxboxlive.com
@@ -504,6 +507,8 @@ payload:
   - mscrl.microsoft.com
   - ocsp.microsoft.com
   - oneocsp.microsoft.com
+  - flightsimulator.azureedge.net
+  - prodforza.blob.core.windows.net
   - img-prod-cms-rt-microsoft-com.akamaized.net
   - img-s-msn-com.akamaized.net
   - mwf-service.akamaized.net
