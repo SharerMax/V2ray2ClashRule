@@ -417,6 +417,7 @@ payload:
   - .4thworkshop.com
   - .4thworkshop.cn
   - .fanmingming.com
+  - .zway.top
   - .517lppz.com
   - .lppz.com
   - .lppzimg.com
@@ -1153,7 +1154,6 @@ payload:
   - .vip.com
   - .vipstatic.com
   - .xiamai.net
-  - .3dmgame.com
   - .3304399.com
   - .3304399.net
   - .3839.com
@@ -1209,6 +1209,36 @@ payload:
   - .webgame163.com
   - .youba.com
   - .yxhhdl.com
+  - .cowlevel.net
+  - .cdncl.net
+  - .tgbus.com
+  - .tiancity.com
+  - .tiancitycdn.com
+  - .vgtime.com
+  - .vrzwk.cn
+  - .vrzwk.com
+  - .vrzwk.net
+  - .vrzwk.top
+  - .tapimg.com
+  - .tapimg.net
+  - .taptap.cn
+  - .taptap.com
+  - .taptap.io
+  - .taptapdada.com
+  - .ro.com
+  - .xd.cn
+  - .xd.com
+  - .xdcdn.net
+  - .xindong.com
+  - .astral-vector.com
+  - .forevernine.com
+  - .ledu.com
+  - .heavenlywind.cc
+  - .steampp.net
+  - .tgpro.top
+  - .tgprocs.net
+  - .wo1wan.com
+  - .3dmgame.com
   - .ac.fun
   - .acfun.cn
   - .acfun.net
@@ -1272,8 +1302,6 @@ payload:
   - .mangacopy.com
   - .mangafuna.xyz
   - .mangafunb.fun
-  - .cowlevel.net
-  - .cdncl.net
   - .biji.com
   - .ddmogo.com
   - .igetget.cn
@@ -1347,13 +1375,19 @@ payload:
   - .ku6img.com
   - .kkmh.com
   - .kuaikanmanhua.com
+  - .ecukwai.com
   - .gifshow.com
   - .inkwai.com
   - .ksapisrv.com
+  - .kskwai.com
   - .kuaishou.com
-  - .kwaizt.com
+  - .kuaishouapps.com
+  - .kuaishoupay.com
   - .kuaishouzt.com
+  - .kwaicdn.com
+  - .kwaizt.com
   - .kwimgs.com
+  - .wsukwai.com
   - .yximgs.com
   - .fanxingliveshow.com
   - .kgimg.com
@@ -1461,34 +1495,15 @@ payload:
   - .sfacg.com
   - .61.com
   - .taomee.com
-  - .tgbus.com
-  - .tiancity.com
-  - .tiancitycdn.com
   - .u17.com
   - .u17i.com
   - .u17t.com
-  - .vgtime.com
-  - .vrzwk.cn
-  - .vrzwk.com
-  - .vrzwk.net
-  - .vrzwk.top
   - .aichongzoo.cn
   - .hzdtv.tv
   - .hzman.net
   - .wasu.cn
   - .wasu.tv
   - .wasumedia.cn
-  - .tapimg.com
-  - .tapimg.net
-  - .taptap.cn
-  - .taptap.com
-  - .taptap.io
-  - .taptapdada.com
-  - .ro.com
-  - .xd.cn
-  - .xd.com
-  - .xdcdn.net
-  - .xindong.com
   - .ximalaya.com
   - .xmcdn.com
   - .kumiao.com
@@ -1498,17 +1513,10 @@ payload:
   - .soku.com
   - .cibntv.net
   - .zhanqi.tv
-  - .heavenlywind.cc
-  - .steampp.net
   - .lsplayer.com
   - .yeshen.com
-  - .forevernine.com
-  - .tgpro.top
-  - .tgprocs.net
   - .bsbsb.top
-  - .ledu.com
   - .pearvideo.com
-  - .wo1wan.com
   - .leigod.com
   - .tmjiasuqi.com
   - .uu.163.com
@@ -4300,6 +4308,7 @@ payload:
   - .idqqimg.com
   - .imqq.com
   - .myapp.com
+  - .qlivecdn.com
   - .qlogo.cn
   - .qpic.cn
   - .qq.cn.com
