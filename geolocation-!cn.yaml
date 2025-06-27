@@ -20015,6 +20015,7 @@ payload:
   - .pool.ntp.org
   - .time.nrc.ca
   - .decrypt.day
+  - .rsshub.app
   - .accuweather.com
   - .adblockcdn.com
   - .getadblock.com
@@ -20232,7 +20233,6 @@ payload:
   - .rb.gy
   - .rebrandly.com
   - .reurl.cc
-  - .rsshub.app
   - .dns.sb
   - .ip.gs
   - .ip.sb
@@ -28367,6 +28367,25 @@ payload:
   - ntp5.ntp-servers.net
   - ntp6.ntp-servers.net
   - ntp7.ntp-servers.net
+  - holoxx.f5.si
+  - hub.slarker.me
+  - rss.4040940.xyz
+  - rss.datuan.dev
+  - rss.littlebaby.life
+  - rss.owo.nz
+  - rss.wudifeixue.com
+  - rsshub.asailor.org
+  - rsshub.email-once.com
+  - rsshub.henry.wang
+  - rsshub.isrss.com
+  - rsshub.ktachibana.party
+  - rsshub.pseudoyu.com
+  - rsshub.rss.tips
+  - rsshub.rssforever.com
+  - rsshub.umzzz.com
+  - rsshub.woodland.cafe
+  - rsshub2.asailor.org
+  - yangzhi.app
   - bcovlive-a.akamaihd.net
   - bcsecure01-a.akamaihd.net
   - brightcove.imgix.net
