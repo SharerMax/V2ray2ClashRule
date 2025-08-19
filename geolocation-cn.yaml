@@ -112,6 +112,7 @@ payload:
   - .ccbtrust.com.cn
   - .ccbxt.com
   - .citic
+  - .xn--fiq64b
   - .chinaamc.com
   - .citic-prudential.com.cn
   - .citicbank.com
@@ -370,6 +371,7 @@ payload:
   - .lufunds.com
   - .zlfund.cn
   - .citic
+  - .xn--fiq64b
   - .chinaamc.com
   - .citic-prudential.com.cn
   - .citicbank.com
@@ -1688,6 +1690,7 @@ payload:
   - .yidianliulan.cn
   - .yidianliulan.com
   - .yuweikuijianzhan.com
+  - .sohu
   - .focus-img.cn
   - .focus.cn
   - .itc.cn
@@ -4377,7 +4380,6 @@ payload:
   - .miwifi.com
   - .xiaomi.cn
   - .xiaomi.com
-  - .xiaomi.eu
   - .xiaomi.net
   - .xiaomicp.com
   - .xiaomidns.cn
@@ -4471,6 +4473,8 @@ payload:
   - .chinatelecom-h.com
   - .chinatelecom.com.cn
   - .chntel.com
+  - .unicom
+  - .xn--8y0a063a
   - .10010.com
   - .10010.com.cn
   - .114menhu.com
