@@ -10315,6 +10315,7 @@ payload:
   - .rockstargames.com
   - .rsg.sc
   - .snk-corp.co.jp
+  - .snk-corp.info
   - .snkplaymore.info
   - .playartifact.com
   - .s.team
@@ -12244,6 +12245,8 @@ payload:
   - .forbesimg.com
   - .fox
   - .tubi.io
+  - .tubi.tv
+  - .tubi.video
   - .tubitv.com
   - .fox-corporation.com
   - .fox-news.com
@@ -27238,6 +27241,7 @@ payload:
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
   - .dzen.ru
+  - .naydex.net
   - .rostaxi.org
   - .ya.ru
   - .yandex-bank.net
@@ -27245,6 +27249,7 @@ payload:
   - .yandex.aero
   - .yandex.az
   - .yandex.by
+  - .yandex.cloud
   - .yandex.co.il
   - .yandex.com
   - .yandex.com.am
