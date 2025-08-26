@@ -114,6 +114,8 @@ payload:
   - .notebooklm.google.com
   - .jules.google
   - .jules.google.com
+  - .labs.google
+  - .aisandbox-pa.googleapis.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -129,6 +131,8 @@ payload:
   - .notebooklm.google.com
   - .jules.google
   - .jules.google.com
+  - .labs.google
+  - .aisandbox-pa.googleapis.com
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com

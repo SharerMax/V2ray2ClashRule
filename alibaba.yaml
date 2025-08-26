@@ -55,6 +55,12 @@ payload:
   - .oss-cn-shenzhen.aliyuncs.com
   - .oss-cn-wulanchabu.aliyuncs.com
   - .oss-cn-zhangjiakou.aliyuncs.com
+  - .alicloudccp.com
+  - .alipan.com
+  - .aliyundrive.cloud
+  - .aliyundrive.com
+  - .aliyundrive.net
+  - .yunpan.aliyun.com
   - .cainiao-inc.com
   - .cainiao.com
   - .cainiao.com.cn
@@ -187,10 +193,6 @@ payload:
   - .zuodao.com
   - .aliexpress.com
   - .alipayplus.com
-  - .alicloudccp.com
-  - .alipan.com
-  - .aliyundrive.com
-  - .aliyundrive.net
   - .freshhema.com
   - .freshippo.com
   - .hemamax.com

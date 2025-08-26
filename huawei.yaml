@@ -6,6 +6,7 @@ payload:
   - .ami-alliance.org.cn
   - .b2bgo.com
   - .eduapaashwc.com
+  - .functiongraph.run
   - .hc-cdn.cn
   - .hc-cdn.com
   - .hc-sre.com
@@ -83,6 +84,7 @@ payload:
   - .myhuaweicloud-obs.cn
   - .myhuaweicloud-obs.com
   - .myhuaweicloud.cn
+  - .myhuaweicloud.com
   - .myhwcdn.cn
   - .myhwcdn.com
   - .myhwcloudlive.com
@@ -93,23 +95,6 @@ payload:
   - .pagescube.cn
   - .pagescube.com
   - .powerapp.io
-  - .cn-east-2.myhuaweicloud.com
-  - .cn-east-3.myhuaweicloud.com
-  - .cn-east-4.myhuaweicloud.com
-  - .cn-east-5.myhuaweicloud.com
-  - .cn-north-1.myhuaweicloud.com
-  - .cn-north-11.myhuaweicloud.com
-  - .cn-north-2.myhuaweicloud.com
-  - .cn-north-3.myhuaweicloud.com
-  - .cn-north-4.myhuaweicloud.com
-  - .cn-north-5.myhuaweicloud.com
-  - .cn-north-6.myhuaweicloud.com
-  - .cn-north-9.myhuaweicloud.com
-  - .cn-northeast-1.myhuaweicloud.com
-  - .cn-south-1.myhuaweicloud.com
-  - .cn-south-2.myhuaweicloud.com
-  - .cn-south-4.myhuaweicloud.com
-  - .cn-southwest-2.myhuaweicloud.com
   - .cdnhwchcg02.com
   - .cdnhwcurq03.com
   - .cdnhwczba04.com

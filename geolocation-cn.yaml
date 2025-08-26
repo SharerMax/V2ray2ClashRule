@@ -1300,10 +1300,6 @@ payload:
   - .ciweimao.com
   - .hbooker.com
   - .kuangxiangit.com
-  - .copy-manga.com
-  - .mangacopy.com
-  - .mangafuna.xyz
-  - .mangafunb.fun
   - .biji.com
   - .ddmogo.com
   - .igetget.cn
@@ -1769,24 +1765,6 @@ payload:
   - .anzhuo.cn
   - .idcquan.com
   - .admin5.com
-  - .cloud.189.cn
-  - .ctfile.com
-  - .feimaoyun.com
-  - .filez.com
-  - .jianguoyun.com
-  - .pan.baidu.com
-  - .pan.quark.cn
-  - .pan.xunlei.com
-  - .weiyun.com
-  - .yun.139.com
-  - .yunpan.com
-  - .123pan.cn
-  - .123pan.com
-  - .alicloudccp.com
-  - .alipan.com
-  - .aliyundrive.com
-  - .aliyundrive.net
-  - .yunpan.aliyun.com
   - .115.com
   - .115cdn.com
   - .115cdn.net
@@ -1801,6 +1779,12 @@ payload:
   - .116cd.net
   - .anxia.com
   - .sq.cc
+  - .alicloudccp.com
+  - .alipan.com
+  - .aliyundrive.cloud
+  - .aliyundrive.com
+  - .aliyundrive.net
+  - .yunpan.aliyun.com
   - .baidupan.com
   - .ilanzou.com
   - .lanosso.com
@@ -1829,6 +1813,19 @@ payload:
   - .lanzouy.com
   - .lanzov.com
   - .woozooo.com
+  - .123pan.cn
+  - .123pan.com
+  - .cloud.189.cn
+  - .ctfile.com
+  - .feimaoyun.com
+  - .filez.com
+  - .jianguoyun.com
+  - .pan.baidu.com
+  - .pan.quark.cn
+  - .pan.xunlei.com
+  - .weiyun.com
+  - .yun.139.com
+  - .yunpan.com
   - .cnmstl.net
   - .fofa.so
   - .t00ls.cc
@@ -2304,8 +2301,6 @@ payload:
   - .cppblog.com
   - .phpweblog.net
   - .teachblog.net
-  - .coding.me
-  - .coding.net
   - .codechina.net
   - .csdn.com
   - .csdn.net
@@ -2358,6 +2353,9 @@ payload:
   - .mysxl.cn
   - .sxl.cn
   - .sxlcdn.cn
+  - .cnb.cool
+  - .coding.me
+  - .coding.net
   - .openmidas.com
   - .qq.design
   - .qqgamedesign.com
@@ -2426,6 +2424,12 @@ payload:
   - .oss-cn-shenzhen.aliyuncs.com
   - .oss-cn-wulanchabu.aliyuncs.com
   - .oss-cn-zhangjiakou.aliyuncs.com
+  - .alicloudccp.com
+  - .alipan.com
+  - .aliyundrive.cloud
+  - .aliyundrive.com
+  - .aliyundrive.net
+  - .yunpan.aliyun.com
   - .cainiao-inc.com
   - .cainiao.com
   - .cainiao.com.cn
@@ -2558,10 +2562,6 @@ payload:
   - .zuodao.com
   - .aliexpress.com
   - .alipayplus.com
-  - .alicloudccp.com
-  - .alipan.com
-  - .aliyundrive.com
-  - .aliyundrive.net
   - .freshhema.com
   - .freshippo.com
   - .hemamax.com
@@ -2927,6 +2927,7 @@ payload:
   - .volcfcdnbyte.com
   - .volcfcdn.com
   - .volcfcdndvs.com
+  - .volcfcdndvs1.com
   - .volcfcdnplus.com
   - .volcfcdnrd.com
   - .volcfcdnsc.com
@@ -3360,6 +3361,7 @@ payload:
   - .djiops.com
   - .djiservice.org
   - .skypixel.com
+  - .robomaster.com
   - .hihonor.cn
   - .hihonor.com
   - .hihonorcdn.com
@@ -3373,6 +3375,7 @@ payload:
   - .ami-alliance.org.cn
   - .b2bgo.com
   - .eduapaashwc.com
+  - .functiongraph.run
   - .hc-cdn.cn
   - .hc-cdn.com
   - .hc-sre.com
@@ -3450,6 +3453,7 @@ payload:
   - .myhuaweicloud-obs.cn
   - .myhuaweicloud-obs.com
   - .myhuaweicloud.cn
+  - .myhuaweicloud.com
   - .myhwcdn.cn
   - .myhwcdn.com
   - .myhwcloudlive.com
@@ -3460,23 +3464,6 @@ payload:
   - .pagescube.cn
   - .pagescube.com
   - .powerapp.io
-  - .cn-east-2.myhuaweicloud.com
-  - .cn-east-3.myhuaweicloud.com
-  - .cn-east-4.myhuaweicloud.com
-  - .cn-east-5.myhuaweicloud.com
-  - .cn-north-1.myhuaweicloud.com
-  - .cn-north-11.myhuaweicloud.com
-  - .cn-north-2.myhuaweicloud.com
-  - .cn-north-3.myhuaweicloud.com
-  - .cn-north-4.myhuaweicloud.com
-  - .cn-north-5.myhuaweicloud.com
-  - .cn-north-6.myhuaweicloud.com
-  - .cn-north-9.myhuaweicloud.com
-  - .cn-northeast-1.myhuaweicloud.com
-  - .cn-south-1.myhuaweicloud.com
-  - .cn-south-2.myhuaweicloud.com
-  - .cn-south-4.myhuaweicloud.com
-  - .cn-southwest-2.myhuaweicloud.com
   - .cdnhwchcg02.com
   - .cdnhwcurq03.com
   - .cdnhwczba04.com
@@ -4282,6 +4269,12 @@ payload:
   - .ma.run
   - .um.run
   - .ym.run
+  - .aegis.qq.com
+  - .tamaegis.com
+  - .rumt-zh.com
+  - .cnb.cool
+  - .coding.me
+  - .coding.net
   - .openmidas.com
   - .qq.design
   - .qqgamedesign.com

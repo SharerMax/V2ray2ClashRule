@@ -620,6 +620,13 @@ payload:
   - .wbdnbo.net
   - .catchplay.com
   - .tra-ww000-cp.akamaized.net
+  - .2025copy.com
+  - .copy-manga.com
+  - .copy20.com
+  - .copy2000.online
+  - .mangacopy.com
+  - .mangafuna.xyz
+  - .mangafunb.fun
   - .dailymotion.com
   - .dm-event.net
   - .dmcdn.net
@@ -886,7 +893,7 @@ payload:
   - .imdb.to
   - .media-imdb.com
   - .iyf.tv
-  - .dnvodcdn.me
+  - .yfsp.tv
   - .kingkong.com.tw
   - .kingkongapp.com
   - .kfs.io
@@ -956,6 +963,12 @@ payload:
   - .nicovideo.jp
   - .nimg.jp
   - .simg.jp
+  - .now.com
+  - .now.com.hk
+  - .nowe.com
+  - .nowe.hk
+  - .now-tv.com
+  - .now-ashare.com
   - .haiwaikan.com
   - .iole.tv
   - .olehd.com
@@ -1017,8 +1030,9 @@ payload:
   - .wheelpop.com
   - .wwtbam.com
   - .yourfantasybeginsnow.com
-  - .soundcloud.com
   - .sndcdn.com
+  - .soundcloud.cloud
+  - .soundcloud.com
   - .byspotify.com
   - .pscdn.co
   - .scdn.co
@@ -1333,6 +1347,7 @@ payload:
   - gamedownloads-rockstargames-com.akamaized.net
   - media-rockstargames-com.akamaized.net
   - videos-rockstargames-com.akamaized.net
+  - steamcommunity-a.akamaihd.net.edgesuite.net
   - a4e8s8k3.map2.ssl.hwcdn.net
   - f3b7q2p3.ssl.hwcdn.net
   - steambroadcast.akamaized.net

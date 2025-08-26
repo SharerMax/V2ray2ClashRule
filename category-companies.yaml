@@ -156,12 +156,15 @@ payload:
   - .amazonaws.net
   - .amazonaws.org
   - .amazonaws.tv
+  - .amazoncognito.com
   - .amazonses.com
   - .amazonworkdocs.com
   - .amplifyapp.com
   - .amplifyframework.com
   - .aws-iot-hackathon.com
   - .aws.com
+  - .awsapprunner.com
+  - .awsapps.com
   - .awsautopilot.com
   - .awsautoscaling.com
   - .awsbraket.com
@@ -2821,115 +2824,208 @@ payload:
   - .coreldraw.app
   - .coreldraw.com
   - .corelstore.com
-  - .cfblob.com
-  - .cloudchoose.com
-  - .cloudvolumes.com
-  - .cmpaas.com
-  - .cpedge.com
-  - .crit-staging.com
-  - .experience-vmware.com
-  - .gemfire.net
-  - .geodesummit.com
-  - .getboxer.com
-  - .gitstar.com
-  - .gitstar.net
-  - .gopivotal.net
-  - .greenplum.net
-  - .hwslabs.com
-  - .immidio.com
-  - .itfromtheinside.com
-  - .latamvmwareforum.com
-  - .pivotalinitiative.com
-  - .snapvolumes.com
-  - .ssdevrd.com
-  - .vcanedge.com
-  - .vcloudair.net
-  - .vfabric.net
-  - .vidmpreview.com
-  - .virsto.com
-  - .virsto.net
-  - .vmglobal.net
-  - .vmmark.com
-  - .vmtestdrive.com
-  - .vmw.com
-  - .vmware-cloudmanagement.com
-  - .vmware-techcenter.com
-  - .vmware.com
-  - .vmware20mosaic.com
-  - .vmwareausnews.com
-  - .vmwarecertificationvideos.com
-  - .vmwarecloud.com
-  - .vmwaredemandcenter.com
-  - .vmwareemeablog.com
-  - .vmwaregrid.com
-  - .vmwarehorizon.com
-  - .vmwareidentity.com
-  - .vmwarelearning.com
-  - .vmwarelearningplatform.com
-  - .vmwarestuff.com
-  - .vmwareusergroupstore.com
-  - .vmwareviewpoint.com
-  - .vmwarevmc.com
-  - .vmwdemo.com
-  - .vmwgcomms.com
-  - .vmwhorizonair.com
-  - .vmwidm-ads.com
-  - .vmwidm.com
-  - .vmwlabconnect.com
-  - .vmwlearningplatform.com
-  - .vmworld.com
-  - .vmworld2010.com
-  - .vmworld2013.com
-  - .vmwsalesrewards.com
-  - .vmwservices.com
-  - .vnware.net
-  - .whychoosehorizon.com
-  - .whychooseview.com
-  - .whychoosevmwareeuc.com
-  - .windowsuem.com
-  - .workspaceair.com
-  - .xlstudio.com
-  - .avinetworks.com
-  - .badaas.com
-  - .bitnami.com
-  - .bitnamiapp.com
-  - .bitnamistudio.com
-  - .dockerizer.com
-  - .cloudcredibility.com
-  - .cloudhealthtech.com
-  - .cloudlive.com
-  - .kubeacademy.com
-  - .kubeapps.com
-  - .nyansa.com
-  - .velocloud.com
-  - .gopivotal.com
-  - .heptio.com
-  - .aliveipc.com
-  - .aliveitsm.com
-  - .aliveprofiler.com
-  - .alivercm.com
-  - .aliverewind.com
-  - .alivertsm.com
-  - .alivevm.com
-  - .alivevmax.com
-  - .alivevue.com
-  - .vsphere.com
-  - .vsphere.net
-  - .air-watch.com
-  - .airwatchexpress.com
-  - .airwatchqa.com
-  - .getws1.com
-  - .getwsone.com
-  - .whatisairwatch.com
-  - .whatisworkspaceone.com
-  - .workspaceone.com
   - .dell
-  - .dell-brand.com
+  - .alienware.ae
+  - .alienware.at
+  - .alienware.be
+  - .alienware.biz
+  - .alienware.ca
+  - .alienware.ch
+  - .alienware.co.cr
+  - .alienware.co.il
+  - .alienware.co.in
+  - .alienware.co.nz
+  - .alienware.co.uk
+  - .alienware.com
+  - .alienware.com.au
+  - .alienware.com.es
+  - .alienware.com.my
+  - .alienware.com.sg
+  - .alienware.cz
+  - .alienware.de
+  - .alienware.dk
+  - .alienware.es
+  - .alienware.eu
+  - .alienware.fr
+  - .alienware.gr
+  - .alienware.hk
+  - .alienware.ie
+  - .alienware.it
+  - .alienware.jp
+  - .alienware.kr
+  - .alienware.lv
+  - .alienware.net
+  - .alienware.nl
+  - .alienware.ph
+  - .alienware.pl
+  - .alienware.ps
+  - .alienware.ro
+  - .alienware.se
+  - .alienware.us
+  - .del.com
+  - .del.com.br
+  - .dell.ac
+  - .dell.am
+  - .dell.at
+  - .dell.az
+  - .dell.be
+  - .dell.bg
+  - .dell.bi
+  - .dell.bs
+  - .dell.by
+  - .dell.ca
+  - .dell.cd
+  - .dell.cg
+  - .dell.ch
+  - .dell.cl
+  - .dell.co.id
+  - .dell.co.il
+  - .dell.co.in
+  - .dell.co.jp
+  - .dell.co.kr
+  - .dell.co.mu
+  - .dell.co.nz
+  - .dell.co.th
+  - .dell.co.tt
+  - .dell.co.uk
+  - .dell.co.vi
+  - .dell.co.za
   - .dell.com
+  - .dell.com.ag
+  - .dell.com.ai
+  - .dell.com.ar
+  - .dell.com.au
+  - .dell.com.bb
+  - .dell.com.bo
+  - .dell.com.br
+  - .dell.com.bs
+  - .dell.com.bz
+  - .dell.com.co
+  - .dell.com.cy
+  - .dell.com.dm
+  - .dell.com.do
+  - .dell.com.ec
+  - .dell.com.gr
+  - .dell.com.gt
+  - .dell.com.gy
+  - .dell.com.hk
+  - .dell.com.hn
+  - .dell.com.hr
+  - .dell.com.ht
+  - .dell.com.jm
+  - .dell.com.kn
+  - .dell.com.ky
+  - .dell.com.lc
+  - .dell.com.ly
+  - .dell.com.mk
+  - .dell.com.mt
+  - .dell.com.mx
+  - .dell.com.my
+  - .dell.com.na
+  - .dell.com.ng
+  - .dell.com.ni
+  - .dell.com.pa
+  - .dell.com.pe
+  - .dell.com.ph
+  - .dell.com.pk
+  - .dell.com.pl
+  - .dell.com.pr
+  - .dell.com.py
+  - .dell.com.ru
+  - .dell.com.sa
+  - .dell.com.sg
+  - .dell.com.tc
+  - .dell.com.tr
+  - .dell.com.tt
+  - .dell.com.tw
+  - .dell.com.ua
+  - .dell.com.uy
+  - .dell.com.vc
+  - .dell.com.ve
+  - .dell.com.vi
+  - .dell.cz
+  - .dell.de
+  - .dell.dk
+  - .dell.dm
+  - .dell.ee
+  - .dell.es
+  - .dell.eu
+  - .dell.fi
+  - .dell.fr
+  - .dell.gm
+  - .dell.gp
+  - .dell.gr
+  - .dell.hr
+  - .dell.hu
+  - .dell.id
+  - .dell.ie
+  - .dell.is
+  - .dell.it
+  - .dell.jp
+  - .dell.kg
+  - .dell.kn
+  - .dell.kz
+  - .dell.lt
+  - .dell.lu
+  - .dell.lv
+  - .dell.ly
+  - .dell.ma
+  - .dell.mq
+  - .dell.mu
+  - .dell.mw
+  - .dell.net
+  - .dell.ng
+  - .dell.nl
+  - .dell.no
+  - .dell.org.il
+  - .dell.ph
+  - .dell.pl
+  - .dell.ps
+  - .dell.pt
+  - .dell.ro
+  - .dell.ru
+  - .dell.rw
+  - .dell.sc
+  - .dell.se
+  - .dell.sg
+  - .dell.si
+  - .dell.sk
+  - .dell.sn
+  - .dell.tc
+  - .dell.tj
+  - .dell.tm
+  - .dell.tt
+  - .dell.tv
+  - .dell.ua
+  - .dell.ug
+  - .dell.uz
+  - .dell.vg
+  - .dell.vn
+  - .dataframeworks.com
   - .dellcdn.com
+  - .dellcommunity.com
+  - .dellcomunidade.com
+  - .dellcustomerservice.com
+  - .delldesignsystem.com
+  - .delldrivers.com
+  - .dellemc.com
+  - .dellemcevents.com
+  - .delloutlet.com
+  - .dellpoweredge.com
+  - .dellpowersolutions.com
+  - .dellprecision.com
+  - .dellprinter.com
   - .dellsupportcenter.com
+  - .delltechcenter.com
   - .delltechnologies.com
+  - .delltechnologiescapital.com
+  - .delltechnologiesworld.com
+  - .earthdell.com
   - .emc.com
+  - .shopalienware.com
+  - .solutionstation.com
+  - .studiodell.com
+  - .vce.com
   - .digitalocean.com
   - .digitaloceanspaces.com
   - .do.co
@@ -3084,6 +3180,8 @@ payload:
   - .notebooklm.google.com
   - .jules.google
   - .jules.google.com
+  - .labs.google
+  - .aisandbox-pa.googleapis.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -3099,6 +3197,8 @@ payload:
   - .notebooklm.google.com
   - .jules.google
   - .jules.google.com
+  - .labs.google
+  - .aisandbox-pa.googleapis.com
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
@@ -5227,7 +5327,6 @@ payload:
   - .crossborderexpansion.com
   - .docs.com
   - .dynamics.com
-  - .edgesuite.net
   - .efproject.net
   - .fasttrackreadysupport.com
   - .fluidpreview.com
@@ -5682,6 +5781,7 @@ payload:
   - .pccwsolutions.com
   - .moov.hk
   - .perplexity.ai
+  - .perplexity.com
   - .pplx.ai
   - .myqnapcloud.com
   - .qlink.to
@@ -6599,7 +6699,7 @@ payload:
   - vmware.tt.omtrdc.net
   - cisco.evergage.com
   - ciscolivehls-i.akamaihd.net
-  - vmware.tt.omtrdc.net
+  - dell.my.site.com
   - faronics.kayako.com
   - gigabyte2.azureedge.net
   - sa78gs.wpc.edgecastcdn.net

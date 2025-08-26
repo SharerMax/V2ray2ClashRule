@@ -23,6 +23,8 @@ payload:
   - .notebooklm.google.com
   - .jules.google
   - .jules.google.com
+  - .labs.google
+  - .aisandbox-pa.googleapis.com
   - .groq.com
   - .hf.co
   - .huggingface.co
@@ -37,6 +39,7 @@ payload:
   - .host.livekit.cloud
   - .turn.livekit.cloud
   - .perplexity.ai
+  - .perplexity.com
   - .pplx.ai
   - .poe.com
   - .poecdn.net
