@@ -3170,6 +3170,7 @@ payload:
   - .geller-pa.googleapis.com
   - .generativelanguage.googleapis.com
   - .proactivebackend-pa.googleapis.com
+  - .robinfrontend-pa.googleapis.com
   - .generativeai.google
   - .makersuite.google.com
   - .aistudio.google.com
@@ -3187,6 +3188,7 @@ payload:
   - .geller-pa.googleapis.com
   - .generativelanguage.googleapis.com
   - .proactivebackend-pa.googleapis.com
+  - .robinfrontend-pa.googleapis.com
   - .generativeai.google
   - .makersuite.google.com
   - .aistudio.google.com
