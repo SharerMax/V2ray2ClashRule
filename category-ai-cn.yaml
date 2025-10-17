@@ -11,8 +11,32 @@ payload:
   - .tongyi.com
   - .yiyan.baidu.com
   - .tiangong.cn
+  - .butterfly-static.cn
+  - .butterflyai.cn
+  - .coze.cn
+  - .coze.site
+  - .cozebaas.cn
+  - .cozefn.cn
+  - .cozeide.cn
   - .doubao.com
+  - .doubaocdn.com
+  - .hi-butterfly.cn
+  - .maoxiangai.com
+  - .myparallelstory.com
+  - .picpic-ai.cn
+  - .pixeldance.com
+  - .doudou.com
   - .marscode.cn
+  - .marscode.com.cn
+  - .mcbaas.work
+  - .mcdemo.show
+  - .mchost.guru
+  - .mcprev.cn
+  - .tcwqqdy.guru
+  - .trae.cn
+  - .trae.com.cn
+  - .trae.guru
+  - .yoma.cn
   - .bigmodel.cn
   - .chatglm.cn
   - .zhipuai.cn
@@ -28,5 +52,6 @@ payload:
   - .cueme.cn
   - .n.cn
   - .namiso.com
+  - .miaoyanai.com
   - cueme-api.quark.cn
   - ai.zhaomi.cn

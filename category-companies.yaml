@@ -310,7 +310,9 @@ payload:
   - .radeon.com
   - .anthropic.com
   - .claude.ai
+  - .claude.com
   - .claudeusercontent.com
+  - .claudemcpclient.com
   - .appleswift.com
   - .swift.org
   - .calendarserver.org
@@ -5131,6 +5133,7 @@ payload:
   - .githubuniverse.com
   - .githubusercontent.com
   - .myoctocat.com
+  - .octocaptcha.com
   - .opensource.guide
   - .repo.new
   - .thegithubshop.com
@@ -6812,6 +6815,7 @@ payload:
   - mtalk-dev.google.com
   - mtalk-staging.google.com
   - mtalk4.google.com
+  - yt3.googleusercontent.com
   - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hpstore.corpmerchandise.com
   - hpefonts.s3.amazonaws.com
@@ -6821,6 +6825,7 @@ payload:
   - azure.microsoft.com
   - azuremarketplace.microsoft.com
   - location.microsoft.com
+  - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
   - az764295.vo.msecnd.net
   - bingsettingssearch.trafficmanager.net

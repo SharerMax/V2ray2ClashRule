@@ -3,7 +3,10 @@
 payload:
   - .anthropic.com
   - .claude.ai
+  - .claude.com
   - .claudeusercontent.com
+  - .claudemcpclient.com
+  - .cerebras.ai
   - .cursor-cdn.com
   - .cursor.com
   - .cursor.sh
@@ -2844,6 +2847,8 @@ payload:
   - .binancezh.top
   - .binanceapi.com
   - .bnbstatic.com
+  - .bntrace.com
+  - .nftstatic.com
   - .appsflayer.com
   - .saasexch.cc
   - .saasexch.co
@@ -13590,6 +13595,7 @@ payload:
   - .javcdn.cc
   - .javcc.cc
   - .javcc.com
+  - .jav.app
   - .javdb.com
   - .jdbimgs.com
   - .jdbstatic.com
@@ -20593,6 +20599,7 @@ payload:
   - .githubuniverse.com
   - .githubusercontent.com
   - .myoctocat.com
+  - .octocaptcha.com
   - .opensource.guide
   - .repo.new
   - .thegithubshop.com
@@ -21192,7 +21199,9 @@ payload:
   - .radeon.com
   - .anthropic.com
   - .claude.ai
+  - .claude.com
   - .claudeusercontent.com
+  - .claudemcpclient.com
   - .appleswift.com
   - .swift.org
   - .calendarserver.org
@@ -26013,6 +26022,7 @@ payload:
   - .githubuniverse.com
   - .githubusercontent.com
   - .myoctocat.com
+  - .octocaptcha.com
   - .opensource.guide
   - .repo.new
   - .thegithubshop.com
@@ -28343,6 +28353,7 @@ payload:
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
   - steamvideo-a.akamaihd.net
+  - steamcloudsweden.blob.core.windows.net
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubistatic3-a.akamaihd.net
@@ -28415,6 +28426,7 @@ payload:
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
+  - yt3.googleusercontent.com
   - paper-attachments.s3.amazonaws.com
   - bbs.boingboing.net
   - fbcdn-a.akamaihd.net
@@ -28555,6 +28567,7 @@ payload:
   - firebaselogging.googleapis.com
   - firebaseperusertopics-pa.googleapis.com
   - firebaseremoteconfig.googleapis.com
+  - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
   - gitlab-assets.oss-cn-hongkong.aliyuncs.com
   - homebrew.bintray.com
@@ -28848,6 +28861,7 @@ payload:
   - mtalk-dev.google.com
   - mtalk-staging.google.com
   - mtalk4.google.com
+  - yt3.googleusercontent.com
   - google-ohttp-relay-safebrowsing.fastly-edge.com
   - hpstore.corpmerchandise.com
   - hpefonts.s3.amazonaws.com
@@ -28857,6 +28871,7 @@ payload:
   - azure.microsoft.com
   - azuremarketplace.microsoft.com
   - location.microsoft.com
+  - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
   - az764295.vo.msecnd.net
   - bingsettingssearch.trafficmanager.net

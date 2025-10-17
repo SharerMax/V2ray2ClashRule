@@ -929,4 +929,5 @@ payload:
   - mtalk-dev.google.com
   - mtalk-staging.google.com
   - mtalk4.google.com
+  - yt3.googleusercontent.com
   - google-ohttp-relay-safebrowsing.fastly-edge.com

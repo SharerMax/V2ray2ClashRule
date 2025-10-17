@@ -1361,6 +1361,7 @@ payload:
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
   - steamvideo-a.akamaihd.net
+  - steamcloudsweden.blob.core.windows.net
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubistatic3-a.akamaihd.net
@@ -1433,3 +1434,4 @@ payload:
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
+  - yt3.googleusercontent.com

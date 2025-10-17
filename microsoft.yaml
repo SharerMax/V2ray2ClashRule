@@ -110,6 +110,7 @@ payload:
   - .githubuniverse.com
   - .githubusercontent.com
   - .myoctocat.com
+  - .octocaptcha.com
   - .opensource.guide
   - .repo.new
   - .thegithubshop.com
@@ -488,6 +489,7 @@ payload:
   - azure.microsoft.com
   - azuremarketplace.microsoft.com
   - location.microsoft.com
+  - github-api.arkoselabs.com
   - github-cloud.s3.amazonaws.com
   - az764295.vo.msecnd.net
   - bingsettingssearch.trafficmanager.net

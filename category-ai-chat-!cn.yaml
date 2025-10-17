@@ -3,7 +3,10 @@
 payload:
   - .anthropic.com
   - .claude.ai
+  - .claude.com
   - .claudeusercontent.com
+  - .claudemcpclient.com
+  - .cerebras.ai
   - .cursor-cdn.com
   - .cursor.com
   - .cursor.sh
