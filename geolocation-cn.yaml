@@ -18,7 +18,10 @@ payload:
   - .n0q.cn
   - .pushcfg.com
   - .s0n.cn
+  - .cnzz.com
   - .mobmore.com
+  - .puata.info
+  - .shujupie.com
   - .umeng.com
   - .umengcloud.com
   - .umsns.com
@@ -456,6 +459,10 @@ payload:
   - .yyds.co
   - .3songshu.com
   - .haidilao.com
+  - .anlaiye.com
+  - .anlaiye.com.cn
+  - .imcoming.com
+  - .imcome.net
   - .56laile.com
   - .800best.cn
   - .800best.com
@@ -608,6 +615,87 @@ payload:
   - .ztogroup.com
   - .ztoyh.com
   - .guoocang.com
+  - .analog.com
+  - .arrow.cn
+  - .bouffalolab.com
+  - .esp8266.cn
+  - .esp8266.com
+  - .esp8266.com.cn
+  - .espressif.cn
+  - .espressif.com
+  - .espressif.com.cn
+  - .eda.cn
+  - .elecfans.com
+  - .hqchip.com
+  - .hqdoc.com
+  - .hqpcb.com
+  - .infineon.com
+  - .forface3d.com
+  - .jlcfa.com
+  - .jlcgroup.cn
+  - .jlc-3dp.cn
+  - .jlc-bbs.com
+  - .jlc-cnc.com
+  - .jlc-dfm.com
+  - .jlc-drm.com
+  - .jlc-fpc.com
+  - .jlc-gw.com
+  - .jlc-smt.com
+  - .jlc-layout.com
+  - .jlc-zh.com
+  - .oshwhub.com
+  - .szlcsc.com
+  - .sz-jlc.com
+  - .zxhgroup.com
+  - .quecmall.cn
+  - .quectel.com.cn
+  - .iotronic.tech
+  - .rock-chips.com
+  - .seeed.cn
+  - .seeed.cc
+  - .seeed.com.cn
+  - .seeedstudio.com.cn
+  - .sipeed.com
+  - .maixhub.com
+  - .ti.com
+  - .ti.com.cn
+  - .wch.cn
+  - .wch-ic.com
+  - .autohome.com
+  - .autohome.com.cn
+  - .autohome.tel
+  - .autoimg.cn
+  - .autoimg.com.cn
+  - .bitauto.com
+  - .bitautoimg.com
+  - .cheyisou.com
+  - .yiche.com
+  - .yccdn.com
+  - .dcarapi.com
+  - .dcarimg.com
+  - .dcarlive.com
+  - .dcarstatic.com
+  - .dcarvod.com
+  - .dcdapp.com
+  - .dongchedi.com
+  - .dongchediapp.com
+  - .byd.com
+  - .geely.com
+  - .gwm.com.cn
+  - .lixiang.com
+  - .nio.cn
+  - .xiaopeng.com
+  - .zeekrlife.com
+  - .gzurl.cn
+  - .guazi.com
+  - .guazistatic.com
+  - .guazi.net
+  - .1hai.cn
+  - .izuche.com
+  - .izuchebao.com
+  - .wkzuche.com
+  - .zuche.com
+  - .zuchecdn.com
   - .baijiayun.com
   - .bootcdn.cn
   - .bootcdn.net
@@ -1134,52 +1222,8 @@ payload:
   - .youzanyun.com
   - .ziroom.com
   - .ziroomapartment.com
-  - .analog.com
-  - .arrow.cn
-  - .bouffalolab.com
-  - .esp8266.cn
-  - .esp8266.com
-  - .esp8266.com.cn
-  - .espressif.cn
-  - .espressif.com
-  - .espressif.com.cn
-  - .eda.cn
-  - .elecfans.com
-  - .hqchip.com
-  - .hqdoc.com
-  - .hqpcb.com
-  - .infineon.com
-  - .forface3d.com
-  - .jlcfa.com
-  - .jlcgroup.cn
-  - .jlc-3dp.cn
-  - .jlc-bbs.com
-  - .jlc-cnc.com
-  - .jlc-dfm.com
-  - .jlc-drm.com
-  - .jlc-fpc.com
-  - .jlc-gw.com
-  - .jlc-smt.com
-  - .jlc-layout.com
-  - .jlc-zh.com
-  - .oshwhub.com
-  - .szlcsc.com
-  - .sz-jlc.com
-  - .zxhgroup.com
-  - .quecmall.cn
-  - .quectel.com.cn
-  - .iotronic.tech
-  - .rock-chips.com
-  - .seeed.cn
-  - .seeed.cc
-  - .seeed.com.cn
-  - .seeedstudio.com.cn
-  - .sipeed.com
-  - .maixhub.com
-  - .ti.com
-  - .ti.com.cn
-  - .wch.cn
-  - .wch-ic.com
+  - .dmall.com
+  - .dmallcdn.com
   - .kongfz.com
   - .kfzimg.com
   - .pupuapi.com
@@ -1615,6 +1659,14 @@ payload:
   - .wasu.cn
   - .wasu.tv
   - .wasumedia.cn
+  - .1xhh.cn
+  - .accxiaoheihe.com
+  - .chat.top
+  - .debugmode.cn
+  - .max-c.com
+  - .maxadmin.cn
+  - .maxjia.com
+  - .xiaoheihe.cn
   - .ximalaya.com
   - .xmcdn.com
   - .kumiao.com
@@ -1953,6 +2005,17 @@ payload:
   - .wss1.cn
   - .123pan.cn
   - .123pan.com
+  - .123panpay.com
+  - .123957.com
+  - .123912.com
+  - .123860.com
+  - .123842.com
+  - .123641.com
+  - .123624.com
+  - .123294.com
+  - .123254.com
+  - .123245.com
+  - .123952.com
   - .cloud.189.cn
   - .ctfile.com
   - .feimaoyun.com
@@ -2204,11 +2267,6 @@ payload:
   - .agoraio.cn
   - .agoralab.co
   - .antutu.com
-  - .bitauto.com
-  - .bitautoimg.com
-  - .cheyisou.com
-  - .yiche.com
-  - .yccdn.com
   - .oray.com
   - .oray.net
   - .orayer.com
@@ -2547,8 +2605,11 @@ payload:
   - .aliyun-iot-share.com
   - .aliyun.com
   - .aliyuncdn.com
+  - .aliyuncdn.net
   - .aliyunfile.com
+  - .aliyunpds.com
   - .cdngslb.com
+  - .fcapp.run
   - .hichina.com
   - .ica-alliance.org
   - .kunlunaq.com
@@ -2602,8 +2663,10 @@ payload:
   - .dingtalk.com
   - .dingtalk.net
   - .dingtalkapps.com
+  - .dingtalkcloud.com
   - .laiwang.com
   - .lwurl.to
+  - .ztna-dingtalk.com
   - .doservice.com
   - .ele.me
   - .ele.to
@@ -2619,7 +2682,10 @@ payload:
   - .uc123.com
   - .ucweb.com
   - .uczzd.cn
+  - .cnzz.com
   - .mobmore.com
+  - .puata.info
+  - .shujupie.com
   - .umeng.com
   - .umengcloud.com
   - .umsns.com
@@ -2779,6 +2845,13 @@ payload:
   - .goofish.com
   - .kaola.com
   - .kaolacdn.com
+  - .lydaas.cn
+  - .lydaas.com
+  - .lydaas.com.cn
+  - .lydaas.net
+  - .lydass.cn
+  - .lydass.com.cn
+  - .lydass.net
   - .b3log.org
   - .zuoyebang.cc
   - .zuoyebang.com
@@ -4721,6 +4794,11 @@ payload:
   - .wo.cn
   - .wo.com.cn
   - .wo116114.com
+  - .chinatowercom.cn
+  - .china-tower.com
+  - .tower.com.cn
+  - .tower0788.com
+  - .tower0788.cn
   - .leetcode.cn
   - .leetcode-cn.com
   - .lingkou.xyz
@@ -4857,6 +4935,7 @@ payload:
   - .263.net
   - .289.com
   - .2cto.com
+  - .2dfire.com
   - .3000.com
   - .310win.com
   - .315che.com
@@ -5030,6 +5109,7 @@ payload:
   - .changba.com
   - .chaojituzi.net
   - .chashebao.com
+  - .chaz.fun
   - .chazhengla.com
   - .che168.com
   - .china-chair.com
@@ -5056,6 +5136,7 @@ payload:
   - .chuangxin.com
   - .chuansong.me
   - .chuansongme.com
+  - .chujingapp.com
   - .chushou.tv
   - .chuyu.me
   - .city8.com
@@ -5065,9 +5146,9 @@ payload:
   - .cnanzhi.com
   - .cnepub.com
   - .cnlaw.net
-  - .cnzz.com
   - .cocodiy.com
   - .code666.com
+  - .codeloop.top
   - .cofeed.com
   - .cofool.com
   - .coindog.com
@@ -5293,7 +5374,7 @@ payload:
   - .itjuzi.com
   - .itmop.com
   - .iyiou.com
-  - .izuche.com
+  - .iyunmu.com
   - .jb51.com
   - .jia.com
   - .jiameng.com
@@ -5426,6 +5507,7 @@ payload:
   - .mikecrm.com
   - .minhangshi.com
   - .miusi.co
+  - .miyatech.com
   - .mjia.cc
   - .mmbang.com
   - .mmbang.info
@@ -5660,6 +5742,7 @@ payload:
   - .wanwushuo.com
   - .wanyiwang.com
   - .wanyx.com
+  - .warmheart.top
   - .wdjimg.com
   - .wdzj.com
   - .weand.com
@@ -5695,10 +5778,12 @@ payload:
   - .wtown.com
   - .wumii.com
   - .wuming.com
+  - .wuuxiang.com
   - .wuximediaglobal.com
   - .wywyx.com
   - .xafc.com
   - .xbiao.com
+  - .xdqtech.com
   - .xdwan.com
   - .xfdown.com
   - .xiachufang.com
@@ -5828,12 +5913,11 @@ payload:
   - .zpb365.com
   - .zrblog.net
   - .zsxq.com
-  - .zuche.com
-  - .zuchecdn.com
   - .zuhaowan.com
   - .zuidaima.com
   - .zuowen8.com
   - .zuowenwang.net
+  - .zztfly.com
   - .fm3838.com
   - .larsonlimited.com
   - .runsheng.com

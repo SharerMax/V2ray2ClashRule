@@ -55,6 +55,7 @@ payload:
   - .jasper.ai
   - .chutes.ai
   - .copilot.microsoft.com
+  - .diabrowser.com
   - .dify.ai
   - .gateway.ai.cloudflare.com
   - .meta.ai
@@ -2959,6 +2960,7 @@ payload:
   - .dydx.exchange
   - .fundingrates.xyz
   - .gemini.com
+  - .guardarian.com
   - .hashflow.com
   - .infura.io
   - .invity.io
@@ -2973,6 +2975,7 @@ payload:
   - .polymarket.com
   - .ripple.com
   - .satoshilabs.com
+  - .stealthex.io
   - .theblock.co
   - .trezor.io
   - .truefi.io
@@ -11871,6 +11874,7 @@ payload:
   - .twvid.com
   - .vine.co
   - .x.com
+  - .cdn-vk.ru
   - .mradx.net
   - .mvk.com
   - .userapi.com
@@ -11879,6 +11883,7 @@ payload:
   - .vk-apps.ru
   - .vk-cdn.me
   - .vk-cdn.net
+  - .vkcloud-static.ru
   - .vk-portal.net
   - .vk.cc
   - .vk.com
@@ -20366,6 +20371,7 @@ payload:
   - .vercel.app
   - .vercel.blog
   - .vercel.com
+  - .vercel.dev
   - .vercel.events
   - .vercel.live
   - .vercel.pub
@@ -22705,6 +22711,7 @@ payload:
   - .xn--hxtr4rozx.xn--czr694b
   - .xn--kput3imi374g.xn--hxt814e
   - .xn--ruq8a011kt6y.xn--hxt814e
+  - .courier-push-apple.com.akadns.net
   - .asus.com
   - .asuscloud.com
   - .asuswebstorage.com
@@ -25365,9 +25372,13 @@ payload:
   - .logitechg.fr
   - .logitechio.com.cn
   - .worldsfastestgamer.net
+  - .boosty.to
+  - .donationalerts.com
   - .imgsmail.ru
   - .mail.ru
+  - .memealerts.com
   - .mycdn.me
+  - .okcdn.ru
   - .aboutfacebook.com
   - .accessfacebookfromschool.com
   - .acebooik.com
@@ -26778,10 +26789,15 @@ payload:
   - .samsung.com
   - .samsungapps.com
   - .samsungcloud.com
+  - .samsungconsent.com
   - .samsungdm.com
   - .samsunggalaxyfriends.com
+  - .samsunghealth.com
+  - .samsungiotcloud.com
   - .samsungknox.com
+  - .samsungosp.com
   - .samsungqbe.com
+  - .samsungrs.com
   - .skyperfectjsat.space
   - .sptvbroadcast.com
   - .spcc-sp.com
@@ -28745,7 +28761,7 @@ payload:
   - www-cdn.icloud.com.akadns.net
   - ingest.apple-studies.com
   - apple.com.akadns.net
-  - courier-push-apple.com.akadns.net
+  - configuration-lb.ls-apple.com.akadns.net
   - push-apple.com.akadns.net
   - vmware.tt.omtrdc.net
   - cisco.evergage.com

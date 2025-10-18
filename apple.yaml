@@ -1504,6 +1504,7 @@ payload:
   - .xn--hxtr4rozx.xn--czr694b
   - .xn--kput3imi374g.xn--hxt814e
   - .xn--ruq8a011kt6y.xn--hxt814e
+  - .courier-push-apple.com.akadns.net
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
@@ -1520,5 +1521,5 @@ payload:
   - www-cdn.icloud.com.akadns.net
   - ingest.apple-studies.com
   - apple.com.akadns.net
-  - courier-push-apple.com.akadns.net
+  - configuration-lb.ls-apple.com.akadns.net
   - push-apple.com.akadns.net
