@@ -206,7 +206,6 @@ payload:
   - .bankofbeijing.com.cn
   - .bosc.cn
   - .bsb.com.cn
-  - .ccb.com
   - .cebbank.com
   - .cgbchina.com.cn
   - .cib.com.cn
@@ -241,6 +240,9 @@ payload:
   - .sseinfo.com
   - .szse.cn
   - .cninfo.com.cn
+  - .hsbc.com.cn
+  - .hsbcqh.com.cn
+  - .hsbcinsurance.com.cn
   - .ajzq.com
   - .avicsec.com
   - .ccnew.com
@@ -282,7 +284,6 @@ payload:
   - .gsgh.cn
   - .gszq.com
   - .gtja.com
-  - .gtja.com
   - .guodu.com
   - .guosen.com.cn
   - .gyzq.com.cn
@@ -292,7 +293,6 @@ payload:
   - .hlzqgs.com
   - .hongtastock.com
   - .hrsec.com.cn
-  - .hsbcqh.com.cn
   - .htsc.com.cn
   - .htsec.com
   - .huajingsec.com
@@ -399,19 +399,6 @@ payload:
   - .howbuy.com
   - .lufunds.com
   - .zlfund.cn
-  - .citic
-  - .xn--fiq64b
-  - .chinaamc.com
-  - .citic-prudential.com.cn
-  - .citicbank.com
-  - .citiccapital.com
-  - .citiciam.com
-  - .citicifh.com
-  - .citicprufunds.com.cn
-  - .citicsf.com
-  - .clsa.com
-  - .csc108.com
-  - .ecitic.com
   - .1234567.com.cn
   - .18.cn
   - .18.com.cn
@@ -448,6 +435,7 @@ payload:
   - .mryys.cn
   - .4thworkshop.com
   - .4thworkshop.cn
+  - .aloys233.top
   - .fanmingming.com
   - .zway.top
   - .517lppz.com
@@ -630,22 +618,48 @@ payload:
   - .hqdoc.com
   - .hqpcb.com
   - .infineon.com
+  - .fa-part.com
   - .forface3d.com
-  - .jlcfa.com
-  - .jlcgroup.cn
   - .jlc-3dp.cn
+  - .jlc-3dp.com
   - .jlc-bbs.com
+  - .jlc-cad.com
+  - .jlc-cam.com
   - .jlc-cnc.com
   - .jlc-dfm.com
   - .jlc-drm.com
+  - .jlc-ecad.com
+  - .jlc-erp.com
   - .jlc-fpc.com
   - .jlc-gw.com
-  - .jlc-smt.com
+  - .jlc-jh.com
   - .jlc-layout.com
+  - .jlc-pcb.com
+  - .jlc-smt.com
   - .jlc-zh.com
+  - .jlc.com
+  - .jlc3dp.cn
+  - .jlccad.com
+  - .jlccam.com
+  - .jlccnc.com
+  - .jlcdfm.com
+  - .jlcecad.com
+  - .jlceda.cn
+  - .jlceda.com
+  - .jlcerp.com
+  - .jlcfa.com
+  - .jlcgroup.cn
+  - .jlcops.com
+  - .jlcsj.com
+  - .jlcsmt.com
+  - .lceda.cn
+  - .lckfb.com
   - .oshwhub.com
-  - .szlcsc.com
+  - .sanweihou.com
   - .sz-jlc.com
+  - .szjlc.cn
+  - .szlcsc.com
+  - .zs-jlc.com
   - .zxhgroup.com
   - .quecmall.cn
   - .quectel.com.cn
@@ -700,7 +714,6 @@ payload:
   - .bootcdn.cn
   - .bootcdn.net
   - .bootcss.com
-  - .bootcdn.cn
   - .phpcomposer.com
   - .acadn.cn
   - .acadn.com
@@ -801,18 +814,30 @@ payload:
   - .oncdp.com
   - .51cdn.com
   - .8686c.com
+  - .cdn20.com
   - .cdn30.org
   - .chinanetcenter.com
+  - .lxdns.cn
   - .lxdns.com
   - .lxdns.info
+  - .lxdns.net
   - .lxdns.org
+  - .mwcdns.com
+  - .mwcloudcdn.com
   - .ourdvsss.com
+  - .qtlcdn.cn
+  - .qtlcdn.com
+  - .qtlcdn.net
   - .speedws.info
   - .speedws.org
   - .wangsu.com
   - .wscdns.com
   - .wscdns.info
   - .wscdns.org
+  - .wsglb.com
+  - .wsglb.net
+  - .wswebcdn.com
+  - .wswebpic.com
   - .yfcache.com
   - .yfcalc.com
   - .yfcdn.net
@@ -836,7 +861,6 @@ payload:
   - .58cdn.com.cn
   - .58che.com
   - .58control.cn
-  - .58corp.com
   - .58corp.com
   - .58dns.org
   - .58lovepet.com
@@ -939,14 +963,6 @@ payload:
   - .djdjapp.com
   - .dongjiao.cc
   - .dongjiaoapp.com
-  - .doservice.com
-  - .ele.me
-  - .ele.to
-  - .eleme.cn
-  - .eleme.io
-  - .elemecdn.cn
-  - .elemecdn.com
-  - .elenet.me
   - .1huizhan.com
   - .3.cn
   - .300hu.com
@@ -1319,7 +1335,6 @@ payload:
   - .longtugame.com
   - .morefreegame.com
   - .heavenlywind.cc
-  - .steampp.net
   - .tgpro.top
   - .tgprocs.net
   - .winegame.net
@@ -1678,8 +1693,10 @@ payload:
   - .zhanqi.tv
   - .lsplayer.com
   - .yeshen.com
+  - .51zmt.top
   - .bsbsb.top
   - .dongqiudi.com
+  - .goka.top
   - .pearvideo.com
   - .leigod.com
   - .tmjiasuqi.com
@@ -1943,6 +1960,7 @@ payload:
   - .anzhuo.cn
   - .idcquan.com
   - .admin5.com
+  - .jxpp.com
   - .115.com
   - .115cdn.com
   - .115cdn.net
@@ -2144,6 +2162,7 @@ payload:
   - .neoscholar.com
   - .neoschool.com
   - .winyoungreading.com
+  - .saduck.top
   - .csdl.ac.cn
   - .iscas.ac.cn
   - .las.ac.cn
@@ -2225,7 +2244,6 @@ payload:
   - .rdfybk.com
   - .resset.com
   - .sciencechina.cn
-  - .sslibrary.com
   - .tokyotrial.cn
   - .tongxianghuicn.com
   - .twscholar.com
@@ -2250,8 +2268,6 @@ payload:
   - .guokr.net
   - .ihuman.com
   - .hongen.com
-  - .wanfangdata.com.cn
-  - .wf.pub
   - .3type.cn
   - .4paradigm.com
   - .51job.com
@@ -2273,6 +2289,8 @@ payload:
   - .orayimg.com
   - .sunlogin.net
   - .todesk.com
+  - .asklink.com
+  - .privateapi.xyz
   - .tower.im
   - .tritoninfo.net
   - .xiumi.us
@@ -2318,42 +2336,46 @@ payload:
   - .fa-part.com
   - .forface3d.com
   - .jlc-3dp.cn
-  - .jlc3dp.cn
   - .jlc-3dp.com
+  - .jlc-bbs.com
   - .jlc-cad.com
-  - .jlccad.com
   - .jlc-cam.com
-  - .jlccam.com
-  - .jlccam.com
   - .jlc-cnc.com
-  - .jlccnc.com
-  - .jlc.com
   - .jlc-dfm.com
-  - .jlcdfm.com
   - .jlc-drm.com
   - .jlc-ecad.com
-  - .jlcecad.com
-  - .jlceda.cn
-  - .jlceda.com
   - .jlc-erp.com
-  - .jlcerp.com
-  - .jlcfa.com
   - .jlc-fpc.com
-  - .jlcgroup.cn
   - .jlc-gw.com
   - .jlc-jh.com
   - .jlc-layout.com
-  - .jlcops.com
   - .jlc-pcb.com
+  - .jlc-smt.com
+  - .jlc-zh.com
+  - .jlc.com
+  - .jlc3dp.cn
+  - .jlccad.com
+  - .jlccam.com
+  - .jlccnc.com
+  - .jlcdfm.com
+  - .jlcecad.com
+  - .jlceda.cn
+  - .jlceda.com
+  - .jlcerp.com
+  - .jlcfa.com
+  - .jlcgroup.cn
+  - .jlcops.com
   - .jlcsj.com
   - .jlcsmt.com
   - .lceda.cn
   - .lckfb.com
   - .oshwhub.com
   - .sanweihou.com
-  - .szjlc.cn
   - .sz-jlc.com
+  - .szjlc.cn
+  - .szlcsc.com
   - .zs-jlc.com
+  - .zxhgroup.com
   - .gotokeep.com
   - .keepcdn.com
   - .lagou.com
@@ -4182,7 +4204,6 @@ payload:
   - .360zqaq.com
   - .anquanke.com
   - .appjiagu.com
-  - .baomitu.com
   - .dhsvc.cn
   - .haoso.com
   - .haosou.com
@@ -4211,8 +4232,6 @@ payload:
   - .qihoo.net
   - .qihuapi.cn
   - .qihucdn.com
-  - .qiku.com
-  - .qikucdn.com
   - .so.com
   - .sou.cn
   - .sou.com
@@ -4226,60 +4245,6 @@ payload:
   - .zhaomi.cn
   - .zhaomishijie.com
   - .roborock.com
-  - .97973.com
-  - .picself.cn
-  - .sina.cn
-  - .sina.com
-  - .sina.com.cn
-  - .sina.net
-  - .sinaapp.com
-  - .sinaedge.com
-  - .sinaimg.cn
-  - .sinaimg.com
-  - .sinajs.cn
-  - .sinajs.com
-  - .t.cn
-  - .videoself.cn
-  - .wbimg.com
-  - .wbimg.cn
-  - .wcdn.cn
-  - .weibo.cn
-  - .weibo.com
-  - .weibo.com.cn
-  - .weibocdn.com
-  - .xhaiwai.com
-  - .binglianhuajianzhan.com
-  - .ggoplay.com
-  - .ggowan.com
-  - .go2map.com
-  - .pinyin.cn
-  - .qd.ink
-  - .sg.cn
-  - .sgtmos.com
-  - .sgyeyou.com
-  - .sgyouxi.com
-  - .sogo.com
-  - .sogou.cn
-  - .sogou.com
-  - .sogou.com.cn
-  - .sogou.net
-  - .sogoucdn.com
-  - .sogoucdndl.com
-  - .sogouimecdn.com
-  - .sogou-inc.com
-  - .sogou-op.org
-  - .soso.com
-  - .soso.com.cn
-  - .sososnap.com
-  - .teemo.cn
-  - .wannianqingjianzhan.com
-  - .xiangrikuijianzhan.com
-  - .xiangrikuisite.com
-  - .xinyan.cn
-  - .yeyousg.com
-  - .yidianliulan.cn
-  - .yidianliulan.com
-  - .yuweikuijianzhan.com
   - .gongqingyun.cn
   - .jzfz.net
   - .sumkoo.cn
@@ -4406,7 +4371,6 @@ payload:
   - .spcloudhw.net
   - .srmkp.cn
   - .starlakelab.com
-  - .tamaegis.com
   - .tapd.cn
   - .tcdlive.com
   - .tcdnhw.com
@@ -4828,6 +4792,7 @@ payload:
   - .ipchaxun.net
   - .rdnsdb.com
   - .ipplus360.com
+  - .ipshu.com
   - .fofa.info
   - .onedns.net
   - .infinitynewtab.com
@@ -4921,7 +4886,6 @@ payload:
   - .17cdn.com
   - .17house.com
   - .18183.com
-  - .188.com
   - .1905.com
   - .19yxw.com
   - .1nongjing.com
@@ -5011,6 +4975,7 @@ payload:
   - .84399.com
   - .885.com
   - .900.la
+  - .900cha.com
   - .917.com
   - .91danji.com
   - .95508.com
@@ -5096,10 +5061,8 @@ payload:
   - .caijingwu.com
   - .caiyun.com
   - .cang.com
-  - .cankaoxiaoxi.com
   - .cardbaobao.com
   - .carnoc.com
-  - .cdn20.com
   - .cecdc.com
   - .cecport.com
   - .centanet.com
@@ -5112,6 +5075,7 @@ payload:
   - .chaz.fun
   - .chazhengla.com
   - .che168.com
+  - .chememall.com
   - .china-chair.com
   - .china-nengyuan.com
   - .china.com
@@ -5159,7 +5123,6 @@ payload:
   - .csbew.com
   - .csmjzs.com
   - .csslcloud.net
-  - .ctfile.com
   - .ctiforum.com
   - .ctoutiao.com
   - .ctsbw.com
@@ -5182,6 +5145,7 @@ payload:
   - .danji6.com
   - .daocloud.io
   - .daovoice.io
+  - .daytx.cn
   - .dayukaoshi.com
   - .dazijia.com
   - .dcdkjx.com
@@ -5216,7 +5180,6 @@ payload:
   - .dui.ai
   - .duiopen.com
   - .duoduocdn.com
-  - .duokanbox.com
   - .duomai.com
   - .duoshuo.com
   - .duote.com
@@ -5237,7 +5200,6 @@ payload:
   - .ecjobhome.com
   - .eeyy.com
   - .eflycloud.com
-  - .elecfans.com
   - .emarbox.com
   - .emumax.com
   - .enterdesk.com
@@ -5252,6 +5214,7 @@ payload:
   - .fangxiaoer.com
   - .fanxian.com
   - .fastapi.net
+  - .feihengip.com
   - .feihuo.com
   - .feiniaomy.com
   - .fengniao.com
@@ -5273,6 +5236,7 @@ payload:
   - .gdjdxy.com
   - .gdliontech.com
   - .gdrc.com
+  - .geektool.top
   - .geilicdn.com
   - .getui.com
   - .gezida.com
@@ -5294,6 +5258,7 @@ payload:
   - .guaiguai.com
   - .guanaitong.com
   - .guanhaobio.com
+  - .guanyierp.com
   - .gucheng.com
   - .guigu.org
   - .guoxinmac.com
@@ -5316,6 +5281,7 @@ payload:
   - .haolietou.com
   - .haote.com
   - .haoyouyinxiang.com
+  - .halvie.com
   - .hefei.cc
   - .heisha.net
   - .hellobike.com
@@ -5359,6 +5325,7 @@ payload:
   - .ikafan.com
   - .im2maker.com
   - .im-cc.com
+  - .imacos.top
   - .imgcdc.com
   - .imooc.com
   - .indienova.com
@@ -5368,6 +5335,7 @@ payload:
   - .ipinyou.com
   - .iranshao.com
   - .irs01.com
+  - .istoreos.com
   - .it165.net
   - .it168.com
   - .it610.com
@@ -5379,7 +5347,6 @@ payload:
   - .jia.com
   - .jiameng.com
   - .jianbihua.com
-  - .jianguoyun.com
   - .jianzhi8.com
   - .jiaodong.net
   - .jiaoyimao.com
@@ -5530,6 +5497,7 @@ payload:
   - .myzaker.com
   - .naixuecha.com
   - .netbian.com
+  - .netzz.net
   - .newasp.net
   - .newbandeng.com
   - .newyx.net
@@ -5539,6 +5507,7 @@ payload:
   - .ntalker.com
   - .nvsheng.com
   - .nx-sc.com
+  - .nxog.top
   - .nzbdw.com
   - .oadz.com
   - .oeeee.com
@@ -5681,6 +5650,7 @@ payload:
   - .tanx.com
   - .tao123.com
   - .taoche.com
+  - .tclai.top
   - .te5.com
   - .tenxcloud.com
   - .tianjimedia.com
@@ -5784,6 +5754,7 @@ payload:
   - .xafc.com
   - .xbiao.com
   - .xdqtech.com
+  - .xdtool.com
   - .xdwan.com
   - .xfdown.com
   - .xiachufang.com
