@@ -308,6 +308,39 @@ payload:
   - .amd.com.cn
   - .amdfanstore.com
   - .radeon.com
+  - .bestsrv.de
+  - .customercontrolpanel.de
+  - .dnsserver1.de
+  - .dnsserver2.de
+  - .goodsrv.de
+  - .happysrv.de
+  - .hotsrv.de
+  - .luckysrv.de
+  - .megasrv.de
+  - .netcup.cafe
+  - .netcup.com
+  - .netcup.de
+  - .netcup.eu
+  - .netcup.net
+  - .netcup-news.de
+  - .netcup-sonderangebote.de
+  - .netcup-wiki.de
+  - .nicesrv.de
+  - .powersrv.de
+  - .quicksrv.de
+  - .servercontrolpanel.de
+  - .supersrv.de
+  - .ultrasrv.de
+  - .yourvserver.net
+  - .anexia.at
+  - .anexia.com
+  - .anexia-engine.com
+  - .anexia-it.com
+  - .fifthns.com
+  - .firstns.cc
+  - .fourthns.systems
+  - .secondns.at
+  - .thirdns.de
   - .anthropic.com
   - .claude.ai
   - .claude.com
@@ -4455,6 +4488,8 @@ payload:
   - .kakaostyle.com
   - .posty.kr
   - .zigzag.kr
+  - .kaspersky-labs.com
+  - .kaspersky.com
   - .lg.com
   - .lgappstv.com
   - .lge.co.kr
@@ -5650,30 +5685,6 @@ payload:
   - .naverlabs.com
   - .plug.game
   - .prismlive.com
-  - .bestsrv.de
-  - .customercontrolpanel.de
-  - .dnsserver1.de
-  - .dnsserver2.de
-  - .goodsrv.de
-  - .happysrv.de
-  - .hotsrv.de
-  - .luckysrv.de
-  - .megasrv.de
-  - .netcup.cafe
-  - .netcup.com
-  - .netcup.de
-  - .netcup.eu
-  - .netcup.net
-  - .netcup-news.de
-  - .netcup-sonderangebote.de
-  - .netcup-wiki.de
-  - .nicesrv.de
-  - .powersrv.de
-  - .quicksrv.de
-  - .servercontrolpanel.de
-  - .supersrv.de
-  - .ultrasrv.de
-  - .yourvserver.net
   - .neuralink.com
   - .geforce.co.kr
   - .geforce.co.uk

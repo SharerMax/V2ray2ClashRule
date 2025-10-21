@@ -3826,6 +3826,15 @@ payload:
   - .anandtech.com
   - .betterexplained.com
   - .brilliant.org
+  - .ac.ir
+  - .edu.ir
+  - .iau.ac.ir
+  - .iranlms.ir
+  - .jtt.ir
+  - .sanjesh.org
+  - .sharif.edu
+  - .sharif.ir
+  - .srttu.edu
   - .cam.ac.uk
   - .cambridge.org
   - .cambridgeschoolshakespeare.com
@@ -9395,15 +9404,6 @@ payload:
   - .zeplerinstitute.ac.uk
   - .zoonoses.ac.uk
   - .zoonosis.ac.uk
-  - .ac.ir
-  - .edu.ir
-  - .iau.ac.ir
-  - .iranlms.ir
-  - .jtt.ir
-  - .sanjesh.org
-  - .sharif.edu
-  - .sharif.ir
-  - .srttu.edu
   - .apa.org
   - .psyccareers.com
   - .newisiknowledge.com
@@ -9592,12 +9592,13 @@ payload:
   - .aimsciences.org
   - .airiti.com
   - .airitilibrary.com
-  - .altmetric.com
   - .alexanderstreet.com
+  - .alphaxiv.org
+  - .altmetric.com
   - .amdigital.co.uk
   - .ams.org
-  - .anatomy.tv
   - .analytictech.com
+  - .anatomy.tv
   - .annualreviews.org
   - .aps.org
   - .arabidopsis.org
@@ -9657,6 +9658,7 @@ payload:
   - .heinonline.org
   - .highwirepress.com
   - .hindawi.com
+  - .hotcrp.com
   - .icevirtuallibrary.com
   - .icsd.fiz-karlsruhe.de
   - .igi-global.com
@@ -9691,6 +9693,7 @@ payload:
   - .neurology.org
   - .nii.ac.jp
   - .oecd-ilibrary.org
+  - .openreview.net
   - .optica.org
   - .osapublishing.org
   - .ovid.com
@@ -9716,6 +9719,8 @@ payload:
   - .scitation.org
   - .semanticscholar.org
   - .siam.org
+  - .sigcomm.org
+  - .sigops.org
   - .silverchair-cdn.com
   - .spiedigitallibrary.org
   - .statsmakemecry.com
@@ -9729,6 +9734,7 @@ payload:
   - .ucla.edu
   - .umass.edu
   - .usaco.org
+  - .usenix.org
   - .westlaw.com
   - .wiley.com
   - .wolterskluwer.com
@@ -19975,6 +19981,39 @@ payload:
   - .cdnpure.com
   - .pureapk.com
   - .winudf.com
+  - .comodo.com
+  - .comodo.net
+  - .drweb.by
+  - .drweb.cn
+  - .drweb.co.jp
+  - .drweb.com
+  - .drweb.fr
+  - .drweb.kz
+  - .drweb.ru
+  - .drweb.uz
+  - .drweb-av.de
+  - .drweb-av.es
+  - .drweb-av.it
+  - .drweb-av.pl
+  - .e5.sk
+  - .eset.com
+  - .eset.eu
+  - .eset.sk
+  - .eset.systems
+  - .esetsoftware.com
+  - .kaspersky-labs.com
+  - .kaspersky.com
+  - .symantec.com
+  - .symantecliveupdate.com
+  - .avast.com
+  - .avg.com
+  - .avira.com
+  - .bitdefender.com
+  - .clamwin.com
+  - .f-secure.com
+  - .mcafee.com
+  - .norton.com
+  - .pandasecurity.com
   - .censorship.no
   - .epicbrowser.com
   - .firefox.com
@@ -21206,6 +21245,39 @@ payload:
   - .amd.com.cn
   - .amdfanstore.com
   - .radeon.com
+  - .bestsrv.de
+  - .customercontrolpanel.de
+  - .dnsserver1.de
+  - .dnsserver2.de
+  - .goodsrv.de
+  - .happysrv.de
+  - .hotsrv.de
+  - .luckysrv.de
+  - .megasrv.de
+  - .netcup.cafe
+  - .netcup.com
+  - .netcup.de
+  - .netcup.eu
+  - .netcup.net
+  - .netcup-news.de
+  - .netcup-sonderangebote.de
+  - .netcup-wiki.de
+  - .nicesrv.de
+  - .powersrv.de
+  - .quicksrv.de
+  - .servercontrolpanel.de
+  - .supersrv.de
+  - .ultrasrv.de
+  - .yourvserver.net
+  - .anexia.at
+  - .anexia.com
+  - .anexia-engine.com
+  - .anexia-it.com
+  - .fifthns.com
+  - .firstns.cc
+  - .fourthns.systems
+  - .secondns.at
+  - .thirdns.de
   - .anthropic.com
   - .claude.ai
   - .claude.com
@@ -25353,6 +25425,8 @@ payload:
   - .kakaostyle.com
   - .posty.kr
   - .zigzag.kr
+  - .kaspersky-labs.com
+  - .kaspersky.com
   - .lg.com
   - .lgappstv.com
   - .lge.co.kr
@@ -26548,30 +26622,6 @@ payload:
   - .naverlabs.com
   - .plug.game
   - .prismlive.com
-  - .bestsrv.de
-  - .customercontrolpanel.de
-  - .dnsserver1.de
-  - .dnsserver2.de
-  - .goodsrv.de
-  - .happysrv.de
-  - .hotsrv.de
-  - .luckysrv.de
-  - .megasrv.de
-  - .netcup.cafe
-  - .netcup.com
-  - .netcup.de
-  - .netcup.eu
-  - .netcup.net
-  - .netcup-news.de
-  - .netcup-sonderangebote.de
-  - .netcup-wiki.de
-  - .nicesrv.de
-  - .powersrv.de
-  - .quicksrv.de
-  - .servercontrolpanel.de
-  - .supersrv.de
-  - .ultrasrv.de
-  - .yourvserver.net
   - .neuralink.com
   - .geforce.co.kr
   - .geforce.co.uk
@@ -28313,9 +28363,9 @@ payload:
   - medone-education.thieme.com
   - angle.com.tw
   - beck-online.beck.de
-  - dl.begellhouse.com
   - databank.worldbank.org
   - database.asahi.com
+  - dl.begellhouse.com
   - elib.maruzen.co.jp
   - firstsearch.oclc.org
   - muse.jhu.edu
@@ -28489,6 +28539,8 @@ payload:
   - misa-prod.s3.ap-northeast-1.amazonaws.com
   - widgets.stripst.com
   - anime-rule34-world.b-cdn.net
+  - eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
+  - epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
   - time.apple.com
   - time.asia.apple.com
   - time.euro.apple.com
