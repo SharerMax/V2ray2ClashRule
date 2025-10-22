@@ -102,6 +102,7 @@ payload:
   - .pod-15-sunco-ws.zendesk.com
   - .xhpjc6-cdn-settings.appsflyersdk.com
   - .rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+  - .straitsx.com
   - .trustwallet.com
   - .wisecoin.com
   - .wiseid.com
@@ -172,3 +173,5 @@ payload:
   - bybit.ada.support
   - deribit.cdn.prismic.io
   - onekey.zendesk.com
+  - d3r7nsslvs6aaf.cloudfront.net
+  - straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com

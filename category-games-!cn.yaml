@@ -491,6 +491,10 @@ payload:
   - .ubisoft.com
   - .ubisoftconnect.com
   - .uplay.com
+  - .warnerbrosgames.com
+  - .wbagora.com
+  - .wbgames.com
+  - .wbinsights.com
   - .asobostudio.com
   - .flightsimulator.com
   - .beth.games
@@ -604,5 +608,7 @@ payload:
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubistatic3-a.akamaihd.net
+  - datarouter.apps.netherrealm.com
+  - wb-agora-hydra-file-storage-k1.s3.amazonaws.com
   - flightsimulator.azureedge.net
   - prodforza.blob.core.windows.net
