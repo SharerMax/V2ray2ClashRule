@@ -11310,6 +11310,8 @@ payload:
   - .ldstatic.com
   - .5i01.com
   - .mobile01.com
+  - .deepflood.com
+  - .nodeseek.com
   - .pimg.tw
   - .pixanalytics.com
   - .pixfs.net
@@ -19502,6 +19504,7 @@ payload:
   - .xshaker.net
   - .xshr.online
   - .xsijishe.com
+  - .xsijishe.net
   - .xslist.org
   - .xstas.biz
   - .xsvod.xyz
