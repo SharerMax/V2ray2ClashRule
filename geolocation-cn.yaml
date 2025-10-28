@@ -816,6 +816,7 @@ payload:
   - .8686c.com
   - .cdn20.com
   - .cdn30.org
+  - .cdnmg.com
   - .chinanetcenter.com
   - .lxdns.cn
   - .lxdns.com
@@ -834,6 +835,7 @@ payload:
   - .wscdns.com
   - .wscdns.info
   - .wscdns.org
+  - .wsdvs.com
   - .wsglb.com
   - .wsglb.net
   - .wswebcdn.com
@@ -1189,6 +1191,7 @@ payload:
   - .yihaodianimg.com
   - .yiyaojd.com
   - .yizhitou.com
+  - .imdada.cn
   - .duolabao.com
   - .lianjia.com
   - .ljcdn.com
@@ -1306,6 +1309,11 @@ payload:
   - .yxhhdl.com
   - .cowlevel.net
   - .cdncl.net
+  - .hero.com
+  - .herogame.com
+  - .heroesports.com
+  - .shyxhy.com
+  - .yingxiong.com
   - .tgbus.com
   - .tiancity.com
   - .tiancitycdn.com
@@ -1744,9 +1752,7 @@ payload:
   - .ngacn.cc
   - .saraba1st.com
   - .52pojie.cn
-  - .acwifi.net
   - .chongbuluo.com
-  - .chongdiantou.com
   - .itsk.com
   - .kafan.cn
   - .kanxue.com
@@ -1759,7 +1765,11 @@ payload:
   - .uiwow.com
   - .wuyou.net
   - .423down.com
+  - .acwifi.net
+  - .chongdiantou.com
   - .ghxi.com
+  - .iplaysoft.com
+  - .itellyou.cn
   - .moyubuluo.com
   - .upe.net
   - .winos.me
@@ -2300,6 +2310,7 @@ payload:
   - .smgv.cn
   - .nlark.com
   - .yuque.com
+  - .woodo.cn
   - .doc88.com
   - .docin.com
   - .douding.cn
@@ -2508,6 +2519,8 @@ payload:
   - .tieba.com
   - .dandan818.com
   - .dandanvoice.com
+  - .maimai.cn
+  - .taou.com
   - .aixcoder.com
   - .nnthink.com
   - .apifox.cn
@@ -4309,6 +4322,14 @@ payload:
   - .cncqcloud.com
   - .computeinit.com
   - .coolsite.vip
+  - .dcloudlive.com
+  - .dcloudlive.net
+  - .dcloudsp.com
+  - .dcloudsp.net
+  - .dcloudstc.com
+  - .dcloudstc.net
+  - .dcloudvod.com
+  - .dcloudvod.net
   - .dnsv1.com
   - .dnsv1.com.cn
   - .dothework.cn
@@ -4425,6 +4446,7 @@ payload:
   - .tencentcos.cn
   - .tencentcos.com
   - .tencentcos.com.cn
+  - .tencentcs.cn
   - .tencentcs.com
   - .tencentdayu.com
   - .tencentdb.com
@@ -4639,7 +4661,6 @@ payload:
   - .mi-img.com
   - .mi.com
   - .mifile.cn
-  - .migames.com
   - .mijia.tech
   - .mitvos.com
   - .miui.com
@@ -4666,6 +4687,8 @@ payload:
   - .xiaomisa.org
   - .xiaomiwear.com
   - .xiaomixiaoai.com
+  - .migames.com
+  - .wali.com
   - .airstarfinance.net
   - .mipay.com
   - .duokan.com
@@ -4798,6 +4821,8 @@ payload:
   - .ip138.com
   - .ipshudi.com
   - .chaziyu.com
+  - .icplishi.com
+  - .ipchaxun.com
   - .ipchaxun.net
   - .rdnsdb.com
   - .ipplus360.com
@@ -5681,6 +5706,7 @@ payload:
   - .touqikan.com
   - .touzid.com
   - .travelsky.com
+  - .trjcn.com
   - .trunktech.com
   - .trustexporter.com
   - .trustutn.org
@@ -5725,6 +5751,7 @@ payload:
   - .wdjimg.com
   - .wdzj.com
   - .weand.com
+  - .weavatar.com
   - .weicaifu.com
   - .weidian.com
   - .weilaicaijing.com

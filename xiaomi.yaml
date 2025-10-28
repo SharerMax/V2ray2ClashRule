@@ -6,7 +6,6 @@ payload:
   - .mi-img.com
   - .mi.com
   - .mifile.cn
-  - .migames.com
   - .mijia.tech
   - .mitvos.com
   - .miui.com
@@ -33,6 +32,8 @@ payload:
   - .xiaomisa.org
   - .xiaomiwear.com
   - .xiaomixiaoai.com
+  - .migames.com
+  - .wali.com
   - .airstarfinance.net
   - .mipay.com
   - .duokan.com
