@@ -885,7 +885,10 @@ payload:
   - .roomeet.cn
   - .xinchong.com
   - .zhuancorp.com
+  - .zhuaninc.com
+  - .zhuanspirit.cn
   - .zhuanspirit.com
+  - .zhuanstatic.com
   - .zhuanzhuan.com
   - .c-ctrip.com
   - .colinker.com
@@ -1850,6 +1853,7 @@ payload:
   - .saayaa.com
   - .win7china.com
   - .win8china.com
+  - .zuihuimai.com
   - .binglianhuajianzhan.com
   - .ggoplay.com
   - .ggowan.com
@@ -2924,6 +2928,7 @@ payload:
   - .bce-cdn.com
   - .bce-cdn.net
   - .bcebos.com
+  - .bcelive.com
   - .bdcloudapi.com
   - .bdimg.com
   - .bdstatic.com
@@ -2959,6 +2964,7 @@ payload:
   - .tiebaimg.com
   - .xianfae.com
   - .xiaodutv.com
+  - .yoojia.com
   - .duxiaoman-int.com
   - .duxiaoman.com
   - .duxiaomanfintech.com
@@ -4656,6 +4662,7 @@ payload:
   - .vivo.cn
   - .vivo.com
   - .vivo.com.cn
+  - .vvstc.com
   - .mgslb.com
   - .mi-idc.com
   - .mi-img.com
@@ -4732,6 +4739,7 @@ payload:
   - .ztemall.com
   - .ztems.com
   - .huorong.cn
+  - .quickapp.cn
   - .socpk.com
   - .udesk.cn
   - .fdcyun.com
@@ -4777,6 +4785,7 @@ payload:
   - .chinatelecom-h.com
   - .chinatelecom.com.cn
   - .chntel.com
+  - .vnet.cn
   - .unicom
   - .xn--8y0a063a
   - .10010.com
@@ -4852,6 +4861,8 @@ payload:
   - .sinopecnews.com.cn
   - .sinopecsales.com
   - .aiqicha.baidu.com
+  - .aiqicha.cn
+  - .aiqicha.com
   - .hongdunwang.com.cn
   - .qcc.com
   - .qichacha.com
