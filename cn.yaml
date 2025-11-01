@@ -38,6 +38,13 @@ payload:
   - .xn--8y0a063a
   - .xn--rhqv96g
   - .xn--nyqy26a
+  - .gepush.com
+  - .getui.cn
+  - .getui.com
+  - .getui.net
+  - .igehuo.com
+  - .igetui.com
+  - .igexin.com
   - .42r.cn
   - .5566ua.com
   - .aurorapush.cn
@@ -1251,7 +1258,9 @@ payload:
   - .mogucdn.com
   - .mogujie.com
   - .pddcdn.com
+  - .pddim.com
   - .pddpic.com
+  - .pddugc.com
   - .pinduoduo.com
   - .pinduoduo.net
   - .yangkeduo.com
@@ -2032,6 +2041,9 @@ payload:
   - .aliyundrive.com
   - .aliyundrive.net
   - .yunpan.aliyun.com
+  - .c-t.work
+  - .cowcs.com
+  - .cowtransfer.com
   - .baidupan.com
   - .ilanzou.com
   - .lanosso.com
@@ -2364,8 +2376,6 @@ payload:
   - .chinaz.net
   - .caiyunai.com
   - .caiyunapp.com
-  - .c-t.work
-  - .cowtransfer.com
   - .dida365.com
   - .allflow.cn
   - .flowus.cn
@@ -2385,49 +2395,6 @@ payload:
   - .jianshuapi.com
   - .jinshuju.net
   - .jinshujucdn.com
-  - .fa-part.com
-  - .forface3d.com
-  - .jlc-3dp.cn
-  - .jlc-3dp.com
-  - .jlc-bbs.com
-  - .jlc-cad.com
-  - .jlc-cam.com
-  - .jlc-cnc.com
-  - .jlc-dfm.com
-  - .jlc-drm.com
-  - .jlc-ecad.com
-  - .jlc-erp.com
-  - .jlc-fpc.com
-  - .jlc-gw.com
-  - .jlc-jh.com
-  - .jlc-layout.com
-  - .jlc-pcb.com
-  - .jlc-smt.com
-  - .jlc-zh.com
-  - .jlc.com
-  - .jlc3dp.cn
-  - .jlccad.com
-  - .jlccam.com
-  - .jlccnc.com
-  - .jlcdfm.com
-  - .jlcecad.com
-  - .jlceda.cn
-  - .jlceda.com
-  - .jlcerp.com
-  - .jlcfa.com
-  - .jlcgroup.cn
-  - .jlcops.com
-  - .jlcsj.com
-  - .jlcsmt.com
-  - .lceda.cn
-  - .lckfb.com
-  - .oshwhub.com
-  - .sanweihou.com
-  - .sz-jlc.com
-  - .szjlc.cn
-  - .szlcsc.com
-  - .zs-jlc.com
-  - .zxhgroup.com
   - .gotokeep.com
   - .keepcdn.com
   - .lagou.com
@@ -2684,6 +2651,7 @@ payload:
   - .alidayu.com
   - .alidns.com
   - .alikunlun.com
+  - .alikunlun.net
   - .aliyun-inc.com
   - .aliyun-iot-share.com
   - .aliyun.com
@@ -2779,6 +2747,7 @@ payload:
   - .56che.com
   - .95095.com
   - .9game.cn
+  - .ali-health.com
   - .aliapp.org
   - .alibaba-inc.com
   - .alibaba.com
@@ -3713,6 +3682,17 @@ payload:
   - .djiservice.org
   - .skypixel.com
   - .robomaster.com
+  - .gree.cn
+  - .gree.com
+  - .gree.com.cn
+  - .greeyun.com
+  - .kinghomechina.com
+  - .tosot.com.cn
+  - .zhlyen.com
+  - .ehaier.com
+  - .haier.com
+  - .haier.net
+  - .haiersmarthomes.com
   - .hihonor.cn
   - .hihonor.com
   - .hihonorcdn.com
@@ -4141,6 +4121,15 @@ payload:
   - .meizu.cn
   - .meizu.com
   - .mzres.com
+  - .irsnp.com
+  - .mdcdn.cn
+  - .midea.cn
+  - .midea.com
+  - .midea.com.cn
+  - .mideaepayuat.com
+  - .msmartlife.cn
+  - .msmartlife.com
+  - .smartmidea.net
   - .narwal.com
   - .narwaltech.com
   - .126.com
@@ -4278,6 +4267,7 @@ payload:
   - .namiso.com
   - .nicaifu.com
   - .nzwgs.com
+  - .qh-cdn.com
   - .qhcdn.com
   - .qhimg.com
   - .qhimgs0.com
@@ -4318,6 +4308,11 @@ payload:
   - .zhiyuanhe.cn
   - .zhiyuanyun.com.cn
   - .zyhe.com.cn
+  - .tclai.top
+  - .tcl.com
+  - .tcl.com.cn
+  - .tcltech.com
+  - .leiniao.com
   - .comsenz.com
   - .discuz.net
   - .discuz.org
@@ -4884,6 +4879,18 @@ payload:
   - .aamgame.mobi
   - .aamsmart.com
   - .singworld.net
+  - .aiqicha.baidu.com
+  - .aiqicha.cn
+  - .aiqicha.com
+  - .hongdunwang.com.cn
+  - .qcc.com
+  - .qichacha.com
+  - .qichamao.com
+  - .qixin.com
+  - .qyyjt.cn
+  - .jindidata.com
+  - .tianyancha.com
+  - .x315.com
   - .8btc.com
   - .bystack.com
   - .chainnode.com
@@ -4897,38 +4904,6 @@ payload:
   - .sinopecgroup.com
   - .sinopecnews.com.cn
   - .sinopecsales.com
-  - .aiqicha.baidu.com
-  - .aiqicha.cn
-  - .aiqicha.com
-  - .hongdunwang.com.cn
-  - .qcc.com
-  - .qichacha.com
-  - .qichamao.com
-  - .qixin.com
-  - .qyyjt.cn
-  - .jindidata.com
-  - .tianyancha.com
-  - .x315.com
-  - .gree.cn
-  - .gree.com
-  - .gree.com.cn
-  - .greeyun.com
-  - .kinghomechina.com
-  - .tosot.com.cn
-  - .zhlyen.com
-  - .ehaier.com
-  - .haier.com
-  - .haier.net
-  - .haiersmarthomes.com
-  - .irsnp.com
-  - .mdcdn.cn
-  - .midea.cn
-  - .midea.com
-  - .midea.com.cn
-  - .mideaepayuat.com
-  - .msmartlife.cn
-  - .msmartlife.com
-  - .smartmidea.net
   - .chugou360.com
   - .ycrx360.com
   - .jikeiot.cloud
@@ -5320,7 +5295,6 @@ payload:
   - .gdrc.com
   - .geektool.top
   - .geilicdn.com
-  - .getui.com
   - .gezida.com
   - .gfan.com
   - .giocdn.com
@@ -5373,6 +5347,7 @@ payload:
   - .henkuai.com
   - .herostart.com
   - .hiido.com
+  - .hitokoto.cn
   - .hiyd.com
   - .hktheone.com
   - .hn-cbec.com
@@ -5426,6 +5401,7 @@ payload:
   - .iyiou.com
   - .iyunmu.com
   - .jb51.com
+  - .jb51.net
   - .jia.com
   - .jiameng.com
   - .jianbihua.com
@@ -5658,6 +5634,7 @@ payload:
   - .rong360.com
   - .rtbasia.com
   - .ruan8.com
+  - .ruiwen.com
   - .runoob.com
   - .rzrc114.com
   - .saibo.com
@@ -5732,7 +5709,6 @@ payload:
   - .tanx.com
   - .tao123.com
   - .taoche.com
-  - .tclai.top
   - .te5.com
   - .tenxcloud.com
   - .tianjimedia.com
@@ -5981,7 +5957,12 @@ payload:
   - .zoomyou.cn
   - .ecombdapi.com
   - .huaban.com
+  - .huabanimg.com
   - .dancf.com
+  - .hlgdata.com
+  - .huanleguang.com
+  - .ttxsapp.com.cn
+  - .xsbapp.cn
   - .kujiale.com
   - .hisensehitachi.com
   - .suzuki-china.com
@@ -6020,7 +6001,6 @@ payload:
   - .bdcat.top
   - .puddingcat.top
   - .ningtingche.com
-  - .immersivetranslate.com
   - .mingxuan.store
   - .qunliao.info
   - cueme-api.quark.cn
