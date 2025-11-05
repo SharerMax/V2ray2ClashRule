@@ -3444,6 +3444,8 @@ payload:
   - .farfetch.com
   - .farfetch.net
   - .fflnk.net
+  - .ggsel.com
+  - .ggsel.net
   - .gucci
   - .chimeforchange.org
   - .gucci.com
@@ -10732,6 +10734,7 @@ payload:
   - .dlsitestudio.com
   - .nijiyome.jp
   - .triokini.com
+  - .ficbook.net
   - .gimy.cc
   - .gimy.co
   - .gimy.to
