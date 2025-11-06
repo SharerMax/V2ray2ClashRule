@@ -11,6 +11,12 @@ payload:
   - .cursor.com
   - .cursor.sh
   - .cursorapi.com
+  - .cici.com
+  - .ciciai.com
+  - .ciciaicdn.com
+  - .dola.com
+  - .elevenlabs.com
+  - .elevenlabs.io
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -1466,6 +1472,17 @@ payload:
   - .fibank.bg
   - .meawallet.app
   - .myfin.bg
+  - .futuesop.com
+  - .futufin.com
+  - .futuhk.com
+  - .futuhn.com
+  - .futuholdings.com
+  - .futuniuniu.com
+  - .futunn.com
+  - .futustatic.com
+  - .moomoo.com
+  - .moomooequity.com
+  - .moomootrustee.com
   - .hsbc
   - .hsbc.com
   - .hsbc.net
@@ -1547,6 +1564,10 @@ payload:
   - .ifastgp.com.hk
   - .ifastnetwork.com
   - .ifasttv.com
+  - .itiger.com
+  - .itigergrowth.com
+  - .itigergrowtha.com
+  - .itigerup.com
   - .longbridge.cloud
   - .longbridge.com
   - .longbridge.global
@@ -1560,6 +1581,13 @@ payload:
   - .n26.com
   - .number26.de
   - .tech26.de
+  - .aboutschwab.com
+  - .schwab.co.uk
+  - .schwab.com
+  - .schwab.com.hk
+  - .schwab.com.sg
+  - .schwabassetmanagement.com
+  - .schwabplan.com
   - .transferwise.com
   - .wise.com
   - .fxcorporate.com
@@ -28250,6 +28278,7 @@ payload:
   - .spacely.com.au
   - .squarefoot.com.hk
   - .thinkofliving.com
+  - .predb.me
   - .scenesource.me
   - .scnsrc.me
   - .sbux.com.my
