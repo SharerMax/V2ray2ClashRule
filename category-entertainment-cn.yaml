@@ -115,6 +115,19 @@ payload:
   - .bestvcdn.com.cn
   - .bestvcdn.net
   - .smgbb.cn
+  - .bilicdn1.com
+  - .bilicdn2.com
+  - .bilicdn3.com
+  - .bilicdn4.com
+  - .bilicdn5.com
+  - .biliimg.com
+  - .bilivideo.cn
+  - .bilivideo.com
+  - .bilivideo.net
+  - .hdslb.com
+  - .hdslb.org
+  - .maoercdn.com
+  - .mincdn.com
   - .bilicomic.com
   - .bilicomics.com
   - .acg.tv
@@ -138,21 +151,8 @@ payload:
   - .bilibili.net
   - .bilibilipay.cn
   - .bilibilipay.com
-  - .bilicdn1.com
-  - .bilicdn2.com
-  - .bilicdn3.com
-  - .bilicdn4.com
-  - .bilicdn5.com
   - .biligo.com
-  - .biliimg.com
-  - .bilivideo.cn
-  - .bilivideo.com
-  - .bilivideo.net
-  - .hdslb.com
-  - .hdslb.org
   - .im9.com
-  - .maoercdn.com
-  - .mincdn.com
   - .yo9.com
   - .ciweimao.com
   - .hbooker.com
