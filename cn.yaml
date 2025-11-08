@@ -649,6 +649,8 @@ payload:
   - .guoocang.com
   - .analog.com
   - .arrow.cn
+  - .boe.com
+  - .boe.com.cn
   - .bouffalolab.com
   - .esp8266.cn
   - .esp8266.com
@@ -661,7 +663,7 @@ payload:
   - .hqchip.com
   - .hqdoc.com
   - .hqpcb.com
-  - .infineon.com
+  - .infineon.cn
   - .fa-part.com
   - .forface3d.com
   - .jlc-3dp.cn
@@ -715,7 +717,6 @@ payload:
   - .seeedstudio.com.cn
   - .sipeed.com
   - .maixhub.com
-  - .ti.com
   - .ti.com.cn
   - .wch.cn
   - .wch-ic.com
@@ -4048,6 +4049,7 @@ payload:
   - .papocket.com
   - .wpspdf.cn
   - .kimg.cn
+  - .kingsoft-office-service.com
   - .kingsoft.com
   - .ks-live.com
   - .ksmobile.com
@@ -4140,12 +4142,14 @@ payload:
   - .163.com
   - .163cn.tv
   - .163industry.com
+  - .163jiasu.com
   - .163mail.com
   - .163qiyukf.com
   - .163yun.com
   - .166.com
   - .166.net
   - .188.com
+  - .321fenx.com
   - .haowu.link
   - .icourse163.org
   - .lofter.com
@@ -4153,7 +4157,11 @@ payload:
   - .netease-inc.com
   - .netease.com
   - .netease.im
+  - .netstatic.net
   - .qiyukf.com
+  - .qiyukf.net
+  - .qiyukf.net.cn
+  - .static163.net
   - .ydstatic.com
   - .yeah.net
   - .youdao.com
@@ -4782,6 +4790,8 @@ payload:
   - .kaipuyun.com
   - .kaipuyun.com.cn
   - .kaipuyun.net
+  - .deepepg.com
+  - .kookong.com
   - .51togic.com
   - .ezpro.pro
   - .xedge.cc
