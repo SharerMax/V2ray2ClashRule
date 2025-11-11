@@ -10868,14 +10868,6 @@ payload:
   - .litv.tv
   - .litvfreepc.akamaized.net
   - .manhuagui.com
-  - .genshinimpact.com
-  - .honkaiimpact3.com
-  - .honkaistarrail.com
-  - .hoyo.link
-  - .hoyolab.com
-  - .hoyoverse.com
-  - .n0vadesktop.com
-  - .zenlesszonezero.com
   - .mubi.com
   - .mubicdn.net
   - .biggggg.com
@@ -20074,6 +20066,40 @@ payload:
   - .esetsoftware.com
   - .kaspersky-labs.com
   - .kaspersky.com
+  - .kaspersky.be
+  - .kaspersky.ca
+  - .kaspersky.co.in
+  - .kaspersky.co.jp
+  - .kaspersky.co.kr
+  - .kaspersky.co.th
+  - .kaspersky.co.uk
+  - .kaspersky.co.za
+  - .kaspersky.com.au
+  - .kaspersky.com.br
+  - .kaspersky.com.hk
+  - .kaspersky.com.hk
+  - .kaspersky.com.pl
+  - .kaspersky.com.tr
+  - .kaspersky.com.tw
+  - .kaspersky.com.vn
+  - .kaspersky.cz
+  - .kaspersky.de
+  - .kaspersky.dk
+  - .kaspersky.dz
+  - .kaspersky.es
+  - .kaspersky.fi
+  - .kaspersky.fr
+  - .kaspersky.gr
+  - .kaspersky.it
+  - .kaspersky.kz
+  - .kaspersky.ma
+  - .kaspersky.my
+  - .kaspersky.nl
+  - .kaspersky.pt
+  - .kaspersky.ro
+  - .kaspersky.rs
+  - .kaspersky.ru
+  - .kaspersky.se
   - .symantec.com
   - .symantecliveupdate.com
   - .avast.com
@@ -25535,6 +25561,40 @@ payload:
   - .zigzag.kr
   - .kaspersky-labs.com
   - .kaspersky.com
+  - .kaspersky.be
+  - .kaspersky.ca
+  - .kaspersky.co.in
+  - .kaspersky.co.jp
+  - .kaspersky.co.kr
+  - .kaspersky.co.th
+  - .kaspersky.co.uk
+  - .kaspersky.co.za
+  - .kaspersky.com.au
+  - .kaspersky.com.br
+  - .kaspersky.com.hk
+  - .kaspersky.com.hk
+  - .kaspersky.com.pl
+  - .kaspersky.com.tr
+  - .kaspersky.com.tw
+  - .kaspersky.com.vn
+  - .kaspersky.cz
+  - .kaspersky.de
+  - .kaspersky.dk
+  - .kaspersky.dz
+  - .kaspersky.es
+  - .kaspersky.fi
+  - .kaspersky.fr
+  - .kaspersky.gr
+  - .kaspersky.it
+  - .kaspersky.kz
+  - .kaspersky.ma
+  - .kaspersky.my
+  - .kaspersky.nl
+  - .kaspersky.pt
+  - .kaspersky.ro
+  - .kaspersky.rs
+  - .kaspersky.ru
+  - .kaspersky.se
   - .lg.com
   - .lgappstv.com
   - .lge.co.kr
