@@ -6,15 +6,18 @@ payload:
   - .claude.com
   - .claudeusercontent.com
   - .claudemcpclient.com
+  - .cici.com
+  - .ciciai.com
+  - .ciciaicdn.com
+  - .dola.com
+  - .coze.com
+  - .marscode.com
+  - .trae.ai
   - .cerebras.ai
   - .cursor-cdn.com
   - .cursor.com
   - .cursor.sh
   - .cursorapi.com
-  - .cici.com
-  - .ciciai.com
-  - .ciciaicdn.com
-  - .dola.com
   - .elevenlabs.com
   - .elevenlabs.io
   - .deepmind.com
@@ -113,7 +116,9 @@ payload:
   - .freewechat.com
   - .freeweibo.com
   - .freezhihu.org
+  - .googlecensorship.org
   - .greatfire.org
+  - .greatfirevpn.com
   - .pao-pao.net
   - .wikiunblocked.org
   - .haveibeenpwned.com
@@ -13526,6 +13531,8 @@ payload:
   - .sesez.com
   - .bcicdn.com
   - .bcrncdn.com
+  - .bcvcdn.com
+  - .bgicdn.com
   - .bongacams.com
   - .boylove.cc
   - .boylove.live
@@ -20139,6 +20146,7 @@ payload:
   - .qutebrowser.org
   - .vivaldi.com
   - .waterfox.net
+  - .zen-browser.app
   - .playcover.io
   - .playcover.workers.dev
   - .fflogs.com
@@ -21004,6 +21012,7 @@ payload:
   - .mingw.org
   - .mobatek.net
   - .mysql.com
+  - .neovim.io
   - .nixos.org
   - .nodesource.com
   - .notepad-plus-plus.org
@@ -23766,6 +23775,11 @@ payload:
   - .canon.uz
   - .canonfoundation.org
   - .canonproprinters.com
+  - .affinity.api.serifservices.com
+  - .affinity.studio
+  - .affinity-beta.s3.amazonaws.com
+  - .affinity-lessons.s3.amazonaws.com
+  - .canva.com
   - .chegg.com
   - .cheggcdn.com
   - .webex.ca
