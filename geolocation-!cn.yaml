@@ -10958,6 +10958,7 @@ payload:
   - .primevideo.info
   - .primevideo.org
   - .primevideo.tv
+  - .prod.service.minerva.devices.a2z.com
   - .fandango.com
   - .mgo.com
   - .mgo-images.com
@@ -21268,6 +21269,7 @@ payload:
   - .primevideo.info
   - .primevideo.org
   - .primevideo.tv
+  - .prod.service.minerva.devices.a2z.com
   - .wfm.com
   - .wholecitiesfoundation.org
   - .wholefoods.com
@@ -28645,6 +28647,16 @@ payload:
   - hulu.playback.edge.bamgrid.com
   - lastfm.freetls.fastly.net
   - netflix.com.edgesuite.net
+  - d1v5ir2lpwr8os.cloudfront.net
+  - d22qjgkvxw22r6.cloudfront.net
+  - d25xi40x97liuc.cloudfront.net
+  - d27xxe7juh1us6.cloudfront.net
+  - dmqdd6hw24ucf.cloudfront.net
+  - images-eu.ssl-images-amazon.com
+  - images-na.ssl-images-amazon.com
+  - images-fe.ssl-images-amazon.com
+  - msh.amazon.co.uk
+  - static.siege-amazon.com
   - audio-ak-spotify-com.akamaized.net
   - audio4-ak-spotify-com.akamaized.net
   - cdn-spotify-experiments.conductrics.com
@@ -28988,6 +29000,16 @@ payload:
   - wwis-dubc1-vip98.adobe.com
   - wwis-dubc1-vip99.adobe.com
   - 1password.drift.click
+  - d1v5ir2lpwr8os.cloudfront.net
+  - d22qjgkvxw22r6.cloudfront.net
+  - d25xi40x97liuc.cloudfront.net
+  - d27xxe7juh1us6.cloudfront.net
+  - dmqdd6hw24ucf.cloudfront.net
+  - images-eu.ssl-images-amazon.com
+  - images-na.ssl-images-amazon.com
+  - images-fe.ssl-images-amazon.com
+  - msh.amazon.co.uk
+  - static.siege-amazon.com
   - servd-anthropic-website.b-cdn.net
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
