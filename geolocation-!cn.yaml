@@ -13162,11 +13162,6 @@ payload:
   - .tvbusa.com
   - .tvbweekly.com
   - .tvmedia.net.au
-  - .dogatch.jp
-  - .gorin.jp
-  - .screens-lab.jp
-  - .tver.co.jp
-  - .tver.jp
   - .udn.com
   - .udn.com.tw
   - .udndata.com
@@ -20205,9 +20200,39 @@ payload:
   - .ntp.ufe.cz
   - .pool.ntp.org
   - .time.nrc.ca
+  - .1infra.net
+  - .1password.ca
+  - .1password.co
+  - .1password.com
+  - .1password.community
+  - .1password.eu
+  - .1password.io
+  - .1passwordservices.com
+  - .1passwordusercontent.ca
+  - .1passwordusercontent.com
+  - .1passwordusercontent.eu
+  - .agilebits.com
+  - .passage.id
+  - .bitwarden.com
+  - .bitwarden.eu
+  - .bitwarden.net
+  - .btwrdn.co
+  - .btwrdn.com
+  - .lastpass.com
+  - .lastpass.eu
+  - .lputil.com
+  - .authy.com
+  - .dashlane.com
+  - .enpass.io
+  - .keepass.info
+  - .keeper.io
+  - .keepersecurity.com
+  - .roboform.com
+  - .strongboxsafe.com
   - .decrypt.day
   - .rsshub.app
   - .accuweather.com
+  - .awxcdn.com
   - .adblockcdn.com
   - .getadblock.com
   - .adblockplus.org
@@ -20237,15 +20262,9 @@ payload:
   - .arphic.com.cn
   - .arphic.com.tw
   - .ifontcloud.com
-  - .authy.com
   - .bit.ly
   - .bitly.com
   - .bitly.is
-  - .bitwarden.com
-  - .bitwarden.eu
-  - .bitwarden.net
-  - .btwrdn.co
-  - .btwrdn.com
   - .bigbuckbunny.org
   - .blender.org
   - .elephantsdream.org
@@ -20347,7 +20366,6 @@ payload:
   - .codeish.io
   - .he.net
   - .iina.io
-  - .imageglass.org
   - .infrapedia.com
   - .inoreader.com
   - .is.gd
@@ -20376,7 +20394,6 @@ payload:
   - .mega.co.nz
   - .mega.io
   - .mega.nz
-  - .mpv.io
   - .bitballoon.com
   - .netlify.app
   - .netlify.com
@@ -21000,6 +21017,7 @@ payload:
   - .greenend.org.uk
   - .hex.pm
   - .hexdocs.pm
+  - .imageglass.org
   - .ius.io
   - .jenkins.io
   - .js.org
@@ -21012,6 +21030,7 @@ payload:
   - .mariadb.org
   - .mingw.org
   - .mobatek.net
+  - .mpv.io
   - .mysql.com
   - .neovim.io
   - .nixos.org
@@ -21173,19 +21192,6 @@ payload:
   - .sign.new
   - .scene7.com
   - .adobestats.io
-  - .1infra.net
-  - .1password.ca
-  - .1password.co
-  - .1password.com
-  - .1password.community
-  - .1password.eu
-  - .1password.io
-  - .1passwordservices.com
-  - .1passwordusercontent.ca
-  - .1passwordusercontent.com
-  - .1passwordusercontent.eu
-  - .agilebits.com
-  - .passage.id
   - .alibabacloud.com
   - .alicloud.com
   - .amazontrust.com
@@ -21389,11 +21395,6 @@ payload:
   - .fourthns.systems
   - .secondns.at
   - .thirdns.de
-  - .anthropic.com
-  - .claude.ai
-  - .claude.com
-  - .claudeusercontent.com
-  - .claudemcpclient.com
   - .appleswift.com
   - .swift.org
   - .calendarserver.org
@@ -24981,7 +24982,6 @@ payload:
   - .xn--gogl-1nd42e.com
   - .xplr.co
   - .zukunftswerkstatt.de
-  - .groq.com
   - .first-ns.de
   - .hetzner.cloud
   - .hetzner.com
@@ -26864,16 +26864,6 @@ payload:
   - .tegrazone.com
   - .tegrazone.jp
   - .tegrazone.kr
-  - .chatgpt.com
-  - .chat.com
-  - .oaistatic.com
-  - .oaiusercontent.com
-  - .openai.com
-  - .sora.com
-  - .openai.com.cdn.cloudflare.net
-  - .chatgpt.livekit.cloud
-  - .host.livekit.cloud
-  - .turn.livekit.cloud
   - .openweather.co.uk
   - .openweathermap.org
   - .oracle
@@ -26922,9 +26912,6 @@ payload:
   - .pccwglobal.com
   - .pccwsolutions.com
   - .moov.hk
-  - .perplexity.ai
-  - .perplexity.com
-  - .pplx.ai
   - .myqnapcloud.com
   - .qlink.to
   - .qnap.com
@@ -27676,8 +27663,6 @@ payload:
   - .yandexwebcache.org
   - .yastatic.net
   - .kinopoisk.ru
-  - .grok.com
-  - .x.ai
   - .teamviewer.com
   - .teamviewer.us
   - .anydesk.com
@@ -28793,6 +28778,7 @@ payload:
   - ntp5.ntp-servers.net
   - ntp6.ntp-servers.net
   - ntp7.ntp-servers.net
+  - 1password.drift.click
   - holoxx.f5.si
   - hub.slarker.me
   - rss.4040940.xyz
@@ -28999,7 +28985,6 @@ payload:
   - wwis-dubc1-vip97.adobe.com
   - wwis-dubc1-vip98.adobe.com
   - wwis-dubc1-vip99.adobe.com
-  - 1password.drift.click
   - d1v5ir2lpwr8os.cloudfront.net
   - d22qjgkvxw22r6.cloudfront.net
   - d25xi40x97liuc.cloudfront.net
@@ -29010,7 +28995,6 @@ payload:
   - images-fe.ssl-images-amazon.com
   - msh.amazon.co.uk
   - static.siege-amazon.com
-  - servd-anthropic-website.b-cdn.net
   - notary-submissions-prod.s3-accelerate.amazonaws.com
   - notary-submissions-prod.s3.us-west-2.amazonaws.com
   - appleworldwidedeveloper.hb-api.omtrdc.net
@@ -29185,15 +29169,10 @@ payload:
   - statics-marketingsites-wcus-ms-com.akamaized.net
   - mdn.mozillademos.org
   - nvidia.tt.omtrdc.net
-  - openaiapi-site.azureedge.net
-  - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - openaicomproductionae4b.blob.core.windows.net
-  - production-openaicom-storage.azureedge.net
   - api.viu.now.com
   - dfp6rglgjqszk.cloudfront.net
   - d1k2us671qcoau.cloudfront.net
   - d2anahhhmp1ffz.cloudfront.net
-  - pplx-res.cloudinary.com
   - qualcomm.sc.omtrdc.net
   - impala-media-production.s3.amazonaws.com
   - cdn.js7k.com
