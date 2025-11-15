@@ -124,6 +124,7 @@ payload:
   - .n.cn
   - .namiso.com
   - .miaoyanai.com
+  - .faxingbao.com
   - .airchina.com.cn
   - .airchinacargo.com
   - .hainanairlines.com
@@ -1876,6 +1877,8 @@ payload:
   - .muwai.com
   - .pearvideo.com
   - .sfacg.com
+  - .yamibo.com
+  - .yiyouliao.com
   - .zhanqi.tv
   - .leigod.com
   - .tmjiasuqi.com
@@ -1924,9 +1927,12 @@ payload:
   - .saraba1st.com
   - .stage1st.com
   - .52pojie.cn
+  - .anywlan.com
+  - .chinadsl.net
   - .chiphell.com
   - .chongbuluo.com
   - .erji.net
+  - .itpub.net
   - .itsk.com
   - .kafan.cn
   - .kanxue.com
@@ -1936,6 +1942,7 @@ payload:
   - .mcbbs.net
   - .pcbeta.com
   - .right.com.cn
+  - .txrjy.com
   - .uiwow.com
   - .wuyou.net
   - .423down.com
@@ -2154,6 +2161,7 @@ payload:
   - .admin5.com
   - .jxpp.com
   - .woshipm.com
+  - .zhichanli.com
   - .115.com
   - .115cdn.com
   - .115cdn.net
@@ -3075,6 +3083,7 @@ payload:
   - .chuanke.com
   - .dlnel.com
   - .dlnel.org
+  - .duapp.com
   - .duapp.net
   - .duapps.com
   - .duurl.cn
@@ -3088,6 +3097,7 @@ payload:
   - .jomodns.cn
   - .jomodns.com
   - .jomodns.net
+  - .jomoxc.com
   - .mipcdn.com
   - .nuomi.com
   - .quyaoya.com
@@ -5956,7 +5966,6 @@ payload:
   - .tuwanjun.com
   - .tvmao.com
   - .tvzhe.com
-  - .txrjy.com
   - .u.tools
   - .ucbug.com
   - .uggame.com
