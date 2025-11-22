@@ -3,12 +3,18 @@
 payload:
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
+  - .adfox.ru
+  - .admetrica.ru
   - .dzen.ru
   - .naydex.net
   - .rostaxi.org
+  - .webvisor.com
+  - .webvisor.org
   - .ya.ru
+  - .yads.tech
   - .yandex-bank.net
   - .yandex-images.clstorage.net
+  - .yandex-team.ru
   - .yandex.aero
   - .yandex.az
   - .yandex.by
@@ -44,6 +50,9 @@ payload:
   - .yandexadexchange.net
   - .yandexcloud.net
   - .yandexcom.net
+  - .yandexmetrica.com
   - .yandexwebcache.org
+  - .yastat.net
   - .yastatic.net
   - .kinopoisk.ru
+  - .kinopoisk-ru.clstorage.net
