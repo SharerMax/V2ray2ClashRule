@@ -6619,8 +6619,6 @@ payload:
   - .bowenpress.com
   - .c-span.org
   - .c-spanvideo.org
-  - .cbs
-  - .showtime
   - .cbs.com
   - .cbscorporation.com
   - .cbsi.com
@@ -7548,7 +7546,6 @@ payload:
   - .skysports.ie
   - .skysportsonline.com
   - .skysportsracing.com
-  - .theguardian
   - .dev-guardianapis.com
   - .dev-theguardian.com
   - .gu-web.net
@@ -15061,6 +15058,7 @@ payload:
   - .anaconda.com
   - .anaconda.org
   - .conda.io
+  - .android
   - .android.com
   - .androidify.com
   - .appleswift.com
@@ -18626,6 +18624,7 @@ payload:
   - .godaddy.com
   - .x.co
   - .godaddy
+  - .android
   - .android.com
   - .androidify.com
   - .blogger.com
@@ -18970,7 +18969,6 @@ payload:
   - .youtubemobilesupport.com
   - .yt.be
   - .ytimg.com
-  - .and
   - .chrome
   - .dclk
   - .gbiz
@@ -22358,8 +22356,6 @@ payload:
   - .hkreadingcity.net
   - .huanghuagang.org
   - .lavteam.org
-  - .mcd
-  - .mcdonalds
   - .happymeal.com.au
   - .mcdelivery.com.au
   - .mcdonalds.com.au

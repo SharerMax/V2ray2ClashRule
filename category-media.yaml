@@ -173,8 +173,6 @@ payload:
   - .bowenpress.com
   - .c-span.org
   - .c-spanvideo.org
-  - .cbs
-  - .showtime
   - .cbs.com
   - .cbscorporation.com
   - .cbsi.com
@@ -1102,7 +1100,6 @@ payload:
   - .skysports.ie
   - .skysportsonline.com
   - .skysportsracing.com
-  - .theguardian
   - .dev-guardianapis.com
   - .dev-theguardian.com
   - .gu-web.net

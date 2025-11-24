@@ -3092,6 +3092,7 @@ payload:
   - .godaddy.com
   - .x.co
   - .godaddy
+  - .android
   - .android.com
   - .androidify.com
   - .blogger.com
@@ -3436,7 +3437,6 @@ payload:
   - .youtubemobilesupport.com
   - .yt.be
   - .ytimg.com
-  - .and
   - .chrome
   - .dclk
   - .gbiz

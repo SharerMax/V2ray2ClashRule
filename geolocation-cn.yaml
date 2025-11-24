@@ -38,10 +38,11 @@ payload:
   - .deepseek.com
   - .rwkv.cn
   - .rwkv.com
-  - .tongyi.aliyun.com
   - .qianwen.aliyun.com
+  - .qianwen.com
   - .qwen.ai
   - .qwenlm.ai
+  - .tongyi.aliyun.com
   - .tongyi.com
   - .yiyan.baidu.com
   - .tiangong.cn
@@ -2056,9 +2057,11 @@ payload:
   - .cztvcdn.com
   - .cztvcloud.com
   - .zjstv.com
+  - .cqcb.com
+  - .hntv.tv
   - .dgtle.com
   - .gcores.com
-  - .geekpark
+  - .geekpark.net
   - .solidot.org
   - .sspai.com
   - .stcn.com
@@ -2125,6 +2128,12 @@ payload:
   - .jxpp.com
   - .woshipm.com
   - .zhichanli.com
+  - .chinaaet.com
+  - .freebuf.com
+  - .iresearch.cn
+  - .qianzhan.com
+  - .secrss.com
+  - .shangyexinzhi.com
   - .115.com
   - .115cdn.com
   - .115cdn.net
@@ -2289,6 +2298,8 @@ payload:
   - .qgzb.net
   - .zbbm.gov.cn
   - .zbbm.net
+  - .cbern.com.cn
+  - .smartedu.cn
   - .cugbonline.cn
   - .zhihuishu.com
   - .j-test.com
@@ -5476,7 +5487,6 @@ payload:
   - .finchina.com
   - .fixdown.com
   - .fqjob.net
-  - .freebuf.com
   - .fugetech.com
   - .fuwj.com
   - .fxxz.com
@@ -5547,7 +5557,6 @@ payload:
   - .hktheone.com
   - .hn-cbec.com
   - .hnrcsc.com
-  - .hntv.tv
   - .hnyuyuhui.com
   - .hollycrm.com
   - .homeinns.com
@@ -5804,7 +5813,6 @@ payload:
   - .qiangbus.com
   - .qianjia.com
   - .qianlima.com
-  - .qianzhan.com
   - .qiaobutang.com
   - .qie.tv
   - .qifeiye.com

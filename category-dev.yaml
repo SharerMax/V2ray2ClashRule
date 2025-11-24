@@ -5,6 +5,7 @@ payload:
   - .anaconda.com
   - .anaconda.org
   - .conda.io
+  - .android
   - .android.com
   - .androidify.com
   - .appleswift.com
