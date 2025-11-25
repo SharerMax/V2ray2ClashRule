@@ -2853,6 +2853,12 @@ payload:
   - .umtrack.com
   - .uyunad.com
   - .whalecloud.com
+  - .kumiao.com
+  - .youku.com
+  - .ykimg.com
+  - .mmstat.com
+  - .soku.com
+  - .cibntv.net
   - .25pp.com
   - .56che.com
   - .95095.com
@@ -5195,7 +5201,6 @@ payload:
   - .500d.me
   - .50bang.org
   - .51.com
-  - .51.la
   - .510you.com
   - .51credit.com
   - .51cto.com
@@ -5593,7 +5598,6 @@ payload:
   - .infoq.com
   - .infoqstatic.com
   - .ip-cdn.com
-  - .ipinyou.com
   - .iranshao.com
   - .irs01.com
   - .istoreos.com
@@ -6133,8 +6137,6 @@ payload:
   - .zhuanyewanjia.com
   - .zhuayoukong.com
   - .zhubajie.com
-  - .zhugeapi.net
-  - .zhugeio.com
   - .zimuzu.io
   - .zixiaomao.com
   - .zixuntop.com

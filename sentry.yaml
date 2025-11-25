@@ -2,3 +2,4 @@
 # type: domain
 payload:
   - .sentry.io
+  - .sentry-cdn.com

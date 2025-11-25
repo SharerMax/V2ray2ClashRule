@@ -5969,7 +5969,6 @@ payload:
   - .facebook30.net
   - .facebook30.org
   - .facebook4business.com
-  - .facebookads.com
   - .facebookadvertisingsecrets.com
   - .facebookatschool.com
   - .facebookawards.com
@@ -6366,7 +6365,6 @@ payload:
   - .trpger.us
   - .threads.com
   - .threads.net
-  - .ads-twitter.com
   - .cms-twdigitalassets.com
   - .periscope.tv
   - .pscp.tv
@@ -15399,6 +15397,7 @@ payload:
   - .scala-lang.org
   - .scala-sbt.org
   - .sentry.io
+  - .sentry-cdn.com
   - .sourcehut.org
   - .sr.ht
   - .askubuntu.com
@@ -20253,7 +20252,6 @@ payload:
   - .facebook30.net
   - .facebook30.org
   - .facebook4business.com
-  - .facebookads.com
   - .facebookadvertisingsecrets.com
   - .facebookatschool.com
   - .facebookawards.com
@@ -20747,7 +20745,6 @@ payload:
   - .bing.com
   - .bing.net
   - .bing123.com
-  - .bingads.com
   - .bingagencyawards.com
   - .bingapis.com
   - .bingapistatistics.com
@@ -21043,7 +21040,6 @@ payload:
   - .microsoft-sbs-domains.com
   - .microsoft365.com
   - .microsoftaccountguard.com
-  - .microsoftads.com
   - .microsoftadvertising.com
   - .microsoftadvertisingregionalawards.com
   - .microsoftaffiliates.com
@@ -21075,7 +21071,6 @@ payload:
   - .mpnevolution.com
   - .ms-studiosmedia.com
   - .ms365surfaceoffer.com
-  - .msads.net
   - .msauth.net
   - .mschallenge2018.com
   - .msecnd.net
