@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .moscow
+  - .tatar
   - .ru
   - .su
   - .xn--80adxhks
@@ -253,6 +254,7 @@ payload:
   - .yandex.sx
   - .yandex.tj
   - .yandex.tm
+  - .yandex.tr
   - .yandex.ua
   - .yandex.uz
   - .yandexadexchange.net

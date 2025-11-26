@@ -2257,6 +2257,7 @@ payload:
   - .akastream.com
   - .akastream.net
   - .akatns.net
+  - .akstat.io
   - .edgekey.net
   - .edgesuite.net
   - .iamakamai.com
@@ -22157,6 +22158,7 @@ payload:
   - .yandex.sx
   - .yandex.tj
   - .yandex.tm
+  - .yandex.tr
   - .yandex.ua
   - .yandex.uz
   - .yandexadexchange.net

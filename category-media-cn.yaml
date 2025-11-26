@@ -142,7 +142,13 @@ payload:
   - .cztvcloud.com
   - .zjstv.com
   - .cqcb.com
+  - .cqhlw.cn
+  - .cqliving.com
+  - .cqnews.net
+  - .cqsjb.com
   - .hntv.tv
+  - .hndt.com
+  - .dianzhenkeji.com
   - .dgtle.com
   - .gcores.com
   - .geekpark.net
@@ -178,6 +184,7 @@ payload:
   - .caixin.com
   - .news.cn
   - .xinhuanet.com
+  - .xinhuaxmt.com
   - .people.cn
   - .people.com.cn
   - .huanqiu.com
