@@ -437,6 +437,12 @@ payload:
   - .riotforgegames.com
   - .ruinedking.com
   - .convrgencegame.com
+  - .rblx.org
+  - .rbx.com
+  - .rbxcdn.com
+  - .roblox-api.arkoselabs.co
+  - .roblox.com
+  - .robloxlabs.com
   - .rockstargames.com
   - .rsg.sc
   - .snk-corp.co.jp
@@ -591,6 +597,10 @@ payload:
   - spectator.ppy.sh
   - prd-priconne-redive.akamaized.net
   - lolstatic-a.akamaihd.net
+  - d1unuk07s6td74.cloudfront.net
+  - roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+  - roblox-poc.global.ssl.fastly.net
+  - robloxcorp.s.llnwi.net
   - gamedownloads-rockstargames-com.akamaized.net
   - media-rockstargames-com.akamaized.net
   - videos-rockstargames-com.akamaized.net
