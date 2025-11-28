@@ -5326,6 +5326,7 @@ payload:
   - .last.fm
   - .litv.tv
   - .litvfreepc.akamaized.net
+  - .ofiii.com
   - .manhuagui.com
   - .mubi.com
   - .mubicdn.net
@@ -5464,7 +5465,6 @@ payload:
   - .wimpmusic.com
   - .themoviedb.org
   - .tmdb.org
-  - .thetvdb.com
   - .dogatch.jp
   - .gorin.jp
   - .screens-lab.jp
@@ -5709,7 +5709,6 @@ payload:
   - .internationalsaimoe.com
   - .joox.com
   - .linetv.tw
-  - .litv.tv
   - .megaphone.fm
   - .mikanani.me
   - .moov.hk
@@ -23150,6 +23149,8 @@ payload:
   - weblive-hamivideo.cdn.hinet.net
   - hulu.playback.edge.bamgrid.com
   - lastfm.freetls.fastly.net
+  - ntdofifreepc-tgc.cdn.hinet.net
+  - ntdofifreevcpc-tgc.cdn.hinet.net
   - netflix.com.edgesuite.net
   - d1v5ir2lpwr8os.cloudfront.net
   - d22qjgkvxw22r6.cloudfront.net
