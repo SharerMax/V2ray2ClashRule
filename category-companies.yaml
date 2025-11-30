@@ -5151,6 +5151,7 @@ payload:
   - .whatsapp.org
   - .whatsapp.tv
   - .whatsappbrand.com
+  - .llama.com
   - .meta.ai
   - .meta.com
   - .azure
@@ -6589,6 +6590,7 @@ payload:
   - .dzen.ru
   - .naydex.net
   - .rostaxi.org
+  - .turbopages.org
   - .webvisor.com
   - .webvisor.org
   - .ya.ru
