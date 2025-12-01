@@ -463,6 +463,7 @@ payload:
   - .itch.io
   - .itch.zone
   - .lowiro.com
+  - .modrinth.com
   - .nexon.co.jp
   - .nexon.com
   - .nexon.io
@@ -767,7 +768,6 @@ payload:
   - .joinsquad.com
   - .loverslab.com
   - .minecraft.wiki
-  - .modrinth.com
   - .nexusmods.com
   - .offworldindustries.com
   - .offworldindustries.net
