@@ -500,6 +500,8 @@ payload:
   - .anlaiye.com.cn
   - .imcoming.com
   - .imcome.net
+  - .meican.com
+  - .meicanstatic.com
   - .56laile.com
   - .800best.cn
   - .800best.com
@@ -1313,6 +1315,8 @@ payload:
   - .kfzimg.com
   - .pupuapi.com
   - .pupumall.com
+  - .qyer.com
+  - .qyerstatic.com
   - .appsimg.com
   - .appvipshop.com
   - .vip.com
@@ -1531,6 +1535,11 @@ payload:
   - .winegame.net
   - .wo1wan.com
   - .ycgame.com
+  - .aamgame.net
+  - .aamgame.com
+  - .aamgame.mobi
+  - .aamsmart.com
+  - .singworld.net
   - .ac.fun
   - .acfun.cn
   - .acfun.net
@@ -1694,9 +1703,9 @@ payload:
   - .fanqiesdkpic.com
   - .fanqiesdkstatic.com
   - .fanqiesdkvod.com
+  - .fqnovel-op.com
   - .fqnovel.com
   - .fqnovelim.com
-  - .fqnovel-op.com
   - .fqnovelop.com
   - .fqnovelpic.com
   - .fqnovelstatic.com
@@ -1871,6 +1880,11 @@ payload:
   - .maxadmin.cn
   - .maxjia.com
   - .xiaoheihe.cn
+  - .xyzfm.space
+  - .xyzfm.link
+  - .xyzcdn.net
+  - .xiaoyuzhoufm.com
+  - .podcast.xyz
   - .ximalaya.com
   - .xmcdn.com
   - .kumiao.com
@@ -2530,6 +2544,10 @@ payload:
   - .todesk.com
   - .asklink.com
   - .privateapi.xyz
+  - .xedge.cc
+  - .glxcc.net
+  - .xn0.cc
+  - .ganjiangvpn.com
   - .tower.im
   - .tritoninfo.net
   - .xiumi.us
@@ -3280,9 +3298,9 @@ payload:
   - .fanqiesdkpic.com
   - .fanqiesdkstatic.com
   - .fanqiesdkvod.com
+  - .fqnovel-op.com
   - .fqnovel.com
   - .fqnovelim.com
-  - .fqnovel-op.com
   - .fqnovelop.com
   - .fqnovelpic.com
   - .fqnovelstatic.com
@@ -5075,10 +5093,6 @@ payload:
   - .kookong.com
   - .51togic.com
   - .ezpro.pro
-  - .xedge.cc
-  - .glxcc.net
-  - .xn0.cc
-  - .ganjiangvpn.com
   - .10099.com.cn
   - .chn.cn
   - .ahitv.com
@@ -5168,11 +5182,6 @@ payload:
   - .limestart.cn
   - .moulem.com
   - .qzhuye.com
-  - .aamgame.net
-  - .aamgame.com
-  - .aamgame.mobi
-  - .aamsmart.com
-  - .singworld.net
   - .aiqicha.baidu.com
   - .aiqicha.cn
   - .aiqicha.com
@@ -5915,7 +5924,6 @@ payload:
   - .qudong.com
   - .qugame.com
   - .qunjielong.com
-  - .qyer.com
   - .rockyenglish.com
   - .rong360.com
   - .rtbasia.com
