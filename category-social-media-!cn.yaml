@@ -476,6 +476,8 @@ payload:
   - .linkedin.at
   - .linkedin.com
   - .lnkd.in
+  - .imgsmail.ru
+  - .mail.ru
   - .misskey.io
   - .misskeyusercontent.jp
   - .9ineverse.com
@@ -510,6 +512,9 @@ payload:
   - .submarin.online
   - .sushi.ski
   - .trpger.us
+  - .ok.ru
+  - .okcdn.ru
+  - .mycdn.me
   - .threads.com
   - .threads.net
   - .cms-twdigitalassets.com
