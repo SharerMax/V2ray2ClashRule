@@ -405,6 +405,10 @@ payload:
   - .uo.com
   - .uoherald.com
   - .xdsummit.com
+  - .arcraiders.com
+  - .embark-studios.com
+  - .embark.games
+  - .reachthefinals.com
   - .3lateral.com
   - .artstation.com
   - .capturingreality.com
@@ -436,6 +440,8 @@ payload:
   - .tarkov.com
   - .eft-store.com
   - .escapefromtarkov.com
+  - .faceit.com
+  - .faceit-cdn.net
   - .garena.co.id
   - .garena.co.th
   - .garena.com
