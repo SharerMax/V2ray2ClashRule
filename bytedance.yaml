@@ -668,6 +668,10 @@ payload:
   - .ppxstatic.com
   - .ppxvod.com
   - .xiaoxiaapi.com
+  - .douyinec.com
+  - .ecombdapi.com
+  - .ecombdstatic.com
+  - .jinritemai.com
   - .faceu.com
   - .ulikecam.com
   - .rsproxy.cn

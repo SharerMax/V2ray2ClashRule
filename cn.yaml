@@ -888,11 +888,6 @@ payload:
   - .imcome.net
   - .meican.com
   - .meicanstatic.com
-  - .fuwai.com
-  - .pkuh6.cn
-  - .puh3.net.cn
-  - .yctdyy.com
-  - .smuszh.com
   - .56laile.com
   - .800best.cn
   - .800best.com
@@ -1371,33 +1366,6 @@ payload:
   - .umtrack.com
   - .uyunad.com
   - .whalecloud.com
-  - .airchina.com.cn
-  - .airchinacargo.com
-  - .hainanairlines.com
-  - .hnacargo.com
-  - .hnair.com
-  - .10044.cn
-  - .caac.gov.cn
-  - .ceair.com
-  - .chinaexpressair.com
-  - .csair.com
-  - .flycua.com
-  - .hbhk.com.cn
-  - .jdair.net
-  - .juneyaoair.com
-  - .luckyair.net
-  - .sichuanair.com
-  - .tibetairlines.com.cn
-  - .travelskymobile.cn
-  - .variflight.com
-  - .xiamenair.com
-  - .umetrip.com
-  - .umetrip.com.cn
-  - .umetrip.net.cn
-  - .ume-trip.cn
-  - .12306.cn
-  - .95306.cn
-  - .ccrgt.com
   - .boc.cn
   - .bank-of-china.com
   - .bankofchina.com
@@ -1857,18 +1825,20 @@ payload:
   - .yfscdn.net
   - .yunfancdn.com
   - .baijiayun.com
+  - .cjjd19.com
   - .fdcyun.com
   - .mingyuanyun.com
   - .mypaas.com
   - .mypaas.com.cn
   - .myypark.com
+  - .funcdn.com
+  - .jikeiot.cloud
   - .kaipuyun.cn
   - .kaipuyun.com
   - .kaipuyun.com.cn
   - .kaipuyun.net
-  - .pkoplink.com
-  - .funcdn.com
   - .knet.cn
+  - .pkoplink.com
   - .58ganji.com
   - .58ganji-corp.com
   - .ganji.com
@@ -2263,19 +2233,26 @@ payload:
   - .youzanyun.com
   - .ziroom.com
   - .ziroomapartment.com
-  - .dmall.com
-  - .dmallcdn.com
-  - .kongfz.com
-  - .kfzimg.com
-  - .pupuapi.com
-  - .pupumall.com
-  - .qyer.com
-  - .qyerstatic.com
+  - .51selling.com
   - .appsimg.com
   - .appvipshop.com
   - .vip.com
   - .vipstatic.com
+  - .dmall.com
+  - .dmallcdn.com
+  - .geilicdn.com
+  - .weidian.com
+  - .kongfz.com
+  - .kfzimg.com
   - .manmanbuy.com
+  - .maxonesoft.com
+  - .meiwulist.com
+  - .ozonbigsell.com
+  - .pupuapi.com
+  - .pupumall.com
+  - .qyer.com
+  - .qyerstatic.com
+  - .ruseer.com
   - .xiamai.net
   - .b3log.org
   - .b3logfile.com
@@ -2321,6 +2298,46 @@ payload:
   - .moyubuluo.com
   - .upe.net
   - .winos.me
+  - .fuwai.com
+  - .pkuh6.cn
+  - .puh3.net.cn
+  - .yctdyy.com
+  - .smuszh.com
+  - .biomart.cn
+  - .dxy.com
+  - .dxy.cn
+  - .dxycdn.com
+  - .jsehealth.com
+  - .mingxuan.store
+  - .airchina.com.cn
+  - .airchinacargo.com
+  - .hainanairlines.com
+  - .hnacargo.com
+  - .hnair.com
+  - .10044.cn
+  - .caac.gov.cn
+  - .ceair.com
+  - .chinaexpressair.com
+  - .csair.com
+  - .flycua.com
+  - .hbhk.com.cn
+  - .jdair.net
+  - .juneyaoair.com
+  - .luckyair.net
+  - .sichuanair.com
+  - .tibetairlines.com.cn
+  - .travelskymobile.cn
+  - .variflight.com
+  - .xiamenair.com
+  - .12306.cn
+  - .95306.cn
+  - .ccrgt.com
+  - .kuajing84.com
+  - .ningtingche.com
+  - .umetrip.com
+  - .umetrip.com.cn
+  - .umetrip.net.cn
+  - .ume-trip.cn
   - .chinesemooc.org
   - .cnmooc.org
   - .icourse163.org
@@ -2556,6 +2573,15 @@ payload:
   - .guokr.net
   - .ihuman.com
   - .hongen.com
+  - .bjyouth.gov.cn
+  - .bjyouth.net
+  - .sqqnh.cn
+  - .sqqnh.org
+  - .zzdtec.com
+  - .cyol.com
+  - .webterren.com
+  - .zyh365.com
+  - .wzlib.cn
   - .deepseek.com
   - .rwkv.cn
   - .rwkv.com
@@ -2797,10 +2823,11 @@ payload:
   - .allflow.cn
   - .flowus.cn
   - .geetest.com
-  - .hellofont.cn
-  - .hellowebfont.com
+  - .hanyi.com
   - .hanyi.com.cn
   - .fontstar.com.cn
+  - .hellofont.cn
+  - .hellowebfont.com
   - .intsig.com
   - .intsig.net
   - .camscanner.com
@@ -2887,7 +2914,11 @@ payload:
   - .zbjdev.com
   - .zbjimg.com
   - .zhubajie.com
+  - .7moor-fs1.com
+  - .7moor.com
   - .antutu.com
+  - .bambulab.com
+  - .bblmw.com
   - .bosszhipin.com
   - .zhipin.com
   - .dangbei.com
@@ -2903,10 +2934,17 @@ payload:
   - .tq121.com.cn
   - .weather.com.cn
   - .weatherdt.com
+  - .ireader.com
+  - .zhangyue.com
+  - .zhangyue01.com
+  - .zhangyuecdn.com
+  - .ntalker.com
   - .tianqi.com
   - .tianqistatic.com
   - .foundertype.com
   - .moseeker.com
+  - .sobot.com
+  - .soboten.com
   - .tacool.com
   - .viayoo.com
   - .yinxiang.com
@@ -3963,6 +4001,10 @@ payload:
   - .ppxstatic.com
   - .ppxvod.com
   - .xiaoxiaapi.com
+  - .douyinec.com
+  - .ecombdapi.com
+  - .ecombdstatic.com
+  - .jinritemai.com
   - .faceu.com
   - .ulikecam.com
   - .rsproxy.cn
@@ -4515,9 +4557,6 @@ payload:
   - .realmemobile.com
   - .shopoppo.cn
   - .shopoppo.com.cn
-  - .75.team
-  - .75team.com
-  - .baomitu.com
   - .360-api.cn
   - .360-g.cn
   - .360-g.net
@@ -4572,6 +4611,7 @@ payload:
   - .360zqaq.com
   - .anquanke.com
   - .appjiagu.com
+  - .baomitu.com
   - .dhsvc.cn
   - .haoso.com
   - .haosou.com
@@ -5172,10 +5212,19 @@ payload:
   - .ztems.com
   - .51togic.com
   - .avlyun.com
+  - .hisensehitachi.com
   - .jamcz.com
   - .roborock.com
   - .socpk.com
+  - .suzuki-china.com
   - .udesk.cn
+  - .huaban.com
+  - .huabanimg.com
+  - .dancf.com
+  - .hlgdata.com
+  - .huanleguang.com
+  - .ttxsapp.com.cn
+  - .xsbapp.cn
   - .10099.com.cn
   - .chn.cn
   - .ahitv.com
@@ -5205,6 +5254,11 @@ payload:
   - .chinatelecom.com.cn
   - .chntel.com
   - .vnet.cn
+  - .chinatowercom.cn
+  - .china-tower.com
+  - .tower.com.cn
+  - .tower0788.com
+  - .tower0788.cn
   - .unicom
   - .xn--8y0a063a
   - .10010.com
@@ -5218,11 +5272,6 @@ payload:
   - .wo.cn
   - .wo.com.cn
   - .wo116114.com
-  - .chinatowercom.cn
-  - .china-tower.com
-  - .tower.com.cn
-  - .tower0788.com
-  - .tower0788.cn
   - .itdog.cn
   - .webmasterhome.cn
   - .guoxuedashi.com
@@ -5264,18 +5313,9 @@ payload:
   - .sinopecsales.com
   - .chugou360.com
   - .ycrx360.com
-  - .jikeiot.cloud
-  - .zyh365.com
   - .cma.gov.cn
   - .cma.cn
   - .nmc.cn
-  - .cyol.com
-  - .webterren.com
-  - .bjyouth.gov.cn
-  - .bjyouth.net
-  - .sqqnh.cn
-  - .sqqnh.org
-  - .zzdtec.com
   - .0123456789.com
   - .0379home.com
   - .055110.com
@@ -5381,7 +5421,6 @@ payload:
   - .72byte.com
   - .7down.com
   - .7k7k.com
-  - .7moor.com
   - .7po.com
   - .7x24cc.com
   - .7xdown.com
@@ -5597,7 +5636,6 @@ payload:
   - .duoshuo.com
   - .duote.com
   - .dxpmedia.com
-  - .dxycdn.com
   - .dyhjw.com
   - .dzdvip.com
   - .dzsc.com
@@ -5648,7 +5686,6 @@ payload:
   - .gdliontech.com
   - .gdrc.com
   - .geektool.top
-  - .geilicdn.com
   - .gezida.com
   - .gfan.com
   - .giocdn.com
@@ -5912,7 +5949,6 @@ payload:
   - .noknok.cn
   - .nowscore.com
   - .nruan.com
-  - .ntalker.com
   - .nvsheng.com
   - .nx-sc.com
   - .nxog.top
@@ -6028,7 +6064,6 @@ payload:
   - .skycn.com
   - .sllssrq.com
   - .snimay.com
-  - .sobot.com
   - .sofreight.com
   - .softwhy.com
   - .sojson.com
@@ -6119,7 +6154,6 @@ payload:
   - .weand.com
   - .weavatar.com
   - .weicaifu.com
-  - .weidian.com
   - .weilaicaijing.com
   - .weiphone.net
   - .weixing.com
@@ -6292,17 +6326,7 @@ payload:
   - .vzuu.com
   - .zoom3g.com
   - .zoomyou.cn
-  - .ecombdapi.com
-  - .huaban.com
-  - .huabanimg.com
-  - .dancf.com
-  - .hlgdata.com
-  - .huanleguang.com
-  - .ttxsapp.com.cn
-  - .xsbapp.cn
   - .kujiale.com
-  - .hisensehitachi.com
-  - .suzuki-china.com
   - .jsw118.com
   - .sxcxldjy.com
   - .shanxijianzhuzizhi.com
@@ -6310,33 +6334,20 @@ payload:
   - .educoder.net
   - .tokcoder.com
   - .trustie.net
-  - .wzlib.cn
   - .merach.com
   - .taichuan.com
   - .taichuan.net
-  - .jsehealth.com
-  - .bambulab.com
-  - .bblmw.com
   - .95504test.com
-  - .cjjd19.com
-  - .maxonesoft.com
-  - .meiwulist.com
   - .hitevision-solutions.com
   - .jslife.net
   - .nanhaicorp.com
-  - .kuajing84.com
-  - .ozonbigsell.com
   - .ozonabc.com
   - .qingping.co
   - .cleargrass.com
-  - .51selling.com
-  - .ruseer.com
   - .bdmozon.com
   - .bdmyandex.com
   - .bdcat.top
   - .puddingcat.top
-  - .ningtingche.com
-  - .mingxuan.store
   - .qunliao.info
   - .ao-x.ac.cn
   - .wanji.net.cn
