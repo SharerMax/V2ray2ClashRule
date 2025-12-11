@@ -156,6 +156,7 @@ payload:
   - .cqnews.net
   - .cqsjb.com
   - .cs.com.cn
+  - .cyzone.cn
   - .cztv.com
   - .cztvcdn.com
   - .cztvcloud.com
@@ -165,6 +166,8 @@ payload:
   - .yundzh.com
   - .dgtle.com
   - .donews.com
+  - .dzng.com
+  - .dzwww.com
   - .expreview.com
   - .freebuf.com
   - .gcores.com
@@ -183,6 +186,7 @@ payload:
   - .jianyuweb.com
   - .wallstcn.com
   - .wallstreetcn.com
+  - .jiqizhixin.com
   - .jrj.com.cn
   - .jrjimg.cn
   - .jsbc.com
@@ -206,8 +210,11 @@ payload:
   - .people.com.cn
   - .pingwest.com
   - .qbitai.com
+  - .qiluyidian.net
+  - .ql1d.com
   - .qingdaonews.com
   - .qianzhan.com
+  - .scsjb.cn
   - .secrss.com
   - .sfccn.com
   - .shangyexinzhi.com
