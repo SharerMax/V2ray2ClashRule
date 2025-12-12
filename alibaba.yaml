@@ -5,6 +5,7 @@ payload:
   - .alipay
   - .taobao
   - .tmall
+  - .9game.cn
   - .alibabacloud.com
   - .alicloud.com
   - .alibabadns.com
@@ -115,7 +116,6 @@ payload:
   - .25pp.com
   - .56che.com
   - .95095.com
-  - .9game.cn
   - .ali-health.com
   - .aliapp.org
   - .alibaba-inc.com

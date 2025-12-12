@@ -56,6 +56,7 @@ payload:
   - .webgame163.com
   - .youba.com
   - .yxhhdl.com
+  - .9game.cn
   - .bilibiligame.cn
   - .bilibiligame.co
   - .bilibiligame.net
@@ -171,10 +172,8 @@ payload:
   - .anticheatexpert.com
   - .17roco.com
   - .roco.qq.com
-  - .tgbus.com
   - .tiancity.com
   - .tiancitycdn.com
-  - .vgtime.com
   - .vrzwk.cn
   - .vrzwk.com
   - .vrzwk.net
@@ -196,6 +195,7 @@ payload:
   - .xinwuji.com
   - .yokaverse.com
   - .zhuoyou.com
+  - .7k7k.com
   - .9xgame.com
   - .astral-vector.com
   - .forevernine.com
@@ -587,9 +587,7 @@ payload:
   - .lsplayer.com
   - .yeshen.com
   - .17k.com
-  - .3dmgame.com
   - .51zmt.top
-  - .ali213.net
   - .baofeng.com
   - .baofeng.net
   - .bgwxc.com
@@ -621,6 +619,27 @@ payload:
   - .zhanqi.tv
   - .zhulang.com
   - .zongheng.com
+  - .tgbus.com
+  - .vgtime.com
+  - .17173.com
+  - .18183.com
+  - .3dmgame.com
+  - .ali213.net
+  - .cgames.com
+  - .chuapp.com
+  - .dataeye.com
+  - .gamediary.cn
+  - .gamelook.com.cn
+  - .gameres.com
+  - .gamewower.com
+  - .gcores.com
+  - .ign.com.cn
+  - .nadianshi.com
+  - .news.yxrb.net
+  - .ucg.cn
+  - .youxichaguan.com
+  - .youxiputao.com
+  - .yystv.cn
   - manga.bilibili.com
   - p3-novel.byteimg.com
   - p6-novel.byteimg.com

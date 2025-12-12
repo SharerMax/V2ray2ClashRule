@@ -76,6 +76,7 @@ payload:
   - .devin.ai
   - .diabrowser.com
   - .dify.ai
+  - .duck.ai
   - .gateway.ai.cloudflare.com
   - .meta.ai
   - .mistral.ai
@@ -303,6 +304,7 @@ payload:
   - .typenetwork.com
   - .typography.com
   - .webtype.com
+  - .bunka.go.jp
   - .mini
   - .4myminicard.com
   - .aboutyourmini.com
@@ -5772,6 +5774,7 @@ payload:
   - .fireside.fm
   - .internationalsaimoe.com
   - .joox.com
+  - .kpacg.com
   - .linetv.tw
   - .megaphone.fm
   - .mikanani.me
@@ -5787,6 +5790,41 @@ payload:
   - .amp-api.podcast.apple.com
   - .bag.itunes.apple.com
   - .bookeeper.itunes.apple.com
+  - .4gamer.net
+  - .4gamers.com.tw
+  - .akiba-souken.com
+  - .appget.com
+  - .appmedia.jp
+  - .automaton-media.com
+  - .denfaminicogamer.jp
+  - .dengekionline.com
+  - .eroge-road.com
+  - .famitsu.com
+  - .gamebase.com.tw
+  - .gamebiz.jp
+  - .gamebusiness.jp
+  - .gamespark.jp
+  - .inside-games.jp
+  - .gamemeca.com
+  - .gameover.com.hk
+  - .gamer.ne.jp
+  - .onlinegamer.jp
+  - .greatgame.asia
+  - .hobbigame.com
+  - .ign.com
+  - .ignimg.com
+  - .madewithunity.jp
+  - .mediaclip.jp
+  - .maedahiroyuki.com
+  - .mantan-web.jp
+  - .moepedia.net
+  - .qoo-app.com
+  - .realsound.jp
+  - .saiganak.com
+  - .tgdaily.co.kr
+  - .thisisgame.com
+  - .wanuxi.com
+  - .yorozoonews.jp
   - .0x0.st
   - .casimages.com
   - .cloudinary.com
@@ -7824,10 +7862,12 @@ payload:
   - .cmmedia.com.tw
   - .cna.com.tw
   - .cnyes.com
+  - .cool3c.com
   - .coolloud.org.tw
   - .cup.com.hk
   - .cw.com.tw
   - .d100.net
+  - .donga.com
   - .ebc.net.tw
   - .ettoday.net
   - .eventsinfocus.org
@@ -7835,6 +7875,7 @@ payload:
   - .fortuneinsight.com
   - .freebeacon.com
   - .gbnews.uk
+  - .getnews.jp
   - .hk01.com
   - .hkcitizenmedia.com
   - .hkcnews.com
@@ -7843,11 +7884,13 @@ payload:
   - .hongkongfp.com
   - .inmediahk.net
   - .inside.com.tw
+  - .itmedia.co.jp
   - .jfengtime.com
   - .landofhope.tv
   - .limedia.tw
   - .localpresshk.com
   - .ltsports.com.tw
+  - .macaodaily.com
   - .mdnkids.com
   - .mirrormedia.com.tw
   - .mirrormedia.mg
@@ -7891,6 +7934,7 @@ payload:
   - .vjmedia.com.hk
   - .warroom.org
   - .washingtonpost.com
+  - .watch.impress.co.jp
   - .wealth.com.tw
   - .weiyuksj.com
   - .wenzhao.ca
@@ -14856,6 +14900,7 @@ payload:
   - .dgg.gg
   - .dontbubble.us
   - .donttrack.us
+  - .duck.ai
   - .duck.co
   - .duck.com
   - .duckduckco.com
