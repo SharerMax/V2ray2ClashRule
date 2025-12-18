@@ -20,6 +20,8 @@ payload:
   - .labs.google
   - .aisandbox-pa.googleapis.com
   - .aida.googleapis.com
+  - .opal.google
+  - .opal.google.com
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com

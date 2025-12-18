@@ -119,6 +119,8 @@ payload:
   - .labs.google
   - .aisandbox-pa.googleapis.com
   - .aida.googleapis.com
+  - .opal.google
+  - .opal.google.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -138,6 +140,8 @@ payload:
   - .labs.google
   - .aisandbox-pa.googleapis.com
   - .aida.googleapis.com
+  - .opal.google
+  - .opal.google.com
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
