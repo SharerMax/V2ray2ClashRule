@@ -1499,7 +1499,13 @@ payload:
   - weblive-hamivideo.cdn.hinet.net
   - hulu.playback.edge.bamgrid.com
   - lastfm.freetls.fastly.net
+  - ntdfreemobile-tgc.cdn.hinet.net
+  - ntdfreepc-tgc.cdn.hinet.net
+  - ntdfreetv-tgc.cdn.hinet.net
+  - ntdfreevcpc-tgc.cdn.hinet.net
+  - ntdofifreemobile-tgc.cdn.hinet.net
   - ntdofifreepc-tgc.cdn.hinet.net
+  - ntdofifreetv-tgc.cdn.hinet.net
   - ntdofifreevcpc-tgc.cdn.hinet.net
   - netflix.com.edgesuite.net
   - d1v5ir2lpwr8os.cloudfront.net
