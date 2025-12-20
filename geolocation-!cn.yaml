@@ -5114,6 +5114,8 @@ payload:
   - .dazndn.com
   - .indazn.com
   - .indaznlab.com
+  - .deezer.com
+  - .dzcdn.net
   - .deviantart.com
   - .deviantart.net
   - .da-files.com
@@ -7950,14 +7952,6 @@ payload:
   - .pugpig-dev.com
   - .pugpig-stage.com
   - .pugpig.com
-  - .4pcdn.org
-  - .4plebs.org
-  - .archive-it.org
-  - .archive.md
-  - .archive.org
-  - .archive.ph
-  - .archive.today
-  - .openlibrary.org
   - .ccstatic.org
   - .creativecommons.org
   - .creativecommons.engineering
@@ -14881,6 +14875,24 @@ payload:
   - .keepersecurity.com
   - .roboform.com
   - .strongboxsafe.com
+  - .4pcdn.org
+  - .4plebs.org
+  - .archive.today
+  - .archive.fo
+  - .archive.is
+  - .archive.li
+  - .archive.md
+  - .archive.ph
+  - .archive.vn
+  - .archive-it.org
+  - .archive.org
+  - .openlibrary.org
+  - .eotarchive.org
+  - .ghostarchive.org
+  - .megalodon.jp
+  - .mementoweb.org
+  - .perma.cc
+  - .webcitation.org
   - .decrypt.day
   - .rsshub.app
   - .accuweather.com
@@ -18779,6 +18791,8 @@ payload:
   - .digitaloceanspaces.com
   - .do.co
   - .nginxconfig.io
+  - .dmit.io
+  - .dmit.sh
   - .drweb.by
   - .drweb.cn
   - .drweb.co.jp

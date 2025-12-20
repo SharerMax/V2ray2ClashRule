@@ -1307,8 +1307,11 @@ payload:
   - .weibo.com.cn
   - .weibocdn.com
   - .xhaiwai.com
+  - .askdiandian.com
+  - .diandianlife.top
   - .xhscdn.com
   - .xhscdn.net
+  - .xhslink.com
   - .xiaohongshu.com
   - .duowan.com
   - .dwstatic.com
@@ -2375,6 +2378,7 @@ payload:
   - .puh3.net.cn
   - .yctdyy.com
   - .smuszh.com
+  - .ahfda.com
   - .biomart.cn
   - .dxy.com
   - .dxy.cn
@@ -2504,6 +2508,10 @@ payload:
   - .dearedu.com
   - .dgjy.net
   - .eduei.com
+  - .ictbda.cn
+  - .ictbda.com
+  - .modex.com.cn
+  - .xir.cn
   - .j-test.com
   - .nattest-china.com
   - .keboyunxiao.com
@@ -2591,6 +2599,7 @@ payload:
   - .apabi.com
   - .bjinfobank.com
   - .blyun.com
+  - .medalink.cn
   - .chinabooktrading.com
   - .cidp.com.cn
   - .cnbksy.com
@@ -2659,6 +2668,8 @@ payload:
   - .guoxuemi.com
   - .zyh365.com
   - .wzlib.cn
+  - .askdiandian.com
+  - .diandianlife.top
   - .deepseek.com
   - .butterfly-static.cn
   - .butterflyai.cn
@@ -3016,6 +3027,7 @@ payload:
   - .tq121.com.cn
   - .weather.com.cn
   - .weatherdt.com
+  - .immersivetranslate.cn
   - .ireader.com
   - .zhangyue.com
   - .zhangyue01.com
