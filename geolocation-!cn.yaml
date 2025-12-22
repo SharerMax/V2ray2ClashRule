@@ -2346,6 +2346,9 @@ payload:
   - .cloudimg.io
   - .stackpath.com
   - .stackpath.dev
+  - .vrcdn.cloud
+  - .vrcdn.live
+  - .vrcdn.video
   - .embedwistia-a.akamaihd.net
   - .wistia.com
   - .wistia.net
@@ -4959,6 +4962,9 @@ payload:
   - .ubisoft.com
   - .ubisoftconnect.com
   - .uplay.com
+  - .vrchat.cloud
+  - .vrchat.com
+  - .vrchat.net
   - .warnerbrosgames.com
   - .wbagora.com
   - .wbgames.com
