@@ -447,6 +447,7 @@ payload:
   - .mpv.io
   - .mysql.com
   - .neovim.io
+  - .newpipe.net
   - .nixos.org
   - .nodesource.com
   - .notepad-plus-plus.org
@@ -457,8 +458,8 @@ payload:
   - .pcre.org
   - .phantomjs.org
   - .php.net
-  - .putty.org
   - .postgresql.org
+  - .putty.org
   - .r-project.org
   - .raspberrypi.org
   - .raspbian.org
@@ -476,6 +477,8 @@ payload:
   - .videolan.org
   - .wapm.io
   - .wasmer.io
+  - .webflow.com
+  - .weblate.org
   - .wireshark.org
   - .x.org
   - .xposed.info

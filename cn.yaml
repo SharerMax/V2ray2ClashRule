@@ -1248,6 +1248,8 @@ payload:
   - .jianyuweb.com
   - .wallstcn.com
   - .wallstreetcn.com
+  - .jfdaily.com
+  - .shobserver.com
   - .jiqizhixin.com
   - .jrj.com.cn
   - .jrjimg.cn
@@ -1948,6 +1950,7 @@ payload:
   - .jiasule.com
   - .yunaq.com
   - .jikeiot.cloud
+  - .jsdmirror.com
   - .kaipuyun.cn
   - .kaipuyun.com
   - .kaipuyun.com.cn
@@ -2550,6 +2553,7 @@ payload:
   - .dearedu.com
   - .dgjy.net
   - .eduei.com
+  - .gk100.com
   - .ictbda.cn
   - .ictbda.com
   - .modex.com.cn

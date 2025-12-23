@@ -1491,14 +1491,11 @@ payload:
   - .fibank.bg
   - .meawallet.app
   - .myfin.bg
-  - .futuesop.com
   - .futufin.com
   - .futuhk.com
+  - .futuhkapp.com
   - .futuhn.com
   - .futuholdings.com
-  - .futuniuniu.com
-  - .futunn.com
-  - .futustatic.com
   - .moomoo.com
   - .moomooequity.com
   - .moomootrustee.com
@@ -15052,8 +15049,6 @@ payload:
   - .kodi.wiki
   - .liberapay.com
   - .liberapay.org
-  - .linguee.com
-  - .deepl.com
   - .localizecdn.com
   - .localizejs.com
   - .localizestatus.com
@@ -15211,7 +15206,6 @@ payload:
   - .zeit.co
   - .zeit.sh
   - .zeitworld.com
-  - .webflow.com
   - .editorx.com
   - .parastorage.com
   - .wix-code.com
@@ -15257,6 +15251,11 @@ payload:
   - .originlab.com
   - .cloudlatex.io
   - .overleaf.com
+  - .linguee.com
+  - .deepl.com
+  - .collinsdictionary.com
+  - .ldoceonline.com
+  - .immersivetranslate.com
   - .auroraoss.com
   - .cookiepro.com
   - .cookielaw.org
@@ -15707,6 +15706,7 @@ payload:
   - .mpv.io
   - .mysql.com
   - .neovim.io
+  - .newpipe.net
   - .nixos.org
   - .nodesource.com
   - .notepad-plus-plus.org
@@ -15717,8 +15717,8 @@ payload:
   - .pcre.org
   - .phantomjs.org
   - .php.net
-  - .putty.org
   - .postgresql.org
+  - .putty.org
   - .r-project.org
   - .raspberrypi.org
   - .raspbian.org
@@ -15736,6 +15736,8 @@ payload:
   - .videolan.org
   - .wapm.io
   - .wasmer.io
+  - .webflow.com
+  - .weblate.org
   - .wireshark.org
   - .x.org
   - .xposed.info
@@ -23181,7 +23183,6 @@ payload:
   - .windy.com
   - .xdty.org
   - .xingrz.me
-  - .immersivetranslate.com
   - servd-anthropic-website.b-cdn.net
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
