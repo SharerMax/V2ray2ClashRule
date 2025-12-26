@@ -802,6 +802,7 @@ payload:
   - .yeshen.com
   - .17k.com
   - .51zmt.top
+  - .aisee.tv
   - .baofeng.com
   - .baofeng.net
   - .bgwxc.com
@@ -1027,23 +1028,25 @@ payload:
   - .36krcnd.com
   - .cctv.cn
   - .cctv.com
+  - .cctvlib.cn
+  - .cctvlib.com.cn
+  - .cctvlibrary.cn
+  - .cctvlibrary.com.cn
   - .cctvpic.com
+  - .cctvpro.cn
+  - .cctvpro.com.cn
   - .chinaepg.cn
   - .chinalive.com
+  - .chinaott.com
   - .citv.net.cn
   - .cnms.net.cn
   - .cntv.cn
   - .cntv.com.cn
-  - .cctvlib.cn
-  - .cctvlibrary.cn
-  - .cctvlib.com.cn
-  - .cctvlibrary.com.cn
-  - .cctvpro.cn
-  - .cctvpro.com.cn
   - .cntvwb.cn
   - .gjgbdszt.cn
   - .gjgbdszt.com.cn
   - .gjgbdszt.net.cn
+  - .icntvcdn.com
   - .ipanda.cn
   - .ipanda.com
   - .ipanda.com.cn
@@ -1051,11 +1054,12 @@ payload:
   - .livechina.cn
   - .livechina.com
   - .olympicchannelchina.cn
+  - .ottcn.com
   - .tvcc.cn
   - .tvcc.com.cn
   - .xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
-  - .xn--fiq53l90et9fpncc7joo6apn8a.cn
   - .xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+  - .xn--fiq53l90et9fpncc7joo6apn8a.cn
   - .xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
   - .xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
   - .yangshipin.cn
@@ -1237,11 +1241,13 @@ payload:
   - .ql1d.com
   - .qingdaonews.com
   - .qianzhan.com
+  - .qingdaochina.org
   - .scsjb.cn
   - .secrss.com
   - .sfccn.com
   - .shangyexinzhi.com
   - .solidot.org
+  - .southcn.com
   - .sspai.com
   - .ssajax.cn
   - .ssimg.cn
@@ -2511,7 +2517,14 @@ payload:
   - .dearedu.com
   - .dgjy.net
   - .eduei.com
+  - .eoffcn.com
+  - .jinrongren.net
+  - .offcn.com
+  - .zggqzp.com
+  - .zgsydw.com
   - .gk100.com
+  - .huatu.com
+  - .sydw8.com
   - .ictbda.cn
   - .ictbda.com
   - .modex.com.cn
@@ -3018,6 +3031,7 @@ payload:
   - .bblmw.com
   - .bosszhipin.com
   - .zhipin.com
+  - .clink.cn
   - .dangbei.com
   - .dangbei.net
   - .deepepg.com
@@ -4141,6 +4155,14 @@ payload:
   - .haier.com
   - .haier.net
   - .haiersmarthomes.com
+  - .hik-cloud.com
+  - .hik-express.com
+  - .hikiot.com
+  - .hikmall.com
+  - .hikvision.com
+  - .eziot.com
+  - .ezviz.com
+  - .ys7.com
   - .hihonor.cn
   - .hihonor.com
   - .hihonorcdn.com
@@ -5319,12 +5341,17 @@ payload:
   - .ztems.com
   - .51togic.com
   - .avlyun.com
+  - .dreame.tech
   - .hisensehitachi.com
+  - .insta360.com
   - .jamcz.com
+  - .jmgo.com
+  - .mediastory.cc
   - .roborock.com
   - .socpk.com
   - .suzuki-china.com
   - .udesk.cn
+  - .ysjf.com
   - .huaban.com
   - .huabanimg.com
   - .dancf.com
@@ -5344,9 +5371,11 @@ payload:
   - .139.com
   - .chinamobile.com
   - .chinamobileltd.com
-  - .migucloud.com
-  - .migu.cn
+  - .cmread.com
   - .cmvideo.cn
+  - .migu.cn
+  - .migucloud.com
+  - .migufun.com
   - .miguvideo.com
   - .andfx.cn
   - .andfx.net
@@ -5552,7 +5581,6 @@ payload:
   - .aipai.com
   - .airchangan.com
   - .airguilin.com
-  - .aisee.tv
   - .aiskycn.com
   - .aizhan.com
   - .aldwx.com
@@ -5848,7 +5876,6 @@ payload:
   - .houyuantuan.com
   - .hteacher.net
   - .huashengdaili.com
-  - .huatu.com
   - .huize.com
   - .hujia.org
   - .huochepiao.com
@@ -5899,7 +5926,6 @@ payload:
   - .jiemeng8.com
   - .jikexueyuan.com
   - .jinianbi.com
-  - .jinrongren.net
   - .jinse.com
   - .jinti.com
   - .jisuxia.com
@@ -6042,7 +6068,6 @@ payload:
   - .nzbdw.com
   - .oadz.com
   - .oeeee.com
-  - .offcn.com
   - .officese.com
   - .oicq88.com
   - .okooo.com
@@ -6055,7 +6080,6 @@ payload:
   - .onlinesjtu.com
   - .onlylady.com
   - .opdown.com
-  - .ottcn.com
   - .oupeng.com
   - .p2peye.com
   - .p5w.net
@@ -6087,7 +6111,6 @@ payload:
   - .qie.tv
   - .qifeiye.com
   - .qijiayoudao.net
-  - .qingdaochina.org
   - .qingsongchou.com
   - .qiumibao.com
   - .qizuang.com
