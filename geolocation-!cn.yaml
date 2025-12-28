@@ -15297,6 +15297,7 @@ payload:
   - .webobjects.com
   - .archlinux.org
   - .archlinuxarm.org
+  - .archlinuxcn.org
   - .bootstrapcdn.com
   - .getbootstrap.com
   - .braventures.com
@@ -15687,6 +15688,7 @@ payload:
   - .getzola.org
   - .git-scm.com
   - .gnu.org
+  - .godbolt.org
   - .greenend.org.uk
   - .hex.pm
   - .hexdocs.pm
@@ -22472,6 +22474,7 @@ payload:
   - .rarbgunblock.org
   - .rarbgunblocked.org
   - .rarbgway.org
+  - .dmhy.org
   - .greasyfork.org
   - .928.plus
   - .zind.cloud

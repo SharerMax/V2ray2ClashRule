@@ -2,7 +2,6 @@
 # type: domain
 payload:
   - .captive.apple.com
-  - .ping.archlinux.org
   - .cp.cloudflare.com
   - .network-test.debian.org
   - .detectportal.firefox.com
@@ -10,6 +9,8 @@ payload:
   - .networkcheck.kde.org
   - .msftconnecttest.com
   - .msftncsi.com
+  - ping.archlinux.org
+  - redirect.archlinux.org
   - connectivitycheck.platform.hihonorcloud.com
   - connectivitycheck.platform.hicloud.com
   - connect.rom.miui.com
