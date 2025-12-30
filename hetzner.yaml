@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .first-ns.de
+  - .hetzner-cloud.de
   - .hetzner.cloud
   - .hetzner.com
   - .hetzner.company
