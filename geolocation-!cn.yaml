@@ -2269,11 +2269,6 @@ payload:
   - .iamakamai.net
   - .soasta-dswb.com
   - .srtcdn.net
-  - .awempire.com
-  - .dditsadn.com
-  - .dditscdn.com
-  - .docleradn.com
-  - .doclercdn.com
   - .cdn77.com
   - .cdn77.org
   - .cf-ipfs.com
@@ -2338,14 +2333,22 @@ payload:
   - .pagecdn.com
   - .pagecdn.io
   - .quantil.com
-  - .scaleflex.com
-  - .cloudimage.io
-  - .cloudimg.io
   - .stackpath.com
   - .stackpath.dev
   - .vrcdn.cloud
   - .vrcdn.live
   - .vrcdn.video
+  - .b-cdn.net
+  - .bunny.net
+  - .bunnycdn.com
+  - .awempire.com
+  - .dditsadn.com
+  - .dditscdn.com
+  - .docleradn.com
+  - .doclercdn.com
+  - .scaleflex.com
+  - .cloudimage.io
+  - .cloudimg.io
   - .embedwistia-a.akamaihd.net
   - .wistia.com
   - .wistia.net
