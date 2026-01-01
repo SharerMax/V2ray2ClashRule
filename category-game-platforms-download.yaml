@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - .egdownload.fastly-edge.com
+  - .dl.playstation.net
   - download.cdp.bethesda.net
   - content.cdp.bethesda.net
   - lion.secure.dyn.riotcdn.net
