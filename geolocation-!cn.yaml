@@ -32,6 +32,7 @@ payload:
   - .robinfrontend-pa.googleapis.com
   - .generativeai.google
   - .makersuite.google.com
+  - .ai.studio
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google
@@ -6097,9 +6098,9 @@ payload:
   - .rutracker.cc
   - .rutracker.cr
   - .rutracker.me
+  - .rutracker.net
   - .rutracker.nl
   - .rutracker.org
-  - .rutrecker.net
   - .rutrk.org
   - .soyjak.party
   - .soyjak.st
@@ -19091,6 +19092,7 @@ payload:
   - .robinfrontend-pa.googleapis.com
   - .generativeai.google
   - .makersuite.google.com
+  - .ai.studio
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google
@@ -19112,6 +19114,7 @@ payload:
   - .robinfrontend-pa.googleapis.com
   - .generativeai.google
   - .makersuite.google.com
+  - .ai.studio
   - .aistudio.google.com
   - .bard.google.com
   - .gemini.google
@@ -22620,6 +22623,7 @@ payload:
   - .rarbgunblocked.org
   - .rarbgway.org
   - .dmhy.org
+  - .rutor.info
   - .greasyfork.org
   - .928.plus
   - .zind.cloud
