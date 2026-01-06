@@ -192,6 +192,20 @@ payload:
   - .trojan-gfw.github.io
   - .zeronet.io
   - .metacubex.one
+  - .ngrok-free.app
+  - .ngrok-free.dev
+  - .ngrok-free.pizza
+  - .ngrok.app
+  - .ngrok.com
+  - .ngrok.dev
+  - .ngrok.io
+  - .ngrok.pizza
+  - .ngrok.pro
+  - .pinggy.io
+  - .pinggy.link
+  - .tailscale.com
+  - .tailscale.io
+  - .ts.net
   - .artstation.com
   - .artstationmedia.com
   - .drbl.in
@@ -17071,8 +17085,6 @@ payload:
   - .itunesu.net
   - .iutunes.com
   - .wwwitunes.com
-  - .appleswift.com
-  - .swift.org
   - .apple
   - .apple.ae
   - .apple.at
@@ -22093,9 +22105,6 @@ payload:
   - .synology.me
   - .symantec.com
   - .symantecliveupdate.com
-  - .tailscale.com
-  - .tailscale.io
-  - .ts.net
   - .boringcompany.com
   - .internetdownloadmanager.com
   - .registeridm.com
