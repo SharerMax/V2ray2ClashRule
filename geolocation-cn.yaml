@@ -392,6 +392,7 @@ payload:
   - .vrzwk.com
   - .vrzwk.net
   - .vrzwk.top
+  - .tapapks.com
   - .tapimg.com
   - .tapimg.net
   - .taptap.cn
@@ -2317,6 +2318,7 @@ payload:
   - .ziroom.com
   - .ziroomapartment.com
   - .51selling.com
+  - .aihuishou.com
   - .appsimg.com
   - .appvipshop.com
   - .vip.com
@@ -2376,6 +2378,7 @@ payload:
   - .znds.com
   - .423down.com
   - .acwifi.net
+  - .appinn.com
   - .chongdiantou.com
   - .ghxi.com
   - .iplaysoft.com
@@ -3029,10 +3032,13 @@ payload:
   - .7moor-fs1.com
   - .7moor.com
   - .antutu.com
+  - .antutu.net
   - .bambulab.com
   - .bblmw.com
   - .bosszhipin.com
   - .zhipin.com
+  - .chuimg.com
+  - .xiachufang.com
   - .clink.cn
   - .dangbei.com
   - .dangbei.net
@@ -5354,6 +5360,9 @@ payload:
   - .suzuki-china.com
   - .udesk.cn
   - .ysjf.com
+  - .fnnas.com
+  - .fnnas.net
+  - .fnos.net
   - .huaban.com
   - .huabanimg.com
   - .dancf.com
@@ -5600,7 +5609,6 @@ payload:
   - .apk8.com
   - .aplaybox.com
   - .appchina.com
-  - .appinn.com
   - .arpun.com
   - .asklib.com
   - .babytree.com
@@ -6306,7 +6314,6 @@ payload:
   - .xdtool.com
   - .xdwan.com
   - .xfdown.com
-  - .xiachufang.com
   - .xiaobaixitong.com
   - .xiaoe-tech.com
   - .xiaogouh5.com

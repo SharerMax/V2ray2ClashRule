@@ -14,6 +14,27 @@ payload:
   - .xn--p1ai
   - .ru.com
   - .ru.net
+  - .ozon.ru
+  - .ozone.ru
+  - .ozonusercontent.com
+  - .geobasket.ru
+  - .paywb.com
+  - .rwb.ru
+  - .wb-basket.ru
+  - .wb.ru
+  - .wbbasket.ru
+  - .wbpay.ru
+  - .wibes.ru
+  - .wildberries.ru
+  - .playfamily.ru
+  - .okko.sport
+  - .okko.tv
+  - .rutube.ru
+  - .rutubelist.ru
+  - .rtbcdn.ru
+  - .ngenix.net
+  - .restream-media.net
+  - .wink.ru
   - .government.ru
   - .gov.ru
   - .gosuslugi.ru
@@ -133,6 +154,11 @@ payload:
   - .jamal.ru
   - .surgut.ru
   - .yamal.ru
+  - .fix-price.com
+  - .lenta.com
+  - .lenta.tech
+  - .mosmetro.ru
+  - .mosmetro.tech
   - .avito.ru
   - .avito.st
   - .dzen.ru
@@ -182,27 +208,6 @@ payload:
   - .donationalerts.com
   - .memealerts.com
   - .tamtam.chat
-  - .playfamily.ru
-  - .okko.sport
-  - .okko.tv
-  - .ozon.ru
-  - .ozone.ru
-  - .ozonusercontent.com
-  - .rutube.ru
-  - .rutubelist.ru
-  - .rtbcdn.ru
-  - .geobasket.ru
-  - .paywb.com
-  - .rwb.ru
-  - .wb-basket.ru
-  - .wb.ru
-  - .wbbasket.ru
-  - .wbpay.ru
-  - .wibes.ru
-  - .wildberries.ru
-  - .ngenix.net
-  - .restream-media.net
-  - .wink.ru
   - .5ka.ru
   - .5post.market
   - .chizhik.club
@@ -289,5 +294,14 @@ payload:
   - .yastatic.net
   - .kinopoisk.ru
   - .kinopoisk-ru.clstorage.net
-  - .animevost.org
-  - .seasonvar.ru
+  - .dodopizza.ru
+  - .dodopizza.com
+  - .dodostatic.net
+  - .dodois.com
+  - .dodois.io
+  - .rostics.ru
+  - .uni.rest
+  - .unirest.tech
+  - .trbcdn.net
+  - .tbank-online.com
+  - .taxsee.com
