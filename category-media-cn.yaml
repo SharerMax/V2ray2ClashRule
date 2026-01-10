@@ -140,6 +140,7 @@ payload:
   - .ynet.com.cn
   - .21jingji.com
   - .admin5.com
+  - .anhuinews.com
   - .anzhuo.cn
   - .bianews.com
   - .caijing.com.cn
@@ -164,6 +165,7 @@ payload:
   - .cztvcdn.com
   - .cztvcloud.com
   - .zjstv.com
+  - .dutenews.com
   - .dzh.com.cn
   - .gw.com.cn
   - .yundzh.com
@@ -232,6 +234,8 @@ payload:
   - .ssimg.cn
   - .stockstar.com
   - .stcn.com
+  - .sznews.com
+  - .szpgm.com
   - .takungpao.com
   - .techweb.com.cn
   - .thecover.cn

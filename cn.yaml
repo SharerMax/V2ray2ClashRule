@@ -1204,6 +1204,7 @@ payload:
   - .ynet.com.cn
   - .21jingji.com
   - .admin5.com
+  - .anhuinews.com
   - .anzhuo.cn
   - .bianews.com
   - .caijing.com.cn
@@ -1228,6 +1229,7 @@ payload:
   - .cztvcdn.com
   - .cztvcloud.com
   - .zjstv.com
+  - .dutenews.com
   - .dzh.com.cn
   - .gw.com.cn
   - .yundzh.com
@@ -1296,6 +1298,8 @@ payload:
   - .ssimg.cn
   - .stockstar.com
   - .stcn.com
+  - .sznews.com
+  - .szpgm.com
   - .takungpao.com
   - .techweb.com.cn
   - .thecover.cn
@@ -2466,7 +2470,9 @@ payload:
   - .12306.cn
   - .95306.cn
   - .ccrgt.com
+  - .chelaile.net.cn
   - .kuajing84.com
+  - .mygolbs.com
   - .ningtingche.com
   - .umetrip.com
   - .umetrip.com.cn
@@ -3067,8 +3073,12 @@ payload:
   - .zdnscloud.net.cn
   - .zdnscloud.org.cn
   - .mob.com
-  - .dutils.com
+  - .sharesdk.cn
   - .accuratead.cn
+  - .dutils.com
+  - .hiaiabc.com
+  - .mobsdks.com
+  - .yksdks.com
   - .tianpeng.com
   - .zbj.com
   - .zbjdev.com
@@ -5433,10 +5443,15 @@ payload:
   - .migucloud.com
   - .migufun.com
   - .miguvideo.com
+  - .cmcc-cs.cn
+  - .online-cmcc.cn
   - .andfx.cn
   - .andfx.net
+  - .cmicapm.com
   - .cmicrwx.cn
+  - .cmicvip.cn
   - .cmpassport.com
+  - .cytxl.com.cn
   - .fetion-portal.com
   - .fetionpic.com
   - .mmarket.com
@@ -5467,6 +5482,7 @@ payload:
   - .wo116114.com
   - .wocloud.com.cn
   - .woread.com.cn
+  - .wosms.cn
   - .ipip.net
   - .chaziyu.com
   - .fofa.info
