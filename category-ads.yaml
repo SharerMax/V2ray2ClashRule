@@ -92,6 +92,8 @@ payload:
   - .zhugeio.com
   - .atrace.chelaile.net.cn
   - .logs.chelaile.net.cn
+  - .analytics.umetrip.com
+  - .sensors.umetrip.com.cn
   - pinggai0.caixin.com
   - pinggai1.caixin.com
   - pinggai2.caixin.com

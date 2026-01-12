@@ -2290,33 +2290,44 @@ payload:
   - .cf-ipfs.com
   - .cloudflare-ipfs.com
   - .argotunnel.com
+  - .browser.run
   - .cfargotunnel.com
+  - .cfdata.org
   - .cfl.re
   - .cloudflare-dns.com
   - .cloudflare-ech.com
   - .cloudflare-esni.com
   - .cloudflare-gateway.com
   - .cloudflare-quic.com
+  - .cloudflare-terms-of-service-abuse.com
   - .cloudflare.com
+  - .cloudflare.dev
   - .cloudflare.net
   - .cloudflare.tv
   - .cloudflareaccess.com
   - .cloudflareapps.com
   - .cloudflarebolt.com
+  - .cloudflarebrowser.com
+  - .cloudflarechallenge.com
   - .cloudflareclient.com
+  - .cloudflarecp.com
   - .cloudflareinsights.com
   - .cloudflareok.com
   - .cloudflarepartners.com
   - .cloudflareportal.com
   - .cloudflarepreview.com
   - .cloudflareregistrar.com
+  - .cloudflareresearch.com
   - .cloudflareresolve.com
   - .cloudflaressl.com
   - .cloudflarestatus.com
   - .cloudflarestorage.com
   - .cloudflarestream.com
+  - .cloudflaresupport.com
   - .cloudflaretest.com
   - .cloudflarewarp.com
+  - .cloudflareworkers.com
+  - .encryptedsni.com
   - .every1dns.net
   - .imagedelivery.net
   - .isbgpsafeyet.com
@@ -5985,32 +5996,43 @@ payload:
   - .appget.com
   - .appmedia.jp
   - .automaton-media.com
+  - .cxacg.com
   - .denfaminicogamer.jp
   - .dengekionline.com
   - .eroge-road.com
+  - .esports.gg
   - .famitsu.com
+  - .gameapps.hk
   - .gamebase.com.tw
   - .gamebusiness.jp
   - .gamespark.jp
   - .inside-games.jp
+  - .gamefocus.co.kr
   - .gamemeca.com
   - .gameover.com.hk
   - .gamer.ne.jp
   - .onlinegamer.jp
   - .greatgame.asia
   - .hobbigame.com
+  - .igcc.jp
   - .ign.com
   - .ignimg.com
   - .madewithunity.jp
   - .mediaclip.jp
   - .maedahiroyuki.com
   - .mantan-web.jp
+  - .moedigi.com
   - .moepedia.net
+  - .mynavi.jp
+  - .openbook.org.tw
   - .qoo-app.com
   - .realsound.jp
+  - .repotama.com
   - .saiganak.com
+  - .sqool.net
   - .tgdaily.co.kr
   - .thisisgame.com
+  - .toy-people.com
   - .wanuxi.com
   - .yorozoonews.jp
   - .0x0.st
@@ -8072,6 +8094,7 @@ payload:
   - .hkgpao.com
   - .hongkongfp.com
   - .inmediahk.net
+  - .inquirer.net
   - .inside.com.tw
   - .itmedia.co.jp
   - .jfengtime.com
@@ -8080,6 +8103,7 @@ payload:
   - .localpresshk.com
   - .ltsports.com.tw
   - .macaodaily.com
+  - .maidonanews.jp
   - .mdnkids.com
   - .mirrormedia.com.tw
   - .mirrormedia.mg
@@ -15916,6 +15940,7 @@ payload:
   - .shields.io
   - .sqlite.org
   - .sublimetext.com
+  - .tampermonkey.net
   - .termius.com
   - .unpkg.com
   - .videojs.com

@@ -852,9 +852,11 @@ payload:
   - .ign.com.cn
   - .nadianshi.com
   - .news.yxrb.net
+  - .shoutanjjj.com
   - .ucg.cn
   - .youxichaguan.com
   - .youxiputao.com
+  - .youxituoluo.com
   - .yystv.cn
   - .517lppz.com
   - .lppz.com
@@ -2428,6 +2430,7 @@ payload:
   - .12306.cn
   - .95306.cn
   - .ccrgt.com
+  - .bmac.com.cn
   - .chelaile.net.cn
   - .kuajing84.com
   - .mygolbs.com
@@ -2760,28 +2763,29 @@ payload:
   - .meta.law
   - .metaso.cn
   - .xiezuocat.com
+  - .asklink.com
+  - .easytier.cn
   - .oray.com
   - .oray.net
   - .orayer.com
   - .orayimg.com
   - .sunlogin.net
+  - .privateapi.xyz
   - .todesk.cn
   - .todesk.com
-  - .asklink.com
-  - .privateapi.xyz
   - .xedge.cc
   - .glxcc.net
   - .xn0.cc
   - .ganjiangvpn.com
+  - .nlark.com
+  - .yuque.com
+  - .shimo.im
+  - .shimonote.com
+  - .smgv.cn
   - .tower.im
   - .tritoninfo.net
   - .xiumi.us
   - .xiumius.com
-  - .shimo.im
-  - .shimonote.com
-  - .smgv.cn
-  - .nlark.com
-  - .yuque.com
   - .woodo.cn
   - .doc88.com
   - .docin.com
@@ -5276,6 +5280,16 @@ payload:
   - .fymallqa4.com
   - .fymallqa7.com
   - .fymallqa9.com
+  - .tdnsdl1.cn
+  - .tdnsdl1.com.cn
+  - .tdnsdl2.cn
+  - .tdnsdl2.com.cn
+  - .tdnsdl3.cn
+  - .tdnsdl3.com.cn
+  - .tdnsdl4.cn
+  - .tdnsdl4.com.cn
+  - .tdnsdl5.cn
+  - .tdnsdl5.com.cn
   - .thtf.com.cn
   - .tongfangpc.com
   - .mechrevo.com
