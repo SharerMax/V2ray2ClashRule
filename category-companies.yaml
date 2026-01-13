@@ -3216,6 +3216,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -3239,6 +3241,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
@@ -6886,10 +6890,24 @@ payload:
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be

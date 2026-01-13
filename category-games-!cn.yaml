@@ -593,6 +593,7 @@ payload:
   - .xboxstudios.com
   - .xbx.lv
   - .ynoproject.net
+  - .dinopoloclub.com
   - .dodi-repacks.download
   - .dodi-repacks.site
   - .fabricmc.net
@@ -603,8 +604,10 @@ payload:
   - .joinsquad.com
   - .loverslab.com
   - .minecraft.wiki
+  - .mobimon.com.tw
   - .nexus-cdn.com
   - .nexusmods.com
+  - .noxygames.com
   - .offworldindustries.com
   - .offworldindustries.net
   - .papermc.io
@@ -612,6 +615,8 @@ payload:
   - .prismlauncher.org
   - .protondb.com
   - .quiltmc.org
+  - .rayark.download
+  - .rayark.net
   - .speedrun.com
   - .steamdb.info
   - blizzard.nefficient.co.kr

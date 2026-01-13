@@ -47,6 +47,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .groq.com
   - .hf.co
   - .hf.space
@@ -92,6 +94,13 @@ payload:
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net

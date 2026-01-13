@@ -47,6 +47,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .groq.com
   - .hf.co
   - .hf.space
@@ -5135,6 +5137,7 @@ payload:
   - .xboxstudios.com
   - .xbx.lv
   - .ynoproject.net
+  - .dinopoloclub.com
   - .dodi-repacks.download
   - .dodi-repacks.site
   - .fabricmc.net
@@ -5145,8 +5148,10 @@ payload:
   - .joinsquad.com
   - .loverslab.com
   - .minecraft.wiki
+  - .mobimon.com.tw
   - .nexus-cdn.com
   - .nexusmods.com
+  - .noxygames.com
   - .offworldindustries.com
   - .offworldindustries.net
   - .papermc.io
@@ -5154,6 +5159,8 @@ payload:
   - .prismlauncher.org
   - .protondb.com
   - .quiltmc.org
+  - .rayark.download
+  - .rayark.net
   - .speedrun.com
   - .steamdb.info
   - .ptzwx.com
@@ -19169,6 +19176,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -19192,6 +19201,8 @@ payload:
   - .aida.googleapis.com
   - .opal.google
   - .opal.google.com
+  - .antigravity.google
+  - .antigravity-unleash.goog
   - .googleplay.com
   - .play-fe.googleapis.com
   - .play-games.googleusercontent.com
@@ -23402,6 +23413,13 @@ payload:
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net
@@ -24026,10 +24044,24 @@ payload:
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - alkalimakersuite-pa.clients6.google.com
   - webchannel-alkalimakersuite-pa.clients6.google.com
+  - cloudaicompanion.googleapis.com
+  - cloudcode-pa.googleapis.com
+  - daily-cloudcode-pa.googleapis.com
+  - notebooklm-pa.googleapis.com
+  - notebooklm.googleapis.com
+  - antigravity-pa.googleapis.com
+  - antigravity.googleapis.com
   - scholar.google.ae
   - scholar.google.at
   - scholar.google.be
