@@ -89,14 +89,6 @@ payload:
   - .mistral.ai
   - .openart.ai
   - .openrouter.ai
-  - .colorfulstage.com
-  - .crypton.co.jp
-  - .lapriere.jp
-  - .magicalmirai.com
-  - .mikuexpo.com
-  - .piapro.net
-  - .snowmiku.com
-  - .bowlroll.net
   - .pubmatic.com
   - .pubmatic.co.jp
   - .taboola.com
@@ -4536,6 +4528,14 @@ payload:
   - .w3schools.com
   - .zotero.org
   - .chemequations.com
+  - .colorfulstage.com
+  - .crypton.co.jp
+  - .lapriere.jp
+  - .magicalmirai.com
+  - .mikuexpo.com
+  - .piapro.net
+  - .snowmiku.com
+  - .bowlroll.net
   - .playfamily.ru
   - .okko.sport
   - .okko.tv
@@ -5061,6 +5061,9 @@ payload:
   - .steam.cdn.orcon.net.nz
   - .steam.cdn.slingshot.co.nz
   - .steam.cdn.webra.ru
+  - .sih-db.com
+  - .sih.app
+  - .steaminventoryhelper.com
   - .steamunlocked.net
   - .boombeach.com
   - .brawlstars.com
@@ -8149,6 +8152,7 @@ payload:
   - .tvbs.com.tw
   - .tvmost.com.hk
   - .twgreatnews.com
+  - .twreporter.org
   - .unwire.hk
   - .upmedia.mg
   - .vjmedia.com.hk

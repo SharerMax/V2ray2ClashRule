@@ -835,6 +835,7 @@ payload:
   - .motie.com
   - .motieimg.com
   - .pearvideo.com
+  - .pipi.cn
   - .sfacg.com
   - .shuhai.com
   - .tadu.com
@@ -1349,6 +1350,7 @@ payload:
   - .dandanvoice.com
   - .maimai.cn
   - .taou.com
+  - .zsxq.com
   - .gepush.com
   - .getui.cn
   - .getui.com
@@ -3057,6 +3059,7 @@ payload:
   - .zhubajie.com
   - .7moor-fs1.com
   - .7moor.com
+  - .alookweb.com
   - .antutu.com
   - .antutu.net
   - .bambulab.com
@@ -3068,11 +3071,21 @@ payload:
   - .clink.cn
   - .dangbei.com
   - .dangbei.net
+  - .dcloud.io
+  - .dcloud.net.cn
   - .deepepg.com
   - .kookong.com
   - .dida365.com
+  - .dui88.com
+  - .duiba.com.cn
   - .hapjs.org
   - .quickapp.cn
+  - .hpplay.cn
+  - .lbtp.com
+  - .lebo.cn
+  - .lebo.com.cn
+  - .lebo.top
+  - .mirrorcast.cn
   - .huolala.cn
   - .huorong.cn
   - .i8tq.com
@@ -3096,6 +3109,7 @@ payload:
   - .soboten.com
   - .tacool.com
   - .viayoo.com
+  - .xbext.com
   - .yinxiang.com
   - .zhaopin.cn
   - .1tyy.cn
@@ -5424,6 +5438,7 @@ payload:
   - .migucloud.com
   - .migufun.com
   - .miguvideo.com
+  - .cmft.com.cn
   - .cmcc-cs.cn
   - .online-cmcc.cn
   - .andfx.cn
