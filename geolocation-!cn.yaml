@@ -15478,8 +15478,16 @@ payload:
   - .zoom.com
   - .zoom.com.cn
   - .zoom.us
+  - .auroraoss.com
   - .biliplus.com
-  - .originlab.com
+  - .cataboom.com
+  - .consentpro.com
+  - .cookiepro.com
+  - .cookielaw.org
+  - .onetrust.com
+  - .osano.com
+  - .usercentrics.eu
+  - .greasyfork.org
   - .cloudlatex.io
   - .overleaf.com
   - .linguee.com
@@ -15487,10 +15495,7 @@ payload:
   - .collinsdictionary.com
   - .ldoceonline.com
   - .immersivetranslate.com
-  - .auroraoss.com
-  - .cookiepro.com
-  - .cookielaw.org
-  - .onetrust.com
+  - .originlab.com
   - .anaconda.cloud
   - .anaconda.com
   - .anaconda.org
@@ -22715,7 +22720,6 @@ payload:
   - .rarbgway.org
   - .dmhy.org
   - .rutor.info
-  - .greasyfork.org
   - .928.plus
   - .zind.cloud
   - .boslife.biz
