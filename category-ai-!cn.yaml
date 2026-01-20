@@ -53,6 +53,8 @@ payload:
   - .hf.co
   - .hf.space
   - .huggingface.co
+  - .liveperson.net
+  - .lpsnmedia.net
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
@@ -71,6 +73,9 @@ payload:
   - .grok.com
   - .grok.x.com
   - .x.ai
+  - .youmind.ai
+  - .youmind.com
+  - .youmind.site
   - .coderabbit.ai
   - .coderabbit.gallery.vsassets.io
   - .cohere.ai

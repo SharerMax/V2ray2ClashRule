@@ -4,6 +4,10 @@ payload:
   - .miaibox.com
   - .xiaoaiassist.com
   - .xiaomimimo.com
+  - .account.xiaomi.com
+  - .cn-ha.mqtt.io.mi.com
+  - .ha.api.io.mi.com
+  - .miot-spec.org
   - .mgslb.com
   - .mi-idc.com
   - .mi-img.com

@@ -53,6 +53,8 @@ payload:
   - .hf.co
   - .hf.space
   - .huggingface.co
+  - .liveperson.net
+  - .lpsnmedia.net
   - .chatgpt.com
   - .chat.com
   - .oaistatic.com
@@ -71,6 +73,9 @@ payload:
   - .grok.com
   - .grok.x.com
   - .x.ai
+  - .youmind.ai
+  - .youmind.com
+  - .youmind.site
   - .coderabbit.ai
   - .coderabbit.gallery.vsassets.io
   - .cohere.ai
@@ -1614,6 +1619,8 @@ payload:
   - .schwab.com.sg
   - .schwabassetmanagement.com
   - .schwabplan.com
+  - .sc.com
+  - .standardchartered.com
   - .transferwise.com
   - .wise.com
   - .fxcorporate.com
@@ -23449,6 +23456,8 @@ payload:
   - pplx-res.cloudinary.com
   - fontshop-prod-responsive-images.s3.amazonaws.com
   - tesla-cdn.thron.com
+  - standchartbank.sc.omtrdc.net
+  - standchartbank.tt.omtrdc.net
   - nab.demdex.net
   - nationalaustraliaban.tt.omtrdc.net
   - venmo.s3.amazonaws.com
