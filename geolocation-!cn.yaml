@@ -4535,6 +4535,8 @@ payload:
   - .w3schools.com
   - .zotero.org
   - .chemequations.com
+  - .geogebra.org
+  - .wolframalpha.com
   - .colorfulstage.com
   - .crypton.co.jp
   - .lapriere.jp
@@ -22833,6 +22835,7 @@ payload:
   - .wmflabs.org
   - .atwiki.jp
   - .touhouwiki.net
+  - .wiki.gg
   - .avxhm.se
   - .avh.world
   - .avxde.org
