@@ -23,26 +23,32 @@ payload:
   - .adtechus.com
   - .adtrue.com
   - .adxprtz.com
+  - .assets.growingio.com
   - .cdn.advertserve.com
   - .cdn.banclip.com
   - .cfts1tifqr.com
   - .contentabc.com
   - .cretgate.com
+  - .data.flurry.com
   - .decide.mixpanel.com
+  - .emogi.com
   - .ero-advertising.com
   - .eroadvertising.com
+  - .evt.mxplay.com
   - .exoclick.com
   - .exosrv.com
   - .go2.global
   - .gozendata.com
-  - .gzads.com
   - .gz-data.com
+  - .gzads.com
   - .img-bss.csdn.net
   - .imglnkc.com
   - .imglnkd.com
+  - .inner-active.mobi
   - .innovid.com
   - .jads.co
   - .jl3.yjaxa.top
+  - .js-agent.newrelic.com
   - .juicyads.com
   - .kepler-37b.com
   - .leanplum.com
@@ -50,25 +56,40 @@ payload:
   - .moat.com
   - .moatads.com
   - .mobwithad.com
+  - .mopub.com
   - .onesignal.com
   - .realsrv.com
   - .s4yxaqyq95.com
   - .shhs-ydd8x2.yjrmss.cn
+  - .ssp.api.tappx.com
+  - .static.hotjar.com
   - .static.javhd.com
   - .tm-banners.gamingadult.com
   - .trafficfactory.biz
   - .tsyndicate.com
+  - .uberads.com
   - .wwads.cn
-  - .adx.36kr.com
   - .ad.12306.cn
+  - .adx.36kr.com
   - .hubcloud.com.cn
   - .beizi.biz
   - .click.ali213.net
   - .pbmp.ali213.net
+  - .applovin.com
+  - .applvn.com
   - .adq.chinaso.com
   - .stat.chinaso.com
+  - .mlog.hiido.com
+  - .ylog.hiido.com
   - .toboads.com
+  - .analytics-data.io
+  - .atom-data.io
+  - .ironbeast.io
+  - .cdn.pocoiq.cn
+  - .oct.pocoiq.cn
   - .dn-growing.qbox.me
+  - .g1.tagtic.cn
+  - .xy-log.tagtic.cn
   - .ad.unimhk.com
   - .das-rpt-log.ucloud.cn
   - .telecome.cn

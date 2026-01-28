@@ -55,8 +55,9 @@ payload:
   - .huggingface.co
   - .liveperson.net
   - .lpsnmedia.net
-  - .chatgpt.com
   - .chat.com
+  - .chatgpt.com
+  - .crixet.com
   - .oaistatic.com
   - .oaiusercontent.com
   - .openai.com
@@ -4576,6 +4577,15 @@ payload:
   - .worldofwarcraft.com
   - .bluearchive.jp
   - .bluearchive.nexon.com
+  - .arma3.com
+  - .armaplatform.com
+  - .bistudio.com
+  - .bohemia.net
+  - .dayz.com
+  - .makearmanotwar.com
+  - .silicagame.com
+  - .vigorgame.com
+  - .ylands.com
   - .curseforge.com
   - .forgecdn.net
   - .cygames.jp
@@ -15047,6 +15057,7 @@ payload:
   - .thetrackernetwork.com
   - .tracker.gg
   - .tracker.network
+  - .battleye.com
   - .bluestacks.com
   - .maa.plus
   - .prts.plus
@@ -23464,6 +23475,7 @@ payload:
   - antigravity.googleapis.com
   - openaiapi-site.azureedge.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - openaicom.imgix.net
   - openaicomproductionae4b.blob.core.windows.net
   - production-openaicom-storage.azureedge.net
   - pplx-res.cloudinary.com
