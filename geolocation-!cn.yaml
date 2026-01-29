@@ -2331,6 +2331,9 @@ payload:
   - .cloudflareworkers.com
   - .encryptedsni.com
   - .every1dns.net
+  - .foundationdns.com
+  - .foundationdns.net
+  - .foundationdns.org
   - .imagedelivery.net
   - .isbgpsafeyet.com
   - .one.one.one
@@ -17847,13 +17850,17 @@ payload:
   - .asus.com
   - .asuscloud.com
   - .asuswebstorage.com
+  - .trello.com
+  - .trellocdn.com
+  - .atl-paas.net
+  - .atlassian-dev.net
   - .atlassian.com
   - .atlassian.net
   - .bitbucket.io
   - .bitbucket.org
+  - .jira.com
+  - .ss-inf.net
   - .statuspage.io
-  - .trello.com
-  - .trellocdn.com
   - .accbusiness.com
   - .atandt.com
   - .att-bundles.com
