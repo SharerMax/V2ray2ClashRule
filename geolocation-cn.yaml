@@ -146,6 +146,9 @@ payload:
   - .weui.io
   - .openkylin.top
   - .ubuntukylin.com
+  - .u3d.cn
+  - .unity.cn
+  - .unitychina.cn
   - .jinrishici.com
   - .openvela.com
   - .tipdm.org
@@ -1304,16 +1307,6 @@ payload:
   - .n0q.cn
   - .pushcfg.com
   - .s0n.cn
-  - .cnzz.com
-  - .mobmore.com
-  - .puata.info
-  - .shujupie.com
-  - .umeng.com
-  - .umengcloud.com
-  - .umsns.com
-  - .umtrack.com
-  - .uyunad.com
-  - .whalecloud.com
   - .sensorsdata.cn
   - .hsbc.com.cn
   - .hsbcqh.com.cn
@@ -2121,6 +2114,7 @@ payload:
   - .ystbds.com
   - .zhan.com
   - .zhihuishu.com
+  - .zjzs.net
   - .leetcode.cn
   - .leetcode-cn.com
   - .lingkou.xyz
