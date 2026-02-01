@@ -2955,6 +2955,7 @@ payload:
   - .binanceru.net
   - .bnbstatic.com
   - .bntrace.com
+  - .bsappapi.com
   - .nftstatic.com
   - .appsflayer.com
   - .saasexch.cc
@@ -4960,6 +4961,7 @@ payload:
   - .playstation.net
   - .sonyentertainmentnetwork.com
   - .sekai.colorfulpalette.org
+  - .pjsekai.sega.jp
   - .kraftonde.com
   - .playbattlegrounds.com
   - .pubg.com
@@ -23908,6 +23910,7 @@ payload:
   - developer.microsoft.com
   - download.visualstudio.microsoft.com
   - dtlgalleryint.cloudapp.net
+  - packages.microsoft.com
   - poshtestgallery.cloudapp.net
   - psg-int-centralus.cloudapp.net
   - psg-int-eastus.cloudapp.net
@@ -24230,6 +24233,7 @@ payload:
   - developer.microsoft.com
   - download.visualstudio.microsoft.com
   - dtlgalleryint.cloudapp.net
+  - packages.microsoft.com
   - poshtestgallery.cloudapp.net
   - psg-int-centralus.cloudapp.net
   - psg-int-eastus.cloudapp.net
