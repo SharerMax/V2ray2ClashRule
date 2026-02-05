@@ -149,6 +149,7 @@ payload:
   - .u3d.cn
   - .unity.cn
   - .unitychina.cn
+  - .aardio.com
   - .jinrishici.com
   - .openvela.com
   - .tipdm.org
@@ -765,6 +766,7 @@ payload:
   - .17k.com
   - .51zmt.top
   - .aisee.tv
+  - .anitabi.cn
   - .baofeng.com
   - .baofeng.net
   - .bgwxc.com
@@ -1163,6 +1165,7 @@ payload:
   - .freebuf.com
   - .geekpark.net
   - .gmw.com
+  - .guigu.org
   - .hexun.com
   - .hntv.tv
   - .hndt.com
@@ -1198,6 +1201,8 @@ payload:
   - .xinhuanet.com
   - .xinhuaxmt.com
   - .ofweek.com
+  - .pchome.net
+  - .pchpic.net
   - .3conline.com
   - .pconline.com.cn
   - .people.cn
@@ -1279,6 +1284,7 @@ payload:
   - .tieba.com
   - .dandan818.com
   - .dandanvoice.com
+  - .fanfou.com
   - .maimai.cn
   - .taou.com
   - .zsxq.com
@@ -1289,6 +1295,12 @@ payload:
   - .igehuo.com
   - .igetui.com
   - .igexin.com
+  - .datayi.cn
+  - .gio.ren
+  - .giocdn.com
+  - .growin.cn
+  - .growingio.cn
+  - .growingio.com
   - .42r.cn
   - .5566ua.com
   - .aurorapush.cn
@@ -1613,6 +1625,7 @@ payload:
   - .wswebpic.com
   - .chuangcache.com
   - .chuangcdn.com
+  - .dfyun.com.cn
   - .funcdn.com
   - .jiashule.com
   - .jiasule.com
@@ -2071,6 +2084,7 @@ payload:
   - .baicizhan.org
   - .bczcdn.com
   - .bczeducation.cn
+  - .biyehome.net
   - .burningvocabulary.cn
   - .burningvocabulary.com
   - .centuryenglish.com
@@ -2226,6 +2240,7 @@ payload:
   - .mbalib.com
   - .sec-wiki.com
   - .shidianbaike.com
+  - .chaz.fun
   - .huijistatic.com
   - .huijiwiki.com
   - .moegirl.org
@@ -2312,6 +2327,7 @@ payload:
   - .xiezuocat.com
   - .asklink.com
   - .easytier.cn
+  - .feihengip.com
   - .oray.com
   - .oray.net
   - .orayer.com
@@ -2348,6 +2364,8 @@ payload:
   - .qichamao.com
   - .qyyjt.cn
   - .x315.com
+  - .xcc.cn
+  - .xinchacha.com
   - .leigod.cn
   - .leigod.com
   - .tmjiasuqi.com
@@ -2765,6 +2783,7 @@ payload:
   - .dji.ink
   - .dji.net
   - .djicdn.com
+  - .djigate.com
   - .djiits.com
   - .djiops.com
   - .djiservice.org
@@ -3341,7 +3360,6 @@ payload:
   - .9ht.com
   - .9xu.com
   - .a9vg.com
-  - .aardio.com
   - .acetaffy.club
   - .adxvip.com
   - .afzhan.com
@@ -3397,7 +3415,6 @@ payload:
   - .biodiscover.com
   - .bishijie.com
   - .bitecoin.com
-  - .biyehome.net
   - .bjcathay.com
   - .bobo.com
   - .bojianger.com
@@ -3421,7 +3438,6 @@ payload:
   - .changba.com
   - .chaojituzi.net
   - .chashebao.com
-  - .chaz.fun
   - .chazhengla.com
   - .chazidian.com
   - .che168.com
@@ -3557,7 +3573,6 @@ payload:
   - .fangxiaoer.com
   - .fanxian.com
   - .fastapi.net
-  - .feihengip.com
   - .feihuo.com
   - .feiniaomy.com
   - .fengniao.com
@@ -3581,7 +3596,6 @@ payload:
   - .geektool.top
   - .gezida.com
   - .gfan.com
-  - .giocdn.com
   - .globrand.com
   - .gm86.com
   - .gmz88.com
@@ -3592,7 +3606,6 @@ payload:
   - .goosail.com
   - .goufw.com
   - .greenxiazai.com
-  - .growingio.com
   - .gtags.net
   - .guabu.com
   - .guaiguai.com
@@ -3600,7 +3613,6 @@ payload:
   - .guanhaobio.com
   - .guanyierp.com
   - .gucheng.com
-  - .guigu.org
   - .guoxinmac.com
   - .gupzs.com
   - .gushiwen.org
@@ -3856,7 +3868,6 @@ payload:
   - .paipaibang.com
   - .paopaoche.net
   - .pc6.com
-  - .pchome.net
   - .pcpop.com
   - .peccn.com
   - .pgzs.com

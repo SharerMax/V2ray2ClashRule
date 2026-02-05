@@ -85,6 +85,7 @@ payload:
   - .office365tw.com
   - .renovacionoffice.com
   - .sprinklesapp.com
+  - .githubcopilot.com
   - .npm.community
   - .npmjs.com
   - .npmjs.org
@@ -101,7 +102,6 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
-  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev

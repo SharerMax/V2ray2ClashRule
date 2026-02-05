@@ -23,7 +23,6 @@ payload:
   - .adtechus.com
   - .adtrue.com
   - .adxprtz.com
-  - .assets.growingio.com
   - .cdn.advertserve.com
   - .cdn.banclip.com
   - .cfts1tifqr.com
@@ -116,6 +115,12 @@ payload:
   - .logs.chelaile.net.cn
   - .analytics.umetrip.com
   - .sensors.umetrip.com.cn
+  - .datayi.cn
+  - .gio.ren
+  - .giocdn.com
+  - .growin.cn
+  - .growingio.cn
+  - .growingio.com
   - .pubmatic.com
   - .pubmatic.co.jp
   - .taboola.com

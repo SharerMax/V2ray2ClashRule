@@ -24,6 +24,7 @@ payload:
   - .cursorapi.com
   - .elevenlabs.com
   - .elevenlabs.io
+  - .githubcopilot.com
   - .deepmind.com
   - .deepmind.google
   - .geller-pa.googleapis.com
@@ -5720,6 +5721,9 @@ payload:
   - .primevideo.org
   - .primevideo.tv
   - .prod.service.minerva.devices.a2z.com
+  - .radiko-cf.com
+  - .radiko.jp
+  - .smartstream.ne.jp
   - .fandango.com
   - .mgo.com
   - .mgo-images.com
@@ -15530,6 +15534,7 @@ payload:
   - .ldoceonline.com
   - .immersivetranslate.com
   - .originlab.com
+  - .osmand.net
   - .anaconda.cloud
   - .anaconda.com
   - .anaconda.org
@@ -15685,6 +15690,7 @@ payload:
   - .gemfury.com
   - .gitbook.com
   - .gitbook.io
+  - .githubcopilot.com
   - .npm.community
   - .npmjs.com
   - .npmjs.org
@@ -15701,7 +15707,6 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
-  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev
@@ -21315,6 +21320,7 @@ payload:
   - .office365tw.com
   - .renovacionoffice.com
   - .sprinklesapp.com
+  - .githubcopilot.com
   - .npm.community
   - .npmjs.com
   - .npmjs.org
@@ -21331,7 +21337,6 @@ payload:
   - .github.io
   - .githubapp.com
   - .githubassets.com
-  - .githubcopilot.com
   - .githubhackathon.com
   - .githubnext.com
   - .githubpreview.dev
