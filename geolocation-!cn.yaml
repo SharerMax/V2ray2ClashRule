@@ -56,6 +56,8 @@ payload:
   - .huggingface.co
   - .liveperson.net
   - .lpsnmedia.net
+  - .manus.im
+  - .manuscdn.com
   - .chat.com
   - .chatgpt.com
   - .crixet.com
@@ -15454,6 +15456,7 @@ payload:
   - .hyper.is
   - .nextjs.org
   - .now.sh
+  - .skills.sh
   - .static.fun
   - .title.sh
   - .turborepo.org
