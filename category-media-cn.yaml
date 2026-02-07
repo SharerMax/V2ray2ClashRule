@@ -178,6 +178,12 @@ payload:
   - .geekpark.net
   - .gmw.com
   - .guigu.org
+  - .0033.cn
+  - .10jqka.com.cn
+  - .hexin.cn
+  - .hexin.com.cn
+  - .ths123.com
+  - .thsi.cn
   - .hexun.com
   - .hntv.tv
   - .hndt.com
@@ -192,6 +198,7 @@ payload:
   - .jianyuweb.com
   - .wallstcn.com
   - .wallstreetcn.com
+  - .jin10.com
   - .jfdaily.com
   - .shobserver.com
   - .jiqizhixin.com
@@ -243,9 +250,6 @@ payload:
   - .techweb.com.cn
   - .thecover.cn
   - .thepaper.cn
-  - .10jqka.com.cn
-  - .thsi.cn
-  - .ths123.com
   - .woshipm.com
   - .xkb.com.cn
   - .yicai.com

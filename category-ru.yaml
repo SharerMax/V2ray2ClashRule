@@ -157,6 +157,9 @@ payload:
   - .fix-price.com
   - .lenta.com
   - .lenta.tech
+  - .avs.io
+  - .aviasales.ru
+  - .aviasales.com
   - .mosmetro.ru
   - .mosmetro.tech
   - .avito.ru
@@ -305,3 +308,4 @@ payload:
   - .trbcdn.net
   - .tbank-online.com
   - .taxsee.com
+  - yandex-pogoda.static-storage.net

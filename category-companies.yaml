@@ -7051,5 +7051,6 @@ payload:
   - impala-media-production.s3.amazonaws.com
   - cdn.js7k.com
   - cdn.js7k.com
+  - yandex-pogoda.static-storage.net
   - client-teamviewer-com.trafficmanager.net
   - teamviewer.com.cdn.cloudflare.net
