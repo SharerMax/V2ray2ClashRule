@@ -216,10 +216,6 @@ payload:
   - .winegame.net
   - .wo1wan.com
   - .ycgame.com
-  - .2k.com
-  - .2kcoretech.online
-  - .2kgames.com
-  - .take2games.com
   - .blizzard.com
   - .blizzardgearstore.com
   - .blz-contentstack.com
@@ -456,6 +452,19 @@ payload:
   - .escapefromtarkov.com
   - .faceit.com
   - .faceit-cdn.net
+  - .acesofthunder.net
+  - .activematter.game
+  - .artstorm.com
+  - .crossout.net
+  - .crsed.net
+  - .cubicodyssey.game
+  - .enlisted.net
+  - .gaijin.net
+  - .gaijinent.com
+  - .modernwarships.com
+  - .star-conflict.com
+  - .warthunder.com
+  - .wtmobile.com
   - .garena.co.id
   - .garena.co.th
   - .garena.com
@@ -718,8 +727,6 @@ payload:
   - .robloxlabs.com
   - .rowblocks.com
   - .rowblox.com
-  - .rockstargames.com
-  - .rsg.sc
   - .snk-corp.co.jp
   - .snk-corp.info
   - .snkplaymore.info
@@ -772,6 +779,19 @@ payload:
   - .supercellgames.com
   - .supercellid.com
   - .supercellstore.com
+  - .2k.com
+  - .2kcoretech.online
+  - .2kct.onl
+  - .2kgames.com
+  - .2ksports.com
+  - .2kweb.online
+  - .rockstargames.com
+  - .rockstarnorth.com
+  - .rsg.sc
+  - .zynga.com
+  - .zyngaplayersupport.com
+  - .zyngapoker.com
+  - .take2games.com
   - .ubi.com
   - .ubisoft.com
   - .ubisoftconnect.com
@@ -888,9 +908,6 @@ payload:
   - roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
   - roblox-poc.global.ssl.fastly.net
   - robloxcorp.s.llnwi.net
-  - gamedownloads-rockstargames-com.akamaized.net
-  - media-rockstargames-com.akamaized.net
-  - videos-rockstargames-com.akamaized.net
   - steamcommunity-a.akamaihd.net.edgesuite.net
   - a4e8s8k3.map2.ssl.hwcdn.net
   - f3b7q2p3.ssl.hwcdn.net
@@ -906,6 +923,9 @@ payload:
   - steamuserimages-a.akamaihd.net
   - steamvideo-a.akamaihd.net
   - steamcloudsweden.blob.core.windows.net
+  - gamedownloads-rockstargames-com.akamaized.net
+  - media-rockstargames-com.akamaized.net
+  - videos-rockstargames-com.akamaized.net
   - ubisoft-uplay-savegames.s3.amazonaws.com
   - ubisoft-orbit-savegames.s3.amazonaws.com
   - ubistatic3-a.akamaihd.net
