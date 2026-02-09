@@ -194,6 +194,7 @@ payload:
   - .aardio.com
   - .jinrishici.com
   - .openvela.com
+  - .pingcode.com
   - .tipdm.org
   - .analog.com
   - .arrow.cn
@@ -827,10 +828,15 @@ payload:
   - .jjwxc.net
   - .kjcdn.com
   - .kujiang.com
+  - .1905.com
+  - .m1905.cn
+  - .m1905.com
   - .mfuns.cn
   - .miaopai.com
   - .motie.com
   - .motieimg.com
+  - .mtime.cn
+  - .mtime.com
   - .pearvideo.com
   - .pipi.cn
   - .sfacg.com
@@ -868,6 +874,15 @@ payload:
   - .517lppz.com
   - .lppz.com
   - .lppzimg.com
+  - .100.me
+  - .ddcorp.net
+  - .ddfresh.net
+  - .ddimg.mobi
+  - .ddmaicai.net
+  - .ddmc.mobi
+  - .dduser.mobi
+  - .ddxq.mobi
+  - .imaicai.mobi
   - .lkcoffee.com
   - .luckincoffeecdn.com
   - .yyds.co
@@ -1226,6 +1241,7 @@ payload:
   - .icpcw.com
   - .idcquan.com
   - .iresearch.cn
+  - .it168.com
   - .jianyuweb.com
   - .wallstcn.com
   - .wallstreetcn.com
@@ -1244,6 +1260,7 @@ payload:
   - .kksmg.com
   - .statickksmg.com
   - .latepost.com
+  - .miercn.com
   - .mydrivers.com
   - .nanyuenews.com
   - .nbd.com.cn
@@ -1255,6 +1272,7 @@ payload:
   - .pchpic.net
   - .3conline.com
   - .pconline.com.cn
+  - .pcpop.com
   - .people.cn
   - .people.com.cn
   - .pingwest.com
@@ -1270,6 +1288,7 @@ payload:
   - .shangyexinzhi.com
   - .solidot.org
   - .southcn.com
+  - .southmoney.com
   - .sspai.com
   - .ssajax.cn
   - .ssimg.cn
@@ -1282,6 +1301,7 @@ payload:
   - .thecover.cn
   - .thepaper.cn
   - .woshipm.com
+  - .xilu.com
   - .xkb.com.cn
   - .yicai.com
   - .zealer.com
@@ -1882,6 +1902,15 @@ payload:
   - .ljcdn.com
   - .beckyroom.com
   - .ke.com
+  - .100.me
+  - .ddcorp.net
+  - .ddfresh.net
+  - .ddimg.mobi
+  - .ddmaicai.net
+  - .ddmc.mobi
+  - .dduser.mobi
+  - .ddxq.mobi
+  - .imaicai.mobi
   - .dianping.com
   - .maoyan.com
   - .meituan.com
@@ -2009,6 +2038,9 @@ payload:
   - .dxy.com
   - .dxy.cn
   - .dxycdn.com
+  - .boohee.com
+  - .haodf.com
+  - .hdfimg.com
   - .jsehealth.com
   - .mingxuan.store
   - .gov.cn
@@ -2356,6 +2388,8 @@ payload:
   - .bigmodel.cn
   - .chatglm.cn
   - .zhipuai.cn
+  - .kimi.com
+  - .moonshot.ai
   - .moonshot.cn
   - .xinghuo.xfyun.cn
   - .hailuoai.com
@@ -2398,6 +2432,7 @@ payload:
   - .xiumi.us
   - .xiumius.com
   - .woodo.cn
+  - .worktile.com
   - .doc88.com
   - .docin.com
   - .douding.cn
@@ -2680,6 +2715,7 @@ payload:
   - .dida365.com
   - .dui88.com
   - .duiba.com.cn
+  - .foundertype.com
   - .hapjs.org
   - .quickapp.cn
   - .hpplay.cn
@@ -2699,17 +2735,19 @@ payload:
   - .zhangyue.com
   - .zhangyue01.com
   - .zhangyuecdn.com
+  - .moseeker.com
   - .ntalker.com
+  - .onedns.net
   - .sencdn.com
   - .seniverse.com
-  - .tianqi.com
-  - .tianqistatic.com
-  - .foundertype.com
-  - .moseeker.com
-  - .onedns.net
+  - .shixiseng.com
+  - .sxsimg.com
+  - .xiaoyuanzhao.com
   - .sobot.com
   - .soboten.com
   - .tacool.com
+  - .tianqi.com
+  - .tianqistatic.com
   - .viayoo.com
   - .xbext.com
   - .yinxiang.com
@@ -3271,7 +3309,6 @@ payload:
   - .17989.com
   - .17cdn.com
   - .17house.com
-  - .1905.com
   - .19yxw.com
   - .1nongjing.com
   - .1ting.com
@@ -3700,7 +3737,6 @@ payload:
   - .irs01.com
   - .istoreos.com
   - .it165.net
-  - .it168.com
   - .it610.com
   - .itjuzi.com
   - .itmop.com
@@ -3823,7 +3859,6 @@ payload:
   - .mengtuoshi.wang
   - .miaobolive.com
   - .miaozhen.com
-  - .miercn.com
   - .mijisou.com
   - .mikecrm.com
   - .minhangshi.com
@@ -3881,7 +3916,6 @@ payload:
   - .paipaibang.com
   - .paopaoche.net
   - .pc6.com
-  - .pcpop.com
   - .peccn.com
   - .pgzs.com
   - .pharmacodia.com
@@ -3947,7 +3981,6 @@ payload:
   - .shenmayouxi.com
   - .sheui.com
   - .shijiexia.com
-  - .shixiseng.com
   - .shmetro.com
   - .shoujihuifu.com
   - .shouqianba.com
@@ -3971,7 +4004,6 @@ payload:
   - .sojson.com
   - .somode.com
   - .souqian.com
-  - .southmoney.com
   - .sparkletour.com
   - .springtour.com
   - .ssports.com
@@ -4078,7 +4110,6 @@ payload:
   - .wondercv.com
   - .wonnder.com
   - .wooyun.org
-  - .worktile.com
   - .woyaogexing.com
   - .woyoo.com
   - .wqiis.com
