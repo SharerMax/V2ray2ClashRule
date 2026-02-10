@@ -751,17 +751,6 @@ payload:
   - .mmstat.com
   - .soku.com
   - .cibntv.net
-  - .yuewen.com
-  - .hongxiu.com
-  - .lrts.me
-  - .qdmm.com
-  - .qidian.com
-  - .readnovel.com
-  - .rongshuxia.com
-  - .tingbook.com
-  - .xs.cn
-  - .xs8.cn
-  - .xxsy.net
   - .ldmnq.com
   - .lsplayer.com
   - .yeshen.com
@@ -1294,10 +1283,12 @@ payload:
   - .ruguoapp.com
   - .askdiandian.com
   - .diandianlife.top
+  - .redelight.cn
   - .rednotecdn.com
   - .xhscdn.com
   - .xhscdn.net
   - .xhslink.com
+  - .xhsrcdn.com
   - .xiaohongshu.com
   - .duowan.com
   - .dwstatic.com
@@ -2345,7 +2336,9 @@ payload:
   - .tiangong.cn
   - .bigmodel.cn
   - .chatglm.cn
+  - .z.ai
   - .zhipuai.cn
+  - .zhipucn.com
   - .kimi.com
   - .moonshot.ai
   - .moonshot.cn
@@ -3134,6 +3127,7 @@ payload:
   - .tcl.com.cn
   - .tcltech.com
   - .leiniao.com
+  - .my7v.com
   - .thtf.com.cn
   - .tongfangpc.com
   - .mechrevo.com

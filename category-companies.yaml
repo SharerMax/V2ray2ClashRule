@@ -126,8 +126,6 @@ payload:
   - .sign.new
   - .scene7.com
   - .adobestats.io
-  - .alibabacloud.com
-  - .alicloud.com
   - .amazontrust.com
   - .awstrust.com
   - .ss2.us

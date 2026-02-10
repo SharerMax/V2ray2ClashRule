@@ -45,7 +45,9 @@ payload:
   - .tiangong.cn
   - .bigmodel.cn
   - .chatglm.cn
+  - .z.ai
   - .zhipuai.cn
+  - .zhipucn.com
   - .kimi.com
   - .moonshot.ai
   - .moonshot.cn

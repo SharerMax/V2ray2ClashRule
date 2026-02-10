@@ -6,8 +6,6 @@ payload:
   - .taobao
   - .tmall
   - .9game.cn
-  - .alibabacloud.com
-  - .alicloud.com
   - .alibabadns.com
   - .alicdn.com
   - .alicloudapi.com
@@ -67,6 +65,16 @@ payload:
   - .aliyundrive.com
   - .aliyundrive.net
   - .yunpan.aliyun.com
+  - .a-map.cn
+  - .a-map.co
+  - .a-map.link
+  - .a-map.vip
+  - .acloudrender.com
+  - .amap.com
+  - .amapauto.com
+  - .anav.com
+  - .autonavi.com
+  - .gaode.com
   - .cainiao-inc.com
   - .cainiao.com
   - .cainiao.com.cn
@@ -253,16 +261,6 @@ payload:
   - .feizhu.com
   - .fliggy.com
   - .iuynfg.com
-  - .a-map.cn
-  - .a-map.co
-  - .a-map.link
-  - .a-map.vip
-  - .acloudrender.com
-  - .amap.com
-  - .amapauto.com
-  - .anav.com
-  - .autonavi.com
-  - .gaode.com
   - .xiami.com
   - .xiami.fm
   - .xiami.net
