@@ -149,6 +149,7 @@ payload:
   - .dydx.exchange
   - .fundingrates.xyz
   - .gemini.com
+  - .gmgn.ai
   - .guardarian.com
   - .hashflow.com
   - .infura.io
@@ -171,6 +172,8 @@ payload:
   - .unisat.io
   - .uniswap.org
   - .walletconnect.com
+  - .walletconnect.org
+  - .web3modal.org
   - .wintermute.com
   - .zapper.fi
   - bybit-exchange.github.io
