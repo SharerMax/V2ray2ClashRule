@@ -3044,6 +3044,7 @@ payload:
   - .bingx.com
   - .bitbank.cc
   - .bitcoin.org
+  - .bitcoincore.org
   - .bitfinex.com
   - .bitget.com
   - .bitmex.com
@@ -5278,6 +5279,14 @@ payload:
   - .xboxstudios.com
   - .xbx.lv
   - .ynoproject.net
+  - .yo-star.com
+  - .yostar.co.jp
+  - .yostar.net
+  - .yostarplat.com
+  - .yostar-pictures.co.jp
+  - .stargazer-games.com
+  - .stellasora.global
+  - .stellasora.jp
   - .dinopoloclub.com
   - .dodi-repacks.download
   - .dodi-repacks.site
@@ -22855,6 +22864,23 @@ payload:
   - .yastatic.net
   - .kinopoisk.ru
   - .kinopoisk-ru.clstorage.net
+  - .securecloudtransformation.com
+  - .securitypreview.com
+  - .threatlabz.com
+  - .zdxbeta.net
+  - .zdxcloud.net
+  - .zpagov.net
+  - .zpath.com
+  - .zscaler.com
+  - .zscaler.jp
+  - .zscaler.net
+  - .zscalerbeta.net
+  - .zscalergov.net
+  - .zscalerone.net
+  - .zscalershift.com
+  - .zscalerthree.net
+  - .zscalertwo.net
+  - .zscloud.net
   - .teamviewer.com
   - .teamviewer.us
   - .anydesk.com
