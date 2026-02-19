@@ -1504,6 +1504,25 @@ payload:
   - .waveomoney.com.mm
   - .yomabank.com
   - .ysx-mm.com
+  - .alfabank.ru
+  - .gazprombank.ru
+  - .gpb.ru
+  - .dbo-dengi.online
+  - .mtsdengi.ru
+  - .psbank.ru
+  - .bankline.ru
+  - .rosbank.ru
+  - .abr.ru
+  - .rshb.ru
+  - .sber.ru
+  - .sberbank.com
+  - .sberbank.ru
+  - .cdn-tinkoff.ru
+  - .tbank-online.com
+  - .tbank.ru
+  - .tochka-tech.com
+  - .tochka.com
+  - .vtb.ru
   - .fibank.bg
   - .meawallet.app
   - .myfin.bg
@@ -3099,6 +3118,8 @@ payload:
   - .web3modal.org
   - .wintermute.com
   - .zapper.fi
+  - .avito.ru
+  - .avito.st
   - .ozon.ru
   - .ozone.ru
   - .ozonusercontent.com
@@ -4640,15 +4661,27 @@ payload:
   - .piapro.net
   - .snowmiku.com
   - .bowlroll.net
+  - .cdnvideo.ru
+  - .trbcdn.net
+  - .kinorium.com
+  - .kinopoisk.ru
+  - .kinopoisk-ru.clstorage.net
   - .playfamily.ru
   - .okko.sport
   - .okko.tv
+  - .restream-media.net
+  - .wink.ru
+  - .24h.tv
+  - .amediateka.ru
+  - .ivi.ru
+  - .premier.one
+  - .smotreshka.tv
+  - .start.ru
+  - .tvigle.ru
+  - .viju.ru
   - .rutube.ru
   - .rutubelist.ru
   - .rtbcdn.ru
-  - .ngenix.net
-  - .restream-media.net
-  - .wink.ru
   - .blizzard.com
   - .blizzardgearstore.com
   - .blz-contentstack.com
@@ -6136,6 +6169,7 @@ payload:
   - .kpacg.com
   - .linetv.tw
   - .megaphone.fm
+  - .megogo.net
   - .mikanani.me
   - .moov.hk
   - .odysee.com
@@ -8747,6 +8781,7 @@ payload:
   - .whynotbi.com
   - .missav.ai
   - .missav.com
+  - .missav.live
   - .missav.uno
   - .missav.vip
   - .missav.ws
@@ -11144,6 +11179,8 @@ payload:
   - .hegre.com
   - .heiguab.top
   - .heijidi.life
+  - .heiliao.com
+  - .heiliao88.com
   - .heise360181.buzz
   - .heise360182.buzz
   - .helixstudios.net
@@ -20833,7 +20870,9 @@ payload:
   - .vkvideo.ru
   - .boosty.to
   - .donationalerts.com
+  - .max.ru
   - .memealerts.com
+  - .oneme.ru
   - .tamtam.chat
   - .aboutfacebook.com
   - .accessfacebookfromschool.com

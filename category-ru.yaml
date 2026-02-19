@@ -14,6 +14,8 @@ payload:
   - .xn--d1acj3b
   - .xn--p1acf
   - .xn--p1ai
+  - .avito.ru
+  - .avito.st
   - .ozon.ru
   - .ozone.ru
   - .ozonusercontent.com
@@ -26,15 +28,27 @@ payload:
   - .wbpay.ru
   - .wibes.ru
   - .wildberries.ru
+  - .cdnvideo.ru
+  - .trbcdn.net
+  - .kinorium.com
+  - .kinopoisk.ru
+  - .kinopoisk-ru.clstorage.net
   - .playfamily.ru
   - .okko.sport
   - .okko.tv
+  - .restream-media.net
+  - .wink.ru
+  - .24h.tv
+  - .amediateka.ru
+  - .ivi.ru
+  - .premier.one
+  - .smotreshka.tv
+  - .start.ru
+  - .tvigle.ru
+  - .viju.ru
   - .rutube.ru
   - .rutubelist.ru
   - .rtbcdn.ru
-  - .ngenix.net
-  - .restream-media.net
-  - .wink.ru
   - .government.ru
   - .gov.ru
   - .gosuslugi.ru
@@ -43,7 +57,13 @@ payload:
   - .mgfoms.ru
   - .edu.ru
   - .cbr.ru
+  - .cikrf.ru
+  - .ebs.ru
+  - .goskey.ru
+  - .izbirkom.ru
+  - .kremlin.ru
   - .nalog.ru
+  - .xn--80ajghhoc2aj1c8b.xn--p1ai
   - .mos.ru
   - .mosreg.ru
   - .spb.ru
@@ -154,16 +174,79 @@ payload:
   - .jamal.ru
   - .surgut.ru
   - .yamal.ru
+  - .zdrav10.ru
+  - .av.ru
+  - .auchan.ru
+  - .bristol.ru
+  - .detmir.ru
+  - .dixy.ru
+  - .dodois.com
+  - .dodois.io
+  - .dodopizza.com
+  - .dodopizza.ru
+  - .dodostatic.net
+  - .dostaevsky.ru
+  - .evrasia.rest
+  - .vkusnoitochka.ru
   - .fix-price.com
   - .lenta.com
   - .lenta.tech
+  - .magnit.ru
+  - .metro-cc.ru
+  - .5ka.ru
+  - .5post.market
+  - .chizhik.club
+  - .clubx5.ru
+  - .dialogx5.ru
+  - .e5.ru
+  - .fivepost.ru
+  - .idx5.ru
+  - .jx5.ru
+  - .keyx5.ru
+  - .mnogolososya.ru
+  - .myapelsin.ru
+  - .okolo.app
+  - .perekrestok.com
+  - .perekrestok.ru
+  - .x5.ai
+  - .x5.com
+  - .x5.digital
+  - .x5.group
+  - .x5.media
+  - .x5.ru
+  - .x5.team
+  - .x5.tech
+  - .x5club.ru
+  - .x5id.ru
+  - .x5l.ru
+  - .x5paket.ru
+  - .x5q.ru
+  - .x5static.net
+  - .x5w.ru
+  - .krasnoeibeloe.ru
+  - .rostics.ru
+  - .uni.rest
+  - .unirest.tech
+  - .ilovesakura.ru
+  - .myspar.ru
+  - .sushiwok.ru
+  - .winelab.ru
+  - .vkusvill.ru
   - .avs.io
   - .aviasales.ru
   - .aviasales.com
+  - .blablacar.ru
+  - .avtovokzaly.ru
+  - .ostrovok.ru
+  - .otello.ru
   - .mosmetro.ru
   - .mosmetro.tech
-  - .avito.ru
-  - .avito.st
+  - .gorodpay.ru
+  - .rrtp.ru
+  - .sbertroika.ru
+  - .rzd-bonus.ru
+  - .rzd.ru
+  - .tutu.ru
   - .dzen.ru
   - .dzeninfra.ru
   - .imgsmail.ru
@@ -209,38 +292,10 @@ payload:
   - .vkvideo.ru
   - .boosty.to
   - .donationalerts.com
+  - .max.ru
   - .memealerts.com
+  - .oneme.ru
   - .tamtam.chat
-  - .5ka.ru
-  - .5post.market
-  - .chizhik.club
-  - .clubx5.ru
-  - .dialogx5.ru
-  - .e5.ru
-  - .fivepost.ru
-  - .idx5.ru
-  - .jx5.ru
-  - .keyx5.ru
-  - .mnogolososya.ru
-  - .myapelsin.ru
-  - .okolo.app
-  - .perekrestok.com
-  - .perekrestok.ru
-  - .x5.ai
-  - .x5.com
-  - .x5.digital
-  - .x5.group
-  - .x5.media
-  - .x5.ru
-  - .x5.team
-  - .x5.tech
-  - .x5club.ru
-  - .x5id.ru
-  - .x5l.ru
-  - .x5paket.ru
-  - .x5q.ru
-  - .x5static.net
-  - .x5w.ru
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
   - .adfox.ru
@@ -297,15 +352,59 @@ payload:
   - .yastatic.net
   - .kinopoisk.ru
   - .kinopoisk-ru.clstorage.net
-  - .dodopizza.ru
-  - .dodopizza.com
-  - .dodostatic.net
-  - .dodois.com
-  - .dodois.io
-  - .rostics.ru
-  - .uni.rest
-  - .unirest.tech
-  - .trbcdn.net
+  - .alfabank.ru
+  - .gazprombank.ru
+  - .gpb.ru
+  - .dbo-dengi.online
+  - .mtsdengi.ru
+  - .psbank.ru
+  - .bankline.ru
+  - .rosbank.ru
+  - .abr.ru
+  - .rshb.ru
+  - .sber.ru
+  - .sberbank.com
+  - .sberbank.ru
+  - .cdn-tinkoff.ru
   - .tbank-online.com
+  - .tbank.ru
+  - .tochka-tech.com
+  - .tochka.com
+  - .vtb.ru
+  - .credistory.ru
+  - .nbki.ru
+  - .moex.com
+  - .spvb.ru
+  - .banki.ru
+  - .finuslugi.ru
+  - .sistema-capital.com
+  - .mirpayonline.ru
+  - .nspk.ru
+  - .netmonet.co
+  - .tips.tips
+  - .beeline.ru
+  - .dom.ru
+  - .megafon.ru
+  - .mts.ru
+  - .mymts.ru
+  - .rostelecom.ru
+  - .rt.ru
+  - .t2.ru
+  - .tele2.ru
+  - .yota.ru
+  - .gazfond-pn.ru
+  - .litres.ru
+  - .meteoinfo.ru
+  - .ngenix.net
+  - .pochta.ru
+  - .qms.ru
+  - .rustore.ru
   - .taxsee.com
+  - bilet.nspk.ru
+  - metro.spb.ru
+  - mos.transport.vtb.ru
+  - podorozhnik.spb.ru
+  - transport.mos.ru
+  - arenda.yandex.ru
+  - taxi.yandex.ru
   - yandex-pogoda.static-storage.net
