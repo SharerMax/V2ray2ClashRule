@@ -6890,6 +6890,9 @@ payload:
   - .submarin.online
   - .sushi.ski
   - .trpger.us
+  - .mixi.co.jp
+  - .mixi.jp
+  - .mixi.net
   - .ok.ru
   - .okcdn.ru
   - .mycdn.me
@@ -16167,6 +16170,7 @@ payload:
   - .openresty.org
   - .openssl.org
   - .opensuse.org
+  - .packagecloud.io
   - .packagist.org
   - .pcre.org
   - .phantomjs.org
