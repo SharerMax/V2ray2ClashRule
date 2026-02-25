@@ -38,6 +38,7 @@ payload:
   - .awsstatic.com
   - .awsthinkbox.com
   - .awstrack.me
+  - .awswaf.com
   - .cdkworkshop.com
   - .cloudfront.com
   - .cloudfront.net

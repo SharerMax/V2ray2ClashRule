@@ -41,6 +41,7 @@ payload:
   - .awsstatic.com
   - .awsthinkbox.com
   - .awstrack.me
+  - .awswaf.com
   - .cdkworkshop.com
   - .cloudfront.com
   - .cloudfront.net
@@ -108,6 +109,7 @@ payload:
   - .aboutamazon.it
   - .aboutamazon.jp
   - .aboutamazon.pl
+  - .aboutamazon.sg
   - .amaaozn.com
   - .amazon-fashions.com
   - .amazon-jp-recruiting.com
@@ -115,23 +117,34 @@ payload:
   - .amazon-launchpad.com
   - .amazon.ae
   - .amazon.ca
+  - .amazon.cl
   - .amazon.co.jp
   - .amazon.co.uk
+  - .amazon.co.za
   - .amazon.com
   - .amazon.com.au
+  - .amazon.com.be
   - .amazon.com.br
+  - .amazon.com.co
   - .amazon.com.mx
+  - .amazon.com.ng
   - .amazon.com.tr
   - .amazon.de
   - .amazon.dev
+  - .amazon.eg
   - .amazon.es
   - .amazon.fr
+  - .amazon.ie
   - .amazon.in
   - .amazon.it
   - .amazon.jobs
   - .amazon.jp
+  - .amazon.lu
   - .amazon.nl
+  - .amazon.pl
   - .amazon.red
+  - .amazon.sa
+  - .amazon.se
   - .amazon.sg
   - .amazonalexavoxcon.com
   - .amazonauthorinsights.com
@@ -159,6 +172,7 @@ payload:
   - .images-amazon.com
   - .media-amazon.com
   - .primeday.info
+  - .seattlespheres.com
   - .siege-amazon.com
   - .ssl-images-amazon.com
   - .ueberamazon.de
