@@ -22923,6 +22923,7 @@ payload:
   - .yandexcloud.net
   - .yandexcom.net
   - .yandexmetrica.com
+  - .yandexwebcache.net
   - .yandexwebcache.org
   - .yastat.net
   - .yastatic-net.ru
@@ -23720,6 +23721,7 @@ payload:
   - openaicom.imgix.net
   - openaicomproductionae4b.blob.core.windows.net
   - production-openaicom-storage.azureedge.net
+  - ppl-ai-file-upload.s3.amazonaws.com
   - pplx-res.cloudinary.com
   - fontshop-prod-responsive-images.s3.amazonaws.com
   - tesla-cdn.thron.com

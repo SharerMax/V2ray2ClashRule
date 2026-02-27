@@ -112,4 +112,5 @@ payload:
   - openaicom.imgix.net
   - openaicomproductionae4b.blob.core.windows.net
   - production-openaicom-storage.azureedge.net
+  - ppl-ai-file-upload.s3.amazonaws.com
   - pplx-res.cloudinary.com

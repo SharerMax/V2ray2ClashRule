@@ -60,6 +60,7 @@ payload:
   - .cikrf.ru
   - .ebs.ru
   - .goskey.ru
+  - .grfc.ru
   - .izbirkom.ru
   - .kremlin.ru
   - .nalog.ru
@@ -347,6 +348,7 @@ payload:
   - .yandexcloud.net
   - .yandexcom.net
   - .yandexmetrica.com
+  - .yandexwebcache.net
   - .yandexwebcache.org
   - .yastat.net
   - .yastatic-net.ru
