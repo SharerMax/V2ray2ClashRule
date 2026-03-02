@@ -10,7 +10,6 @@ payload:
   - .local
   - .home.arpa
   - .internal
-  - .0.in-addr.arpa
   - .2.0.192.in-addr.arpa
   - .10.in-addr.arpa
   - .16.172.in-addr.arpa
@@ -35,7 +34,6 @@ payload:
   - .168.192.in-addr.arpa
   - .254.169.in-addr.arpa
   - .255.255.255.255.in-addr.arpa
-  - .0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
   - .1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
   - .8.b.d.0.1.0.0.2.ip6.arpa
   - .8.e.f.ip6.arpa
