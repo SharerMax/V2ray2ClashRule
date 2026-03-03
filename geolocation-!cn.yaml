@@ -87,6 +87,7 @@ payload:
   - .copilot.microsoft.com
   - .devin.ai
   - .diabrowser.com
+  - .diabrowser.engineering
   - .dify.ai
   - .duck.ai
   - .gateway.ai.cloudflare.com
@@ -4954,8 +4955,6 @@ payload:
   - .hoyoverse.com
   - .n0vadesktop.com
   - .zenlesszonezero.com
-  - .illusion.co.jp
-  - .illusion.jp
   - .itch.io
   - .itch.zone
   - .lowiro.com
@@ -5636,6 +5635,7 @@ payload:
   - .chobit.cc
   - .ci-en.jp
   - .ci-en.net
+  - .dlaf.jp
   - .dlsite.com
   - .dlsite.com.tw
   - .dlsite.jp
@@ -8594,6 +8594,7 @@ payload:
   - .chobit.cc
   - .ci-en.jp
   - .ci-en.net
+  - .dlaf.jp
   - .dlsite.com
   - .dlsite.com.tw
   - .dlsite.jp
@@ -8666,8 +8667,6 @@ payload:
   - .slotbitches.com
   - .smutstone.com
   - .townofsins.com
-  - .illusion.co.jp
-  - .illusion.jp
   - .acgcf.com
   - .acgdg.com
   - .acgdv.com
@@ -8697,6 +8696,8 @@ payload:
   - .noisullifb.com
   - .wnoaissulli1.com
   - .zzycdz.com
+  - .illgames.jp
+  - .japan-illgames.com
   - .cdnlab.live
   - .jable.tv
   - .mushroomtrack.com
@@ -15331,6 +15332,11 @@ payload:
   - .keepersecurity.com
   - .roboform.com
   - .strongboxsafe.com
+  - .bit.ly
+  - .bitly.com
+  - .bitly.is
+  - .shorturl.at
+  - .tinyurl.com
   - .4pcdn.org
   - .4plebs.org
   - .archive.today
@@ -15382,9 +15388,6 @@ payload:
   - .arphic.com.cn
   - .arphic.com.tw
   - .ifontcloud.com
-  - .bit.ly
-  - .bitly.com
-  - .bitly.is
   - .bigbuckbunny.org
   - .blender.org
   - .elephantsdream.org
@@ -15568,7 +15571,6 @@ payload:
   - .shopifycloud.com
   - .shopifystatus.com
   - .shopifysvc.com
-  - .shorturl.at
   - .slideshare.com
   - .slideshare.net
   - .slidesharecdn.com
@@ -15623,7 +15625,6 @@ payload:
   - .miktex.org
   - .tug.org
   - .tidelift.com
-  - .tinyurl.com
   - .trello.com
   - .trellocdn.com
   - .tumblr.com
@@ -23114,15 +23115,6 @@ payload:
   - .avxlive.icu
   - .xsava.xyz
   - .zavat.pw
-  - .chobit.cc
-  - .ci-en.jp
-  - .ci-en.net
-  - .dlsite.com
-  - .dlsite.com.tw
-  - .dlsite.jp
-  - .dlsitestudio.com
-  - .nijiyome.jp
-  - .triokini.com
   - .espressif.com
   - .esp32.com
   - .esp8266.com
