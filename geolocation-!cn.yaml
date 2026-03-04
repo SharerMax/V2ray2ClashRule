@@ -15951,16 +15951,17 @@ payload:
   - .java
   - .java.com
   - .java.net
+  - .datalore.io
   - .intellij.com
   - .intellij.net
   - .intellij.org
+  - .jb.gg
+  - .jetbrains.cloud
   - .jetbrains.com
   - .jetbrains.net
   - .jetbrains.space
   - .jetbrains.team
-  - .datalore.io
   - .kotlinlang.org
-  - .jb.gg
   - .youtrack.cloud
   - .grazie.ai
   - .grazie.aws.intellij.net
