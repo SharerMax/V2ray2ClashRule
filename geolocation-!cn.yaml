@@ -92,6 +92,7 @@ payload:
   - .duck.ai
   - .gateway.ai.cloudflare.com
   - .kiro.dev
+  - .lovart.ai
   - .meta.ai
   - .mistral.ai
   - .openart.ai
@@ -5332,6 +5333,7 @@ payload:
   - .loverslab.com
   - .minecraft.wiki
   - .mobimon.com.tw
+  - .muvluv-girls-garden.com
   - .nexus-cdn.com
   - .nexusmods.com
   - .noxygames.com
@@ -6178,6 +6180,7 @@ payload:
   - .oranum.com
   - .overcast.fm
   - .qobuz.com
+  - .sendvid.com
   - .syosetu.com
   - .weverse.io
   - .yande.re
@@ -6957,6 +6960,7 @@ payload:
   - .vkuservideo.net
   - .vkuservideo.ru
   - .vkvideo.ru
+  - .onlyfans.com
   - .truthsocial.com
   - .joinmastodon.org
   - .mastodon.online
@@ -15148,6 +15152,8 @@ payload:
   - .cdnpure.com
   - .pureapk.com
   - .winudf.com
+  - .uptodown.com
+  - .utdstc.com
   - .comodo.com
   - .comodo.net
   - .drweb.by
@@ -20907,6 +20913,8 @@ payload:
   - .memealerts.com
   - .oneme.ru
   - .tamtam.chat
+  - .youla.io
+  - .youla.ru
   - .aboutfacebook.com
   - .accessfacebookfromschool.com
   - .acebooik.com
@@ -21995,10 +22003,6 @@ payload:
   - .mdn.mozit.cloud
   - .mdnplay.dev
   - .mdnyalp.dev
-  - .rust-lang.org
-  - .rustup.rs
-  - .crates.io
-  - .docs.rs
   - .mozgcp.net
   - .mozilla.com
   - .mozilla.community
@@ -22009,8 +22013,6 @@ payload:
   - .getpocket.com
   - .seamonkey-project.org
   - .thunderbird.net
-  - .location.services.mozilla.com
-  - .push.services.mozilla.com
   - .msi.cn
   - .msi.com
   - .musixmatch.com
@@ -24023,6 +24025,8 @@ payload:
   - e122475.dscg.akamaiedge.net
   - licdn.cn.cdn20.com
   - linkedin.sc.omtrdc.net
+  - st-ok-pts.cdn-vk.ru
+  - st-ok.cdn-vk.ru
   - asahishimbun.sc.omtrdc.net
   - aod-pod-uk-live.akamaized.net
   - as-dash-uk-live.akamaized.net
@@ -24060,6 +24064,7 @@ payload:
   - misa-prod.s3.ap-northeast-1.amazonaws.com
   - widgets.stripst.com
   - anime-rule34-world.b-cdn.net
+  - apkmirror.disqus.com
   - eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
   - epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
   - time.apple.com
@@ -24482,6 +24487,9 @@ payload:
   - hpstore.corpmerchandise.com
   - hpefonts.s3.amazonaws.com
   - lgelectronics.122.2o7.net
+  - st-ok-pts.cdn-vk.ru
+  - st-ok.cdn-vk.ru
+  - youla-web-static.mrgcdn.ru
   - fbcdn-a.akamaihd.net
   - developers.facebook.com
   - azure.microsoft.com

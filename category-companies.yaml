@@ -4697,6 +4697,8 @@ payload:
   - .memealerts.com
   - .oneme.ru
   - .tamtam.chat
+  - .youla.io
+  - .youla.ru
   - .aboutfacebook.com
   - .accessfacebookfromschool.com
   - .acebooik.com
@@ -5785,10 +5787,6 @@ payload:
   - .mdn.mozit.cloud
   - .mdnplay.dev
   - .mdnyalp.dev
-  - .rust-lang.org
-  - .rustup.rs
-  - .crates.io
-  - .docs.rs
   - .mozgcp.net
   - .mozilla.com
   - .mozilla.community
@@ -5799,8 +5797,6 @@ payload:
   - .getpocket.com
   - .seamonkey-project.org
   - .thunderbird.net
-  - .location.services.mozilla.com
-  - .push.services.mozilla.com
   - .msi.cn
   - .msi.com
   - .musixmatch.com
@@ -7057,6 +7053,9 @@ payload:
   - hpstore.corpmerchandise.com
   - hpefonts.s3.amazonaws.com
   - lgelectronics.122.2o7.net
+  - st-ok-pts.cdn-vk.ru
+  - st-ok.cdn-vk.ru
+  - youla-web-static.mrgcdn.ru
   - fbcdn-a.akamaihd.net
   - developers.facebook.com
   - azure.microsoft.com
