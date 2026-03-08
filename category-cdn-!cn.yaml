@@ -138,6 +138,9 @@ payload:
   - .zencdn.net
   - .imgix.com
   - .imgix.net
+  - .esm.run
+  - .jsdelivr.com
+  - .jsdelivr.net
   - .delvenetworks.com
   - .limelight.com
   - .lldns.net
@@ -157,3 +160,4 @@ payload:
   - .b-cdn.net
   - .bunny.net
   - .bunnycdn.com
+  - .cdnjs.com

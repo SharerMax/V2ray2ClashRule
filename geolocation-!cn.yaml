@@ -2376,6 +2376,9 @@ payload:
   - .zencdn.net
   - .imgix.com
   - .imgix.net
+  - .esm.run
+  - .jsdelivr.com
+  - .jsdelivr.net
   - .delvenetworks.com
   - .limelight.com
   - .lldns.net
@@ -2395,6 +2398,7 @@ payload:
   - .b-cdn.net
   - .bunny.net
   - .bunnycdn.com
+  - .cdnjs.com
   - .awempire.com
   - .dditsadn.com
   - .dditscdn.com
@@ -4264,7 +4268,6 @@ payload:
   - .signalprocessingsociety.org
   - .technologyandsociety.org
   - .vtsociety.org
-  - .knovel.com
   - .mit
   - .mit.edu
   - .mit.net
@@ -4532,7 +4535,6 @@ payload:
   - .kaggleusercontent.com
   - .khanacademy.org
   - .kastatic.org
-  - .knovel.com
   - .laracasts.com
   - .libgen.life
   - .libgen.fun
@@ -15718,6 +15720,8 @@ payload:
   - .onetrust.com
   - .osano.com
   - .usercentrics.eu
+  - .dynatrace.com
+  - .familysearch.org
   - .greasyfork.org
   - .cloudlatex.io
   - .overleaf.com
@@ -15976,9 +15980,6 @@ payload:
   - .jfrog.com
   - .jfrog.org
   - .bintray.com
-  - .jsdelivr.com
-  - .jsdelivr.net
-  - .esm.run
   - .kubernetes.io
   - .k8s.io
   - .adaptivecards.io
@@ -16037,10 +16038,8 @@ payload:
   - .mongodb.org
   - .nginx.com
   - .nginx.org
-  - .nixos.org
   - .openwrt.org
   - .lede-project.org
-  - .osdn.net
   - .perl.apache.org
   - .perl.org
   - .cpan.org
@@ -16054,7 +16053,6 @@ payload:
   - .pypi.org
   - .python.org
   - .pythonhosted.org
-  - .piwheels.org
   - .qt.io
   - .qt-project.org
   - .readthedocs-hosted.com
@@ -16063,7 +16061,6 @@ payload:
   - .readthedocs.org
   - .redis.io
   - .redislabs.com
-  - .remirepo.net
   - .ruby-lang.org
   - .rubygems.org
   - .rust-lang.org
@@ -16124,12 +16121,10 @@ payload:
   - .openjsf.org
   - .lfai.foundation
   - .linuxfoundation.org
-  - .topcoder.com
   - .unity.com
   - .unity3d.com
   - .v8.dev
   - .v8project.org
-  - .vim.org
   - .adventofcode.com
   - .alpinelinux.org
   - .apache.org
@@ -16137,7 +16132,6 @@ payload:
   - .atom.io
   - .badgen.net
   - .bitvise.com
-  - .cdnjs.com
   - .centos.org
   - .chocolatey.org
   - .clojure.org
@@ -16186,17 +16180,20 @@ payload:
   - .openresty.org
   - .openssl.org
   - .opensuse.org
+  - .osdn.net
   - .packagecloud.io
   - .packagist.org
   - .pcre.org
   - .phantomjs.org
   - .php.net
+  - .piwheels.org
   - .postgresql.org
   - .putty.org
   - .r-project.org
   - .raspberrypi.org
   - .raspbian.org
   - .regex101.com
+  - .remirepo.net
   - .rpmfusion.org
   - .scientificlinux.org
   - .scoop.sh
@@ -16206,9 +16203,11 @@ payload:
   - .sublimetext.com
   - .tampermonkey.net
   - .termius.com
+  - .topcoder.com
   - .unpkg.com
   - .videojs.com
   - .videolan.org
+  - .vim.org
   - .wapm.io
   - .wasmer.io
   - .webflow.com
@@ -24173,7 +24172,6 @@ payload:
   - gitlab-assets.oss-cn-hongkong.aliyuncs.com
   - homebrew.bintray.com
   - d29vzk4ow07wi7.cloudfront.net
-  - cdn.jsdelivr.net
   - az764295.vo.msecnd.net
   - bingsettingssearch.trafficmanager.net
   - default.exp-tas.com
