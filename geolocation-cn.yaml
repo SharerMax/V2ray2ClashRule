@@ -543,6 +543,7 @@ payload:
   - .ultracachenode.com
   - .woaihuoshan.com
   - .wohst8.com
+  - .douyinpay.com
   - .douyu.com
   - .douyu.tv
   - .douyucdn.cn
@@ -1562,11 +1563,13 @@ payload:
   - .taikangzhijia.com
   - .tkhealthcare.com
   - .cc-pay.cn
+  - .helipay.com
   - .hsqh.net
   - .lu.com
   - .lufax.com
   - .lufaxcdn.com
   - .pospal.cn
+  - .shfft.com
   - .bsclink.cn
   - .qingcdn.com
   - .trpcdn.net
@@ -2568,7 +2571,10 @@ payload:
   - .jianshuapi.com
   - .jinshuju.net
   - .jinshujucdn.com
+  - .calorietech.com
   - .gotokeep.com
+  - .keep.com
+  - .keep.com.cn
   - .keepcdn.com
   - .lagou.com
   - .lgstatic.com
