@@ -154,6 +154,7 @@ payload:
   - .openvela.com
   - .pingcode.com
   - .tipdm.org
+  - .zuidaima.com
   - .analog.com
   - .arrow.cn
   - .boe.com
@@ -1115,6 +1116,8 @@ payload:
   - .itc.cn
   - .sohu.com
   - .sohucs.com
+  - .56.com
+  - .56img.com
   - .tmtpost.com
   - .chaindd.com
   - .72whys.com
@@ -1999,19 +2002,35 @@ payload:
   - .hnacargo.com
   - .hnair.com
   - .10044.cn
+  - .airchangan.com
+  - .airguilin.com
   - .ceair.com
+  - .ch.com
+  - .china-sss.com
+  - .springairlines.com
   - .chinaexpressair.com
   - .csair.com
   - .flycua.com
+  - .gxairlines.com
   - .hbhk.com.cn
   - .jdair.net
   - .juneyaoair.com
+  - .loongair.cn
   - .luckyair.net
+  - .sda.cn
+  - .shenzhenair.com
   - .sichuanair.com
+  - .tianjin-air.com
   - .tibetairlines.com.cn
-  - .travelskymobile.cn
-  - .variflight.com
+  - .urumqi-air.com
   - .xiamenair.com
+  - .caac.gov.cn
+  - .travelskymobile.cn
+  - .umetrip.com
+  - .umetrip.com.cn
+  - .umetrip.net.cn
+  - .ume-trip.cn
+  - .variflight.com
   - .12306.cn
   - .95306.cn
   - .ccrgt.com
@@ -2020,10 +2039,6 @@ payload:
   - .kuajing84.com
   - .mygolbs.com
   - .ningtingche.com
-  - .umetrip.com
-  - .umetrip.com.cn
-  - .umetrip.net.cn
-  - .ume-trip.cn
   - .chinesemooc.org
   - .cnmooc.org
   - .icourse163.org
@@ -2141,6 +2156,9 @@ payload:
   - .llscdn.com
   - .llsserver.com
   - .magedu.com
+  - .maimemo.com
+  - .maimemostatus.com
+  - .markji.com
   - .neoscholar.com
   - .neoschool.com
   - .oldboyedu.com
@@ -2262,6 +2280,7 @@ payload:
   - .wenxin-ge.com
   - .wind.com.cn
   - .yiigle.com
+  - .allhistory.com
   - .fgo.wiki
   - .jikipedia.com
   - .mbalib.com
@@ -2714,6 +2733,7 @@ payload:
   - .xbext.com
   - .yinxiang.com
   - .zhaopin.cn
+  - .zhaopin.com
   - .1tyy.cn
   - .bbdc.cn
   - .beingfine.cn
@@ -3336,7 +3356,6 @@ payload:
   - .52z.com
   - .53kf.com
   - .55.com
-  - .56.com
   - .5577.com
   - .55bbs.com
   - .58pic.com
@@ -3382,8 +3401,6 @@ payload:
   - .aiketour.com
   - .aiops.com
   - .aipai.com
-  - .airchangan.com
-  - .airguilin.com
   - .aiskycn.com
   - .aizhan.com
   - .aldwx.com
@@ -3447,7 +3464,6 @@ payload:
   - .cecport.com
   - .centanet.com
   - .cerambath.org
-  - .ch.com
   - .chachaba.com
   - .changba.com
   - .chaojituzi.net
@@ -3632,7 +3648,6 @@ payload:
   - .gushiwen.org
   - .guzhangting.com
   - .gwdang.com
-  - .gxairlines.com
   - .gxb.io
   - .gzcqs.com
   - .gzwanju.com
@@ -3990,7 +4005,6 @@ payload:
   - .te5.com
   - .tenxcloud.com
   - .tianjimedia.com
-  - .tianjin-air.com
   - .tianlailive.com
   - .tietuku.com
   - .tiexue.net
@@ -4026,7 +4040,6 @@ payload:
   - .uggame.com
   - .uoko.com
   - .urselect.com
-  - .urumqi-air.com
   - .useso.com
   - .uuu9.com
   - .uzzf.com
@@ -4190,7 +4203,6 @@ payload:
   - .zhanzhang.net
   - .zhaodanji.com
   - .zhaokao.net
-  - .zhaopin.com
   - .zhcw.com
   - .zhenai.com
   - .zhibo8.cc
@@ -4201,15 +4213,11 @@ payload:
   - .zhuangjiba.com
   - .zhuanyewanjia.com
   - .zhuayoukong.com
-  - .zimuzu.io
   - .zixiaomao.com
   - .zixuntop.com
   - .zmengzhu.com
   - .zpb365.com
-  - .zrblog.net
-  - .zsxq.com
   - .zuhaowan.com
-  - .zuidaima.com
   - .zuowen.com
   - .zuowen8.com
   - .zuowenwang.net
