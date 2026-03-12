@@ -2,10 +2,11 @@
 # type: domain
 payload:
   - .anthropic.com
+  - .clau.de
   - .claude.ai
   - .claude.com
-  - .claudeusercontent.com
   - .claudemcpclient.com
+  - .claudeusercontent.com
   - .cerebras.ai
   - .oystermercury.top
   - .comfy.org
@@ -84,6 +85,7 @@ payload:
   - .clipdrop.co
   - .jasper.ai
   - .chutes.ai
+  - .clawhub.ai
   - .copilot.microsoft.com
   - .devin.ai
   - .diabrowser.com
@@ -91,11 +93,13 @@ payload:
   - .dify.ai
   - .duck.ai
   - .gateway.ai.cloudflare.com
+  - .h2o.ai
   - .kiro.dev
   - .lovart.ai
   - .meta.ai
   - .mistral.ai
   - .openart.ai
+  - .openclaw.ai
   - .openrouter.ai
   - .pubmatic.com
   - .pubmatic.co.jp

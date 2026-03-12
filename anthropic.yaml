@@ -2,8 +2,9 @@
 # type: domain
 payload:
   - .anthropic.com
+  - .clau.de
   - .claude.ai
   - .claude.com
-  - .claudeusercontent.com
   - .claudemcpclient.com
+  - .claudeusercontent.com
   - servd-anthropic-website.b-cdn.net
