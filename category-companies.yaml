@@ -5917,10 +5917,17 @@ payload:
   - .openweather.co.uk
   - .openweathermap.org
   - .oracle
+  - .addthis.com
+  - .addthiscdn.com
+  - .addthisedge.com
+  - .java
+  - .java.com
+  - .java.net
   - .ateam-oracle.com
   - .bronto.com
   - .covid19-rx.org
   - .covid19rx.org
+  - .custhelp.com
   - .oracle.com
   - .oraclecloud.com
   - .oraclefoundation.org
@@ -5928,12 +5935,6 @@ payload:
   - .oracleinfinity.io
   - .sun.com
   - .virtualbox.org
-  - .addthis.com
-  - .addthiscdn.com
-  - .addthisedge.com
-  - .java
-  - .java.com
-  - .java.net
   - .panasonic
   - .panasonic.com
   - .panasonic.jp
@@ -7095,6 +7096,7 @@ payload:
   - statics-marketingsites-eus-ms-com.akamaized.net
   - statics-marketingsites-wcus-ms-com.akamaized.net
   - mdn.mozillademos.org
+  - nvidia.custhelp.com
   - nvidia.tt.omtrdc.net
   - api.viu.now.com
   - dfp6rglgjqszk.cloudfront.net

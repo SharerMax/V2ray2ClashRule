@@ -763,8 +763,10 @@ payload:
   - .anitabi.cn
   - .baofeng.com
   - .baofeng.net
+  - .bemanicn.com
   - .bgwxc.com
   - .bsbsb.top
+  - .cdkeynogap.com
   - .dmzj.com
   - .muwai.com
   - .dongdianqiu.com
@@ -2082,12 +2084,12 @@ payload:
   - .fenbike.com
   - .fenbilantian.cn
   - .fenbilantian.com
+  - .edu.cn
   - .rainclassroom.com
   - .yuketang.cn
   - .yudou.cn
   - .yushiyan.net
   - .xuetangx.com
-  - .edu.cn
   - .cbern.com.cn
   - .smartedu.cn
   - .cedf.cn
@@ -2164,6 +2166,7 @@ payload:
   - .oldboyedu.com
   - .pigai.org
   - .saduck.top
+  - .unipus.cn
   - .weilaiyunxiao.com
   - .winyoungreading.com
   - .x-cloud.cc
@@ -2309,6 +2312,8 @@ payload:
   - .guoxuemi.com
   - .zyh365.com
   - .wzlib.cn
+  - .zgbk.com
+  - .zjlib.cn
   - .askdiandian.com
   - .diandianlife.top
   - .deepseek.com
@@ -2816,6 +2821,7 @@ payload:
   - .smartapps.cn
   - .tieba.com
   - .tiebaimg.com
+  - .xdrtc.com
   - .xianfae.com
   - .xiaodutv.com
   - .yoojia.com

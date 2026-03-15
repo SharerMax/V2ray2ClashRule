@@ -44,12 +44,12 @@ payload:
   - .fenbike.com
   - .fenbilantian.cn
   - .fenbilantian.com
+  - .edu.cn
   - .rainclassroom.com
   - .yuketang.cn
   - .yudou.cn
   - .yushiyan.net
   - .xuetangx.com
-  - .edu.cn
   - .cbern.com.cn
   - .smartedu.cn
   - .cedf.cn
@@ -126,6 +126,7 @@ payload:
   - .oldboyedu.com
   - .pigai.org
   - .saduck.top
+  - .unipus.cn
   - .weilaiyunxiao.com
   - .winyoungreading.com
   - .x-cloud.cc

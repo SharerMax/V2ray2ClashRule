@@ -2,10 +2,17 @@
 # type: domain
 payload:
   - .oracle
+  - .addthis.com
+  - .addthiscdn.com
+  - .addthisedge.com
+  - .java
+  - .java.com
+  - .java.net
   - .ateam-oracle.com
   - .bronto.com
   - .covid19-rx.org
   - .covid19rx.org
+  - .custhelp.com
   - .oracle.com
   - .oraclecloud.com
   - .oraclefoundation.org
@@ -13,9 +20,3 @@ payload:
   - .oracleinfinity.io
   - .sun.com
   - .virtualbox.org
-  - .addthis.com
-  - .addthiscdn.com
-  - .addthisedge.com
-  - .java
-  - .java.com
-  - .java.net
