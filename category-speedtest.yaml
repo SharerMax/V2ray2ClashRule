@@ -16,16 +16,45 @@ payload:
   - .open.cachefly.net
   - .openspeedtest.com
   - .fast.com
+  - .fastspeedtest.com
+  - .linkmeter.net
   - .measurementlab.net
+  - .meter.net
   - .nperf.com
+  - .openspeedtest.ru
   - .speed.cloudflare.com
   - .speed.dler.io
+  - .speed.ee
   - .speed.hinet.net
   - .speed.nccu.edu.tw
   - .speed2.hinet.net
   - .speed5.ntu.edu.tw
+  - .speedcheck.org
+  - .speedgeo.net
+  - .speedof.me
+  - .speedtest.cesnet.cz
+  - .speedtest.ch
+  - .speedtest.citylink.pro
+  - .speedtest.co.za
+  - .speedtest.de
+  - .speedtest.dno-it.ru
+  - .speedtest.frontier.com
   - .speedtest.im
+  - .speedtest.mail.ru
+  - .speedtest.net.in
+  - .speedtest.net.ua
+  - .speedtest.net.uk
+  - .speedtest.org
+  - .speedtest.rt.ru
+  - .speedtest.ru
+  - .speedtest.shaw.ca
+  - .speedtest.su
+  - .speedtest.uz
+  - .speedtest.volia.com
   - .speedtest.xfinity.com
-  - .speedtestcustom.com
+  - .speedtest.xyz
+  - .speedtest24.ru
   - .testmy.net
+  - .testmyspeed.com
+  - .testskorosti.ru
   - www.speedtest.net.cdn.cloudflare.net
