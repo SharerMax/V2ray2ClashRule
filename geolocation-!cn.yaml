@@ -4664,6 +4664,7 @@ payload:
   - .chemequations.com
   - .geogebra.org
   - .wolframalpha.com
+  - .bestdori.com
   - .colorfulstage.com
   - .crypton.co.jp
   - .lapriere.jp
@@ -16230,6 +16231,7 @@ payload:
   - .x.org
   - .xposed.info
   - .yarnpkg.com
+  - .ziglang.org
   - .zsh.org
   - .2gis.ae
   - .2gis.am

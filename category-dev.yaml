@@ -491,6 +491,7 @@ payload:
   - .x.org
   - .xposed.info
   - .yarnpkg.com
+  - .ziglang.org
   - .zsh.org
   - android.googlesource.com
   - notary-submissions-prod.s3-accelerate.amazonaws.com
