@@ -131,6 +131,7 @@ payload:
   - .tmtsmartrun.com
   - .feng.com
   - .fengimg.com
+  - .weiphone.net
   - .wfdata.club
   - .aiganggu.com
   - .danjuanfunds.com
@@ -216,6 +217,8 @@ payload:
   - .kksmg.com
   - .statickksmg.com
   - .latepost.com
+  - .leikeji.com
+  - .leiphone.com
   - .miercn.com
   - .mydrivers.com
   - .nanyuenews.com
@@ -256,10 +259,14 @@ payload:
   - .techweb.com.cn
   - .thecover.cn
   - .thepaper.cn
+  - .8531.cn
+  - .tidenews.com.cn
   - .woshipm.com
+  - .xhby.net
   - .xilu.com
   - .xkb.com.cn
   - .yicai.com
+  - .yzwb.net
   - .zealer.com
   - .zhichanli.com
   - .zol-img.com.cn

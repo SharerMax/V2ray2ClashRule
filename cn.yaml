@@ -1170,6 +1170,7 @@ payload:
   - .tmtsmartrun.com
   - .feng.com
   - .fengimg.com
+  - .weiphone.net
   - .wfdata.club
   - .aiganggu.com
   - .danjuanfunds.com
@@ -1255,6 +1256,8 @@ payload:
   - .kksmg.com
   - .statickksmg.com
   - .latepost.com
+  - .leikeji.com
+  - .leiphone.com
   - .miercn.com
   - .mydrivers.com
   - .nanyuenews.com
@@ -1295,10 +1298,14 @@ payload:
   - .techweb.com.cn
   - .thecover.cn
   - .thepaper.cn
+  - .8531.cn
+  - .tidenews.com.cn
   - .woshipm.com
+  - .xhby.net
   - .xilu.com
   - .xkb.com.cn
   - .yicai.com
+  - .yzwb.net
   - .zealer.com
   - .zhichanli.com
   - .zol-img.com.cn
@@ -2037,7 +2044,9 @@ payload:
   - .mingxuan.store
   - .gov.cn
   - .cma.cn
+  - .conac.cn
   - .nmc.cn
+  - .piyao.org.cn
   - .airchina.com.cn
   - .airchinacargo.com
   - .hainanairlines.com
@@ -2180,6 +2189,7 @@ payload:
   - .jinrongren.net
   - .offcn.com
   - .zggqzp.com
+  - .zgjsks.com
   - .zgsydw.com
   - .gk100.com
   - .huatu.com
@@ -2190,6 +2200,8 @@ payload:
   - .xir.cn
   - .j-test.com
   - .nattest-china.com
+  - .jyeoo.com
+  - .jyeoo.net
   - .keboyunxiao.com
   - .ketangpai.com
   - .kuaiduizuoye.com
@@ -2350,10 +2362,10 @@ payload:
   - .webterren.com
   - .guoxuedashi.com
   - .guoxuemi.com
-  - .zyh365.com
   - .wzlib.cn
   - .zgbk.com
   - .zjlib.cn
+  - .zyh365.com
   - .askdiandian.com
   - .diandianlife.top
   - .deepseek.com
@@ -3830,8 +3842,6 @@ payload:
   - .lawxp.com
   - .leangoo.com
   - .leanote.com
-  - .leikeji.com
-  - .leiphone.com
   - .leiting.com
   - .leju.com
   - .leturich.org
@@ -4112,7 +4122,6 @@ payload:
   - .weavatar.com
   - .weicaifu.com
   - .weilaicaijing.com
-  - .weiphone.net
   - .weixing.com
   - .weiyangx.com
   - .welltrend-edu.com
@@ -4241,7 +4250,6 @@ payload:
   - .zczj.com
   - .zdfans.com
   - .zgjm.org
-  - .zgjsks.com
   - .zglxw.com
   - .zgzcw.com
   - .zhanbuba.com
