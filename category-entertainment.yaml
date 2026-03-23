@@ -1193,6 +1193,7 @@ payload:
   - .olevod.tv
   - .olevodtv.com
   - .olemovienews.com
+  - .openrec.tv
   - .pbs.org
   - .booth.pm
   - .fanbox.cc
@@ -1700,6 +1701,7 @@ payload:
   - ntdofifreetv-tgc.cdn.hinet.net
   - ntdofifreevcpc-tgc.cdn.hinet.net
   - netflix.com.edgesuite.net
+  - dqd0jw5gvbchn.cloudfront.net
   - d1v5ir2lpwr8os.cloudfront.net
   - d22qjgkvxw22r6.cloudfront.net
   - d25xi40x97liuc.cloudfront.net
