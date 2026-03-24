@@ -3133,8 +3133,15 @@ payload:
   - .zapper.fi
   - .avito.ru
   - .avito.st
+  - .ozon.by
+  - .ozon.com
+  - .ozon.com.by
+  - .ozon.com.kz
+  - .ozon.kz
   - .ozon.ru
+  - .ozon.tm
   - .ozone.ru
+  - .ozonru.me
   - .ozonusercontent.com
   - .geobasket.ru
   - .paywb.com
@@ -15742,6 +15749,7 @@ payload:
   - .immersivetranslate.com
   - .originlab.com
   - .osmand.net
+  - .xiaomiflash.com
   - .anaconda.cloud
   - .anaconda.com
   - .anaconda.org
