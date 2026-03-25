@@ -637,6 +637,7 @@ payload:
   - .stargazer-games.com
   - .stellasora.global
   - .stellasora.jp
+  - .chunkbase.com
   - .dinopoloclub.com
   - .dodi-repacks.download
   - .dodi-repacks.site
@@ -648,13 +649,17 @@ payload:
   - .joinsquad.com
   - .loverslab.com
   - .minecraft.wiki
+  - .minecraftforge.net
   - .mobimon.com.tw
   - .muvluv-girls-garden.com
+  - .namemc.com
+  - .neoforged.net
   - .nexus-cdn.com
   - .nexusmods.com
   - .noxygames.com
   - .offworldindustries.com
   - .offworldindustries.net
+  - .optifine.net
   - .papermc.io
   - .planetminecraft.com
   - .prismlauncher.org
@@ -663,6 +668,7 @@ payload:
   - .rayark.download
   - .rayark.net
   - .speedrun.com
+  - .spigotmc.org
   - .steamdb.info
   - blizzard.nefficient.co.kr
   - blzddist1-a.akamaihd.net

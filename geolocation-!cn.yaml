@@ -200,6 +200,8 @@ payload:
   - .trojan-gfw.github.io
   - .zeronet.io
   - .metacubex.one
+  - .equinox.io
+  - .ngrok-agent.com
   - .ngrok-free.app
   - .ngrok-free.dev
   - .ngrok-free.pizza
@@ -5338,6 +5340,7 @@ payload:
   - .stargazer-games.com
   - .stellasora.global
   - .stellasora.jp
+  - .chunkbase.com
   - .dinopoloclub.com
   - .dodi-repacks.download
   - .dodi-repacks.site
@@ -5349,13 +5352,17 @@ payload:
   - .joinsquad.com
   - .loverslab.com
   - .minecraft.wiki
+  - .minecraftforge.net
   - .mobimon.com.tw
   - .muvluv-girls-garden.com
+  - .namemc.com
+  - .neoforged.net
   - .nexus-cdn.com
   - .nexusmods.com
   - .noxygames.com
   - .offworldindustries.com
   - .offworldindustries.net
+  - .optifine.net
   - .papermc.io
   - .planetminecraft.com
   - .prismlauncher.org
@@ -5364,6 +5371,7 @@ payload:
   - .rayark.download
   - .rayark.net
   - .speedrun.com
+  - .spigotmc.org
   - .steamdb.info
   - .ptzwx.com
   - .quanben-xiaoshuo.com
@@ -20938,6 +20946,8 @@ payload:
   - .memealerts.com
   - .oneme.ru
   - .tamtam.chat
+  - .telega.info
+  - .telega.me
   - .youla.io
   - .youla.ru
   - .aboutfacebook.com

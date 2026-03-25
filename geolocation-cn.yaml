@@ -428,6 +428,7 @@ payload:
   - .9xgame.com
   - .arcaea.cn
   - .astral-vector.com
+  - .feihuo.com
   - .forevernine.com
   - .fxt365.com
   - .gameabc.com
@@ -796,6 +797,7 @@ payload:
   - .vsread.com
   - .yamibo.com
   - .yiyouliao.com
+  - .yxdown.com
   - .zhanqi.tv
   - .zhulang.com
   - .zongheng.com
@@ -1141,6 +1143,7 @@ payload:
   - .21jingji.com
   - .admin5.com
   - .anhuinews.com
+  - .anhuiyun.com
   - .anzhuo.cn
   - .bianews.com
   - .caijing.com.cn
@@ -1160,6 +1163,8 @@ payload:
   - .cqnews.net
   - .cqsjb.com
   - .cs.com.cn
+  - .ctdsb.net
+  - .ctoutiao.com
   - .cyzone.cn
   - .cztv.com
   - .cztvcdn.com
@@ -1177,6 +1182,7 @@ payload:
   - .freebuf.com
   - .geekpark.net
   - .gmw.com
+  - .guancha.cn
   - .guigu.org
   - .0033.cn
   - .10jqka.com.cn
@@ -1193,7 +1199,9 @@ payload:
   - .huxiu.com
   - .huxiucdn.com
   - .icpcw.com
+  - .icswb.com
   - .idcquan.com
+  - .ikanchai.com
   - .iresearch.cn
   - .it168.com
   - .jianyuweb.com
@@ -1202,17 +1210,20 @@ payload:
   - .jin10.com
   - .jfdaily.com
   - .shobserver.com
+  - .jinantimes.com.cn
   - .jiqizhixin.com
   - .jrj.com.cn
   - .jrjimg.cn
   - .jsbc.com
   - .jstv.com
+  - .jxnews.com.cn
   - .jxpp.com
   - .jztvnews.com
   - .kankanews.com
   - .kankannews.com
   - .kksmg.com
   - .statickksmg.com
+  - .knewsmart.com
   - .latepost.com
   - .leikeji.com
   - .leiphone.com
@@ -1227,6 +1238,8 @@ payload:
   - .pchome.net
   - .pchpic.net
   - .3conline.com
+  - .pcauto.com.cn
+  - .pchouse.com.cn
   - .pconline.com.cn
   - .pcpop.com
   - .people.cn
@@ -1243,6 +1256,7 @@ payload:
   - .sfccn.com
   - .shangyexinzhi.com
   - .solidot.org
+  - .sootoo.com
   - .southcn.com
   - .southmoney.com
   - .sspai.com
@@ -1254,6 +1268,7 @@ payload:
   - .szpgm.com
   - .takungpao.com
   - .techweb.com.cn
+  - .techwalker.com
   - .thecover.cn
   - .thepaper.cn
   - .8531.cn
@@ -1262,10 +1277,12 @@ payload:
   - .xhby.net
   - .xilu.com
   - .xkb.com.cn
+  - .ycwb.com
   - .yicai.com
   - .yzwb.net
   - .zealer.com
   - .zhichanli.com
+  - .zhiding.cn
   - .zol-img.com.cn
   - .zol.com.cn
   - .zqrb.cn
@@ -1947,6 +1964,7 @@ payload:
   - .ngacn.cc
   - .saraba1st.com
   - .stage1st.com
+  - .178linux.com
   - .52pojie.cn
   - .anywlan.com
   - .chinadsl.net
@@ -1972,6 +1990,8 @@ payload:
   - .wuyou.net
   - .x-station.cn
   - .znds.com
+  - .51cto.com
+  - .51ctocdn.cn
   - .edgemonix.top
   - .monika.love
   - .423down.com
@@ -2390,6 +2410,9 @@ payload:
   - .meta.law
   - .metaso.cn
   - .xiezuocat.com
+  - .aispeech.com
+  - .dui.ai
+  - .duiopen.com
   - .asklink.com
   - .easytier.cn
   - .feihengip.com
@@ -2418,6 +2441,7 @@ payload:
   - .worktile.com
   - .1ppt.com
   - .360doc.com
+  - .51wendang.com
   - .52ppt.com
   - .badou.com
   - .book118.com
@@ -2695,6 +2719,7 @@ payload:
   - .alookweb.com
   - .antutu.com
   - .antutu.net
+  - .asklib.com
   - .bambulab.com
   - .bblmw.com
   - .bosszhipin.com
@@ -2745,6 +2770,7 @@ payload:
   - .tianqi.com
   - .tianqistatic.com
   - .viayoo.com
+  - .wenjuan.com
   - .xbext.com
   - .yinxiang.com
   - .zhaopin.cn
@@ -3178,6 +3204,8 @@ payload:
   - .thtf.com.cn
   - .tongfangpc.com
   - .mechrevo.com
+  - .8uri.cn
+  - .kanimg.com
   - .sandai.net
   - .thunderurl.com
   - .xunlei.com
@@ -3306,7 +3334,6 @@ payload:
   - .1637.com
   - .16888.com
   - .16rd.com
-  - .178linux.com
   - .17989.com
   - .17cdn.com
   - .17house.com
@@ -3356,14 +3383,12 @@ payload:
   - .51.com
   - .510you.com
   - .51credit.com
-  - .51cto.com
   - .51eshop.com
   - .51gaifang.com
   - .51hejia.com
   - .51jingying.com
   - .51meishu.com
   - .51sole.com
-  - .51wendang.com
   - .51yes.com
   - .5253.com
   - .52hxw.com
@@ -3432,7 +3457,6 @@ payload:
   - .aplaybox.com
   - .appchina.com
   - .arpun.com
-  - .asklib.com
   - .babytree.com
   - .babytreeimg.com
   - .baidufree.com
@@ -3535,7 +3559,6 @@ payload:
   - .csmjzs.com
   - .csslcloud.net
   - .ctiforum.com
-  - .ctoutiao.com
   - .ctsbw.com
   - .cubead.com
   - .cwxzx.com
@@ -3585,8 +3608,6 @@ payload:
   - .dpfile.com
   - .dreams-travel.com
   - .drivergenius.com
-  - .dui.ai
-  - .duiopen.com
   - .duoduocdn.com
   - .duomai.com
   - .duoshuo.com
@@ -3619,7 +3640,6 @@ payload:
   - .fangxiaoer.com
   - .fanxian.com
   - .fastapi.net
-  - .feihuo.com
   - .feiniaomy.com
   - .fengniao.com
   - .fengxian110.com
@@ -3772,7 +3792,6 @@ payload:
   - .kaifubiao.com
   - .kaixin001.com
   - .kameng98.com
-  - .kanimg.com
   - .kantianqi.net
   - .kanzhun.com
   - .kaopu001.com
@@ -4074,7 +4093,6 @@ payload:
   - .wanyiwang.com
   - .wanyx.com
   - .warmheart.top
-  - .wdjimg.com
   - .wdzj.com
   - .weand.com
   - .weavatar.com
@@ -4083,7 +4101,6 @@ payload:
   - .weixing.com
   - .weiyangx.com
   - .welltrend-edu.com
-  - .wenjuan.com
   - .whlovehome.com
   - .wicresoft.com
   - .win007.com
@@ -4198,7 +4215,6 @@ payload:
   - .yupoo.com
   - .yuzua.com
   - .yxbao.com
-  - .yxdown.com
   - .yytcdn.com
   - .z28j.com
   - .zampda.net
@@ -4276,6 +4292,7 @@ payload:
   - p9-juejin.byteimg.com
   - p3-novel.byteimg.com
   - p6-novel.byteimg.com
+  - ctdsb.clouddiffuse.xyz
   - hospital.pku.edu.cn
   - ss.bjmu.edu.cn
   - moocs.unipus.cn

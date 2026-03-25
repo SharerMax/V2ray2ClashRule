@@ -121,7 +121,6 @@ payload:
   - .mmstat.com
   - .soku.com
   - .cibntv.net
-  - .25pp.com
   - .56che.com
   - .95095.com
   - .ali-health.com
@@ -211,7 +210,6 @@ payload:
   - .supet.com
   - .tanx.com
   - .ttpod.com
-  - .wandoujia.com
   - .xin.xin
   - .xinlingshou.cn
   - .yowhale.com
@@ -265,6 +263,9 @@ payload:
   - .xiami.fm
   - .xiami.net
   - .koubei.com
+  - .wandoujia.com
+  - .wdjimg.com
+  - .25pp.com
   - .zhisheng.com
   - .npmmirror.com
   - .goofish.com
