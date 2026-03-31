@@ -161,3 +161,6 @@ payload:
   - .bunny.net
   - .bunnycdn.com
   - .cdnjs.com
+  - .gcdn.co
+  - .gcore.com
+  - .gcore.pro
