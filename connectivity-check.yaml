@@ -7,6 +7,9 @@ payload:
   - .detectportal.firefox.com
   - .connectivitycheck.gstatic.com
   - .networkcheck.kde.org
+  - .ipv6check-http.steamserver.net
+  - .ipv6check-udp.steamserver.net
+  - .test.steampowered.com
   - .msftconnecttest.com
   - .msftncsi.com
   - ping.archlinux.org

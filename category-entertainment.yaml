@@ -1711,6 +1711,7 @@ payload:
   - weblive-hamivideo.cdn.hinet.net
   - hulu.playback.edge.bamgrid.com
   - lastfm.freetls.fastly.net
+  - ws.audioscrobbler.com
   - ntdfreemobile-tgc.cdn.hinet.net
   - ntdfreepc-tgc.cdn.hinet.net
   - ntdfreetv-tgc.cdn.hinet.net

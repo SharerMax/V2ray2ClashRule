@@ -2406,6 +2406,7 @@ payload:
   - .bunny.net
   - .bunnycdn.com
   - .cdnjs.com
+  - .esm.sh
   - .gcdn.co
   - .gcore.com
   - .gcore.pro
@@ -15851,6 +15852,7 @@ payload:
   - .webobjects.com
   - .archlinux.org
   - .archlinuxarm.org
+  - .pkgbuild.com
   - .archlinuxcn.org
   - .bootstrapcdn.com
   - .getbootstrap.com
@@ -24206,6 +24208,7 @@ payload:
   - weblive-hamivideo.cdn.hinet.net
   - hulu.playback.edge.bamgrid.com
   - lastfm.freetls.fastly.net
+  - ws.audioscrobbler.com
   - ntdfreemobile-tgc.cdn.hinet.net
   - ntdfreepc-tgc.cdn.hinet.net
   - ntdfreetv-tgc.cdn.hinet.net

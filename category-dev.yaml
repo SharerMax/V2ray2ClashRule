@@ -38,6 +38,7 @@ payload:
   - .webobjects.com
   - .archlinux.org
   - .archlinuxarm.org
+  - .pkgbuild.com
   - .archlinuxcn.org
   - .bootstrapcdn.com
   - .getbootstrap.com
