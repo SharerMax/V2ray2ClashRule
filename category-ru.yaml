@@ -186,11 +186,18 @@ payload:
   - .surgut.ru
   - .yamal.ru
   - .zdrav10.ru
+  - .klinikabudzdorov.ru
+  - .emias.ru
+  - .emias.info
   - .medsi.com
   - .medsi.pro
   - .medsi.ru
   - .medsi-premium.ru
   - .smartmed.pro
+  - .mosgorzdrav.ru
+  - .lk.emias.mos.ru
+  - .polyclinika.ru
+  - .vipmed.ru
   - .av.ru
   - .auchan.ru
   - .bristol.ru
@@ -254,12 +261,10 @@ payload:
   - .blablacar.ru
   - .avtovokzaly.ru
   - .ostrovok.ru
-  - .otello.ru
   - .mosmetro.ru
   - .mosmetro.tech
   - .gorodpay.ru
   - .rrtp.ru
-  - .sbertroika.ru
   - .rzd-bonus.ru
   - .rzd.ru
   - .tutu.ru
@@ -318,19 +323,23 @@ payload:
   - .youla.ru
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
-  - .adfox.ru
-  - .admetrica.ru
+  - .berizaryad.ru
+  - .clck.ru
+  - .clstorage.net
+  - .elama.ru
+  - .meteum.ai
   - .naydex.net
   - .rostaxi.org
+  - .shedevrum.ai
+  - .sourcecraft.dev
+  - .static-storage.net
   - .turbopages.org
-  - .webvisor.com
-  - .webvisor.org
+  - .ya.cc
   - .ya.ru
-  - .yads.tech
   - .yandex-bank.net
-  - .yandex-images.clstorage.net
   - .yandex-team.ru
   - .yandex.aero
+  - .yandex.asia
   - .yandex.az
   - .yandex.by
   - .yandex.cloud
@@ -352,6 +361,7 @@ payload:
   - .yandex.lt
   - .yandex.lv
   - .yandex.md
+  - .yandex.mobi
   - .yandex.net
   - .yandex.org
   - .yandex.pl
@@ -366,32 +376,104 @@ payload:
   - .yandexadexchange.net
   - .yandexcloud.net
   - .yandexcom.net
-  - .yandexmetrica.com
+  - .yandexlyceum.ru
   - .yandexwebcache.net
   - .yandexwebcache.org
   - .yastat.net
   - .yastatic-net.ru
   - .yastatic.net
+  - .yccdn.ru
   - .kinopoisk.ru
   - .kinopoisk-ru.clstorage.net
+  - .2gis.ae
+  - .2gis.am
+  - .2gis.az
+  - .2gis.by
+  - .2gis.com
+  - .2gis.com.cy
+  - .2gis.cz
+  - .2gis.ge
+  - .2gis.kg
+  - .2gis.kz
+  - .2gis.ru
+  - .2gis.tj
+  - .2gis.ua
+  - .2gis.uz
+  - .playfamily.ru
+  - .okko.sport
+  - .okko.tv
+  - .bps-sberbank.by
+  - .sber-bank.by
+  - .sber.ru
+  - .sberbank.com
+  - .sberbank.ru
+  - .21-school.ru
+  - .afisha.ru
+  - .citydrive.ru
+  - .cloud.ru
+  - .eapteka.ru
+  - .giga.chat
+  - .id.ru
+  - .kuper.ru
+  - .megamarket.ru
+  - .megamarket.tech
+  - .otello.ru
+  - .samokat.ru
+  - .sberauto.com
+  - .sberbank-insurance.ru
+  - .sbercloud.ru
+  - .sbercloud.tech
+  - .sberdevices.ru
+  - .sberdisk.ru
+  - .sberindex.ru
+  - .sberbankins.ru
+  - .sberhealth.ru
+  - .sberleasing.ru
+  - .sberlogistics.ru
+  - .sbermegamarket.ru
+  - .sbermobile.ru
+  - .sberpb.ru
+  - .sbertroika.ru
+  - .spasibosb.ru
+  - .spasibosberbank.ru
+  - .zvuk-b2b.com
+  - .zvuk.com
+  - .sber.pro
+  - .bankline.ru
+  - .cdn-tinkoff.ru
+  - .dolyame.ru
+  - .phoenix-ca.ru
+  - .rosbank.ru
+  - .t-bank-app.ru
+  - .t-j.ru
+  - .t-static.ru
+  - .t-technologies.ru
+  - .tbank-online.com
+  - .tbank.ru
+  - .tinkoff-group.com
+  - .tinkoff.ru
+  - .tinkoffjournal.ru
+  - .tinsurance.ru
+  - .unidraw.io
+  - .centraluniversity.ru
+  - .cu.ru
   - .alfabank.ru
+  - .alfabank.st
+  - .gazprombank.com
+  - .gazprombank.investments
   - .gazprombank.ru
   - .gpb.ru
   - .dbo-dengi.online
   - .mtsdengi.ru
+  - .payment.ru
+  - .psb-ocenka.ru
+  - .psb.ru
   - .psbank.ru
-  - .bankline.ru
-  - .rosbank.ru
   - .abr.ru
   - .rshb.ru
-  - .sber.ru
-  - .sberbank.com
-  - .sberbank.ru
-  - .cdn-tinkoff.ru
-  - .tbank-online.com
-  - .tbank.ru
   - .tochka-tech.com
   - .tochka.com
+  - .pochtabank.ru
   - .vtb.ru
   - .credistory.ru
   - .nbki.ru
@@ -434,4 +516,6 @@ payload:
   - st-ok-pts.cdn-vk.ru
   - st-ok.cdn-vk.ru
   - youla-web-static.mrgcdn.ru
-  - yandex-pogoda.static-storage.net
+  - sberpro.vedomosti.ru
+  - edu.tinkoff.ru
+  - education.tbank.ru

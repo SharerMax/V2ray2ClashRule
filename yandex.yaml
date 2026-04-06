@@ -3,19 +3,23 @@
 payload:
   - .yandex
   - .xn--d1acpjx3f.xn--p1ai
-  - .adfox.ru
-  - .admetrica.ru
+  - .berizaryad.ru
+  - .clck.ru
+  - .clstorage.net
+  - .elama.ru
+  - .meteum.ai
   - .naydex.net
   - .rostaxi.org
+  - .shedevrum.ai
+  - .sourcecraft.dev
+  - .static-storage.net
   - .turbopages.org
-  - .webvisor.com
-  - .webvisor.org
+  - .ya.cc
   - .ya.ru
-  - .yads.tech
   - .yandex-bank.net
-  - .yandex-images.clstorage.net
   - .yandex-team.ru
   - .yandex.aero
+  - .yandex.asia
   - .yandex.az
   - .yandex.by
   - .yandex.cloud
@@ -37,6 +41,7 @@ payload:
   - .yandex.lt
   - .yandex.lv
   - .yandex.md
+  - .yandex.mobi
   - .yandex.net
   - .yandex.org
   - .yandex.pl
@@ -51,12 +56,12 @@ payload:
   - .yandexadexchange.net
   - .yandexcloud.net
   - .yandexcom.net
-  - .yandexmetrica.com
+  - .yandexlyceum.ru
   - .yandexwebcache.net
   - .yandexwebcache.org
   - .yastat.net
   - .yastatic-net.ru
   - .yastatic.net
+  - .yccdn.ru
   - .kinopoisk.ru
   - .kinopoisk-ru.clstorage.net
-  - yandex-pogoda.static-storage.net
