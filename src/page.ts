@@ -1,7 +1,7 @@
+import { existsSync as fileExistsSync } from 'node:fs'
+import fs from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import fs from 'node:fs/promises'
-import { existsSync as fileExistsSync } from 'node:fs'
 import ejs from 'ejs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
