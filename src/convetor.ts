@@ -46,11 +46,11 @@ function isInvalidRule(rule?: string) {
 }
 
 const EOL_REGEX = /\r?\n/
-function generateCacheKey(v2rayRuleFilePath: string, options?: { attr?: {
+function generateCacheKey(v2rayRuleFilePath: string, _?: { attr?: {
   include?: string[]
   exclude?: string[]
 } }) {
-  return `${v2rayRuleFilePath}-${options?.attr?.include?.join('-') || ''}-${options?.attr?.exclude?.join('-') || ''}`
+  return `${v2rayRuleFilePath}`
 }
 async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: {
   include?: string[]
@@ -132,6 +132,7 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
       debugLogger('include rule: ', rule, 'attr: ', ruleAttr)
       const v2rayRuleFileName = rule.slice(8).trim()
       const includeFilePath = path.resolve(path.dirname(v2rayRuleFilePath), v2rayRuleFileName)
+      debugLogger('include file path: ', includeFilePath)
       const includeAttr: string[] = []
       const excludeAttr: string[] = []
       ruleAttr.forEach((attr) => {
@@ -140,28 +141,16 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
         else
           includeAttr.push(attr)
       })
-      const includeCacheKey = generateCacheKey(includeFilePath, { attr: { include: includeAttr, exclude: excludeAttr } })
-      debugLogger('include cache key: ', includeCacheKey)
-      const cacheResult = cache.get(includeCacheKey)
-      if (cacheResult) {
-        debugLogger('hit cache: ', v2rayRuleFileName, 'cache key: ', cacheKey)
-        result.fullDomain = result.fullDomain.concat(cacheResult.fullDomain)
-        result.subdomain = result.subdomain.concat(cacheResult.subdomain)
-        result.keyword = result.keyword.concat(cacheResult.keyword)
-      }
-      else {
-        debugLogger('include file path: ', includeFilePath)
-
-        const includeResult = await parseV2rayRuleFile(includeFilePath, {
-          attr: {
-            include: includeAttr,
-            exclude: excludeAttr,
-          },
-        })
-        result.fullDomain = result.fullDomain.concat(includeResult.fullDomain)
-        result.subdomain = result.subdomain.concat(includeResult.subdomain)
-        result.keyword = result.keyword.concat(includeResult.keyword)
-      }
+      const includeResult = await parseV2rayRuleFile(includeFilePath, {
+        attr: {
+          include: includeAttr,
+          exclude: excludeAttr,
+        },
+      })
+      result.fullDomain = result.fullDomain.concat(includeResult.fullDomain)
+      result.subdomain = result.subdomain.concat(includeResult.subdomain)
+      result.keyword = result.keyword.concat(includeResult.keyword)
+      result.regex = result.regex.concat(includeResult.regex)
     }
     else {
       // Subdomain begins with `domain:`, followed by a valid domain name. The prefix `domain:` may be omitted.
@@ -184,40 +173,78 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
   return result
 }
 
-function convertV2rayRuleToClashRule(v2rayRule: V2RayRules): ClashRule {
-  const result: ClashRule = {
-    payload: new Array<string>(),
-    type: 'domain',
+function convertV2rayRuleToClashRule(v2rayRule: V2RayRules): Record<string, ClashRule> {
+  const ruleType = (v2rayRule.keyword.length > 0 || v2rayRule.regex.length > 0) ? 'classic' : 'domain'
+  const attrRule: Record<string, string[]> = {
+    '#': new Array<string>(),
   }
-  const domainSuffixRule = new Array<string>()
-  const domainRule = new Array<string>()
-  const domainKeywordRule = new Array<string>()
-  const domainRegexRule = new Array<string>()
-  const ruleType = (domainKeywordRule.length > 0 || domainRegexRule.length > 0) ? 'classic' : 'domain'
-  result.type = ruleType
   if (ruleType === 'classic') {
-    for (const fullDomain of v2rayRule.fullDomain)
-      domainRule.push(`DOMAIN,${fullDomain.content}`)
+    for (const fullDomain of v2rayRule.fullDomain) {
+      const payload = `DOMAIN,${fullDomain.content}`
+      attrRule['#'].push(payload)
+      for (const attr of fullDomain.attr) {
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(payload)
+      }
+    }
 
-    for (const subdomain of v2rayRule.subdomain)
-      domainSuffixRule.push(`DOMAIN-SUFFIX,${subdomain.content}`)
+    for (const subdomain of v2rayRule.subdomain) {
+      const payload = `DOMAIN-SUFFIX,${subdomain.content}`
+      attrRule['#'].push(payload)
+      for (const attr of subdomain.attr) {
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(payload)
+      }
+    }
 
-    for (const keyword of v2rayRule.keyword)
-      domainKeywordRule.push(`DOMAIN-KEYWORD,${keyword.content}`)
+    for (const keyword of v2rayRule.keyword) {
+      const payload = `DOMAIN-KEYWORD,${keyword.content}`
+      attrRule['#'].push(payload)
+      for (const attr of keyword.attr) {
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(payload)
+      }
+    }
 
-    for (const regex of v2rayRule.regex)
-      domainRegexRule.push(`DOMAIN-REGEX,${regex.content}`)
+    for (const regex of v2rayRule.regex) {
+      const payload = `DOMAIN-REGEX,${regex.content}`
+      attrRule['#'].push(payload)
+      for (const attr of regex.attr) {
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(payload)
+      }
+    }
   }
   else {
-    for (const fullDomain of v2rayRule.fullDomain)
-      domainRule.push(fullDomain.content)
-    for (const subdomain of v2rayRule.subdomain)
-      domainSuffixRule.push(`+.${subdomain.content}`)
+    for (const fullDomain of v2rayRule.fullDomain) {
+      for (const attr of fullDomain.attr) {
+        attrRule['#'].push(fullDomain.content)
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(fullDomain.content)
+      }
+    }
+    for (const subdomain of v2rayRule.subdomain) {
+      const payload = `+.${subdomain.content}`
+      attrRule['#'].push(payload)
+      for (const attr of subdomain.attr) {
+        if (!attrRule[attr])
+          attrRule[attr] = new Array<string>()
+        attrRule[attr].push(`+.${subdomain.content}`)
+      }
+    }
   }
-  result.payload = result.payload.concat(domainSuffixRule)
-  result.payload = result.payload.concat(domainRule)
-  result.payload = result.payload.concat(domainKeywordRule)
-
+  const result: Record<string, ClashRule> = {}
+  for (const attr in attrRule) {
+    result[attr] = {
+      payload: attrRule[attr],
+      type: ruleType,
+    }
+  }
   return result
 }
 
@@ -233,17 +260,24 @@ export async function generateRuleList(domainDataDir: string, rulesDistPath: str
       const yamlObj = {
         payload: new Array<string>(),
       }
-      yamlObj.payload = clashRules.payload
-      const yamlFile = await fs.open(path.join(rulesDistPath, `${file.name}.yaml`), 'w')
-      const writeStream = yamlFile.createWriteStream()
-      writeStream.write('# Generated by v2ray2clashrule\n')
-      if (clashRules.type === 'domain')
-        writeStream.write('# type: domain\n')
-      else
-        writeStream.write('# type: classic\n')
-      writeStream.write(yamlStringify(yamlObj))
-      writeStream.end()
-      writeStream.close()
+      for (const key in clashRules) {
+        if (!Object.hasOwn(clashRules, key))
+          continue
+
+        yamlObj.payload = clashRules[key].payload
+        const fileName = `${file.name}${key === '#' ? '' : `@${key}`}.yaml`
+        const yamlFile = await fs.open(path.join(rulesDistPath, fileName), 'w')
+        const writeStream = yamlFile.createWriteStream()
+        writeStream.write('# Generated by v2ray2clashrule\n')
+        if (clashRules['#'].type === 'domain')
+          writeStream.write('# type: domain\n')
+        else
+          writeStream.write('# type: classic\n')
+        writeStream.write(yamlStringify(yamlObj))
+        writeStream.end()
+        writeStream.close()
+        yamlFile.close()
+      }
     }
   }
 }
