@@ -2,4 +2,3 @@
 # type: domain
 payload:
   - +.csis.org
-  - csis-prod.s3.amazonaws.com

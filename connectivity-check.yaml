@@ -12,9 +12,3 @@ payload:
   - +.test.steampowered.com
   - +.msftconnecttest.com
   - +.msftncsi.com
-  - ping.archlinux.org
-  - redirect.archlinux.org
-  - connectivitycheck.platform.hihonorcloud.com
-  - connectivitycheck.platform.hicloud.com
-  - connect.rom.miui.com
-  - connectivity-check.ubuntu.com
