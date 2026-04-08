@@ -16,7 +16,8 @@
     "typecheck": "tsc --noEmit",
     "build": "rimraf dist && tsx src/main.ts",
     "dev": "pnpm run typecheck && tsx watch --env-file .env.dev src/main.ts",
-    "download": "rimraf data && giget gh:v2fly/domain-list-community/data#master data"
+    "download": "rimraf data && giget gh:v2fly/domain-list-community/data#master data",
+    "dev:render": "ejs src/ejs/index.ejs -f src/ejs/demo.json -o dist/index.html"
   },
   "dependencies": {
     "debug": "^4.4.3",
