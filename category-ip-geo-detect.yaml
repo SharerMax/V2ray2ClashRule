@@ -104,6 +104,7 @@ payload:
   - +.myipaddress.com
   - +.myiplookup.com
   - +.mylocation.org
+  - +.nodedata.io
   - +.osint.sh
   - +.proxycheck.io
   - +.realip.cc

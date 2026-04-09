@@ -17,33 +17,6 @@ payload:
   - DOMAIN,ad-display.diwodiwo.xyz
   - DOMAIN,analytics.google.com
   - DOMAIN,sentry.hetzner.company
-  - DOMAIN,adfox.yandex.ru
-  - DOMAIN,adfstat.yandex.ru
-  - DOMAIN,ads.yandex.com
-  - DOMAIN,ads.yandex.ru
-  - DOMAIN,adsdk.yandex.ru
-  - DOMAIN,adv.yandex.com
-  - DOMAIN,adv.yandex.ru
-  - DOMAIN,amc.yandex.ru
-  - DOMAIN,an.yandex.ru
-  - DOMAIN,analytics.mobile.yandex.net
-  - DOMAIN,api.appmetrica.yandex.ru
-  - DOMAIN,browser-updater.yandex.net
-  - DOMAIN,bs.yandex.ru
-  - DOMAIN,clck.yandex.net
-  - DOMAIN,clck.yandex.ru
-  - DOMAIN,counter.yandex.net
-  - DOMAIN,counter.yandex.ru
-  - DOMAIN,informer.yandex.ru
-  - DOMAIN,mc.yandex.com
-  - DOMAIN,mc.yandex.ru
-  - DOMAIN,metrika.yandex.ru
-  - DOMAIN,pix.yandex.ru
-  - DOMAIN,pixel.yandex.net
-  - DOMAIN,report-partners.appmetrica.yandex.net
-  - DOMAIN,report.ap.yandex-net.ru
-  - DOMAIN,report.appmetrica.yandex.net
-  - DOMAIN,yabs.yandex.ru
   - DOMAIN-SUFFIX,sbermarketing.ru
   - DOMAIN-SUFFIX,ads.yahoo.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
@@ -172,3 +145,37 @@ payload:
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex-metrica.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
+  - DOMAIN-SUFFIX,yango-ads.com
+  - DOMAIN-SUFFIX,adfox.yandex.ru
+  - DOMAIN-SUFFIX,adfstat.yandex.ru
+  - DOMAIN-SUFFIX,ads.yandex.com
+  - DOMAIN-SUFFIX,ads.yandex.ru
+  - DOMAIN-SUFFIX,ads.yango.com
+  - DOMAIN-SUFFIX,adsdk.yandex.ru
+  - DOMAIN-SUFFIX,adv.yandex.com
+  - DOMAIN-SUFFIX,adv.yandex.ru
+  - DOMAIN-SUFFIX,amc.yandex.ru
+  - DOMAIN-SUFFIX,an.yandex.ru
+  - DOMAIN-SUFFIX,analytics.mobile.yandex.net
+  - DOMAIN-SUFFIX,appmetrica.yandex.com
+  - DOMAIN-SUFFIX,appmetrica.yandex.net
+  - DOMAIN-SUFFIX,appmetrica.yandex.ru
+  - DOMAIN-SUFFIX,appmetrica.yango.com
+  - DOMAIN-SUFFIX,browser-updater.yandex.net
+  - DOMAIN-SUFFIX,bs.yandex.ru
+  - DOMAIN-SUFFIX,clck.yandex.com
+  - DOMAIN-SUFFIX,clck.yandex.net
+  - DOMAIN-SUFFIX,clck.yandex.ru
+  - DOMAIN-SUFFIX,clck.yango.com
+  - DOMAIN-SUFFIX,counter.yandex.net
+  - DOMAIN-SUFFIX,counter.yandex.ru
+  - DOMAIN-SUFFIX,informer.yandex.ru
+  - DOMAIN-SUFFIX,mc.yandex.com
+  - DOMAIN-SUFFIX,mc.yandex.net
+  - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,mc.yango.com
+  - DOMAIN-SUFFIX,metrika.yandex.ru
+  - DOMAIN-SUFFIX,pix.yandex.ru
+  - DOMAIN-SUFFIX,pixel.yandex.net
+  - DOMAIN-SUFFIX,report.ap.yandex-net.ru
+  - DOMAIN-SUFFIX,yabs.yandex.ru
