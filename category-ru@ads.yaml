@@ -33,6 +33,8 @@ payload:
   - +.advert-media-api.wildberries.ru
   - +.analytics-stage.wildberries.ru
   - +.analytics.wildberries.ru
+  - +.marketing-info.wildberries.ru
+  - +.marketplace-sentry.wb.ru
   - +.sentry.wb.ru
   - +.web-analytics.wildberries.ru
   - +.ads.x5media.ru
@@ -53,8 +55,9 @@ payload:
   - +.api-staging.mindbox.ru
   - +.api.mindbox.cloud
   - +.api.mindbox.ru
-  - +.api.e.mindbox.ru
-  - +.api.s.mindbox.ru
+  - +.e.mindbox.ru
+  - +.g.mindbox.ru
+  - +.s.mindbox.ru
   - +.sentry.mindbox.ru
   - +.sentry.popmechanic.ru
   - +.adfox.ru
@@ -99,10 +102,12 @@ payload:
   - +.pixel.yandex.net
   - +.report.ap.yandex-net.ru
   - +.yabs.yandex.ru
+  - +.neon.click
   - +.sbermarketing.ru
-  - +.ads.neon.click
+  - +.ads.sber.ru
   - +.clickstream.sberbank.ru
   - +.error-tracking.megamarket.tech
+  - +.metrics.21-school.ru
   - +.sentry.sberauto.com
   - +.tracing-http.megamarket.tech
   - +.visor.sberbank.ru

@@ -3,7 +3,6 @@
 payload:
   - DOMAIN,apilog-web.acfun.cn
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
-  - DOMAIN,manga.bilibili.com
   - DOMAIN,p3-novel.byteimg.com
   - DOMAIN,p6-novel.byteimg.com
   - DOMAIN,ads3-normal-hl.zijieapi.com
@@ -316,6 +315,7 @@ payload:
   - DOMAIN-SUFFIX,bilibilipay.cn
   - DOMAIN-SUFFIX,bilibilipay.com
   - DOMAIN-SUFFIX,biligo.com
+  - DOMAIN-SUFFIX,huasheng.cn
   - DOMAIN-SUFFIX,im9.com
   - DOMAIN-SUFFIX,yo9.com
   - DOMAIN-SUFFIX,ciweimao.com

@@ -55,7 +55,9 @@ payload:
   - +.hailuoai.com
   - +.minimaxi.com
   - +.xingyeai.com
+  - +.codebuddy.cn
   - +.hunyuan.tencent.com
+  - +.yuanqi.tencent.com
   - +.baichuan-ai.com
   - +.botvip.cn
   - +.liblib.art
@@ -70,3 +72,5 @@ payload:
   - +.aispeech.com
   - +.dui.ai
   - +.duiopen.com
+  - +.clawhub-mirror.com
+  - +.skillhub.cn

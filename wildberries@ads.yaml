@@ -12,5 +12,7 @@ payload:
   - +.advert-media-api.wildberries.ru
   - +.analytics-stage.wildberries.ru
   - +.analytics.wildberries.ru
+  - +.marketing-info.wildberries.ru
+  - +.marketplace-sentry.wb.ru
   - +.sentry.wb.ru
   - +.web-analytics.wildberries.ru

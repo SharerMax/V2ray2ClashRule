@@ -224,6 +224,7 @@ payload:
   - DOMAIN-SUFFIX,pagead.l.google.com
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,urchin.com
+  - DOMAIN-SUFFIX,dt.dbankcloud.ru
   - DOMAIN-SUFFIX,click.hunantv.com
   - DOMAIN-SUFFIX,da.hunantv.com
   - DOMAIN-SUFFIX,da.mgtv.com
@@ -269,8 +270,9 @@ payload:
   - DOMAIN-SUFFIX,api-staging.mindbox.ru
   - DOMAIN-SUFFIX,api.mindbox.cloud
   - DOMAIN-SUFFIX,api.mindbox.ru
-  - DOMAIN-SUFFIX,api.e.mindbox.ru
-  - DOMAIN-SUFFIX,api.s.mindbox.ru
+  - DOMAIN-SUFFIX,e.mindbox.ru
+  - DOMAIN-SUFFIX,g.mindbox.ru
+  - DOMAIN-SUFFIX,s.mindbox.ru
   - DOMAIN-SUFFIX,sentry.mindbox.ru
   - DOMAIN-SUFFIX,sentry.popmechanic.ru
   - DOMAIN-SUFFIX,a.youdao.com
@@ -318,10 +320,12 @@ payload:
   - DOMAIN-SUFFIX,s.so.360.cn
   - DOMAIN-SUFFIX,s.union.360.cn
   - DOMAIN-SUFFIX,samsungads.com
+  - DOMAIN-SUFFIX,neon.click
   - DOMAIN-SUFFIX,sbermarketing.ru
-  - DOMAIN-SUFFIX,ads.neon.click
+  - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,error-tracking.megamarket.tech
+  - DOMAIN-SUFFIX,metrics.21-school.ru
   - DOMAIN-SUFFIX,sentry.sberauto.com
   - DOMAIN-SUFFIX,tracing-http.megamarket.tech
   - DOMAIN-SUFFIX,visor.sberbank.ru
@@ -448,6 +452,8 @@ payload:
   - DOMAIN-SUFFIX,advert-media-api.wildberries.ru
   - DOMAIN-SUFFIX,analytics-stage.wildberries.ru
   - DOMAIN-SUFFIX,analytics.wildberries.ru
+  - DOMAIN-SUFFIX,marketing-info.wildberries.ru
+  - DOMAIN-SUFFIX,marketplace-sentry.wb.ru
   - DOMAIN-SUFFIX,sentry.wb.ru
   - DOMAIN-SUFFIX,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,ads.x5media.ru

@@ -322,6 +322,7 @@ payload:
   - +.dbankcdn.com
   - +.dbankcloud.cn
   - +.dbankcloud.com
+  - +.dbankcloud.ru
   - +.dbankedge.cn
   - +.dbankedge.net
   - +.hicloud.com
@@ -340,3 +341,4 @@ payload:
   - +.shanhaitujian.com
   - +.vmall.com
   - +.vmallres.com
+  - +.dt.dbankcloud.ru

@@ -6,7 +6,8 @@ payload:
   - +.api-staging.mindbox.ru
   - +.api.mindbox.cloud
   - +.api.mindbox.ru
-  - +.api.e.mindbox.ru
-  - +.api.s.mindbox.ru
+  - +.e.mindbox.ru
+  - +.g.mindbox.ru
+  - +.s.mindbox.ru
   - +.sentry.mindbox.ru
   - +.sentry.popmechanic.ru

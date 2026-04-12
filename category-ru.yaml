@@ -271,59 +271,8 @@ payload:
   - +.willberis.ru
   - +.wldberris.ru
   - +.wolfberries.ru
-  - +.bansi.ru
-  - +.baumi.ru
-  - +.bokerama.ru
-  - +.bonbon.am
-  - +.caronino.com
-  - +.contessa.ru
-  - +.epilprofy.ru
-  - +.ewotech.ru
-  - +.fixgoodsport.ru
-  - +.foralice.online
-  - +.foxx-shop.ru
-  - +.gerronfox.com
-  - +.gondol.ru
-  - +.ikakids.ru
-  - +.jieshang.online
-  - +.jieshang.ru
-  - +.jieshang.shop
-  - +.jieshang.store
-  - +.katrn.ru
-  - +.kiddiekorner.ru
-  - +.lizageld.de
-  - +.lizageld.ru
-  - +.made-in-altai.ru
-  - +.magic-mix.ru
-  - +.maoshop.ru
-  - +.megapolis.llc
-  - +.mimile.ru
-  - +.nemocoffee.ru
-  - +.nuwjon.online
-  - +.nuwjon.ru
-  - +.nuwjon.shop
-  - +.nuwjon.store
-  - +.papertole.by
-  - +.perfect-market.ru
-  - +.pleamo.ru
-  - +.qnails.ru
-  - +.rugg.ru
-  - +.skandia-shoes.ru
-  - +.soomkosh.ru
-  - +.temka37.ru
-  - +.thebutik.ru
-  - +.tigrenok.toys
-  - +.tigrenoktoys.ru
-  - +.trendysocks.ru
-  - +.ucsan.ru
-  - +.westranger.ru
-  - +.xbs24.ru
-  - +.zanmarket.ru
-  - +.xn----7sbbqwlovjffky5gn.xn--p1ai
-  - +.xn--80aapfrkg0au.xn--p1ai
   - +.xn--80acbjgmges7ca.xn--p1ai
   - +.xn--80acbjgsdq2cl.xn--p1ai
-  - +.xn--e1agcghdbe0a2b2a3c.xn--p1ai
   - +.ads-gate.wildberries.ru
   - +.ads-media.wildberries.ru
   - +.ads.wildberries.ru
@@ -335,6 +284,8 @@ payload:
   - +.advert-media-api.wildberries.ru
   - +.analytics-stage.wildberries.ru
   - +.analytics.wildberries.ru
+  - +.marketing-info.wildberries.ru
+  - +.marketplace-sentry.wb.ru
   - +.sentry.wb.ru
   - +.web-analytics.wildberries.ru
   - +.cdnvideo.ru
@@ -597,6 +548,14 @@ payload:
   - +.api.carrottrack.app
   - +.api.dashly.app
   - +.api.dashlytrack.app
+  - +.hh.by
+  - +.hh.kz
+  - +.hh.ru
+  - +.hhcdn.ru
+  - +.rabota.by
+  - +.setka.ru
+  - +.talantix.ru
+  - +.zarplata.ru
   - +.kaspersky-labs.com
   - +.kaspersky.com
   - +.kaspersky.be
@@ -704,8 +663,9 @@ payload:
   - +.api-staging.mindbox.ru
   - +.api.mindbox.cloud
   - +.api.mindbox.ru
-  - +.api.e.mindbox.ru
-  - +.api.s.mindbox.ru
+  - +.e.mindbox.ru
+  - +.g.mindbox.ru
+  - +.s.mindbox.ru
   - +.sentry.mindbox.ru
   - +.sentry.popmechanic.ru
   - +.chipcore.com
@@ -884,28 +844,28 @@ payload:
   - +.sber.ru
   - +.sberbank.com
   - +.sberbank.ru
-  - +.21-school.ru
-  - +.afisha.ru
-  - +.citydrive.ru
-  - +.cloud.ru
-  - +.cloudru.cn
-  - +.eaptechka.online
-  - +.eapteka.ru
-  - +.giga.chat
+  - +.sbrf.ru
+  - +.neon.click
+  - +.sbermarketing.ru
+  - +.ads.sber.ru
+  - +.clickstream.sberbank.ru
+  - +.error-tracking.megamarket.tech
+  - +.metrics.21-school.ru
+  - +.sentry.sberauto.com
+  - +.tracing-http.megamarket.tech
+  - +.visor.sberbank.ru
   - +.id.ru
-  - +.kuper.ru
   - +.megamarket.ru
   - +.megamarket.tech
-  - +.neon.click
-  - +.otello.ru
-  - +.samokat.ru
   - +.sberauto.com
   - +.sberbank-insurance.ru
   - +.sbercloud.ru
   - +.sbercloud.tech
   - +.sberdevices.ru
   - +.sberdisk.ru
+  - +.sberfactoring.ru
   - +.sberindex.ru
+  - +.sberbankaktivno.ru
   - +.sberbankins.ru
   - +.sberhealth.ru
   - +.sberleasing.ru
@@ -914,16 +874,23 @@ payload:
   - +.sbermobile.ru
   - +.sberpb.ru
   - +.sbertroika.ru
-  - +.spasibosb.ru
-  - +.spasibosberbank.ru
-  - +.zvuk-b2b.com
-  - +.zvuk.com
-  - +.sber.pro
+  - +.afisha.ru
+  - +.citydrive.ru
+  - +.cloud.ru
+  - +.cloudru.cn
+  - +.eaptechka.online
+  - +.eapteka.ru
+  - +.21-school.ru
+  - +.kuper.ru
+  - +.restnproducts.ru
+  - +.samokat.ru
+  - +.giga.chat
+  - +.gitverse.ru
   - +.jivo.chat
   - +.jivo.ru
-  - +.jivochat.com
   - +.jivochat.co.in
   - +.jivochat.co.za
+  - +.jivochat.com
   - +.jivochat.com.br
   - +.jivochat.com.co
   - +.jivochat.com.pe
@@ -934,13 +901,22 @@ payload:
   - +.jivochat.ru
   - +.jivosite.com
   - +.jivosite.ru
-  - +.sbermarketing.ru
-  - +.ads.neon.click
-  - +.clickstream.sberbank.ru
-  - +.error-tracking.megamarket.tech
-  - +.sentry.sberauto.com
-  - +.tracing-http.megamarket.tech
-  - +.visor.sberbank.ru
+  - +.payecom.ru
+  - +.platiecom.ru
+  - +.otello.ru
+  - +.sber.pro
+  - +.cplsb.ru
+  - +.sberspasibo.ru
+  - +.spasibo.digital
+  - +.spasibo.market
+  - +.spasibobonus.ru
+  - +.spasibosb.ru
+  - +.spasibosberbank.ru
+  - +.accesspoint.uz
+  - +.getsynapse.io
+  - +.sbertech.ru
+  - +.zvuk-b2b.com
+  - +.zvuk.com
   - +.xn----7sbhmncai5a0arm7c1e.xn--p1ai
   - +.xn----8sbkfzespdwig.xn--p1ai
   - +.xn----8sbwjbxyd.xn--p1ai
@@ -1001,6 +977,7 @@ payload:
   - +.sgcheck.ru
   - +.t-access.ru
   - +.t-bank-app.ru
+  - +.t-bank-app.su
   - +.t-bank.by
   - +.t-calls.ru
   - +.t-capital-funds.ru
@@ -1052,10 +1029,17 @@ payload:
   - +.tinkoff-edu.ru
   - +.alfabank.ru
   - +.alfabank.st
+  - +.alfadirect.ru
+  - +.myapelsin.ru
+  - +.alfabank.oavdo.amc
+  - +.bcs.ru
+  - +.bcs-bank.ru
+  - +.broker.ru
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.gazprombank.ru
   - +.gpb.ru
+  - +.mkb.ru
   - +.dbo-dengi.online
   - +.mtsdengi.ru
   - +.payment.ru
@@ -1075,6 +1059,7 @@ payload:
   - +.banki.ru
   - +.finuslugi.ru
   - +.sistema-capital.com
+  - +.mironline.ru
   - +.mirpayonline.ru
   - +.nspk.ru
   - +.netmonet.co
@@ -1087,6 +1072,7 @@ payload:
   - +.rt.ru
   - +.t2.ru
   - +.tele2.ru
+  - +.inplat.ru
   - +.megafon.com
   - +.megafon.ru
   - +.megafonpro.ru

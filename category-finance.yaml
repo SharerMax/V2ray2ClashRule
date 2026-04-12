@@ -169,28 +169,28 @@ payload:
   - +.sber.ru
   - +.sberbank.com
   - +.sberbank.ru
-  - +.21-school.ru
-  - +.afisha.ru
-  - +.citydrive.ru
-  - +.cloud.ru
-  - +.cloudru.cn
-  - +.eaptechka.online
-  - +.eapteka.ru
-  - +.giga.chat
+  - +.sbrf.ru
+  - +.neon.click
+  - +.sbermarketing.ru
+  - +.ads.sber.ru
+  - +.clickstream.sberbank.ru
+  - +.error-tracking.megamarket.tech
+  - +.metrics.21-school.ru
+  - +.sentry.sberauto.com
+  - +.tracing-http.megamarket.tech
+  - +.visor.sberbank.ru
   - +.id.ru
-  - +.kuper.ru
   - +.megamarket.ru
   - +.megamarket.tech
-  - +.neon.click
-  - +.otello.ru
-  - +.samokat.ru
   - +.sberauto.com
   - +.sberbank-insurance.ru
   - +.sbercloud.ru
   - +.sbercloud.tech
   - +.sberdevices.ru
   - +.sberdisk.ru
+  - +.sberfactoring.ru
   - +.sberindex.ru
+  - +.sberbankaktivno.ru
   - +.sberbankins.ru
   - +.sberhealth.ru
   - +.sberleasing.ru
@@ -199,16 +199,23 @@ payload:
   - +.sbermobile.ru
   - +.sberpb.ru
   - +.sbertroika.ru
-  - +.spasibosb.ru
-  - +.spasibosberbank.ru
-  - +.zvuk-b2b.com
-  - +.zvuk.com
-  - +.sber.pro
+  - +.afisha.ru
+  - +.citydrive.ru
+  - +.cloud.ru
+  - +.cloudru.cn
+  - +.eaptechka.online
+  - +.eapteka.ru
+  - +.21-school.ru
+  - +.kuper.ru
+  - +.restnproducts.ru
+  - +.samokat.ru
+  - +.giga.chat
+  - +.gitverse.ru
   - +.jivo.chat
   - +.jivo.ru
-  - +.jivochat.com
   - +.jivochat.co.in
   - +.jivochat.co.za
+  - +.jivochat.com
   - +.jivochat.com.br
   - +.jivochat.com.co
   - +.jivochat.com.pe
@@ -219,13 +226,22 @@ payload:
   - +.jivochat.ru
   - +.jivosite.com
   - +.jivosite.ru
-  - +.sbermarketing.ru
-  - +.ads.neon.click
-  - +.clickstream.sberbank.ru
-  - +.error-tracking.megamarket.tech
-  - +.sentry.sberauto.com
-  - +.tracing-http.megamarket.tech
-  - +.visor.sberbank.ru
+  - +.payecom.ru
+  - +.platiecom.ru
+  - +.otello.ru
+  - +.sber.pro
+  - +.cplsb.ru
+  - +.sberspasibo.ru
+  - +.spasibo.digital
+  - +.spasibo.market
+  - +.spasibobonus.ru
+  - +.spasibosb.ru
+  - +.spasibosberbank.ru
+  - +.accesspoint.uz
+  - +.getsynapse.io
+  - +.sbertech.ru
+  - +.zvuk-b2b.com
+  - +.zvuk.com
   - +.xn----7sbhmncai5a0arm7c1e.xn--p1ai
   - +.xn----8sbkfzespdwig.xn--p1ai
   - +.xn----8sbwjbxyd.xn--p1ai
@@ -286,6 +302,7 @@ payload:
   - +.sgcheck.ru
   - +.t-access.ru
   - +.t-bank-app.ru
+  - +.t-bank-app.su
   - +.t-bank.by
   - +.t-calls.ru
   - +.t-capital-funds.ru
@@ -337,10 +354,17 @@ payload:
   - +.tinkoff-edu.ru
   - +.alfabank.ru
   - +.alfabank.st
+  - +.alfadirect.ru
+  - +.myapelsin.ru
+  - +.alfabank.oavdo.amc
+  - +.bcs.ru
+  - +.bcs-bank.ru
+  - +.broker.ru
   - +.gazprombank.com
   - +.gazprombank.investments
   - +.gazprombank.ru
   - +.gpb.ru
+  - +.mkb.ru
   - +.dbo-dengi.online
   - +.mtsdengi.ru
   - +.payment.ru
