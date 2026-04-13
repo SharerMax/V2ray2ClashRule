@@ -77,12 +77,25 @@ payload:
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,ads.youtube.com
+  - DOMAIN-SUFFIX,log.dzen.ru
+  - DOMAIN-SUFFIX,ms.dzen.ru
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,facebookads.com
   - DOMAIN-SUFFIX,pixel.facebook.com
   - DOMAIN-SUFFIX,graph.instagram.com
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
   - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,vk-analytics.ru
+  - DOMAIN-SUFFIX,adblogger.vk.com
+  - DOMAIN-SUFFIX,ads.vk.com
+  - DOMAIN-SUFFIX,ads.vk.ru
+  - DOMAIN-SUFFIX,analytics.vk.ru
+  - DOMAIN-SUFFIX,analytics.vk.com
+  - DOMAIN-SUFFIX,ms.vk.com
+  - DOMAIN-SUFFIX,ms.vk.ru
+  - DOMAIN-SUFFIX,stats.vk-portal.net
+  - DOMAIN-SUFFIX,target.vk.com
+  - DOMAIN-SUFFIX,target.vk.ru
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
@@ -163,6 +176,70 @@ payload:
   - DOMAIN-SUFFIX,pagead.l.google.com
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,urchin.com
+  - DOMAIN-SUFFIX,log.dzen.ru
+  - DOMAIN-SUFFIX,ms.dzen.ru
+  - DOMAIN-SUFFIX,vk-analytics.ru
+  - DOMAIN-SUFFIX,adblogger.vk.com
+  - DOMAIN-SUFFIX,ads.vk.com
+  - DOMAIN-SUFFIX,ads.vk.ru
+  - DOMAIN-SUFFIX,analytics.vk.ru
+  - DOMAIN-SUFFIX,analytics.vk.com
+  - DOMAIN-SUFFIX,ms.vk.com
+  - DOMAIN-SUFFIX,ms.vk.ru
+  - DOMAIN-SUFFIX,stats.vk-portal.net
+  - DOMAIN-SUFFIX,target.vk.com
+  - DOMAIN-SUFFIX,target.vk.ru
+  - DOMAIN-SUFFIX,adsadvisor.io
+  - DOMAIN-SUFFIX,apptracer.ru
+  - DOMAIN-SUFFIX,cxhub.ru
+  - DOMAIN-SUFFIX,myadx.net
+  - DOMAIN-SUFFIX,1l-hit.mail.ru
+  - DOMAIN-SUFFIX,1l-hit.vkplay.ru
+  - DOMAIN-SUFFIX,ad.mail.ru
+  - DOMAIN-SUFFIX,ad4.mail.ru
+  - DOMAIN-SUFFIX,ads-integration.rustore.ru
+  - DOMAIN-SUFFIX,ads.dahlmessenger.com
+  - DOMAIN-SUFFIX,ads.icq.com
+  - DOMAIN-SUFFIX,ads.rustore.ru
+  - DOMAIN-SUFFIX,ads.viqeo.tv
+  - DOMAIN-SUFFIX,adsapp.dahlmessenger.com
+  - DOMAIN-SUFFIX,adsapp.telega.info
+  - DOMAIN-SUFFIX,adsapp.stage.telega.info
+  - DOMAIN-SUFFIX,adv.rustore.ru
+  - DOMAIN-SUFFIX,alt-r.my.com
+  - DOMAIN-SUFFIX,an.mail.ru
+  - DOMAIN-SUFFIX,b2.mail.ru
+  - DOMAIN-SUFFIX,bs.mail.ru
+  - DOMAIN-SUFFIX,click.rustore.ru
+  - DOMAIN-SUFFIX,metrics.viqeo.tv
+  - DOMAIN-SUFFIX,pixel.rustore.ru
+  - DOMAIN-SUFFIX,r.mail.ru
+  - DOMAIN-SUFFIX,r.my.com
+  - DOMAIN-SUFFIX,r0.mail.ru
+  - DOMAIN-SUFFIX,r0.mradx.net
+  - DOMAIN-SUFFIX,r1.mail.ru
+  - DOMAIN-SUFFIX,radar.imgsmail.ru
+  - DOMAIN-SUFFIX,reklama.mail.ru
+  - DOMAIN-SUFFIX,relap.mail.ru
+  - DOMAIN-SUFFIX,rs.mail.ru
+  - DOMAIN-SUFFIX,sentry-ng.g.smailru.net
+  - DOMAIN-SUFFIX,sentry.dev-my.com
+  - DOMAIN-SUFFIX,sentry.dev-my.games
+  - DOMAIN-SUFFIX,sentry.rustore.ru
+  - DOMAIN-SUFFIX,sentry.viqeo.tv
+  - DOMAIN-SUFFIX,stacks.vk-portal.net
+  - DOMAIN-SUFFIX,stats.dahlmessenger.com
+  - DOMAIN-SUFFIX,stats.dev.telega.info
+  - DOMAIN-SUFFIX,stats.rustore.ru
+  - DOMAIN-SUFFIX,stats.telega.info
+  - DOMAIN-SUFFIX,t.mail.ru
+  - DOMAIN-SUFFIX,target.my.com
+  - DOMAIN-SUFFIX,top-fwz1.mail.ru
+  - DOMAIN-SUFFIX,top-staging.mail.ru
+  - DOMAIN-SUFFIX,tracker-api.my.com
+  - DOMAIN-SUFFIX,tracker.my.com
+  - DOMAIN-SUFFIX,whiteline.mail.ru
+  - DOMAIN-SUFFIX,xray.mail.ru
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,facebookads.com
   - DOMAIN-SUFFIX,pixel.facebook.com
