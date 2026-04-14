@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,webkitgtk.org
   - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,webobjects.com
+  - DOMAIN-SUFFIX,archlinux.de
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
   - DOMAIN-SUFFIX,pkgbuild.com
