@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - cdn.ampproject.org
+  - amp.akamaized.net
   - +.kernel.org
   - +.linux.org
   - +.amp.dev

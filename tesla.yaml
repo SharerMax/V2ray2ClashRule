@@ -2,6 +2,7 @@
 # type: domain
 payload:
   - tesla-cdn.thron.cn
+  - tesla-cdn.thron.com
   - +.solarcity.com
   - +.tesla.cn
   - +.tesla.com
