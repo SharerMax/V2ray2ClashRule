@@ -184,68 +184,47 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
 }
 
 function convertV2rayRuleToClashRule(v2rayRule: V2RayRules): Record<string, ClashRule> {
-  const ruleType = (v2rayRule.keyword.length > 0 || v2rayRule.regex.length > 0) ? 'classic' : 'domain'
+  const ruleType = 'classic'
   const attrRule: Record<string, string[]> = {
     '#': new Array<string>(),
   }
-  if (ruleType === 'classic') {
-    for (const fullDomain of v2rayRule.fullDomain) {
-      const payload = `DOMAIN,${fullDomain.content}`
-      attrRule['#'].push(payload)
-      for (const attr of fullDomain.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(payload)
-      }
-    }
-
-    for (const subdomain of v2rayRule.subdomain) {
-      const payload = `DOMAIN-SUFFIX,${subdomain.content}`
-      attrRule['#'].push(payload)
-      for (const attr of subdomain.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(payload)
-      }
-    }
-
-    for (const keyword of v2rayRule.keyword) {
-      const payload = `DOMAIN-KEYWORD,${keyword.content}`
-      attrRule['#'].push(payload)
-      for (const attr of keyword.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(payload)
-      }
-    }
-
-    for (const regex of v2rayRule.regex) {
-      const payload = `DOMAIN-REGEX,${regex.content}`
-      attrRule['#'].push(payload)
-      for (const attr of regex.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(payload)
-      }
+  for (const fullDomain of v2rayRule.fullDomain) {
+    const payload = `DOMAIN,${fullDomain.content}`
+    attrRule['#'].push(payload)
+    for (const attr of fullDomain.attr) {
+      if (!attrRule[attr])
+        attrRule[attr] = new Array<string>()
+      attrRule[attr].push(payload)
     }
   }
-  else {
-    for (const fullDomain of v2rayRule.fullDomain) {
-      attrRule['#'].push(fullDomain.content)
-      for (const attr of fullDomain.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(fullDomain.content)
-      }
+
+  for (const subdomain of v2rayRule.subdomain) {
+    const payload = `DOMAIN-SUFFIX,${subdomain.content}`
+    attrRule['#'].push(payload)
+    for (const attr of subdomain.attr) {
+      if (!attrRule[attr])
+        attrRule[attr] = new Array<string>()
+      attrRule[attr].push(payload)
     }
-    for (const subdomain of v2rayRule.subdomain) {
-      const payload = `+.${subdomain.content}`
-      attrRule['#'].push(payload)
-      for (const attr of subdomain.attr) {
-        if (!attrRule[attr])
-          attrRule[attr] = new Array<string>()
-        attrRule[attr].push(`+.${subdomain.content}`)
-      }
+  }
+
+  for (const keyword of v2rayRule.keyword) {
+    const payload = `DOMAIN-KEYWORD,${keyword.content}`
+    attrRule['#'].push(payload)
+    for (const attr of keyword.attr) {
+      if (!attrRule[attr])
+        attrRule[attr] = new Array<string>()
+      attrRule[attr].push(payload)
+    }
+  }
+
+  for (const regex of v2rayRule.regex) {
+    const payload = `DOMAIN-REGEX,${regex.content}`
+    attrRule['#'].push(payload)
+    for (const attr of regex.attr) {
+      if (!attrRule[attr])
+        attrRule[attr] = new Array<string>()
+      attrRule[attr].push(payload)
     }
   }
   const result: Record<string, ClashRule> = {}
