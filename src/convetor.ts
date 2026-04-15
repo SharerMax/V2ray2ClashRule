@@ -46,10 +46,15 @@ function isInvalidRule(rule?: string) {
 }
 
 const EOL_REGEX = /\r?\n/
-function generateCacheKey(v2rayRuleFilePath: string, _?: { attr?: {
+function generateCacheKey(v2rayRuleFilePath: string, options?: { attr?: {
   include?: string[]
   exclude?: string[]
 } }) {
+  if (options?.attr) {
+    const { include, exclude } = options.attr
+    const attrKey = `+${include?.join('+')}-${exclude?.join('-')}`
+    return `${v2rayRuleFilePath}-${attrKey}`
+  }
   return `${v2rayRuleFilePath}`
 }
 async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: {
@@ -81,6 +86,7 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
   const lines = fileContent.split(EOL_REGEX)
 
   for await (let rule of lines) {
+    debugLogger('rule-line: ', rule)
     // remove comment same line
     const commentIndex = rule.indexOf('#')
     if (commentIndex >= 0)
@@ -102,13 +108,14 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
 
     // remove rule attribute
     rule = rule.replaceAll(/@\S+/g, '').trim()
-
+    debugLogger('rule-no-attr: ', rule)
     if (isInvalidRule(rule)) {
       debugLogger('ignore invalid rule: ', rule)
       continue
     }
     else if (isFullDomainRule(rule)) {
       // full: xxx
+      debugLogger('full domain rule: ', rule, 'attr: ', ruleAttr)
       result.fullDomain.push({
         content: rule.slice(5).trim(),
         attr: ruleAttr,
@@ -116,6 +123,7 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
     }
     else if (isKeywordRule(rule)) {
       // keyword: xxx
+      debugLogger('keyword rule: ', rule, 'attr: ', ruleAttr)
       result.keyword.push({
         content: rule.slice(8).trim(),
         attr: ruleAttr,
@@ -123,6 +131,7 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
     }
     else if (isRegexDomainRule(rule)) {
       // regexp: xxx
+      debugLogger('regex domain rule: ', rule, 'attr: ', ruleAttr)
       result.regex.push({
         content: rule.slice(7).trim(),
         attr: ruleAttr,
@@ -170,6 +179,7 @@ async function parseV2rayRuleFile(v2rayRuleFilePath: string, options?: { attr?: 
   }
   cache.set(cacheKey, result)
   debugLogger('save cache: ', cacheKey)
+  debugLogger(`result-${cacheKey}:`, result)
   return result
 }
 
@@ -221,8 +231,8 @@ function convertV2rayRuleToClashRule(v2rayRule: V2RayRules): Record<string, Clas
   }
   else {
     for (const fullDomain of v2rayRule.fullDomain) {
+      attrRule['#'].push(fullDomain.content)
       for (const attr of fullDomain.attr) {
-        attrRule['#'].push(fullDomain.content)
         if (!attrRule[attr])
           attrRule[attr] = new Array<string>()
         attrRule[attr].push(fullDomain.content)
