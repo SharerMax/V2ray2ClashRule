@@ -14,6 +14,9 @@ payload:
   - DOMAIN-SUFFIX,blablacar.ru
   - DOMAIN-SUFFIX,avtovokzaly.ru
   - DOMAIN-SUFFIX,ostrovok.ru
+  - DOMAIN-SUFFIX,2gis.ru
+  - DOMAIN-SUFFIX,otello.ru
+  - DOMAIN-SUFFIX,sber.ru
   - DOMAIN-SUFFIX,mosmetro.ru
   - DOMAIN-SUFFIX,mosmetro.tech
   - DOMAIN-SUFFIX,gorodpay.ru
@@ -21,3 +24,4 @@ payload:
   - DOMAIN-SUFFIX,rzd-bonus.ru
   - DOMAIN-SUFFIX,rzd.ru
   - DOMAIN-SUFFIX,tutu.ru
+  - DOMAIN-SUFFIX,fasten.ru

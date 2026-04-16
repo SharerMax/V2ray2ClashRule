@@ -37,3 +37,4 @@ payload:
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN-SUFFIX,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,stitch.withgoogle.com

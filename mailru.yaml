@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,appsmail.ru
+  - DOMAIN-SUFFIX,attachmail.ru
   - DOMAIN-SUFFIX,attachmy.com
   - DOMAIN-SUFFIX,bizmrg.com
   - DOMAIN-SUFFIX,cdnmail.ru
@@ -170,6 +171,7 @@ payload:
   - DOMAIN-SUFFIX,inbox.ru
   - DOMAIN-SUFFIX,internet.ru
   - DOMAIN-SUFFIX,list.ru
+  - DOMAIN-SUFFIX,xmail.ru
   - DOMAIN-SUFFIX,cups.online
   - DOMAIN-SUFFIX,gamescup.ru
   - DOMAIN-SUFFIX,mlbootcamp.ru
@@ -270,6 +272,7 @@ payload:
   - DOMAIN-SUFFIX,telega.info
   - DOMAIN-SUFFIX,telega.me
   - DOMAIN-SUFFIX,tusco.ru
+  - DOMAIN-SUFFIX,uma.media
   - DOMAIN-SUFFIX,viqeo.tv
   - DOMAIN-SUFFIX,viqeotv.com
   - DOMAIN-SUFFIX,vkplay-arena.ru
