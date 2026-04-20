@@ -1784,6 +1784,7 @@ payload:
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
@@ -1792,6 +1793,7 @@ payload:
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
   - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,4everland.io
@@ -7154,6 +7156,7 @@ payload:
   - DOMAIN-SUFFIX,unrealengine.com
   - DOMAIN-SUFFIX,unrealtournament.com
   - DOMAIN-SUFFIX,egdownload.fastly-edge.com
+  - DOMAIN-SUFFIX,fortnite-vod.akamaized.net
   - DOMAIN-SUFFIX,tarkov.com
   - DOMAIN-SUFFIX,eft-store.com
   - DOMAIN-SUFFIX,escapefromtarkov.com

@@ -7,8 +7,10 @@ payload:
   - DOMAIN,sentry.x5.ru
   - DOMAIN-SUFFIX,av.ru
   - DOMAIN-SUFFIX,auchan.ru
+  - DOMAIN-SUFFIX,audiohead.ru
   - DOMAIN-SUFFIX,bristol.ru
   - DOMAIN-SUFFIX,detmir.ru
+  - DOMAIN-SUFFIX,coolera.ru
   - DOMAIN-SUFFIX,dixy.ru
   - DOMAIN-SUFFIX,dodois.com
   - DOMAIN-SUFFIX,dodois.io
@@ -16,9 +18,11 @@ payload:
   - DOMAIN-SUFFIX,dodopizza.ru
   - DOMAIN-SUFFIX,dodostatic.net
   - DOMAIN-SUFFIX,dostaevsky.ru
+  - DOMAIN-SUFFIX,doctorhead.ru
   - DOMAIN-SUFFIX,evrasia.rest
   - DOMAIN-SUFFIX,vkusnoitochka.ru
   - DOMAIN-SUFFIX,fix-price.com
+  - DOMAIN-SUFFIX,lamoda.ru
   - DOMAIN-SUFFIX,lenta.com
   - DOMAIN-SUFFIX,lenta.tech
   - DOMAIN-SUFFIX,kazanexpress.ru
@@ -28,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,acmvid.com
   - DOMAIN-SUFFIX,mvideo.ru
   - DOMAIN-SUFFIX,metro-cc.ru
+  - DOMAIN-SUFFIX,notik.ru
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,oskelly.ru
   - DOMAIN-SUFFIX,5ka.ru
@@ -63,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,x5static.net
   - DOMAIN-SUFFIX,x5w.ru
   - DOMAIN-SUFFIX,krasnoeibeloe.ru
+  - DOMAIN-SUFFIX,regard.ru
   - DOMAIN-SUFFIX,rostics.ru
   - DOMAIN-SUFFIX,uni.rest
   - DOMAIN-SUFFIX,unirest.tech

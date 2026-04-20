@@ -552,6 +552,10 @@ payload:
   - DOMAIN-SUFFIX,surgut.ru
   - DOMAIN-SUFFIX,yamal.ru
   - DOMAIN-SUFFIX,zdrav10.ru
+  - DOMAIN-SUFFIX,russiatoday.com
+  - DOMAIN-SUFFIX,rteam.tech
+  - DOMAIN-SUFFIX,shop-rt.com
+  - DOMAIN-SUFFIX,swentr.site
   - DOMAIN-SUFFIX,klinikabudzdorov.ru
   - DOMAIN-SUFFIX,emias.ru
   - DOMAIN-SUFFIX,emias.info
@@ -566,8 +570,10 @@ payload:
   - DOMAIN-SUFFIX,vipmed.ru
   - DOMAIN-SUFFIX,av.ru
   - DOMAIN-SUFFIX,auchan.ru
+  - DOMAIN-SUFFIX,audiohead.ru
   - DOMAIN-SUFFIX,bristol.ru
   - DOMAIN-SUFFIX,detmir.ru
+  - DOMAIN-SUFFIX,coolera.ru
   - DOMAIN-SUFFIX,dixy.ru
   - DOMAIN-SUFFIX,dodois.com
   - DOMAIN-SUFFIX,dodois.io
@@ -575,9 +581,11 @@ payload:
   - DOMAIN-SUFFIX,dodopizza.ru
   - DOMAIN-SUFFIX,dodostatic.net
   - DOMAIN-SUFFIX,dostaevsky.ru
+  - DOMAIN-SUFFIX,doctorhead.ru
   - DOMAIN-SUFFIX,evrasia.rest
   - DOMAIN-SUFFIX,vkusnoitochka.ru
   - DOMAIN-SUFFIX,fix-price.com
+  - DOMAIN-SUFFIX,lamoda.ru
   - DOMAIN-SUFFIX,lenta.com
   - DOMAIN-SUFFIX,lenta.tech
   - DOMAIN-SUFFIX,kazanexpress.ru
@@ -587,6 +595,7 @@ payload:
   - DOMAIN-SUFFIX,acmvid.com
   - DOMAIN-SUFFIX,mvideo.ru
   - DOMAIN-SUFFIX,metro-cc.ru
+  - DOMAIN-SUFFIX,notik.ru
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,oskelly.ru
   - DOMAIN-SUFFIX,5ka.ru
@@ -622,6 +631,7 @@ payload:
   - DOMAIN-SUFFIX,x5static.net
   - DOMAIN-SUFFIX,x5w.ru
   - DOMAIN-SUFFIX,krasnoeibeloe.ru
+  - DOMAIN-SUFFIX,regard.ru
   - DOMAIN-SUFFIX,rostics.ru
   - DOMAIN-SUFFIX,uni.rest
   - DOMAIN-SUFFIX,unirest.tech
@@ -1355,10 +1365,6 @@ payload:
   - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,netmonet.co
   - DOMAIN-SUFFIX,tips.tips
-  - DOMAIN-SUFFIX,russiatoday.com
-  - DOMAIN-SUFFIX,rteam.tech
-  - DOMAIN-SUFFIX,shop-rt.com
-  - DOMAIN-SUFFIX,swentr.site
   - DOMAIN-SUFFIX,beeline.ru
   - DOMAIN-SUFFIX,dom.ru
   - DOMAIN-SUFFIX,mts.ru
@@ -1390,19 +1396,6 @@ payload:
   - DOMAIN-SUFFIX,srv-hub.org
   - DOMAIN-SUFFIX,t1.cloud
   - DOMAIN-SUFFIX,taxsee.com
-  - DOMAIN-SUFFIX,3ebra.net
-  - DOMAIN-SUFFIX,envybox.io
-  - DOMAIN-SUFFIX,flomni.com
-  - DOMAIN-SUFFIX,flocktory.com
-  - DOMAIN-SUFFIX,gismeteo.net
-  - DOMAIN-SUFFIX,gismeteo.st
-  - DOMAIN-SUFFIX,group-ib.com
-  - DOMAIN-SUFFIX,kinescopecdn.net
-  - DOMAIN-SUFFIX,ognihome.com
-  - DOMAIN-SUFFIX,saas-support.com
-  - DOMAIN-SUFFIX,targetads.io
-  - DOMAIN-SUFFIX,whitesaas.com
-  - DOMAIN-SUFFIX,yourgood.app
   - DOMAIN-SUFFIX,comss.club
   - DOMAIN-SUFFIX,comss.info
   - DOMAIN-SUFFIX,comss.me
@@ -1419,6 +1412,20 @@ payload:
   - DOMAIN-SUFFIX,genotek.am
   - DOMAIN-SUFFIX,genotek.health
   - DOMAIN-SUFFIX,genotek.ru
+  - DOMAIN-SUFFIX,gismeteo.net
+  - DOMAIN-SUFFIX,gismeteo.ru
+  - DOMAIN-SUFFIX,gismeteo.st
   - DOMAIN-SUFFIX,ideco.dev
   - DOMAIN-SUFFIX,ideco.ru
   - DOMAIN-SUFFIX,idecosoftware.ru
+  - DOMAIN-SUFFIX,3ebra.net
+  - DOMAIN-SUFFIX,envybox.io
+  - DOMAIN-SUFFIX,flomni.com
+  - DOMAIN-SUFFIX,flocktory.com
+  - DOMAIN-SUFFIX,group-ib.com
+  - DOMAIN-SUFFIX,kinescopecdn.net
+  - DOMAIN-SUFFIX,ognihome.com
+  - DOMAIN-SUFFIX,saas-support.com
+  - DOMAIN-SUFFIX,targetads.io
+  - DOMAIN-SUFFIX,whitesaas.com
+  - DOMAIN-SUFFIX,yourgood.app
