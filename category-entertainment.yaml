@@ -1567,6 +1567,7 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchcon.com
   - DOMAIN-SUFFIX,twitchsvc.net
   - DOMAIN-SUFFIX,vhx.tv
   - DOMAIN-SUFFIX,vhxqa1.com
