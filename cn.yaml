@@ -3088,6 +3088,8 @@ payload:
   - DOMAIN-SUFFIX,zhan.com
   - DOMAIN-SUFFIX,zhihuishu.com
   - DOMAIN-SUFFIX,zjzs.net
+  - DOMAIN-SUFFIX,banxiaoer.com
+  - DOMAIN-SUFFIX,banxiaoer.net
   - DOMAIN-SUFFIX,leetcode.cn
   - DOMAIN-SUFFIX,leetcode-cn.com
   - DOMAIN-SUFFIX,lingkou.xyz
@@ -3230,18 +3232,36 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
+  - DOMAIN-SUFFIX,coze-dns-01.com
   - DOMAIN-SUFFIX,coze.cn
+  - DOMAIN-SUFFIX,coze.email
   - DOMAIN-SUFFIX,coze.site
+  - DOMAIN-SUFFIX,cozeapp.net
   - DOMAIN-SUFFIX,cozebaas.cn
+  - DOMAIN-SUFFIX,cozebuild.com
+  - DOMAIN-SUFFIX,cozecdn.com
+  - DOMAIN-SUFFIX,cozedeploy.com
   - DOMAIN-SUFFIX,cozefn.cn
   - DOMAIN-SUFFIX,cozeide.cn
+  - DOMAIN-SUFFIX,cozesdk.com
+  - DOMAIN-SUFFIX,cozetest.cn
+  - DOMAIN-SUFFIX,cozetest2.cn
+  - DOMAIN-SUFFIX,cozetest3.cn
+  - DOMAIN-SUFFIX,dbbuilding.fun
+  - DOMAIN-SUFFIX,building.fun
+  - DOMAIN-SUFFIX,instreet.com
+  - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,maoxiangai.com
   - DOMAIN-SUFFIX,myparallelstory.com
+  - DOMAIN-SUFFIX,oceancloudapi.com
+  - DOMAIN-SUFFIX,obriccloud.com
+  - DOMAIN-SUFFIX,obricclouddw.com
   - DOMAIN-SUFFIX,picpic-ai.cn
   - DOMAIN-SUFFIX,pixeldance.com
+  - DOMAIN-SUFFIX,api-building.fun
   - DOMAIN-SUFFIX,doudou.com
   - DOMAIN-SUFFIX,marscode.cn
   - DOMAIN-SUFFIX,marscode.com.cn
@@ -3300,6 +3320,7 @@ payload:
   - DOMAIN-SUFFIX,duiopen.com
   - DOMAIN-SUFFIX,clawhub-mirror.com
   - DOMAIN-SUFFIX,skillhub.cn
+  - DOMAIN-SUFFIX,safeskill.cn
   - DOMAIN-SUFFIX,zhiexa.com
   - DOMAIN-SUFFIX,asklink.com
   - DOMAIN-SUFFIX,easytier.cn
@@ -3659,7 +3680,6 @@ payload:
   - DOMAIN-SUFFIX,zhangyuecdn.com
   - DOMAIN-SUFFIX,moseeker.com
   - DOMAIN-SUFFIX,ntalker.com
-  - DOMAIN-SUFFIX,onedns.net
   - DOMAIN-SUFFIX,sencdn.com
   - DOMAIN-SUFFIX,seniverse.com
   - DOMAIN-SUFFIX,shixiseng.com
@@ -4239,18 +4259,36 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
+  - DOMAIN-SUFFIX,coze-dns-01.com
   - DOMAIN-SUFFIX,coze.cn
+  - DOMAIN-SUFFIX,coze.email
   - DOMAIN-SUFFIX,coze.site
+  - DOMAIN-SUFFIX,cozeapp.net
   - DOMAIN-SUFFIX,cozebaas.cn
+  - DOMAIN-SUFFIX,cozebuild.com
+  - DOMAIN-SUFFIX,cozecdn.com
+  - DOMAIN-SUFFIX,cozedeploy.com
   - DOMAIN-SUFFIX,cozefn.cn
   - DOMAIN-SUFFIX,cozeide.cn
+  - DOMAIN-SUFFIX,cozesdk.com
+  - DOMAIN-SUFFIX,cozetest.cn
+  - DOMAIN-SUFFIX,cozetest2.cn
+  - DOMAIN-SUFFIX,cozetest3.cn
+  - DOMAIN-SUFFIX,dbbuilding.fun
+  - DOMAIN-SUFFIX,building.fun
+  - DOMAIN-SUFFIX,instreet.com
+  - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,maoxiangai.com
   - DOMAIN-SUFFIX,myparallelstory.com
+  - DOMAIN-SUFFIX,oceancloudapi.com
+  - DOMAIN-SUFFIX,obriccloud.com
+  - DOMAIN-SUFFIX,obricclouddw.com
   - DOMAIN-SUFFIX,picpic-ai.cn
   - DOMAIN-SUFFIX,pixeldance.com
+  - DOMAIN-SUFFIX,api-building.fun
   - DOMAIN-SUFFIX,activity-wbsj.com
   - DOMAIN-SUFFIX,aihst8.com
   - DOMAIN-SUFFIX,amemv.cn
@@ -4432,7 +4470,6 @@ payload:
   - DOMAIN-SUFFIX,bytexopen.com
   - DOMAIN-SUFFIX,bytexservice.com
   - DOMAIN-SUFFIX,meegobeta.com
-  - DOMAIN-SUFFIX,oceancloudapi.com
   - DOMAIN-SUFFIX,okr.cn
   - DOMAIN-SUFFIX,okr.com
   - DOMAIN-SUFFIX,okr.com.cn
@@ -5612,6 +5649,13 @@ payload:
   - DOMAIN-SUFFIX,realmemobile.com
   - DOMAIN-SUFFIX,shopoppo.cn
   - DOMAIN-SUFFIX,shopoppo.com.cn
+  - DOMAIN-SUFFIX,95015.com
+  - DOMAIN-SUFFIX,ceati.org.cn
+  - DOMAIN-SUFFIX,datacon.org.cn
+  - DOMAIN-SUFFIX,qianxin.com
+  - DOMAIN-SUFFIX,qianxincdn.com
+  - DOMAIN-SUFFIX,seclab.online
+  - DOMAIN-SUFFIX,tianshucup.com
   - DOMAIN-SUFFIX,360-api.cn
   - DOMAIN-SUFFIX,360-g.cn
   - DOMAIN-SUFFIX,360-g.net
@@ -6472,6 +6516,10 @@ payload:
   - DOMAIN-SUFFIX,xsbapp.cn
   - DOMAIN-SUFFIX,juziwulian.com
   - DOMAIN-SUFFIX,kaadas.com
+  - DOMAIN-SUFFIX,onedns.net
+  - DOMAIN-SUFFIX,shellpub.com
+  - DOMAIN-SUFFIX,threatbook.cn
+  - DOMAIN-SUFFIX,threatbook.com
   - DOMAIN-SUFFIX,10099.com.cn
   - DOMAIN-SUFFIX,chn.cn
   - DOMAIN-SUFFIX,ahitv.com

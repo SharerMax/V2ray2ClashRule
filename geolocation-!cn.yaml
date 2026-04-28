@@ -932,6 +932,7 @@ payload:
   - DOMAIN,su.itunes.apple.com
   - DOMAIN,sync.itunes.apple.com
   - DOMAIN,tf-feedback.itunes.apple.com
+  - DOMAIN,universal-activity-service.itunes.apple.com
   - DOMAIN,upp.itunes.apple.com
   - DOMAIN,www.support.apple.com
   - DOMAIN,a1.mzstatic.com
@@ -24453,8 +24454,6 @@ payload:
   - DOMAIN-SUFFIX,wwwinstagram.com
   - DOMAIN-SUFFIX,graph.instagram.com
   - DOMAIN-SUFFIX,graph-fallback.instagram.com
-  - DOMAIN-SUFFIX,manus.im
-  - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,fbmessenger.com
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,messenger.com
