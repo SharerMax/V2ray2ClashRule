@@ -368,6 +368,7 @@ payload:
   - DOMAIN,roovza.launches.appsflyersdk.com
   - DOMAIN,roovza.skadsdk.appsflyersdk.com
   - DOMAIN,tmdb-image-prod.b-cdn.net
+  - DOMAIN,tmdb-web-image-prod.b-cdn.net
   - DOMAIN,d1g1f25tn8m2e6.cloudfront.net
   - DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
   - DOMAIN,d1mhjrowxxagfy.cloudfront.net
