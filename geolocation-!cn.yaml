@@ -5061,6 +5061,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns2.com
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,oklink.com
   - DOMAIN-SUFFIX,onekey-asset.com
   - DOMAIN-SUFFIX,onekey.so
@@ -17834,6 +17835,7 @@ payload:
   - DOMAIN-SUFFIX,ctfassets.net
   - DOMAIN-SUFFIX,cutt.ly
   - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
@@ -21906,6 +21908,7 @@ payload:
   - DOMAIN-SUFFIX,studiodell.com
   - DOMAIN-SUFFIX,vce.com
   - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io

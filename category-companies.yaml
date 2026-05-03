@@ -4220,6 +4220,7 @@ payload:
   - DOMAIN-SUFFIX,studiodell.com
   - DOMAIN-SUFFIX,vce.com
   - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-SUFFIX,digitalocean-ui.com
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
