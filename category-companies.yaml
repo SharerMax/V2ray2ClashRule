@@ -956,6 +956,7 @@ payload:
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,qualcomm.sc.omtrdc.net
+  - DOMAIN,sentry.iptv.rt.ru
   - DOMAIN,impala-media-production.s3.amazonaws.com
   - DOMAIN,cdn.js7k.com
   - DOMAIN,cdn.js7k.com
@@ -4243,6 +4244,27 @@ payload:
   - DOMAIN-SUFFIX,ads-api.duolingo.com
   - DOMAIN-SUFFIX,analytics.vpc.duolingo.com
   - DOMAIN-SUFFIX,metrics.duolingo.com
+  - DOMAIN-SUFFIX,bananacall.ru
+  - DOMAIN-SUFFIX,beesbfl.ru
+  - DOMAIN-SUFFIX,beescrm.ru
+  - DOMAIN-SUFFIX,bimsaas.ru
+  - DOMAIN-SUFFIX,callbackkiller.com
+  - DOMAIN-SUFFIX,cbkiller.com
+  - DOMAIN-SUFFIX,envybox.company
+  - DOMAIN-SUFFIX,envybox.family
+  - DOMAIN-SUFFIX,envybox.io
+  - DOMAIN-SUFFIX,envybox.kg
+  - DOMAIN-SUFFIX,envybox.su
+  - DOMAIN-SUFFIX,envycdp.com
+  - DOMAIN-SUFFIX,envycdp.ru
+  - DOMAIN-SUFFIX,envycrm.com
+  - DOMAIN-SUFFIX,envyday.ru
+  - DOMAIN-SUFFIX,killercb.ru
+  - DOMAIN-SUFFIX,myenvy.ru
+  - DOMAIN-SUFFIX,quizlink.ru
+  - DOMAIN-SUFFIX,saas-support.com
+  - DOMAIN-SUFFIX,whitesaas.com
+  - DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
   - DOMAIN-SUFFIX,clickedu.co.uk
   - DOMAIN-SUFFIX,deepfreeze.co.uk
   - DOMAIN-SUFFIX,deepfreeze.com
@@ -4260,6 +4282,15 @@ payload:
   - DOMAIN-SUFFIX,faronicslabs.com
   - DOMAIN-SUFFIX,faronicswise.co.uk
   - DOMAIN-SUFFIX,faronicswise.com
+  - DOMAIN-SUFFIX,genetic-technologies.am
+  - DOMAIN-SUFFIX,genotek.am
+  - DOMAIN-SUFFIX,genotek.es
+  - DOMAIN-SUFFIX,genotek.eu
+  - DOMAIN-SUFFIX,genotek.health
+  - DOMAIN-SUFFIX,genotek.ru
+  - DOMAIN-SUFFIX,eligens.cl
+  - DOMAIN-SUFFIX,eligens.com.br
+  - DOMAIN-SUFFIX,eligens.io
   - DOMAIN-SUFFIX,giffgaff.com
   - DOMAIN-SUFFIX,giffgaff.design
   - DOMAIN-SUFFIX,aorus.com
@@ -5325,6 +5356,36 @@ payload:
   - DOMAIN-SUFFIX,urchin.com
   - DOMAIN-SUFFIX,gvt1-cn.com
   - DOMAIN-SUFFIX,gvt2-cn.com
+  - DOMAIN-SUFFIX,antiphishing.nl
+  - DOMAIN-SUFFIX,antiphishing.ru
+  - DOMAIN-SUFFIX,cert-gib.com
+  - DOMAIN-SUFFIX,cert-gib.ru
+  - DOMAIN-SUFFIX,cybercrimecon.com
+  - DOMAIN-SUFFIX,gibdev.net
+  - DOMAIN-SUFFIX,g-ib.ae
+  - DOMAIN-SUFFIX,g-ib.ru
+  - DOMAIN-SUFFIX,g-ib.sg
+  - DOMAIN-SUFFIX,g-ib.us
+  - DOMAIN-SUFFIX,gib-global.com
+  - DOMAIN-SUFFIX,gib.sg
+  - DOMAIN-SUFFIX,gibtds.ru
+  - DOMAIN-SUFFIX,group-ib.ae
+  - DOMAIN-SUFFIX,group-ib.co.uk
+  - DOMAIN-SUFFIX,group-ib.com
+  - DOMAIN-SUFFIX,group-ib.de
+  - DOMAIN-SUFFIX,group-ib.eu
+  - DOMAIN-SUFFIX,group-ib.ru
+  - DOMAIN-SUFFIX,group-ib.sg
+  - DOMAIN-SUFFIX,group-ib.us
+  - DOMAIN-SUFFIX,groupib.ae
+  - DOMAIN-SUFFIX,groupib.sg
+  - DOMAIN-SUFFIX,groupib.us
+  - DOMAIN-SUFFIX,f6.dev
+  - DOMAIN-SUFFIX,f6.ru
+  - DOMAIN-SUFFIX,f6.security
+  - DOMAIN-SUFFIX,facct.email
+  - DOMAIN-SUFFIX,facct.ru
+  - DOMAIN-SUFFIX,future-cs.ru
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
   - DOMAIN-SUFFIX,hh.ru
@@ -5578,6 +5639,9 @@ payload:
   - DOMAIN-SUFFIX,interactivebrokers.com.sg
   - DOMAIN-SUFFIX,interactivebrokers.eu
   - DOMAIN-SUFFIX,interactivebrokers.ie
+  - DOMAIN-SUFFIX,ideco.dev
+  - DOMAIN-SUFFIX,ideco.ru
+  - DOMAIN-SUFFIX,idecosoftware.ru
   - DOMAIN-SUFFIX,inshot.cc
   - DOMAIN-SUFFIX,inshot.com
   - DOMAIN-SUFFIX,inshotapp.com
@@ -6257,6 +6321,18 @@ payload:
   - DOMAIN-SUFFIX,vkplay.live
   - DOMAIN-SUFFIX,youla.io
   - DOMAIN-SUFFIX,youla.ru
+  - DOMAIN-SUFFIX,inplat.ru
+  - DOMAIN-SUFFIX,megafon.com
+  - DOMAIN-SUFFIX,megafon.ru
+  - DOMAIN-SUFFIX,megafonpro.ru
+  - DOMAIN-SUFFIX,mgfn.ru
+  - DOMAIN-SUFFIX,report-megafon.ru
+  - DOMAIN-SUFFIX,scartel.ru
+  - DOMAIN-SUFFIX,yota.ru
+  - DOMAIN-SUFFIX,yotagamer.ru
+  - DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
   - DOMAIN-SUFFIX,acebooik.com
@@ -7523,6 +7599,18 @@ payload:
   - DOMAIN-SUFFIX,thunderbird.net
   - DOMAIN-SUFFIX,msi.cn
   - DOMAIN-SUFFIX,msi.com
+  - DOMAIN-SUFFIX,mts-ws.net
+  - DOMAIN-SUFFIX,mts.ru
+  - DOMAIN-SUFFIX,mymts.ru
+  - DOMAIN-SUFFIX,a.mts.ru
+  - DOMAIN-SUFFIX,obs.mts.ru
+  - DOMAIN-SUFFIX,dbo-dengi.online
+  - DOMAIN-SUFFIX,mtsbank.ru
+  - DOMAIN-SUFFIX,mtsdengi.ru
+  - DOMAIN-SUFFIX,tvoyodbo.online
+  - DOMAIN-SUFFIX,kion.ru
+  - DOMAIN-SUFFIX,mtsmedia.ru
+  - DOMAIN-SUFFIX,on-media.ru
   - DOMAIN-SUFFIX,musixmatch.com
   - DOMAIN-SUFFIX,mxmcdn.net
   - DOMAIN-SUFFIX,mxlogin.com
@@ -7768,6 +7856,14 @@ payload:
   - DOMAIN-SUFFIX,razerzone.jp
   - DOMAIN-SUFFIX,respawnbyrazer.com
   - DOMAIN-SUFFIX,rzr.to
+  - DOMAIN-SUFFIX,restream-media.net
+  - DOMAIN-SUFFIX,restream.ru
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,wink.am
+  - DOMAIN-SUFFIX,wink.ru
+  - DOMAIN-SUFFIX,azbukainterneta.ru
+  - DOMAIN-SUFFIX,rostelecom.ru
+  - DOMAIN-SUFFIX,rt.ru
   - DOMAIN-SUFFIX,appcloud.com
   - DOMAIN-SUFFIX,appexchange.com
   - DOMAIN-SUFFIX,attic.io
@@ -8026,6 +8122,9 @@ payload:
   - DOMAIN-SUFFIX,synology.me
   - DOMAIN-SUFFIX,symantec.com
   - DOMAIN-SUFFIX,symantecliveupdate.com
+  - DOMAIN-SUFFIX,b2c-digest.ru
+  - DOMAIN-SUFFIX,t2.ru
+  - DOMAIN-SUFFIX,tele2.ru
   - DOMAIN-SUFFIX,boringcompany.com
   - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,timeweb.com

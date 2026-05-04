@@ -123,6 +123,7 @@ payload:
   - DOMAIN,sentry.sberauto.com
   - DOMAIN,tracing-http.megamarket.tech
   - DOMAIN,visor.sberbank.ru
+  - DOMAIN,sentry.iptv.rt.ru
   - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,ms.dzen.ru
   - DOMAIN-SUFFIX,adv.vk.com
@@ -179,9 +180,8 @@ payload:
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,neon.click
   - DOMAIN-SUFFIX,sbermarketing.ru
+  - DOMAIN-SUFFIX,a.mts.ru
+  - DOMAIN-SUFFIX,obs.mts.ru
   - DOMAIN-SUFFIX,roistat.com
-  - DOMAIN-SUFFIX,envybox.io
   - DOMAIN-SUFFIX,flocktory.com
-  - DOMAIN-SUFFIX,saas-support.com
   - DOMAIN-SUFFIX,targetads.io
-  - DOMAIN-SUFFIX,whitesaas.com

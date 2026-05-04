@@ -232,6 +232,7 @@ payload:
   - DOMAIN,sberpro.vedomosti.ru
   - DOMAIN,edu.tinkoff.ru
   - DOMAIN,education.tbank.ru
+  - DOMAIN,sentry.iptv.rt.ru
   - DOMAIN-SUFFIX,ru.com
   - DOMAIN-SUFFIX,ru.net
   - DOMAIN-SUFFIX,moscow
@@ -411,6 +412,9 @@ payload:
   - DOMAIN-SUFFIX,okko.sport
   - DOMAIN-SUFFIX,okko.tv
   - DOMAIN-SUFFIX,restream-media.net
+  - DOMAIN-SUFFIX,restream.ru
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,wink.am
   - DOMAIN-SUFFIX,wink.ru
   - DOMAIN-SUFFIX,24h.tv
   - DOMAIN-SUFFIX,amediateka.ru
@@ -676,6 +680,82 @@ payload:
   - DOMAIN-SUFFIX,ad-cdek.ru
   - DOMAIN-SUFFIX,cdek.shopping
   - DOMAIN-SUFFIX,cdek.ru
+  - DOMAIN-SUFFIX,comss.club
+  - DOMAIN-SUFFIX,comss.info
+  - DOMAIN-SUFFIX,comss.me
+  - DOMAIN-SUFFIX,comss.net
+  - DOMAIN-SUFFIX,comss.news
+  - DOMAIN-SUFFIX,comss.one
+  - DOMAIN-SUFFIX,comss.online
+  - DOMAIN-SUFFIX,comss.org
+  - DOMAIN-SUFFIX,comss.ru
+  - DOMAIN-SUFFIX,bananacall.ru
+  - DOMAIN-SUFFIX,beesbfl.ru
+  - DOMAIN-SUFFIX,beescrm.ru
+  - DOMAIN-SUFFIX,bimsaas.ru
+  - DOMAIN-SUFFIX,callbackkiller.com
+  - DOMAIN-SUFFIX,cbkiller.com
+  - DOMAIN-SUFFIX,envybox.company
+  - DOMAIN-SUFFIX,envybox.family
+  - DOMAIN-SUFFIX,envybox.io
+  - DOMAIN-SUFFIX,envybox.kg
+  - DOMAIN-SUFFIX,envybox.su
+  - DOMAIN-SUFFIX,envycdp.com
+  - DOMAIN-SUFFIX,envycdp.ru
+  - DOMAIN-SUFFIX,envycrm.com
+  - DOMAIN-SUFFIX,envyday.ru
+  - DOMAIN-SUFFIX,killercb.ru
+  - DOMAIN-SUFFIX,myenvy.ru
+  - DOMAIN-SUFFIX,quizlink.ru
+  - DOMAIN-SUFFIX,saas-support.com
+  - DOMAIN-SUFFIX,whitesaas.com
+  - DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
+  - DOMAIN-SUFFIX,genetic-technologies.am
+  - DOMAIN-SUFFIX,genotek.am
+  - DOMAIN-SUFFIX,genotek.es
+  - DOMAIN-SUFFIX,genotek.eu
+  - DOMAIN-SUFFIX,genotek.health
+  - DOMAIN-SUFFIX,genotek.ru
+  - DOMAIN-SUFFIX,eligens.cl
+  - DOMAIN-SUFFIX,eligens.com.br
+  - DOMAIN-SUFFIX,eligens.io
+  - DOMAIN-SUFFIX,gismeteo.by
+  - DOMAIN-SUFFIX,gismeteo.com
+  - DOMAIN-SUFFIX,gismeteo.net
+  - DOMAIN-SUFFIX,gismeteo.ru
+  - DOMAIN-SUFFIX,gismeteo.st
+  - DOMAIN-SUFFIX,meteofor.com
+  - DOMAIN-SUFFIX,meteofor.st
+  - DOMAIN-SUFFIX,antiphishing.nl
+  - DOMAIN-SUFFIX,antiphishing.ru
+  - DOMAIN-SUFFIX,cert-gib.com
+  - DOMAIN-SUFFIX,cert-gib.ru
+  - DOMAIN-SUFFIX,cybercrimecon.com
+  - DOMAIN-SUFFIX,gibdev.net
+  - DOMAIN-SUFFIX,g-ib.ae
+  - DOMAIN-SUFFIX,g-ib.ru
+  - DOMAIN-SUFFIX,g-ib.sg
+  - DOMAIN-SUFFIX,g-ib.us
+  - DOMAIN-SUFFIX,gib-global.com
+  - DOMAIN-SUFFIX,gib.sg
+  - DOMAIN-SUFFIX,gibtds.ru
+  - DOMAIN-SUFFIX,group-ib.ae
+  - DOMAIN-SUFFIX,group-ib.co.uk
+  - DOMAIN-SUFFIX,group-ib.com
+  - DOMAIN-SUFFIX,group-ib.de
+  - DOMAIN-SUFFIX,group-ib.eu
+  - DOMAIN-SUFFIX,group-ib.ru
+  - DOMAIN-SUFFIX,group-ib.sg
+  - DOMAIN-SUFFIX,group-ib.us
+  - DOMAIN-SUFFIX,groupib.ae
+  - DOMAIN-SUFFIX,groupib.sg
+  - DOMAIN-SUFFIX,groupib.us
+  - DOMAIN-SUFFIX,f6.dev
+  - DOMAIN-SUFFIX,f6.ru
+  - DOMAIN-SUFFIX,f6.security
+  - DOMAIN-SUFFIX,facct.email
+  - DOMAIN-SUFFIX,facct.ru
+  - DOMAIN-SUFFIX,future-cs.ru
   - DOMAIN-SUFFIX,hh.by
   - DOMAIN-SUFFIX,hh.kz
   - DOMAIN-SUFFIX,hh.ru
@@ -684,6 +764,9 @@ payload:
   - DOMAIN-SUFFIX,setka.ru
   - DOMAIN-SUFFIX,talantix.ru
   - DOMAIN-SUFFIX,zarplata.ru
+  - DOMAIN-SUFFIX,ideco.dev
+  - DOMAIN-SUFFIX,ideco.ru
+  - DOMAIN-SUFFIX,idecosoftware.ru
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kaspersky.be
@@ -1365,14 +1448,6 @@ payload:
   - DOMAIN-SUFFIX,nspk.ru
   - DOMAIN-SUFFIX,netmonet.co
   - DOMAIN-SUFFIX,tips.tips
-  - DOMAIN-SUFFIX,beeline.ru
-  - DOMAIN-SUFFIX,dom.ru
-  - DOMAIN-SUFFIX,mts.ru
-  - DOMAIN-SUFFIX,mymts.ru
-  - DOMAIN-SUFFIX,rostelecom.ru
-  - DOMAIN-SUFFIX,rt.ru
-  - DOMAIN-SUFFIX,t2.ru
-  - DOMAIN-SUFFIX,tele2.ru
   - DOMAIN-SUFFIX,inplat.ru
   - DOMAIN-SUFFIX,megafon.com
   - DOMAIN-SUFFIX,megafon.ru
@@ -1385,6 +1460,31 @@ payload:
   - DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
   - DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
   - DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
+  - DOMAIN-SUFFIX,mts-ws.net
+  - DOMAIN-SUFFIX,mts.ru
+  - DOMAIN-SUFFIX,mymts.ru
+  - DOMAIN-SUFFIX,a.mts.ru
+  - DOMAIN-SUFFIX,obs.mts.ru
+  - DOMAIN-SUFFIX,dbo-dengi.online
+  - DOMAIN-SUFFIX,mtsbank.ru
+  - DOMAIN-SUFFIX,mtsdengi.ru
+  - DOMAIN-SUFFIX,tvoyodbo.online
+  - DOMAIN-SUFFIX,kion.ru
+  - DOMAIN-SUFFIX,mtsmedia.ru
+  - DOMAIN-SUFFIX,on-media.ru
+  - DOMAIN-SUFFIX,restream-media.net
+  - DOMAIN-SUFFIX,restream.ru
+  - DOMAIN-SUFFIX,more.tv
+  - DOMAIN-SUFFIX,wink.am
+  - DOMAIN-SUFFIX,wink.ru
+  - DOMAIN-SUFFIX,azbukainterneta.ru
+  - DOMAIN-SUFFIX,rostelecom.ru
+  - DOMAIN-SUFFIX,rt.ru
+  - DOMAIN-SUFFIX,b2c-digest.ru
+  - DOMAIN-SUFFIX,t2.ru
+  - DOMAIN-SUFFIX,tele2.ru
+  - DOMAIN-SUFFIX,beeline.ru
+  - DOMAIN-SUFFIX,dom.ru
   - DOMAIN-SUFFIX,apptrackpets.com
   - DOMAIN-SUFFIX,gazfond-pn.ru
   - DOMAIN-SUFFIX,litres.ru
@@ -1396,36 +1496,10 @@ payload:
   - DOMAIN-SUFFIX,srv-hub.org
   - DOMAIN-SUFFIX,t1.cloud
   - DOMAIN-SUFFIX,taxsee.com
-  - DOMAIN-SUFFIX,comss.club
-  - DOMAIN-SUFFIX,comss.info
-  - DOMAIN-SUFFIX,comss.me
-  - DOMAIN-SUFFIX,comss.net
-  - DOMAIN-SUFFIX,comss.news
-  - DOMAIN-SUFFIX,comss.one
-  - DOMAIN-SUFFIX,comss.online
-  - DOMAIN-SUFFIX,comss.org
-  - DOMAIN-SUFFIX,comss.ru
-  - DOMAIN-SUFFIX,eligens.cl
-  - DOMAIN-SUFFIX,eligens.com.br
-  - DOMAIN-SUFFIX,eligens.io
-  - DOMAIN-SUFFIX,genetic-technologies.am
-  - DOMAIN-SUFFIX,genotek.am
-  - DOMAIN-SUFFIX,genotek.health
-  - DOMAIN-SUFFIX,genotek.ru
-  - DOMAIN-SUFFIX,gismeteo.net
-  - DOMAIN-SUFFIX,gismeteo.ru
-  - DOMAIN-SUFFIX,gismeteo.st
-  - DOMAIN-SUFFIX,ideco.dev
-  - DOMAIN-SUFFIX,ideco.ru
-  - DOMAIN-SUFFIX,idecosoftware.ru
   - DOMAIN-SUFFIX,3ebra.net
-  - DOMAIN-SUFFIX,envybox.io
   - DOMAIN-SUFFIX,flomni.com
   - DOMAIN-SUFFIX,flocktory.com
-  - DOMAIN-SUFFIX,group-ib.com
   - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,ognihome.com
-  - DOMAIN-SUFFIX,saas-support.com
   - DOMAIN-SUFFIX,targetads.io
-  - DOMAIN-SUFFIX,whitesaas.com
   - DOMAIN-SUFFIX,yourgood.app

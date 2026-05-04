@@ -123,6 +123,7 @@ payload:
   - DOMAIN,api.mindbox.ru
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,sentry.iptv.rt.ru
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,ads.yandex.com
   - DOMAIN,ads.yango.com
@@ -287,6 +288,8 @@ payload:
   - DOMAIN-SUFFIX,e.mindbox.ru
   - DOMAIN-SUFFIX,g.mindbox.ru
   - DOMAIN-SUFFIX,s.mindbox.ru
+  - DOMAIN-SUFFIX,a.mts.ru
+  - DOMAIN-SUFFIX,obs.mts.ru
   - DOMAIN-SUFFIX,samsungads.com
   - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,ads.yahoo.com
