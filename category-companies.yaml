@@ -878,8 +878,38 @@ payload:
   - DOMAIN,location.microsoft.com
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,emoi-cncdn.bing.com
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,copilotprodattachments.blob.core.windows.net
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,github-cloud.s3.amazonaws.com
+  - DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+  - DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+  - DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+  - DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  - DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+  - DOMAIN,productionresultssa0.blob.core.windows.net
+  - DOMAIN,productionresultssa1.blob.core.windows.net
+  - DOMAIN,productionresultssa2.blob.core.windows.net
+  - DOMAIN,productionresultssa3.blob.core.windows.net
+  - DOMAIN,productionresultssa4.blob.core.windows.net
+  - DOMAIN,productionresultssa5.blob.core.windows.net
+  - DOMAIN,productionresultssa6.blob.core.windows.net
+  - DOMAIN,productionresultssa7.blob.core.windows.net
+  - DOMAIN,productionresultssa8.blob.core.windows.net
+  - DOMAIN,productionresultssa9.blob.core.windows.net
+  - DOMAIN,productionresultssa10.blob.core.windows.net
+  - DOMAIN,productionresultssa11.blob.core.windows.net
+  - DOMAIN,productionresultssa12.blob.core.windows.net
+  - DOMAIN,productionresultssa13.blob.core.windows.net
+  - DOMAIN,productionresultssa14.blob.core.windows.net
+  - DOMAIN,productionresultssa15.blob.core.windows.net
+  - DOMAIN,productionresultssa16.blob.core.windows.net
+  - DOMAIN,productionresultssa17.blob.core.windows.net
+  - DOMAIN,productionresultssa18.blob.core.windows.net
+  - DOMAIN,productionresultssa19.blob.core.windows.net
   - DOMAIN,az764295.vo.msecnd.net
   - DOMAIN,bingsettingssearch.trafficmanager.net
   - DOMAIN,default.exp-tas.com
@@ -4225,6 +4255,7 @@ payload:
   - DOMAIN-SUFFIX,digitaloceanspaces.com
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
+  - DOMAIN-SUFFIX,ondigitalocean.com
   - DOMAIN-SUFFIX,dmit.io
   - DOMAIN-SUFFIX,dmit.sh
   - DOMAIN-SUFFIX,drweb.by
@@ -7090,9 +7121,7 @@ payload:
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
-  - DOMAIN-SUFFIX,blob.core.windows.net
   - DOMAIN-SUFFIX,collector.github.com
-  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,adaptivecards.io
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,apisof.net
@@ -8748,5 +8777,4 @@ payload:
   - DOMAIN-REGEX,.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
-  - DOMAIN-REGEX,^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$

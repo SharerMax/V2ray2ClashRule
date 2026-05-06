@@ -60,6 +60,8 @@ payload:
   - DOMAIN,top-staging.mail.ru
   - DOMAIN,whiteline.mail.ru
   - DOMAIN,xray.mail.ru
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,api-js.mindbox.ru
   - DOMAIN,api-ru.mindbox.cloud
   - DOMAIN,api-staging.mindbox.ru
@@ -179,7 +181,6 @@ payload:
   - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,bingads.com
   - DOMAIN-SUFFIX,collector.github.com
-  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,clarity.ms

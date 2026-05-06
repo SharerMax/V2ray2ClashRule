@@ -2,6 +2,11 @@
 # type: classic
 payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,copilotprodattachments.blob.core.windows.net
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -119,6 +124,7 @@ payload:
   - DOMAIN-SUFFIX,clipdrop.co
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,agentclientprotocol.com
+  - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -141,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
   - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,plannotator.ai
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

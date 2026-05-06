@@ -82,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,ipfind.io
   - DOMAIN-SUFFIX,ipfinder.io
   - DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ipify.cn
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,iplark.com
@@ -154,5 +155,7 @@ payload:
   - DOMAIN-SUFFIX,ip.tyk.nu
   - DOMAIN-SUFFIX,ipgeo.vercel.app
   - DOMAIN-SUFFIX,ipv4-internet.yandex.net
+  - DOMAIN-SUFFIX,ipv4.internet.yandex.net
   - DOMAIN-SUFFIX,ipv6-internet.yandex.net
+  - DOMAIN-SUFFIX,ipv6.internet.yandex.net
   - DOMAIN-SUFFIX,whois.pconline.com.cn

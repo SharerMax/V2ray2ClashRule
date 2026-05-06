@@ -122,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,change.org
   - DOMAIN-SUFFIX,globalsecurity.org
   - DOMAIN-SUFFIX,iana.org
+  - DOMAIN-SUFFIX,iccf.com
   - DOMAIN-SUFFIX,ietf.org
   - DOMAIN-SUFFIX,itu.int
   - DOMAIN-SUFFIX,opte.org

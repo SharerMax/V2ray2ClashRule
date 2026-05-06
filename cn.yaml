@@ -10,6 +10,8 @@ payload:
   - DOMAIN,p7-juejin.byteimg.com
   - DOMAIN,p8-juejin.byteimg.com
   - DOMAIN,p9-juejin.byteimg.com
+  - DOMAIN,end-api.shallow.ink
+  - DOMAIN,end.shallow.ink
   - DOMAIN,apilog-web.acfun.cn
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,p3-novel.byteimg.com
@@ -2822,6 +2824,7 @@ payload:
   - DOMAIN-SUFFIX,dmallcdn.com
   - DOMAIN-SUFFIX,geilicdn.com
   - DOMAIN-SUFFIX,weidian.com
+  - DOMAIN-SUFFIX,huotan.net
   - DOMAIN-SUFFIX,jmstatic.com
   - DOMAIN-SUFFIX,jumei.com
   - DOMAIN-SUFFIX,kongfz.com
@@ -7630,12 +7633,9 @@ payload:
   - DOMAIN-SUFFIX,zuowenwang.net
   - DOMAIN-SUFFIX,zysou.com
   - DOMAIN-SUFFIX,zztfly.com
-  - DOMAIN-SUFFIX,fm3838.com
-  - DOMAIN-SUFFIX,larsonlimited.com
+  - DOMAIN-SUFFIX,azz.net
   - DOMAIN-SUFFIX,runsheng.com
   - DOMAIN-SUFFIX,vzuu.com
-  - DOMAIN-SUFFIX,zoom3g.com
-  - DOMAIN-SUFFIX,zoomyou.cn
   - DOMAIN-SUFFIX,kujiale.com
   - DOMAIN-SUFFIX,jsw118.com
   - DOMAIN-SUFFIX,sxcxldjy.com
