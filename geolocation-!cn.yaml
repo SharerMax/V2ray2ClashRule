@@ -9335,7 +9335,15 @@ payload:
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,insideok.ru
   - DOMAIN-SUFFIX,odkl.ru
+  - DOMAIN-SUFFIX,odnoklasniki.by
+  - DOMAIN-SUFFIX,odnoklasniki.ua
+  - DOMAIN-SUFFIX,odnoklassniki.am
+  - DOMAIN-SUFFIX,odnoklassniki.by
+  - DOMAIN-SUFFIX,odnoklassniki.co.ee
+  - DOMAIN-SUFFIX,odnoklassniki.eu
+  - DOMAIN-SUFFIX,odnoklassniki.lv
   - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,odnoklassniki.tj
   - DOMAIN-SUFFIX,ok.me
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okl.lt
@@ -23876,7 +23884,15 @@ payload:
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,insideok.ru
   - DOMAIN-SUFFIX,odkl.ru
+  - DOMAIN-SUFFIX,odnoklasniki.by
+  - DOMAIN-SUFFIX,odnoklasniki.ua
+  - DOMAIN-SUFFIX,odnoklassniki.am
+  - DOMAIN-SUFFIX,odnoklassniki.by
+  - DOMAIN-SUFFIX,odnoklassniki.co.ee
+  - DOMAIN-SUFFIX,odnoklassniki.eu
+  - DOMAIN-SUFFIX,odnoklassniki.lv
   - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,odnoklassniki.tj
   - DOMAIN-SUFFIX,ok.me
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okl.lt
@@ -23956,6 +23972,10 @@ payload:
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+  - DOMAIN-SUFFIX,justveryok.com
+  - DOMAIN-SUFFIX,keyboardmen.com
+  - DOMAIN-SUFFIX,rabbitcounter.com
+  - DOMAIN-SUFFIX,sayeasy.eu
   - DOMAIN-SUFFIX,ad.mail.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
   - DOMAIN-SUFFIX,adsadvisor.io
@@ -26694,6 +26714,7 @@ payload:
   - DOMAIN-SUFFIX,mcdonalds.com.au
   - DOMAIN-SUFFIX,4008-517-517.cn
   - DOMAIN-SUFFIX,mcd.cn
+  - DOMAIN-SUFFIX,mcdchina.net
   - DOMAIN-SUFFIX,mcdonalds.com.cn
   - DOMAIN-SUFFIX,mcdonalds.hk
   - DOMAIN-SUFFIX,mcdonalds.com.hk

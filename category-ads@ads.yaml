@@ -240,6 +240,10 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
   - DOMAIN-SUFFIX,shoppingads.cn
+  - DOMAIN-SUFFIX,logger.qmai.cn
+  - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+  - DOMAIN-SUFFIX,trackingprd.hwwt8.com
+  - DOMAIN-SUFFIX,trackserver.shuxinyc.com
   - DOMAIN-SUFFIX,ad.cctv.com
   - DOMAIN-SUFFIX,ad.games.dmm.com
   - DOMAIN-SUFFIX,bluekai.com
