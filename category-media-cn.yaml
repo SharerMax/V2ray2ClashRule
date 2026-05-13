@@ -180,6 +180,9 @@ payload:
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,chinaaet.com
+  - DOMAIN-SUFFIX,chinabyte.com
+  - DOMAIN-SUFFIX,tianjimedia.com
+  - DOMAIN-SUFFIX,yesky.com
   - DOMAIN-SUFFIX,cnfol.com
   - DOMAIN-SUFFIX,cnfolimg.com
   - DOMAIN-SUFFIX,cnr.cn
@@ -273,8 +276,10 @@ payload:
   - DOMAIN-SUFFIX,pchouse.com.cn
   - DOMAIN-SUFFIX,pconline.com.cn
   - DOMAIN-SUFFIX,pcpop.com
+  - DOMAIN-SUFFIX,pdnews.cn
   - DOMAIN-SUFFIX,people.cn
   - DOMAIN-SUFFIX,people.com.cn
+  - DOMAIN-SUFFIX,peopleapp.com
   - DOMAIN-SUFFIX,pingwest.com
   - DOMAIN-SUFFIX,qbitai.com
   - DOMAIN-SUFFIX,qiluyidian.net

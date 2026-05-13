@@ -3302,22 +3302,34 @@ payload:
   - DOMAIN-SUFFIX,alfadirect.ru
   - DOMAIN-SUFFIX,myapelsin.ru
   - DOMAIN-SUFFIX,alfabank.oavdo.amc
+  - DOMAIN-SUFFIX,bbr.ru
   - DOMAIN-SUFFIX,bcs.ru
   - DOMAIN-SUFFIX,bcs-bank.ru
   - DOMAIN-SUFFIX,broker.ru
+  - DOMAIN-SUFFIX,dbmoscow.ru
+  - DOMAIN-SUFFIX,deutsche-bank.ru
+  - DOMAIN-SUFFIX,deutschebank.ru
+  - DOMAIN-SUFFIX,domrfbank.ru
+  - DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
   - DOMAIN-SUFFIX,gazprombank.com
   - DOMAIN-SUFFIX,gazprombank.investments
   - DOMAIN-SUFFIX,gazprombank.ru
   - DOMAIN-SUFFIX,gid.ru
   - DOMAIN-SUFFIX,gpb.ru
+  - DOMAIN-SUFFIX,mhcb.ru
+  - DOMAIN-SUFFIX,mhcbr.ru
   - DOMAIN-SUFFIX,mkb.ru
   - DOMAIN-SUFFIX,dbo-dengi.online
+  - DOMAIN-SUFFIX,mtsbank.ru
   - DOMAIN-SUFFIX,mtsdengi.ru
+  - DOMAIN-SUFFIX,otpbank.ru
   - DOMAIN-SUFFIX,payment.ru
   - DOMAIN-SUFFIX,psb-ocenka.ru
   - DOMAIN-SUFFIX,psb.ru
   - DOMAIN-SUFFIX,psbank.ru
   - DOMAIN-SUFFIX,abr.ru
+  - DOMAIN-SUFFIX,raiffeisen-media.ru
+  - DOMAIN-SUFFIX,raiffeisen.ru
   - DOMAIN-SUFFIX,rshb.ru
   - DOMAIN-SUFFIX,2gis.ae
   - DOMAIN-SUFFIX,2gis.am
@@ -3410,6 +3422,7 @@ payload:
   - DOMAIN-SUFFIX,sbertech.ru
   - DOMAIN-SUFFIX,zvuk-b2b.com
   - DOMAIN-SUFFIX,zvuk.com
+  - DOMAIN-SUFFIX,sovcombank.ru
   - DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
   - DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
   - DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
@@ -3523,7 +3536,65 @@ payload:
   - DOMAIN-SUFFIX,tochka-tech.com
   - DOMAIN-SUFFIX,tochka.com
   - DOMAIN-SUFFIX,pochtabank.ru
+  - DOMAIN-SUFFIX,vtb-direct.com
+  - DOMAIN-SUFFIX,vtb-grants.fut.ru
   - DOMAIN-SUFFIX,vtb.ru
+  - DOMAIN-SUFFIX,vtbglobalperspectives.com
+  - DOMAIN-SUFFIX,credit-zenit.ru
+  - DOMAIN-SUFFIX,zenit-card.ru
+  - DOMAIN-SUFFIX,zenit.ru
+  - DOMAIN-SUFFIX,absolutbank.ru
+  - DOMAIN-SUFFIX,akbars.ru
+  - DOMAIN-SUFFIX,alefbank.com
+  - DOMAIN-SUFFIX,ankb.ru
+  - DOMAIN-SUFFIX,asia-pay.ru
+  - DOMAIN-SUFFIX,atb.su
+  - DOMAIN-SUFFIX,autokreditbank.ru
+  - DOMAIN-SUFFIX,avangard.ru
+  - DOMAIN-SUFFIX,aversbank.ru
+  - DOMAIN-SUFFIX,bank-arzamas.ru
+  - DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
+  - DOMAIN-SUFFIX,bank131.com
+  - DOMAIN-SUFFIX,bankermak.ru
+  - DOMAIN-SUFFIX,bfa.ru
+  - DOMAIN-SUFFIX,bm-bank.ru
+  - DOMAIN-SUFFIX,bspb.ru
+  - DOMAIN-SUFFIX,commerzbank.ru
+  - DOMAIN-SUFFIX,finambank.ru
+  - DOMAIN-SUFFIX,forshtadt.ru
+  - DOMAIN-SUFFIX,homecredit.ru
+  - DOMAIN-SUFFIX,ibamoscow.ru
+  - DOMAIN-SUFFIX,jpmorgan.ru
+  - DOMAIN-SUFFIX,korona.com
+  - DOMAIN-SUFFIX,kubankredit.ru
+  - DOMAIN-SUFFIX,mfk-bank.ru
+  - DOMAIN-SUFFIX,mvs-bank.ru
+  - DOMAIN-SUFFIX,noosferabank.ru
+  - DOMAIN-SUFFIX,primbank.ru
+  - DOMAIN-SUFFIX,prvbank.ru
+  - DOMAIN-SUFFIX,pskb.ru
+  - DOMAIN-SUFFIX,pvubank.com
+  - DOMAIN-SUFFIX,rencapbank.ru
+  - DOMAIN-SUFFIX,rencredit.ru
+  - DOMAIN-SUFFIX,rncoluminis.ru
+  - DOMAIN-SUFFIX,ru.ccb.com
+  - DOMAIN-SUFFIX,sbibankllc.ru
+  - DOMAIN-SUFFIX,seb.ru
+  - DOMAIN-SUFFIX,selkombank.ru
+  - DOMAIN-SUFFIX,sinara.ru
+  - DOMAIN-SUFFIX,slavbank.ru
+  - DOMAIN-SUFFIX,smbcr-bank.ru
+  - DOMAIN-SUFFIX,solid.ru
+  - DOMAIN-SUFFIX,ssb.msk.ru
+  - DOMAIN-SUFFIX,tagbank.ru
+  - DOMAIN-SUFFIX,tatsotsbank.ru
+  - DOMAIN-SUFFIX,tkbbank.ru
+  - DOMAIN-SUFFIX,ubs.com
+  - DOMAIN-SUFFIX,uralsib.ru
+  - DOMAIN-SUFFIX,vlb100.ru
+  - DOMAIN-SUFFIX,westernunion.ru
+  - DOMAIN-SUFFIX,yoobusiness.ru
+  - DOMAIN-SUFFIX,ziraatbank.ru
   - DOMAIN-SUFFIX,fibank.bg
   - DOMAIN-SUFFIX,meawallet.app
   - DOMAIN-SUFFIX,myfin.bg
@@ -4967,6 +5038,9 @@ payload:
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,nbabot.net
+  - DOMAIN-SUFFIX,nicegram.app
+  - DOMAIN-SUFFIX,nicegram.cloud
+  - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,pm.me
   - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,protonmail.ch
@@ -8016,13 +8090,19 @@ payload:
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,nijiyome.jp
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,fanfictionero.com
+  - DOMAIN-SUFFIX,fic.fan
+  - DOMAIN-SUFFIX,ficador.com
   - DOMAIN-SUFFIX,ficbook.net
+  - DOMAIN-SUFFIX,ficmania.com
+  - DOMAIN-SUFFIX,teinon.net
   - DOMAIN-SUFFIX,gimy.cc
   - DOMAIN-SUFFIX,gimy.co
   - DOMAIN-SUFFIX,gimy.to
   - DOMAIN-SUFFIX,gimy.tv
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,gr-assets.com
+  - DOMAIN-SUFFIX,hbo
   - DOMAIN-SUFFIX,beforeigners.com
   - DOMAIN-SUFFIX,brightline.tv
   - DOMAIN-SUFFIX,cinemax.com
@@ -23952,6 +24032,7 @@ payload:
   - DOMAIN-SUFFIX,koddobra.ru
   - DOMAIN-SUFFIX,lovina.app
   - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,mcs.st
   - DOMAIN-SUFFIX,mediumquality.ru
   - DOMAIN-SUFFIX,memealerts.com
   - DOMAIN-SUFFIX,movika.com
@@ -23964,6 +24045,7 @@ payload:
   - DOMAIN-SUFFIX,vk-records.ru
   - DOMAIN-SUFFIX,vk-stadium.ru
   - DOMAIN-SUFFIX,vk.company
+  - DOMAIN-SUFFIX,vk.kz
   - DOMAIN-SUFFIX,vk.team
   - DOMAIN-SUFFIX,vkclips.app
   - DOMAIN-SUFFIX,vkcs.cloud
@@ -23971,6 +24053,7 @@ payload:
   - DOMAIN-SUFFIX,vkgo.app
   - DOMAIN-SUFFIX,vklive.app
   - DOMAIN-SUFFIX,vkvideo.ru
+  - DOMAIN-SUFFIX,vkworkspace.kz
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
@@ -24117,6 +24200,8 @@ payload:
   - DOMAIN-SUFFIX,uma.media
   - DOMAIN-SUFFIX,viqeo.tv
   - DOMAIN-SUFFIX,viqeotv.com
+  - DOMAIN-SUFFIX,vkcloud-static.kz
+  - DOMAIN-SUFFIX,vkcloud.kz
   - DOMAIN-SUFFIX,vkplay-arena.ru
   - DOMAIN-SUFFIX,vkplay.ru
   - DOMAIN-SUFFIX,vkplay.live
@@ -25947,10 +26032,6 @@ payload:
   - DOMAIN-SUFFIX,uum.com.cn
   - DOMAIN-SUFFIX,uwn.com
   - DOMAIN-SUFFIX,wifiman.com
-  - DOMAIN-SUFFIX,scripts-for-ucoz.ru
-  - DOMAIN-SUFFIX,ucoz.ru
-  - DOMAIN-SUFFIX,ucozmedia.ru
-  - DOMAIN-SUFFIX,uguide.ru
   - DOMAIN-SUFFIX,ucoz.ae
   - DOMAIN-SUFFIX,ucoz.club
   - DOMAIN-SUFFIX,ucoz.co
@@ -25969,15 +26050,25 @@ payload:
   - DOMAIN-SUFFIX,ucoz.net
   - DOMAIN-SUFFIX,ucoz.org
   - DOMAIN-SUFFIX,ucoz.pl
+  - DOMAIN-SUFFIX,ucoz.ru
   - DOMAIN-SUFFIX,ucoz.site
   - DOMAIN-SUFFIX,ucoz.ua
+  - DOMAIN-SUFFIX,ukoz.ru
   - DOMAIN-SUFFIX,ucozmedia.com
+  - DOMAIN-SUFFIX,ucozmedia.ru
+  - DOMAIN-SUFFIX,uguide.ru
+  - DOMAIN-SUFFIX,uguide.su
   - DOMAIN-SUFFIX,ukit.ai
   - DOMAIN-SUFFIX,ukit.com
   - DOMAIN-SUFFIX,ukit.group
   - DOMAIN-SUFFIX,ukit.me
   - DOMAIN-SUFFIX,at.ua
+  - DOMAIN-SUFFIX,narod.ru
+  - DOMAIN-SUFFIX,scripts-for-ucoz.ru
+  - DOMAIN-SUFFIX,ucozmail.com
   - DOMAIN-SUFFIX,ucoztemplates.com
+  - DOMAIN-SUFFIX,usocial.pro
+  - DOMAIN-SUFFIX,uweb.ru
   - DOMAIN-SUFFIX,verisign.asia
   - DOMAIN-SUFFIX,verisign.biz
   - DOMAIN-SUFFIX,verisign.ch

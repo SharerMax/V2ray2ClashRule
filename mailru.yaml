@@ -122,6 +122,7 @@ payload:
   - DOMAIN-SUFFIX,koddobra.ru
   - DOMAIN-SUFFIX,lovina.app
   - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,mcs.st
   - DOMAIN-SUFFIX,mediumquality.ru
   - DOMAIN-SUFFIX,memealerts.com
   - DOMAIN-SUFFIX,movika.com
@@ -134,6 +135,7 @@ payload:
   - DOMAIN-SUFFIX,vk-records.ru
   - DOMAIN-SUFFIX,vk-stadium.ru
   - DOMAIN-SUFFIX,vk.company
+  - DOMAIN-SUFFIX,vk.kz
   - DOMAIN-SUFFIX,vk.team
   - DOMAIN-SUFFIX,vkclips.app
   - DOMAIN-SUFFIX,vkcs.cloud
@@ -141,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,vkgo.app
   - DOMAIN-SUFFIX,vklive.app
   - DOMAIN-SUFFIX,vkvideo.ru
+  - DOMAIN-SUFFIX,vkworkspace.kz
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
@@ -287,6 +290,8 @@ payload:
   - DOMAIN-SUFFIX,uma.media
   - DOMAIN-SUFFIX,viqeo.tv
   - DOMAIN-SUFFIX,viqeotv.com
+  - DOMAIN-SUFFIX,vkcloud-static.kz
+  - DOMAIN-SUFFIX,vkcloud.kz
   - DOMAIN-SUFFIX,vkplay-arena.ru
   - DOMAIN-SUFFIX,vkplay.ru
   - DOMAIN-SUFFIX,vkplay.live

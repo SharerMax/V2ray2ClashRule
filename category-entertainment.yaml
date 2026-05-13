@@ -1243,13 +1243,19 @@ payload:
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,nijiyome.jp
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,fanfictionero.com
+  - DOMAIN-SUFFIX,fic.fan
+  - DOMAIN-SUFFIX,ficador.com
   - DOMAIN-SUFFIX,ficbook.net
+  - DOMAIN-SUFFIX,ficmania.com
+  - DOMAIN-SUFFIX,teinon.net
   - DOMAIN-SUFFIX,gimy.cc
   - DOMAIN-SUFFIX,gimy.co
   - DOMAIN-SUFFIX,gimy.to
   - DOMAIN-SUFFIX,gimy.tv
   - DOMAIN-SUFFIX,goodreads.com
   - DOMAIN-SUFFIX,gr-assets.com
+  - DOMAIN-SUFFIX,hbo
   - DOMAIN-SUFFIX,beforeigners.com
   - DOMAIN-SUFFIX,brightline.tv
   - DOMAIN-SUFFIX,cinemax.com

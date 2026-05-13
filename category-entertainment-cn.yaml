@@ -267,13 +267,6 @@ payload:
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,acplay.net
   - DOMAIN-SUFFIX,dandanplay.com
-  - DOMAIN-SUFFIX,bbtv.cn
-  - DOMAIN-SUFFIX,bestv.com.cn
-  - DOMAIN-SUFFIX,bestvcdn.cn
-  - DOMAIN-SUFFIX,bestvcdn.com
-  - DOMAIN-SUFFIX,bestvcdn.com.cn
-  - DOMAIN-SUFFIX,bestvcdn.net
-  - DOMAIN-SUFFIX,smgbb.cn
   - DOMAIN-SUFFIX,bilicdn1.com
   - DOMAIN-SUFFIX,bilicdn2.com
   - DOMAIN-SUFFIX,bilicdn3.com
@@ -415,6 +408,7 @@ payload:
   - DOMAIN-SUFFIX,jvcsmart.com.cn
   - DOMAIN-SUFFIX,activity-zhendingtech.com
   - DOMAIN-SUFFIX,changdunovel.com
+  - DOMAIN-SUFFIX,fanqiecopyright.com
   - DOMAIN-SUFFIX,fanqienovel.com
   - DOMAIN-SUFFIX,fanqieopen.com
   - DOMAIN-SUFFIX,fanqieopenpic.com
@@ -431,6 +425,7 @@ payload:
   - DOMAIN-SUFFIX,fqnovelpic.com
   - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,fqnovelvod.com
+  - DOMAIN-SUFFIX,fqopenplatform.com
   - DOMAIN-SUFFIX,ihaohaoxuexi.com
   - DOMAIN-SUFFIX,muyewx.com
   - DOMAIN-SUFFIX,novelfm.com
@@ -447,21 +442,6 @@ payload:
   - DOMAIN-SUFFIX,ja1.gamersky.com
   - DOMAIN-SUFFIX,ja2.gamersky.com
   - DOMAIN-SUFFIX,wmbd.gamersky.com
-  - DOMAIN-SUFFIX,gitv.cn
-  - DOMAIN-SUFFIX,gitv.tv
-  - DOMAIN-SUFFIX,hifuntv.com
-  - DOMAIN-SUFFIX,hitv.com
-  - DOMAIN-SUFFIX,hnbntv.com
-  - DOMAIN-SUFFIX,hunaniptv.com
-  - DOMAIN-SUFFIX,hunantv.com
-  - DOMAIN-SUFFIX,imgo.tv
-  - DOMAIN-SUFFIX,mgtv.com
-  - DOMAIN-SUFFIX,click.hunantv.com
-  - DOMAIN-SUFFIX,da.hunantv.com
-  - DOMAIN-SUFFIX,da.mgtv.com
-  - DOMAIN-SUFFIX,log.hunantv.com
-  - DOMAIN-SUFFIX,log.v2.hunantv.com
-  - DOMAIN-SUFFIX,res.hunantv.com
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,msstatic.com
   - DOMAIN-SUFFIX,71.am
@@ -621,12 +601,6 @@ payload:
   - DOMAIN-SUFFIX,u17.com
   - DOMAIN-SUFFIX,u17i.com
   - DOMAIN-SUFFIX,u17t.com
-  - DOMAIN-SUFFIX,aichongzoo.cn
-  - DOMAIN-SUFFIX,hzdtv.tv
-  - DOMAIN-SUFFIX,hzman.net
-  - DOMAIN-SUFFIX,wasu.cn
-  - DOMAIN-SUFFIX,wasu.tv
-  - DOMAIN-SUFFIX,wasumedia.cn
   - DOMAIN-SUFFIX,1xhh.cn
   - DOMAIN-SUFFIX,accxiaoheihe.com
   - DOMAIN-SUFFIX,chat.top
@@ -650,7 +624,6 @@ payload:
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,soku.com
-  - DOMAIN-SUFFIX,cibntv.net
   - DOMAIN-SUFFIX,ad.api.3g.youku.com
   - DOMAIN-SUFFIX,ad.api.mobile.youku.com
   - DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -680,20 +653,58 @@ payload:
   - DOMAIN-SUFFIX,readnovel.com
   - DOMAIN-SUFFIX,rongshuxia.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,wting.info
   - DOMAIN-SUFFIX,xs.cn
   - DOMAIN-SUFFIX,xs8.cn
   - DOMAIN-SUFFIX,xxsy.net
   - DOMAIN-SUFFIX,yuewen.com
+  - DOMAIN-SUFFIX,duowan.com
+  - DOMAIN-SUFFIX,dwstatic.com
+  - DOMAIN-SUFFIX,yy.com
+  - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,ldmnq.com
   - DOMAIN-SUFFIX,lsplayer.com
   - DOMAIN-SUFFIX,yeshen.com
+  - DOMAIN-SUFFIX,aisee.tv
+  - DOMAIN-SUFFIX,atianqi.com
+  - DOMAIN-SUFFIX,bbtv.cn
+  - DOMAIN-SUFFIX,bestv.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.cn
+  - DOMAIN-SUFFIX,bestvcdn.com
+  - DOMAIN-SUFFIX,bestvcdn.com.cn
+  - DOMAIN-SUFFIX,bestvcdn.net
+  - DOMAIN-SUFFIX,smgbb.cn
+  - DOMAIN-SUFFIX,cibn.cc
+  - DOMAIN-SUFFIX,cibntv.net
+  - DOMAIN-SUFFIX,gitv.cn
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,hifuntv.com
+  - DOMAIN-SUFFIX,hitv.com
+  - DOMAIN-SUFFIX,hnbntv.com
+  - DOMAIN-SUFFIX,hunaniptv.com
+  - DOMAIN-SUFFIX,hunantv.com
+  - DOMAIN-SUFFIX,imgo.tv
+  - DOMAIN-SUFFIX,mgtv.com
+  - DOMAIN-SUFFIX,click.hunantv.com
+  - DOMAIN-SUFFIX,da.hunantv.com
+  - DOMAIN-SUFFIX,da.mgtv.com
+  - DOMAIN-SUFFIX,log.hunantv.com
+  - DOMAIN-SUFFIX,log.v2.hunantv.com
+  - DOMAIN-SUFFIX,res.hunantv.com
+  - DOMAIN-SUFFIX,aichongzoo.cn
+  - DOMAIN-SUFFIX,hzdtv.tv
+  - DOMAIN-SUFFIX,hzman.net
+  - DOMAIN-SUFFIX,wasu.cn
+  - DOMAIN-SUFFIX,wasu.tv
+  - DOMAIN-SUFFIX,wasumedia.cn
   - DOMAIN-SUFFIX,172mix.com
   - DOMAIN-SUFFIX,17k.com
   - DOMAIN-SUFFIX,51zmt.top
-  - DOMAIN-SUFFIX,aisee.tv
   - DOMAIN-SUFFIX,anitabi.cn
   - DOMAIN-SUFFIX,baofeng.com
   - DOMAIN-SUFFIX,baofeng.net
+  - DOMAIN-SUFFIX,baozou.com
+  - DOMAIN-SUFFIX,baozoumanhua.com
   - DOMAIN-SUFFIX,bemanicn.com
   - DOMAIN-SUFFIX,bgwxc.com
   - DOMAIN-SUFFIX,bsbsb.top
@@ -709,7 +720,11 @@ payload:
   - DOMAIN-SUFFIX,heiyanimg.com
   - DOMAIN-SUFFIX,hongshu.com
   - DOMAIN-SUFFIX,hotread.com
+  - DOMAIN-SUFFIX,huajiao.com
+  - DOMAIN-SUFFIX,inke.cn
+  - DOMAIN-SUFFIX,ikstatic.cn
   - DOMAIN-SUFFIX,jjwxc.net
+  - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kjcdn.com
   - DOMAIN-SUFFIX,kujiang.com
   - DOMAIN-SUFFIX,1905.com
