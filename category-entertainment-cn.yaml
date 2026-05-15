@@ -245,6 +245,9 @@ payload:
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,morefreegame.com
   - DOMAIN-SUFFIX,phira.cn
+  - DOMAIN-SUFFIX,sdo.com
+  - DOMAIN-SUFFIX,shengqugames.com
+  - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
   - DOMAIN-SUFFIX,tuyoo.com
@@ -708,6 +711,7 @@ payload:
   - DOMAIN-SUFFIX,bemanicn.com
   - DOMAIN-SUFFIX,bgwxc.com
   - DOMAIN-SUFFIX,bsbsb.top
+  - DOMAIN-SUFFIX,ccw.site
   - DOMAIN-SUFFIX,cdkeynogap.com
   - DOMAIN-SUFFIX,dmzj.com
   - DOMAIN-SUFFIX,muwai.com
@@ -742,6 +746,7 @@ payload:
   - DOMAIN-SUFFIX,shuhai.com
   - DOMAIN-SUFFIX,tadu.com
   - DOMAIN-SUFFIX,vsread.com
+  - DOMAIN-SUFFIX,xyys.com
   - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-SUFFIX,yiyouliao.com
   - DOMAIN-SUFFIX,yxdown.com
