@@ -2225,6 +2225,7 @@ payload:
   - DOMAIN-SUFFIX,a2z.org.cn
   - DOMAIN-SUFFIX,amazonaws.cn
   - DOMAIN-SUFFIX,amazonaws.com.cn
+  - DOMAIN-SUFFIX,amazonwebservices.cn
   - DOMAIN-SUFFIX,amazonwebservices.com.cn
   - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com.cn
@@ -3311,6 +3312,8 @@ payload:
   - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,tongyi.aliyun.com
   - DOMAIN-SUFFIX,tongyi.com
+  - DOMAIN-SUFFIX,antafu.com
+  - DOMAIN-SUFFIX,antaq.com
   - DOMAIN-SUFFIX,yiyan.baidu.com
   - DOMAIN-SUFFIX,tiangong.cn
   - DOMAIN-SUFFIX,bigmodel.cn
@@ -3373,18 +3376,26 @@ payload:
   - DOMAIN-SUFFIX,worktile.com
   - DOMAIN-SUFFIX,1ppt.com
   - DOMAIN-SUFFIX,360doc.com
+  - DOMAIN-SUFFIX,51pptmoban.com
   - DOMAIN-SUFFIX,51wendang.com
   - DOMAIN-SUFFIX,52ppt.com
   - DOMAIN-SUFFIX,badou.com
   - DOMAIN-SUFFIX,book118.com
+  - DOMAIN-SUFFIX,daodoc.com
   - DOMAIN-SUFFIX,doc88.com
   - DOMAIN-SUFFIX,docin.com
   - DOMAIN-SUFFIX,douding.cn
+  - DOMAIN-SUFFIX,goldhoe.com
   - DOMAIN-SUFFIX,haohaodoc.com
+  - DOMAIN-SUFFIX,jinchutou.com
   - DOMAIN-SUFFIX,lazyer.net
   - DOMAIN-SUFFIX,renrendoc.com
+  - DOMAIN-SUFFIX,safewk.com
+  - DOMAIN-SUFFIX,taodocs.com
   - DOMAIN-SUFFIX,wenkeju.com
+  - DOMAIN-SUFFIX,wenkub.com
   - DOMAIN-SUFFIX,ypppt.com
+  - DOMAIN-SUFFIX,zhijidoc.com
   - DOMAIN-SUFFIX,aiqicha.baidu.com
   - DOMAIN-SUFFIX,aiqicha.cn
   - DOMAIN-SUFFIX,aiqicha.com
@@ -3506,19 +3517,20 @@ payload:
   - DOMAIN-SUFFIX,wss.show
   - DOMAIN-SUFFIX,wss.zone
   - DOMAIN-SUFFIX,wss1.cn
+  - DOMAIN-SUFFIX,123245.com
+  - DOMAIN-SUFFIX,123254.com
+  - DOMAIN-SUFFIX,123278.com
+  - DOMAIN-SUFFIX,123294.com
+  - DOMAIN-SUFFIX,123624.com
+  - DOMAIN-SUFFIX,123641.com
+  - DOMAIN-SUFFIX,123842.com
+  - DOMAIN-SUFFIX,123860.com
+  - DOMAIN-SUFFIX,123912.com
+  - DOMAIN-SUFFIX,123952.com
+  - DOMAIN-SUFFIX,123957.com
   - DOMAIN-SUFFIX,123pan.cn
   - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,123panpay.com
-  - DOMAIN-SUFFIX,123957.com
-  - DOMAIN-SUFFIX,123912.com
-  - DOMAIN-SUFFIX,123860.com
-  - DOMAIN-SUFFIX,123842.com
-  - DOMAIN-SUFFIX,123641.com
-  - DOMAIN-SUFFIX,123624.com
-  - DOMAIN-SUFFIX,123294.com
-  - DOMAIN-SUFFIX,123254.com
-  - DOMAIN-SUFFIX,123245.com
-  - DOMAIN-SUFFIX,123952.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,ctfile.com
   - DOMAIN-SUFFIX,feimaoyun.com
@@ -6340,6 +6352,7 @@ payload:
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,wechatpay.cn
   - DOMAIN-SUFFIX,weiyun.com
+  - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,wxlivecdn.com
