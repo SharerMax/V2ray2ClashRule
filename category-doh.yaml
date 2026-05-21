@@ -95,6 +95,8 @@ payload:
   - DOMAIN,common.dot.dns.yandex.net
   - DOMAIN,safe.dot.dns.yandex.net
   - DOMAIN,family.dot.dns.yandex.net
+  - DOMAIN,dns.shaw.ca
+  - DOMAIN,doh.xfinity.com
   - DOMAIN,doh.nl.ahadns.net
   - DOMAIN,doh.la.ahadns.net
   - DOMAIN,dns.arapurayil.com

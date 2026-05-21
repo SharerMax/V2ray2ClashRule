@@ -143,6 +143,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
@@ -150,4 +151,5 @@ payload:
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,plannotator.ai
   - DOMAIN-SUFFIX,spicywriter.com
+  - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
