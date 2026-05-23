@@ -580,6 +580,11 @@ payload:
   - DOMAIN-SUFFIX,schwabplan.com
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,standardchartered.com
+  - DOMAIN-SUFFIX,link.com
+  - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,transferwise.com
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,fxcorporate.com
