@@ -141,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
   - DOMAIN-SUFFIX,mozilla.ai
