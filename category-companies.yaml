@@ -4568,6 +4568,7 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,gemini.gstatic.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,jules.google
@@ -4595,6 +4596,7 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,gemini.gstatic.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,jules.google
@@ -6207,6 +6209,7 @@ payload:
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,target.my.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
+  - DOMAIN-SUFFIX,trace-flow.ru
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,appsmail.ru

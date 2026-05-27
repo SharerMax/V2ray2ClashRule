@@ -573,6 +573,7 @@ payload:
   - DOMAIN-SUFFIX,lk.emias.mos.ru
   - DOMAIN-SUFFIX,polyclinika.ru
   - DOMAIN-SUFFIX,vipmed.ru
+  - DOMAIN-SUFFIX,gorzdrav.spb.ru
   - DOMAIN-SUFFIX,av.ru
   - DOMAIN-SUFFIX,auchan.ru
   - DOMAIN-SUFFIX,audiohead.ru
@@ -924,6 +925,7 @@ payload:
   - DOMAIN-SUFFIX,relap.mail.ru
   - DOMAIN-SUFFIX,target.my.com
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
+  - DOMAIN-SUFFIX,trace-flow.ru
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracker.my.com
   - DOMAIN-SUFFIX,appsmail.ru
