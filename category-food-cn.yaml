@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,qmai.cn
   - DOMAIN-SUFFIX,qmimg.cn
   - DOMAIN-SUFFIX,dicos.com.cn
+  - DOMAIN-SUFFIX,kemen.cn
   - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com

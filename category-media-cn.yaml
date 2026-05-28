@@ -172,6 +172,7 @@ payload:
   - DOMAIN-SUFFIX,anhuinews.com
   - DOMAIN-SUFFIX,anhuiyun.com
   - DOMAIN-SUFFIX,anzhuo.cn
+  - DOMAIN-SUFFIX,bbtnews.com.cn
   - DOMAIN-SUFFIX,bianews.com
   - DOMAIN-SUFFIX,caijing.com.cn
   - DOMAIN-SUFFIX,cailianpress.com
@@ -179,10 +180,12 @@ payload:
   - DOMAIN-SUFFIX,caixin.com
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,ckxx.net
+  - DOMAIN-SUFFIX,cfgw.net.cn
   - DOMAIN-SUFFIX,chinaaet.com
   - DOMAIN-SUFFIX,chinabyte.com
   - DOMAIN-SUFFIX,tianjimedia.com
   - DOMAIN-SUFFIX,yesky.com
+  - DOMAIN-SUFFIX,chinadevelopment.com.cn
   - DOMAIN-SUFFIX,cnfol.com
   - DOMAIN-SUFFIX,cnfolimg.com
   - DOMAIN-SUFFIX,cnr.cn
@@ -196,6 +199,8 @@ payload:
   - DOMAIN-SUFFIX,cs.com.cn
   - DOMAIN-SUFFIX,ctdsb.net
   - DOMAIN-SUFFIX,ctoutiao.com
+  - DOMAIN-SUFFIX,cyol.com
+  - DOMAIN-SUFFIX,cyol.net
   - DOMAIN-SUFFIX,cyzone.cn
   - DOMAIN-SUFFIX,cztv.com
   - DOMAIN-SUFFIX,cztvcdn.com
@@ -211,6 +216,8 @@ payload:
   - DOMAIN-SUFFIX,donews.com
   - DOMAIN-SUFFIX,dzng.com
   - DOMAIN-SUFFIX,dzwww.com
+  - DOMAIN-SUFFIX,eastday.com
+  - DOMAIN-SUFFIX,eeo.com.cn
   - DOMAIN-SUFFIX,expreview.com
   - DOMAIN-SUFFIX,freebuf.com
   - DOMAIN-SUFFIX,geekpark.net

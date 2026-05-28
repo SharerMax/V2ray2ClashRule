@@ -18777,6 +18777,7 @@ payload:
   - DOMAIN-SUFFIX,deno.com
   - DOMAIN-SUFFIX,deno.land
   - DOMAIN-SUFFIX,dev.to
+  - DOMAIN-SUFFIX,elementary.io
   - DOMAIN-SUFFIX,elixir-lang.org
   - DOMAIN-SUFFIX,elrepo.org
   - DOMAIN-SUFFIX,erlang.org
@@ -18786,6 +18787,7 @@ payload:
   - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,git-scm.com
+  - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,greenend.org.uk
@@ -18797,11 +18799,14 @@ payload:
   - DOMAIN-SUFFIX,js.org
   - DOMAIN-SUFFIX,jupyter.org
   - DOMAIN-SUFFIX,kali.org
+  - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,linuxfromscratch.org
   - DOMAIN-SUFFIX,linuxmint.com
   - DOMAIN-SUFFIX,lua.org
+  - DOMAIN-SUFFIX,lxqt-project.org
   - DOMAIN-SUFFIX,macports.org
   - DOMAIN-SUFFIX,mariadb.org
+  - DOMAIN-SUFFIX,mate-desktop.org
   - DOMAIN-SUFFIX,mingw.org
   - DOMAIN-SUFFIX,mobatek.net
   - DOMAIN-SUFFIX,mpv.io
@@ -18823,6 +18828,7 @@ payload:
   - DOMAIN-SUFFIX,phantomjs.org
   - DOMAIN-SUFFIX,php.net
   - DOMAIN-SUFFIX,piwheels.org
+  - DOMAIN-SUFFIX,plasma-mobile.org
   - DOMAIN-SUFFIX,postgresql.org
   - DOMAIN-SUFFIX,putty.org
   - DOMAIN-SUFFIX,r-project.org
@@ -18837,6 +18843,7 @@ payload:
   - DOMAIN-SUFFIX,shields.io
   - DOMAIN-SUFFIX,sqlite.org
   - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,system76.com
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,termius.com
   - DOMAIN-SUFFIX,topcoder.com
@@ -18850,6 +18857,7 @@ payload:
   - DOMAIN-SUFFIX,weblate.org
   - DOMAIN-SUFFIX,wireshark.org
   - DOMAIN-SUFFIX,x.org
+  - DOMAIN-SUFFIX,xfce.org
   - DOMAIN-SUFFIX,xposed.info
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,ziglang.org
@@ -25474,6 +25482,31 @@ payload:
   - DOMAIN-SUFFIX,webcams.tv
   - DOMAIN-SUFFIX,whynotbi.com
   - DOMAIN-SUFFIX,mindgeek.com
+  - DOMAIN-SUFFIX,hellomoto.com
+  - DOMAIN-SUFFIX,moto.com
+  - DOMAIN-SUFFIX,motorola.ca
+  - DOMAIN-SUFFIX,motorola.cl
+  - DOMAIN-SUFFIX,motorola.co
+  - DOMAIN-SUFFIX,motorola.co.id
+  - DOMAIN-SUFFIX,motorola.co.jp
+  - DOMAIN-SUFFIX,motorola.co.th
+  - DOMAIN-SUFFIX,motorola.co.uk
+  - DOMAIN-SUFFIX,motorola.com
+  - DOMAIN-SUFFIX,motorola.com.au
+  - DOMAIN-SUFFIX,motorola.com.co
+  - DOMAIN-SUFFIX,motorola.com.pe
+  - DOMAIN-SUFFIX,motorola.com.pr
+  - DOMAIN-SUFFIX,motorola.de
+  - DOMAIN-SUFFIX,motorola.es
+  - DOMAIN-SUFFIX,motorola.fr
+  - DOMAIN-SUFFIX,motorola.gr
+  - DOMAIN-SUFFIX,motorola.in
+  - DOMAIN-SUFFIX,motorola.it
+  - DOMAIN-SUFFIX,motorola.net
+  - DOMAIN-SUFFIX,motorola.vn
+  - DOMAIN-SUFFIX,motorolacareers.com
+  - DOMAIN-SUFFIX,motorolanews.com
+  - DOMAIN-SUFFIX,motorolasolutions.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN-SUFFIX,developer.allizom.org
