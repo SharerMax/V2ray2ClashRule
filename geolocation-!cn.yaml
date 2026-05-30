@@ -1688,6 +1688,10 @@ payload:
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.popmechanic.ru
   - DOMAIN,mdn.mozillademos.org
+  - DOMAIN,ads-img.mozilla.org
+  - DOMAIN,ads.mozilla.org
+  - DOMAIN,incoming.telemetry.mozilla.org
+  - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN,nvidia.custhelp.com
   - DOMAIN,nvidia.tt.omtrdc.net
   - DOMAIN,cn.download.nvidia.com
@@ -1818,6 +1822,7 @@ payload:
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,anythingllm.com
+  - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,chutes.ai
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,copilot.microsoft.com

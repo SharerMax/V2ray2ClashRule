@@ -64,6 +64,10 @@ payload:
   - DOMAIN,api.mindbox.ru
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,ads-img.mozilla.org
+  - DOMAIN,ads.mozilla.org
+  - DOMAIN,incoming.telemetry.mozilla.org
+  - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,ad.ozone.ru

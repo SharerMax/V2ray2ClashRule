@@ -2,6 +2,10 @@
 # type: classic
 payload:
   - DOMAIN,mdn.mozillademos.org
+  - DOMAIN,ads-img.mozilla.org
+  - DOMAIN,ads.mozilla.org
+  - DOMAIN,incoming.telemetry.mozilla.org
+  - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
   - DOMAIN-SUFFIX,developer.allizom.org
