@@ -566,6 +566,7 @@ payload:
   - DOMAIN,s17.upd.kaspersky.com
   - DOMAIN,s18.upd.kaspersky.com
   - DOMAIN,s19.upd.kaspersky.com
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN,ntp.aliyun.com
   - DOMAIN,ntp1.aliyun.com
   - DOMAIN,ntp2.aliyun.com
@@ -1687,6 +1688,7 @@ payload:
   - DOMAIN,api.mindbox.ru
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN,mdn.mozillademos.org
   - DOMAIN,ads-img.mozilla.org
   - DOMAIN,ads.mozilla.org
@@ -11602,9 +11604,13 @@ payload:
   - DOMAIN-SUFFIX,xhamster18.com
   - DOMAIN-SUFFIX,xhamster18.desi
   - DOMAIN-SUFFIX,xhamster19.com
+  - DOMAIN-SUFFIX,xhamster2.com
   - DOMAIN-SUFFIX,xhamster3.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xhcdn.com
+  - DOMAIN-SUFFIX,xhnews.live
+  - DOMAIN-SUFFIX,xhpingcdn.com
+  - DOMAIN-SUFFIX,xhreal5.com
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,avstar01.me
   - DOMAIN-SUFFIX,avstar02.me
@@ -18038,6 +18044,7 @@ payload:
   - DOMAIN-SUFFIX,do.co
   - DOMAIN-SUFFIX,nginxconfig.io
   - DOMAIN-SUFFIX,ondigitalocean.com
+  - DOMAIN-SUFFIX,disq.us
   - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,disqusservice.com

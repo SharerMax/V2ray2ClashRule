@@ -946,6 +946,7 @@ payload:
   - DOMAIN,api.mindbox.ru
   - DOMAIN,sentry.mindbox.ru
   - DOMAIN,sentry.popmechanic.ru
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN,mdn.mozillademos.org
   - DOMAIN,ads-img.mozilla.org
   - DOMAIN,ads.mozilla.org
