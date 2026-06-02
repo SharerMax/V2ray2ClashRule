@@ -1359,9 +1359,13 @@ payload:
   - DOMAIN-SUFFIX,ad.cctv.com
   - DOMAIN-SUFFIX,chinanews.com
   - DOMAIN-SUFFIX,chinanews.com.cn
+  - DOMAIN-SUFFIX,chinaqw.com
   - DOMAIN-SUFFIX,cns.com.cn
+  - DOMAIN-SUFFIX,cnsimg.net
   - DOMAIN-SUFFIX,ecns.cn
   - DOMAIN-SUFFIX,inewsweek.cn
+  - DOMAIN-SUFFIX,jwview.com
+  - DOMAIN-SUFFIX,xinmeng.info
   - DOMAIN-SUFFIX,coolbuy.com
   - DOMAIN-SUFFIX,ifanr.cn
   - DOMAIN-SUFFIX,ifanr.com
@@ -1582,6 +1586,7 @@ payload:
   - DOMAIN-SUFFIX,nbd.com.cn
   - DOMAIN-SUFFIX,neweekly.com.cn
   - DOMAIN-SUFFIX,news.cn
+  - DOMAIN-SUFFIX,newsimg.cn
   - DOMAIN-SUFFIX,xinhuanet.com
   - DOMAIN-SUFFIX,xinhuaxmt.com
   - DOMAIN-SUFFIX,ofweek.com
@@ -2892,6 +2897,7 @@ payload:
   - DOMAIN-SUFFIX,mcbbs.net
   - DOMAIN-SUFFIX,pcbeta.com
   - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN-SUFFIX,tianya.net
   - DOMAIN-SUFFIX,touying.com
   - DOMAIN-SUFFIX,txrjy.com
   - DOMAIN-SUFFIX,uiwow.com
@@ -2940,6 +2946,7 @@ payload:
   - DOMAIN-SUFFIX,piyao.org.cn
   - DOMAIN-SUFFIX,redcross.org.cn
   - DOMAIN-SUFFIX,zgbznet.com.cn
+  - DOMAIN-SUFFIX,zgjx.cn
   - DOMAIN-SUFFIX,airchina.com.cn
   - DOMAIN-SUFFIX,airchinacargo.com
   - DOMAIN-SUFFIX,hainanairlines.com
