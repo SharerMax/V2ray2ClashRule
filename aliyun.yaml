@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,aliyuncdn.com
   - DOMAIN-SUFFIX,aliyuncdn.net
   - DOMAIN-SUFFIX,aliyunfile.com
+  - DOMAIN-SUFFIX,aliyunidaas.com
   - DOMAIN-SUFFIX,aliyunpds.com
   - DOMAIN-SUFFIX,cdngslb.com
   - DOMAIN-SUFFIX,fcapp.run
