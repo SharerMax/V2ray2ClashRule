@@ -2,5 +2,8 @@
 # type: classic
 payload:
   - DOMAIN,mozilla-ohttp.fastly-edge.com
+  - DOMAIN-SUFFIX,extendfirefox.com
   - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,firefox.hu
+  - DOMAIN-SUFFIX,firefoxtweetmachine.com
   - DOMAIN-SUFFIX,firefoxusercontent.com

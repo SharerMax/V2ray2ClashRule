@@ -4,15 +4,6 @@ payload:
   - DOMAIN-SUFFIX,517lppz.com
   - DOMAIN-SUFFIX,lppz.com
   - DOMAIN-SUFFIX,lppzimg.com
-  - DOMAIN-SUFFIX,100.me
-  - DOMAIN-SUFFIX,ddcorp.net
-  - DOMAIN-SUFFIX,ddfresh.net
-  - DOMAIN-SUFFIX,ddimg.mobi
-  - DOMAIN-SUFFIX,ddmaicai.net
-  - DOMAIN-SUFFIX,ddmc.mobi
-  - DOMAIN-SUFFIX,dduser.mobi
-  - DOMAIN-SUFFIX,ddxq.mobi
-  - DOMAIN-SUFFIX,imaicai.mobi
   - DOMAIN-SUFFIX,lkcoffee.com
   - DOMAIN-SUFFIX,luckincoffeecdn.com
   - DOMAIN-SUFFIX,yyds.co
@@ -20,7 +11,9 @@ payload:
   - DOMAIN-SUFFIX,mcd.cn
   - DOMAIN-SUFFIX,mcdchina.net
   - DOMAIN-SUFFIX,mcdonalds.com.cn
+  - DOMAIN-SUFFIX,starbucks.com.cn
   - DOMAIN-SUFFIX,3songshu.com
+  - DOMAIN-SUFFIX,vipbcw.com
   - DOMAIN-SUFFIX,haidilao.com
   - DOMAIN-SUFFIX,hdlcdns.com
   - DOMAIN-SUFFIX,kiwa-tech.com
@@ -49,6 +42,21 @@ payload:
   - DOMAIN-SUFFIX,qmimg.cn
   - DOMAIN-SUFFIX,dicos.com.cn
   - DOMAIN-SUFFIX,kemen.cn
+  - DOMAIN-SUFFIX,chinatea.com.cn
+  - DOMAIN-SUFFIX,cofco.com
+  - DOMAIN-SUFFIX,greatwallwine.com.cn
+  - DOMAIN-SUFFIX,chinabdh.com
+  - DOMAIN-SUFFIX,hacl.cn
+  - DOMAIN-SUFFIX,4008117117.com
+  - DOMAIN-SUFFIX,brightdairy.com
+  - DOMAIN-SUFFIX,brighticecream.com
+  - DOMAIN-SUFFIX,chinacow.com
+  - DOMAIN-SUFFIX,yili.com
+  - DOMAIN-SUFFIX,mengniu.com.cn
+  - DOMAIN-SUFFIX,junlebaoruye.com
+  - DOMAIN-SUFFIX,yihaikerry.net.cn
+  - DOMAIN-SUFFIX,luhua.cn
+  - DOMAIN-SUFFIX,shuanghui.net
   - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com

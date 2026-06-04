@@ -407,7 +407,13 @@ payload:
   - DOMAIN-SUFFIX,euads-o.api.leiniao.com
   - DOMAIN-SUFFIX,hwads-t.api.my7v.com
   - DOMAIN-SUFFIX,testads.api.my7v.com
+  - DOMAIN-SUFFIX,ads.service.kugou.com
+  - DOMAIN-SUFFIX,adserviceretry.kglink.cn
+  - DOMAIN-SUFFIX,adserviceretry.kugou.com
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
+  - DOMAIN-SUFFIX,adbehavior.ximalaya.com
+  - DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+  - DOMAIN-SUFFIX,adse.ximalaya.com
   - DOMAIN-SUFFIX,ad.browser.qq.com
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.qun.qq.com

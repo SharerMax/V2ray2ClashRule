@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,mcd.cn
   - DOMAIN-SUFFIX,mcdchina.net
   - DOMAIN-SUFFIX,mcdonalds.com.cn
+  - DOMAIN-SUFFIX,starbucks.com.cn
   - DOMAIN-SUFFIX,cf-china.info
   - DOMAIN-SUFFIX,cf-ns.com
   - DOMAIN-SUFFIX,cf-ns.net
