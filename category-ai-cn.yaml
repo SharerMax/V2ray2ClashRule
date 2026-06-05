@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,xingyeai.com
   - DOMAIN-SUFFIX,codebuddy.cn
   - DOMAIN-SUFFIX,hunyuan.tencent.com
+  - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
   - DOMAIN-SUFFIX,baichuan-ai.com
   - DOMAIN-SUFFIX,cueme.cn

@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+  - DOMAIN-SUFFIX,youku.tv
+  - DOMAIN-SUFFIX,youkuplay.com
   - DOMAIN-SUFFIX,alihealth.hk
   - DOMAIN-SUFFIX,ae-rus.net
   - DOMAIN-SUFFIX,aedns.ru
