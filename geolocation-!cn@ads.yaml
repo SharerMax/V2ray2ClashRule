@@ -10,6 +10,7 @@ payload:
   - DOMAIN,sentry.sberauto.com
   - DOMAIN,tracing-http.megamarket.tech
   - DOMAIN,visor.sberbank.ru
+  - DOMAIN,stats.avito.ru
   - DOMAIN,ad.ozone.ru
   - DOMAIN,adv.ozon.ru
   - DOMAIN,agency-adv.ozon.ru
@@ -144,6 +145,7 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,informer.yandex.ru
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
   - DOMAIN,mc.yango.com

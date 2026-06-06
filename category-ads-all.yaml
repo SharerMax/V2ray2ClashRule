@@ -2,6 +2,7 @@
 # type: classic
 payload:
   - DOMAIN,apilog-web.acfun.cn
+  - DOMAIN,stats.avito.ru
   - DOMAIN,api-eu.carrotquest.app
   - DOMAIN,api-eu.carrotquest.io
   - DOMAIN,api-ru.carrotquest.app
@@ -128,6 +129,7 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,informer.yandex.ru
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
   - DOMAIN,mc.yango.com
@@ -143,6 +145,7 @@ payload:
   - DOMAIN,pinggai7.caixin.com
   - DOMAIN,pinggai8.caixin.com
   - DOMAIN,pinggai9.caixin.com
+  - DOMAIN,logs.ads.vungle.com
   - DOMAIN-SUFFIX,adivery.com
   - DOMAIN-SUFFIX,adivery.ir
   - DOMAIN-SUFFIX,kaprila.com
@@ -652,6 +655,7 @@ payload:
   - DOMAIN-SUFFIX,pbmp.ali213.net
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,adq.chinaso.com
   - DOMAIN-SUFFIX,stat.chinaso.com
   - DOMAIN-SUFFIX,mlog.hiido.com

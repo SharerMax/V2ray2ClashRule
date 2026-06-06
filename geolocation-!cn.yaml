@@ -81,6 +81,7 @@ payload:
   - DOMAIN,onekey.zendesk.com
   - DOMAIN,d3r7nsslvs6aaf.cloudfront.net
   - DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+  - DOMAIN,stats.avito.ru
   - DOMAIN,ad.ozone.ru
   - DOMAIN,adv.ozon.ru
   - DOMAIN,agency-adv.ozon.ru
@@ -412,6 +413,7 @@ payload:
   - DOMAIN,yt3.googleusercontent.com
   - DOMAIN,paper-attachments.s3.amazonaws.com
   - DOMAIN,o4504926511693824.ingest.sentry.io
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
   - DOMAIN,bbs.boingboing.net
   - DOMAIN,fbcdn-a.akamaihd.net
   - DOMAIN,e122475.dscg.akamaiedge.net
@@ -1705,6 +1707,7 @@ payload:
   - DOMAIN,clck.yandex.net
   - DOMAIN,clck.yango.com
   - DOMAIN,informer.yandex.ru
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,mc.yandex.com
   - DOMAIN,mc.yandex.net
   - DOMAIN,mc.yango.com
@@ -1719,6 +1722,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
