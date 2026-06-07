@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,sora.com
@@ -154,6 +155,8 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,plannotator.ai
+  - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$

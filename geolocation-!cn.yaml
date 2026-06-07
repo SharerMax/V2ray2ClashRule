@@ -237,6 +237,7 @@ payload:
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN,gog-cdn-fastly.gog.com
   - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN,hb.imgix.net
   - DOMAIN,opgg-static.akamaized.net
   - DOMAIN,a.ppy.sh
   - DOMAIN,assets.ppy.sh
@@ -1787,6 +1788,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,sora.com
@@ -1844,6 +1846,8 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,plannotator.ai
+  - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,pubmatic.com
@@ -6513,6 +6517,49 @@ payload:
   - DOMAIN-SUFFIX,anandtech.com
   - DOMAIN-SUFFIX,betterexplained.com
   - DOMAIN-SUFFIX,brilliant.org
+  - DOMAIN-SUFFIX,cityu.hk
+  - DOMAIN-SUFFIX,cityu.edu.hk
+  - DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+  - DOMAIN-SUFFIX,cuhk.hk
+  - DOMAIN-SUFFIX,cuhk.edu.hk
+  - DOMAIN-SUFFIX,xn--mxtq18a.hk
+  - DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
+  - DOMAIN-SUFFIX,eduhk.hk
+  - DOMAIN-SUFFIX,eduhk.edu.hk
+  - DOMAIN-SUFFIX,xn--wcv22d.hk
+  - DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--wcvs22d1m.hk
+  - DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
+  - DOMAIN-SUFFIX,hkbu.hk
+  - DOMAIN-SUFFIX,hkbu.edu.hk
+  - DOMAIN-SUFFIX,xn--gdt08a.hk
+  - DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
+  - DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
+  - DOMAIN-SUFFIX,hku.hk
+  - DOMAIN-SUFFIX,hku.edu.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
+  - DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
+  - DOMAIN-SUFFIX,hkust.hk
+  - DOMAIN-SUFFIX,hkust.edu.hk
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
+  - DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+  - DOMAIN-SUFFIX,polyu.hk
+  - DOMAIN-SUFFIX,polyu.edu.hk
+  - DOMAIN-SUFFIX,cpce-polyu.edu.hk
+  - DOMAIN-SUFFIX,speed-polyu.edu.hk
+  - DOMAIN-SUFFIX,hkcc-polyu.edu.hk
+  - DOMAIN-SUFFIX,edu.hk
+  - DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
   - DOMAIN-SUFFIX,ac.ir
   - DOMAIN-SUFFIX,edu.ir
   - DOMAIN-SUFFIX,iau.ac.ir
@@ -7349,6 +7396,7 @@ payload:
   - DOMAIN-SUFFIX,n0vadesktop.com
   - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itch.zone
   - DOMAIN-SUFFIX,konami
@@ -7782,7 +7830,6 @@ payload:
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,game-repack.site
-  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,joinsquad.com
   - DOMAIN-SUFFIX,loverslab.com
   - DOMAIN-SUFFIX,minecraft.wiki
@@ -18470,26 +18517,31 @@ payload:
   - DOMAIN-SUFFIX,calibre-ebook.com
   - DOMAIN-SUFFIX,canny.io
   - DOMAIN-SUFFIX,cataboom.com
+  - DOMAIN-SUFFIX,ccleaner.com
+  - DOMAIN-SUFFIX,dynatrace.com
+  - DOMAIN-SUFFIX,familysearch.org
+  - DOMAIN-SUFFIX,languagetool.org
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,cloudlatex.io
+  - DOMAIN-SUFFIX,overleaf.com
+  - DOMAIN-SUFFIX,originlab.com
+  - DOMAIN-SUFFIX,osmand.net
+  - DOMAIN-SUFFIX,xiaomiflash.com
   - DOMAIN-SUFFIX,consentpro.com
   - DOMAIN-SUFFIX,cookiepro.com
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,osano.com
   - DOMAIN-SUFFIX,usercentrics.eu
-  - DOMAIN-SUFFIX,dynatrace.com
-  - DOMAIN-SUFFIX,familysearch.org
-  - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,cloudlatex.io
-  - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,linguee.com
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,collinsdictionary.com
   - DOMAIN-SUFFIX,ldoceonline.com
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,imtintl.com
-  - DOMAIN-SUFFIX,originlab.com
-  - DOMAIN-SUFFIX,osmand.net
-  - DOMAIN-SUFFIX,xiaomiflash.com
+  - DOMAIN-SUFFIX,hivepress.io
+  - DOMAIN-SUFFIX,motopress.com
+  - DOMAIN-SUFFIX,wpmailsmtp.com
   - DOMAIN-SUFFIX,anaconda.cloud
   - DOMAIN-SUFFIX,anaconda.com
   - DOMAIN-SUFFIX,anaconda.org
@@ -18910,6 +18962,7 @@ payload:
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,badgen.net
   - DOMAIN-SUFFIX,bitvise.com
+  - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,centos.org
   - DOMAIN-SUFFIX,chocolatey.org
   - DOMAIN-SUFFIX,clojure.org
@@ -18925,12 +18978,14 @@ payload:
   - DOMAIN-SUFFIX,elrepo.org
   - DOMAIN-SUFFIX,erlang.org
   - DOMAIN-SUFFIX,ffmpeg.org
+  - DOMAIN-SUFFIX,filezilla-project.org
   - DOMAIN-SUFFIX,freebsd.org
   - DOMAIN-SUFFIX,gentoo.org
   - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,getpaint.net
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,git-scm.com
+  - DOMAIN-SUFFIX,gitgud.io
   - DOMAIN-SUFFIX,gnome.org
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,godbolt.org
@@ -18955,6 +19010,7 @@ payload:
   - DOMAIN-SUFFIX,mobatek.net
   - DOMAIN-SUFFIX,mpv.io
   - DOMAIN-SUFFIX,mysql.com
+  - DOMAIN-SUFFIX,msys2.org
   - DOMAIN-SUFFIX,neovim.io
   - DOMAIN-SUFFIX,netfilter.org
   - DOMAIN-SUFFIX,newpipe.net
@@ -20277,6 +20333,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,amd.com.cn
   - DOMAIN-SUFFIX,amdfanstore.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,radeon.com
   - DOMAIN-SUFFIX,bestsrv.de
   - DOMAIN-SUFFIX,customercontrolpanel.de

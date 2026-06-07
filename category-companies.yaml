@@ -2241,6 +2241,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,amd.com.cn
   - DOMAIN-SUFFIX,amdfanstore.com
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,radeon.com
   - DOMAIN-SUFFIX,bestsrv.de
   - DOMAIN-SUFFIX,customercontrolpanel.de

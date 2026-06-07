@@ -24,8 +24,11 @@ payload:
   - DOMAIN-SUFFIX,geely.com
   - DOMAIN-SUFFIX,gwm.com.cn
   - DOMAIN-SUFFIX,lixiang.com
-  - DOMAIN-SUFFIX,nio.cn
   - DOMAIN-SUFFIX,xiaopeng.com
+  - DOMAIN-SUFFIX,nio.cn
+  - DOMAIN-SUFFIX,nio.com
+  - DOMAIN-SUFFIX,niohome.com
+  - DOMAIN-SUFFIX,zeekrgroup.com
   - DOMAIN-SUFFIX,zeekrlife.com
   - DOMAIN-SUFFIX,gzurl.cn
   - DOMAIN-SUFFIX,guazi.com

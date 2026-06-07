@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,mysxl.cn
   - DOMAIN-SUFFIX,sxl.cn
   - DOMAIN-SUFFIX,sxlcdn.cn
+  - DOMAIN-SUFFIX,sxlcdn.com
   - DOMAIN-SUFFIX,cnb.cool
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
@@ -138,6 +139,7 @@ payload:
   - DOMAIN-SUFFIX,jinrishici.com
   - DOMAIN-SUFFIX,kaihong.com
   - DOMAIN-SUFFIX,openvela.com
+  - DOMAIN-SUFFIX,php.cn
   - DOMAIN-SUFFIX,pingcode.com
   - DOMAIN-SUFFIX,tipdm.org
   - DOMAIN-SUFFIX,zuidaima.com

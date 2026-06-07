@@ -28,6 +28,7 @@ payload:
   - DOMAIN,www4-static.gog-statics.com
   - DOMAIN,gog-cdn-fastly.gog.com
   - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN,hb.imgix.net
   - DOMAIN,opgg-static.akamaized.net
   - DOMAIN,a.ppy.sh
   - DOMAIN,assets.ppy.sh
@@ -372,6 +373,7 @@ payload:
   - DOMAIN-SUFFIX,n0vadesktop.com
   - DOMAIN-SUFFIX,zenlesszonezero.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itch.zone
   - DOMAIN-SUFFIX,konami
@@ -805,7 +807,6 @@ payload:
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,game-repack.site
-  - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,joinsquad.com
   - DOMAIN-SUFFIX,loverslab.com
   - DOMAIN-SUFFIX,minecraft.wiki
