@@ -5,9 +5,7 @@ payload:
   - DOMAIN,certs.apple.com
   - DOMAIN,crl-lb.apple.com.akadns.net
   - DOMAIN,crl.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
   - DOMAIN,ocsp.apple.com
-  - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,valid.apple.com
   - DOMAIN,valid.origin-apple.com.akadns.net
@@ -35,5 +33,3 @@ payload:
   - DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,trust-provider.cn
   - DOMAIN-SUFFIX,sslcom.cn
-  - DOMAIN-SUFFIX,yahoo.cn
-  - DOMAIN-SUFFIX,yahoo.com.cn

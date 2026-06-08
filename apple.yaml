@@ -10,9 +10,7 @@ payload:
   - DOMAIN,certs.apple.com
   - DOMAIN,crl-lb.apple.com.akadns.net
   - DOMAIN,crl.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
   - DOMAIN,ocsp.apple.com
-  - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,valid.apple.com
   - DOMAIN,valid.origin-apple.com.akadns.net
@@ -141,6 +139,7 @@ payload:
   - DOMAIN,cds.apple.com.akadns.net
   - DOMAIN,cdsassets.apple.com
   - DOMAIN,cl2-cn.apple.com
+  - DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,cl4-cn.apple.com
   - DOMAIN,clientflow.apple.com
   - DOMAIN,clientflow.apple.com.akadns.net
@@ -158,6 +157,7 @@ payload:
   - DOMAIN,gs-loc-cn.apple.com
   - DOMAIN,gs-loc.apple.com
   - DOMAIN,gsp10-ssl-cn.ls.apple.com
+  - DOMAIN,gsp11-cn.ls.apple.com
   - DOMAIN,gsp12-cn.ls.apple.com
   - DOMAIN,gsp13-cn.ls.apple.com
   - DOMAIN,gsp4-cn.ls.apple.com
@@ -175,8 +175,6 @@ payload:
   - DOMAIN,guzzoni-apple-com.v.aaplimg.com
   - DOMAIN,guzzoni.apple.com
   - DOMAIN,guzzoni.smoot.apple.com
-  - DOMAIN,icloud-cdn.icloud.com.akadns.net
-  - DOMAIN,icloud.cdn-apple.com
   - DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,init-kt.apple.com
   - DOMAIN,init-p01md-lb.push-apple.com.akadns.net
@@ -203,12 +201,10 @@ payload:
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,osxapps.itunes.g.aaplimg.com
   - DOMAIN,pancake.apple.com
-  - DOMAIN,pancake.cdn-apple.com.akadns.net
   - DOMAIN,pba0.apple.com
   - DOMAIN,probe.siri.apple.com
   - DOMAIN,prod-support.apple-support.akadns.net
   - DOMAIN,publicassets.cdn-apple.com
-  - DOMAIN,reserve-prime.apple.com
   - DOMAIN,seed-sequoia.siri.apple.com
   - DOMAIN,seed-swallow.siri.apple.com
   - DOMAIN,seed.siri.apple.com

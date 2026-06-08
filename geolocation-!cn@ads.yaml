@@ -155,9 +155,6 @@ payload:
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,neon.click
   - DOMAIN-SUFFIX,sbermarketing.ru
-  - DOMAIN-SUFFIX,ads.yahoo.com
-  - DOMAIN-SUFFIX,gemini.yahoo.com
-  - DOMAIN-SUFFIX,ysm.yahoo.com
   - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,graph.whatsapp.com
   - DOMAIN-SUFFIX,graph.whatsapp.net
