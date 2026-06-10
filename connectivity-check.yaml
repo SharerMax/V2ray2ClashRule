@@ -6,7 +6,6 @@ payload:
   - DOMAIN,nmcheck.gnome.org
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,www.gstatic.com
-  - DOMAIN,www.google.com
   - DOMAIN,connectivitycheck.platform.hihonorcloud.com
   - DOMAIN,connectivitycheck.platform.hicloud.com
   - DOMAIN,networkcheck.kde.org

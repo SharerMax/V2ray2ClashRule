@@ -225,6 +225,8 @@ payload:
   - DOMAIN-SUFFIX,eeo.com.cn
   - DOMAIN-SUFFIX,expreview.com
   - DOMAIN-SUFFIX,freebuf.com
+  - DOMAIN-SUFFIX,geekbang.org
+  - DOMAIN-SUFFIX,infoq.cn
   - DOMAIN-SUFFIX,geekpark.net
   - DOMAIN-SUFFIX,gmw.com
   - DOMAIN-SUFFIX,guancha.cn

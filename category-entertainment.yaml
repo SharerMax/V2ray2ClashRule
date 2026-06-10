@@ -1607,6 +1607,10 @@ payload:
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,twitchcon.com
   - DOMAIN-SUFFIX,twitchsvc.net
+  - DOMAIN-SUFFIX,nxtv.jp
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,vhx.tv
   - DOMAIN-SUFFIX,vhxqa1.com
   - DOMAIN-SUFFIX,vhxqa2.com

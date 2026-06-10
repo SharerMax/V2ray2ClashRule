@@ -1590,6 +1590,8 @@ payload:
   - DOMAIN-SUFFIX,eeo.com.cn
   - DOMAIN-SUFFIX,expreview.com
   - DOMAIN-SUFFIX,freebuf.com
+  - DOMAIN-SUFFIX,geekbang.org
+  - DOMAIN-SUFFIX,infoq.cn
   - DOMAIN-SUFFIX,geekpark.net
   - DOMAIN-SUFFIX,gmw.com
   - DOMAIN-SUFFIX,guancha.cn
@@ -7365,9 +7367,6 @@ payload:
   - DOMAIN-SUFFIX,imooc.com
   - DOMAIN-SUFFIX,indienova.com
   - DOMAIN-SUFFIX,infini-fantasy.com
-  - DOMAIN-SUFFIX,infoq.com
-  - DOMAIN-SUFFIX,infoqstatic.com
-  - DOMAIN-SUFFIX,ip-cdn.com
   - DOMAIN-SUFFIX,iranshao.com
   - DOMAIN-SUFFIX,irs01.com
   - DOMAIN-SUFFIX,istoreos.com
