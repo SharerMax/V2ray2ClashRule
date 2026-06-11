@@ -301,8 +301,6 @@ payload:
   - DOMAIN-SUFFIX,embark-studios.com
   - DOMAIN-SUFFIX,embark.games
   - DOMAIN-SUFFIX,reachthefinals.com
-  - DOMAIN-SUFFIX,eneba.com
-  - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,capturingreality.com
@@ -350,6 +348,9 @@ payload:
   - DOMAIN-SUFFIX,star-conflict.com
   - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN-SUFFIX,wtmobile.com
+  - DOMAIN-SUFFIX,gamesplanet.com
+  - DOMAIN-SUFFIX,gametap.com
+  - DOMAIN-SUFFIX,gpstatic.com
   - DOMAIN-SUFFIX,garena.co.id
   - DOMAIN-SUFFIX,garena.co.th
   - DOMAIN-SUFFIX,garena.com
@@ -401,7 +402,9 @@ payload:
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,nexon.com
   - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexon.net
   - DOMAIN-SUFFIX,nexoncdn.co.kr
+  - DOMAIN-SUFFIX,nexongames.co.kr
   - DOMAIN-SUFFIX,nikke-de.com
   - DOMAIN-SUFFIX,nikke-en.com
   - DOMAIN-SUFFIX,nikke-fr.com
@@ -805,6 +808,7 @@ payload:
   - DOMAIN-SUFFIX,dodi-repacks.site
   - DOMAIN-SUFFIX,fabricmc.net
   - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,ficgs.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,game-repack.site
   - DOMAIN-SUFFIX,joinsquad.com

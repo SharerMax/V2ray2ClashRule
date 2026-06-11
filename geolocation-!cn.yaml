@@ -1846,6 +1846,7 @@ payload:
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
   - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,fullstory.com
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,cf-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -4993,6 +4994,9 @@ payload:
   - DOMAIN-SUFFIX,kraken.onl
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,kucoin.plus
+  - DOMAIN-SUFFIX,lighter.exchange
+  - DOMAIN-SUFFIX,lighter.xyz
+  - DOMAIN-SUFFIX,zklighter.elliot.ai
   - DOMAIN-SUFFIX,localbitcoins.com
   - DOMAIN-SUFFIX,localbitcoinschain.com
   - DOMAIN-SUFFIX,nexo.com
@@ -5045,6 +5049,7 @@ payload:
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,coingate.com
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinglass.com
   - DOMAIN-SUFFIX,coinmap.org
@@ -5062,6 +5067,7 @@ payload:
   - DOMAIN-SUFFIX,gmgn.ai
   - DOMAIN-SUFFIX,guardarian.com
   - DOMAIN-SUFFIX,hashflow.com
+  - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,invity.io
   - DOMAIN-SUFFIX,maple.finance
@@ -5874,6 +5880,8 @@ payload:
   - DOMAIN-SUFFIX,whisolutions.com
   - DOMAIN-SUFFIX,wrenchead.com
   - DOMAIN-SUFFIX,ebuyer.com
+  - DOMAIN-SUFFIX,eneba.com
+  - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,farfetch-apps.com
   - DOMAIN-SUFFIX,farfetch-contents.com
   - DOMAIN-SUFFIX,farfetch.cn
@@ -6247,6 +6255,7 @@ payload:
   - DOMAIN-SUFFIX,rakuya.com.tw
   - DOMAIN-SUFFIX,tagapie.com.tw
   - DOMAIN-SUFFIX,toget.com.tw
+  - DOMAIN-SUFFIX,buyservices.com
   - DOMAIN-SUFFIX,r10s.com
   - DOMAIN-SUFFIX,r10s.jp
   - DOMAIN-SUFFIX,rakuten-static.com
@@ -6255,9 +6264,28 @@ payload:
   - DOMAIN-SUFFIX,rakuten.com
   - DOMAIN-SUFFIX,rakuten.com.tw
   - DOMAIN-SUFFIX,rakuten.ne.jp
+  - DOMAIN-SUFFIX,rakuten.tv
   - DOMAIN-SUFFIX,rakuten.tw
+  - DOMAIN-SUFFIX,rakutenadvertising.com
+  - DOMAIN-SUFFIX,rakutengiftcards.ca
+  - DOMAIN-SUFFIX,bfads.net
+  - DOMAIN-SUFFIX,ebates.ca
+  - DOMAIN-SUFFIX,ebates.kr
+  - DOMAIN-SUFFIX,ebates.sg
+  - DOMAIN-SUFFIX,ebatescanada.com
+  - DOMAIN-SUFFIX,ecbsn.com
+  - DOMAIN-SUFFIX,fatwallet.com
   - DOMAIN-SUFFIX,rclon.com
   - DOMAIN-SUFFIX,rebates.jp
+  - DOMAIN-SUFFIX,rrcbsn.com
+  - DOMAIN-SUFFIX,kobo.com
+  - DOMAIN-SUFFIX,viber.com
+  - DOMAIN-SUFFIX,viber.co
+  - DOMAIN-SUFFIX,viber.me
+  - DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+  - DOMAIN-SUFFIX,vbcdn.com
+  - DOMAIN-SUFFIX,vbcdn.net
+  - DOMAIN-SUFFIX,viki.com
   - DOMAIN-SUFFIX,rimg.com.tw
   - DOMAIN-SUFFIX,ruten.com.tw
   - DOMAIN-SUFFIX,shopee.cl
@@ -6313,8 +6341,11 @@ payload:
   - DOMAIN-SUFFIX,walmartimages.com
   - DOMAIN-SUFFIX,wmt.co
   - DOMAIN-SUFFIX,wish.com
+  - DOMAIN-SUFFIX,allkeyshop.com
   - DOMAIN-SUFFIX,axbdoll.com.tw
+  - DOMAIN-SUFFIX,gg.deals
   - DOMAIN-SUFFIX,i69.com.tw
+  - DOMAIN-SUFFIX,kinguin.net
   - DOMAIN-SUFFIX,pornhubapparel.com
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,redino.tw
@@ -7128,8 +7159,6 @@ payload:
   - DOMAIN-SUFFIX,embark-studios.com
   - DOMAIN-SUFFIX,embark.games
   - DOMAIN-SUFFIX,reachthefinals.com
-  - DOMAIN-SUFFIX,eneba.com
-  - DOMAIN-SUFFIX,eneba.games
   - DOMAIN-SUFFIX,3lateral.com
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,capturingreality.com
@@ -7177,6 +7206,9 @@ payload:
   - DOMAIN-SUFFIX,star-conflict.com
   - DOMAIN-SUFFIX,warthunder.com
   - DOMAIN-SUFFIX,wtmobile.com
+  - DOMAIN-SUFFIX,gamesplanet.com
+  - DOMAIN-SUFFIX,gametap.com
+  - DOMAIN-SUFFIX,gpstatic.com
   - DOMAIN-SUFFIX,garena.co.id
   - DOMAIN-SUFFIX,garena.co.th
   - DOMAIN-SUFFIX,garena.com
@@ -7228,7 +7260,9 @@ payload:
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,nexon.com
   - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexon.net
   - DOMAIN-SUFFIX,nexoncdn.co.kr
+  - DOMAIN-SUFFIX,nexongames.co.kr
   - DOMAIN-SUFFIX,nikke-de.com
   - DOMAIN-SUFFIX,nikke-en.com
   - DOMAIN-SUFFIX,nikke-fr.com
@@ -7632,6 +7666,7 @@ payload:
   - DOMAIN-SUFFIX,dodi-repacks.site
   - DOMAIN-SUFFIX,fabricmc.net
   - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,ficgs.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,game-repack.site
   - DOMAIN-SUFFIX,joinsquad.com
@@ -10400,6 +10435,10 @@ payload:
   - DOMAIN-SUFFIX,newsmax.com
   - DOMAIN-SUFFIX,newsmax.in
   - DOMAIN-SUFFIX,newsmaxtv.com
+  - DOMAIN-SUFFIX,nhk
+  - DOMAIN-SUFFIX,nhk.jp
+  - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,nhkworld.jp
   - DOMAIN-SUFFIX,gendai.net
   - DOMAIN-SUFFIX,nikkan-gendai.com
   - DOMAIN-SUFFIX,nikkei-cnbc.co.jp
@@ -18287,15 +18326,6 @@ payload:
   - DOMAIN-SUFFIX,wixmp.com
   - DOMAIN-SUFFIX,wixsite.com
   - DOMAIN-SUFFIX,wixstatic.com
-  - DOMAIN-SUFFIX,videopress.com
-  - DOMAIN-SUFFIX,w.org
-  - DOMAIN-SUFFIX,wordpress.com
-  - DOMAIN-SUFFIX,wordpress.net
-  - DOMAIN-SUFFIX,wordpress.org
-  - DOMAIN-SUFFIX,wordpress.tv
-  - DOMAIN-SUFFIX,wp-themes.com
-  - DOMAIN-SUFFIX,wp.com
-  - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,outbound.io
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,zdusercontent.com
@@ -18347,9 +18377,6 @@ payload:
   - DOMAIN-SUFFIX,ldoceonline.com
   - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,imtintl.com
-  - DOMAIN-SUFFIX,hivepress.io
-  - DOMAIN-SUFFIX,motopress.com
-  - DOMAIN-SUFFIX,wpmailsmtp.com
   - DOMAIN-SUFFIX,anaconda.cloud
   - DOMAIN-SUFFIX,anaconda.com
   - DOMAIN-SUFFIX,anaconda.org
@@ -18431,6 +18458,9 @@ payload:
   - DOMAIN-SUFFIX,dartpad.dev
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dotdeb.org
+  - DOMAIN-SUFFIX,discourse-cdn.com
+  - DOMAIN-SUFFIX,discourse.group
+  - DOMAIN-SUFFIX,discourse.org
   - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
@@ -18521,6 +18551,7 @@ payload:
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,ghe.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
@@ -18763,6 +18794,16 @@ payload:
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,v8.dev
   - DOMAIN-SUFFIX,v8project.org
+  - DOMAIN-SUFFIX,videopress.com
+  - DOMAIN-SUFFIX,w.org
+  - DOMAIN-SUFFIX,wordcamp.org
+  - DOMAIN-SUFFIX,wordpress.com
+  - DOMAIN-SUFFIX,wordpress.net
+  - DOMAIN-SUFFIX,wordpress.org
+  - DOMAIN-SUFFIX,wordpress.tv
+  - DOMAIN-SUFFIX,wp-themes.com
+  - DOMAIN-SUFFIX,wp.com
+  - DOMAIN-SUFFIX,wpvip.com
   - DOMAIN-SUFFIX,adventofcode.com
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN-SUFFIX,apache.org
@@ -18871,6 +18912,10 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,ziglang.org
   - DOMAIN-SUFFIX,zsh.org
+  - DOMAIN-SUFFIX,elegantthemes.com
+  - DOMAIN-SUFFIX,hivepress.io
+  - DOMAIN-SUFFIX,motopress.com
+  - DOMAIN-SUFFIX,wpmailsmtp.com
   - DOMAIN-SUFFIX,2gis.ae
   - DOMAIN-SUFFIX,2gis.am
   - DOMAIN-SUFFIX,2gis.az
@@ -24966,6 +25011,7 @@ payload:
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,ghe.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
@@ -27490,6 +27536,7 @@ payload:
   - DOMAIN-SUFFIX,windy.com
   - DOMAIN-SUFFIX,xdty.org
   - DOMAIN-SUFFIX,xingrz.me
+  - DOMAIN-SUFFIX,avermedia.com
   - DOMAIN-SUFFIX,sinyalee.com
   - DOMAIN-SUFFIX,zhangzhehan.net
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
