@@ -1415,8 +1415,6 @@ payload:
   - DOMAIN-SUFFIX,yandex-metrica.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yango-ads.com
-  - DOMAIN-SUFFIX,livejournal.com
-  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st

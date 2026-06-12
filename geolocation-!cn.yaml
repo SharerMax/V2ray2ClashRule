@@ -677,6 +677,7 @@ payload:
   - DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
   - DOMAIN,docker-pinata-support.s3.amazonaws.com
   - DOMAIN,developers.facebook.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
@@ -690,6 +691,7 @@ payload:
   - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,firebaseperusertopics-pa.googleapis.com
   - DOMAIN,firebaseremoteconfig.googleapis.com
+  - DOMAIN,update.crashlytics.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -882,6 +884,7 @@ payload:
   - DOMAIN,wwis-dubc1-vip98.adobe.com
   - DOMAIN,wwis-dubc1-vip99.adobe.com
   - DOMAIN,android.googlesource.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
@@ -895,6 +898,7 @@ payload:
   - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,firebaseperusertopics-pa.googleapis.com
   - DOMAIN,firebaseremoteconfig.googleapis.com
+  - DOMAIN,update.crashlytics.com
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -1009,8 +1013,10 @@ payload:
   - DOMAIN,yt3.googleusercontent.com
   - DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com
   - DOMAIN,analytics.google.com
+  - DOMAIN,recaptcha-cn.net
+  - DOMAIN,recaptcha.net
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,admob-cn.com
@@ -1035,7 +1041,6 @@ payload:
   - DOMAIN,clientservices.googleapis.com
   - DOMAIN,cn.widevine.com
   - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,csi.gstatic.com
   - DOMAIN,dartsearch-cn.net
   - DOMAIN,dg-meta.video.google.com
@@ -1084,8 +1089,6 @@ payload:
   - DOMAIN,prod.databe.floonet.goog
   - DOMAIN,qiao-cn.com
   - DOMAIN,qpx.googleflights.net
-  - DOMAIN,recaptcha-cn.net
-  - DOMAIN,recaptcha.net
   - DOMAIN,redirector.bdn.dev
   - DOMAIN,redirector.c.chat.google.com
   - DOMAIN,redirector.c.mail.google.com
@@ -1106,7 +1109,6 @@ payload:
   - DOMAIN,staging.databe.floonet.goog
   - DOMAIN,tac.googleapis.com
   - DOMAIN,tools.google.com
-  - DOMAIN,update.crashlytics.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,wear.googleapis.com
   - DOMAIN,www-google-analytics.l.google.com
@@ -5005,6 +5007,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
@@ -7524,7 +7527,9 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
   - DOMAIN-SUFFIX,steam.apac.qtlglb.com
   - DOMAIN-SUFFIX,steam.eca.qtlglb.com
@@ -8791,6 +8796,8 @@ payload:
   - DOMAIN-SUFFIX,eyny.com
   - DOMAIN-SUFFIX,gab.com
   - DOMAIN-SUFFIX,hydrogenaud.io
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,mewe.com
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,pincong.rocks
@@ -18519,6 +18526,7 @@ payload:
   - DOMAIN-SUFFIX,fedorapeople.org
   - DOMAIN-SUFFIX,fedoraproject.org
   - DOMAIN-SUFFIX,getfedora.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
@@ -18790,7 +18798,14 @@ payload:
   - DOMAIN-SUFFIX,tildacdn.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,v8.dev
   - DOMAIN-SUFFIX,v8project.org
@@ -19151,6 +19166,7 @@ payload:
   - DOMAIN-SUFFIX,dartpad.dev
   - DOMAIN-SUFFIX,fastlane.ci
   - DOMAIN-SUFFIX,fastlane.tools
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
@@ -19937,6 +19953,7 @@ payload:
   - DOMAIN-SUFFIX,pagead.l.google.com
   - DOMAIN-SUFFIX,partnerad.l.google.com
   - DOMAIN-SUFFIX,urchin.com
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,gvt1-cn.com
   - DOMAIN-SUFFIX,gvt2-cn.com
   - DOMAIN-SUFFIX,abc.xyz
@@ -26447,6 +26464,18 @@ payload:
   - DOMAIN-SUFFIX,wiseid.com
   - DOMAIN-SUFFIX,wisekey.com
   - DOMAIN-SUFFIX,wisekey.com.hk
+  - DOMAIN-SUFFIX,v.ps
+  - DOMAIN-SUFFIX,vps.hosting
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
   - DOMAIN-SUFFIX,flickr
   - DOMAIN-SUFFIX,flic.kr
   - DOMAIN-SUFFIX,flickr.com

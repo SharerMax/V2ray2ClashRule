@@ -10,6 +10,7 @@ payload:
   - DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
   - DOMAIN,docker-pinata-support.s3.amazonaws.com
   - DOMAIN,developers.facebook.com
+  - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
@@ -23,6 +24,7 @@ payload:
   - DOMAIN,firebaselogging.googleapis.com
   - DOMAIN,firebaseperusertopics-pa.googleapis.com
   - DOMAIN,firebaseremoteconfig.googleapis.com
+  - DOMAIN,update.crashlytics.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -218,6 +220,7 @@ payload:
   - DOMAIN-SUFFIX,fedorapeople.org
   - DOMAIN-SUFFIX,fedoraproject.org
   - DOMAIN-SUFFIX,getfedora.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
@@ -489,7 +492,14 @@ payload:
   - DOMAIN-SUFFIX,tildacdn.com
   - DOMAIN-SUFFIX,unity.com
   - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,v8.dev
   - DOMAIN-SUFFIX,v8project.org

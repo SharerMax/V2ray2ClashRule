@@ -96,6 +96,8 @@ payload:
   - DOMAIN-SUFFIX,eyny.com
   - DOMAIN-SUFFIX,gab.com
   - DOMAIN-SUFFIX,hydrogenaud.io
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,mewe.com
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,pincong.rocks

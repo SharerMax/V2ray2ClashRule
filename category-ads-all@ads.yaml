@@ -507,7 +507,14 @@ payload:
   - DOMAIN-SUFFIX,wit.qq.com
   - DOMAIN-SUFFIX,tdsdk.cpatrk.net
   - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+  - DOMAIN-SUFFIX,api2.amplitude.com
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,iads.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,ads.unitychina.cn
   - DOMAIN-SUFFIX,splash-ads.cdn.unity.cn

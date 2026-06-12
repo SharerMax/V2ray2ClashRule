@@ -666,7 +666,9 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
   - DOMAIN-SUFFIX,steam.apac.qtlglb.com
   - DOMAIN-SUFFIX,steam.eca.qtlglb.com
