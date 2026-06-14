@@ -63,6 +63,7 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN,steamcloudsweden.blob.core.windows.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
@@ -183,9 +184,14 @@ payload:
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,yingxiong.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,mhystatic.com
   - DOMAIN-SUFFIX,mhyurl.cn
   - DOMAIN-SUFFIX,mihayo.com

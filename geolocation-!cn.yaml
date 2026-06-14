@@ -267,6 +267,7 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN,steamcloudsweden.blob.core.windows.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
@@ -3578,15 +3579,24 @@ payload:
   - DOMAIN-SUFFIX,fibank.bg
   - DOMAIN-SUFFIX,meawallet.app
   - DOMAIN-SUFFIX,myfin.bg
+  - DOMAIN-SUFFIX,futu.cn
+  - DOMAIN-SUFFIX,futu.link
+  - DOMAIN-SUFFIX,futu5.com
+  - DOMAIN-SUFFIX,futuau.com
   - DOMAIN-SUFFIX,futuesop.com
   - DOMAIN-SUFFIX,futufin.com
   - DOMAIN-SUFFIX,futuhk.com
+  - DOMAIN-SUFFIX,futuhk1.com
+  - DOMAIN-SUFFIX,futuhk2.com
   - DOMAIN-SUFFIX,futuhkapp.com
   - DOMAIN-SUFFIX,futuhn.com
   - DOMAIN-SUFFIX,futuholdings.com
   - DOMAIN-SUFFIX,futuniuniu.com
   - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futuoa.com
+  - DOMAIN-SUFFIX,futusg.com
   - DOMAIN-SUFFIX,futustatic.com
+  - DOMAIN-SUFFIX,fututrade.com
   - DOMAIN-SUFFIX,moomoo.com
   - DOMAIN-SUFFIX,moomooequity.com
   - DOMAIN-SUFFIX,moomootrustee.com
@@ -3677,12 +3687,19 @@ payload:
   - DOMAIN-SUFFIX,itigergrowth.com
   - DOMAIN-SUFFIX,itigergrowtha.com
   - DOMAIN-SUFFIX,itigerup.com
+  - DOMAIN-SUFFIX,laohu8.com
+  - DOMAIN-SUFFIX,skytigris.cn
+  - DOMAIN-SUFFIX,tigerbbs.cn
+  - DOMAIN-SUFFIX,tigerbbs.com
+  - DOMAIN-SUFFIX,xiaohu8.com
   - DOMAIN-SUFFIX,longbridge.cloud
+  - DOMAIN-SUFFIX,longbridge.cn
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,longbridge.global
   - DOMAIN-SUFFIX,longbridge.hk
   - DOMAIN-SUFFIX,longbridge.sg
   - DOMAIN-SUFFIX,longbridgeapp.com
+  - DOMAIN-SUFFIX,longbridgehk.com
   - DOMAIN-SUFFIX,longportapp.com
   - DOMAIN-SUFFIX,lbctrl.com
   - DOMAIN-SUFFIX,lbkrs.com

@@ -16,6 +16,7 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net
   - DOMAIN,steamcloudsweden.blob.core.windows.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
