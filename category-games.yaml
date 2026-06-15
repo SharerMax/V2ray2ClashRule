@@ -208,6 +208,14 @@ payload:
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,log-upload.mihoyo.com
+  - DOMAIN-SUFFIX,seasungames.cn
+  - DOMAIN-SUFFIX,seasungames.com
+  - DOMAIN-SUFFIX,seasunwbl.com
+  - DOMAIN-SUFFIX,xishanju.com
+  - DOMAIN-SUFFIX,xoyo.com
+  - DOMAIN-SUFFIX,xoyocdn.com
+  - DOMAIN-SUFFIX,cbjq.com
+  - DOMAIN-SUFFIX,testplus.cn
   - DOMAIN-SUFFIX,battlecare.net
   - DOMAIN-SUFFIX,gameitop.com
   - DOMAIN-SUFFIX,gameloop.com
@@ -319,10 +327,17 @@ payload:
   - DOMAIN-SUFFIX,xinwuji.com
   - DOMAIN-SUFFIX,yokaverse.com
   - DOMAIN-SUFFIX,zhuoyou.com
+  - DOMAIN-SUFFIX,37.com
+  - DOMAIN-SUFFIX,37.com.cn
+  - DOMAIN-SUFFIX,37wan.net
+  - DOMAIN-SUFFIX,37wanimg.com
   - DOMAIN-SUFFIX,7k7k.com
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,astral-vector.com
+  - DOMAIN-SUFFIX,changyou.com
+  - DOMAIN-SUFFIX,cy.com
+  - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,feihuo.com
   - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,fxt365.com
@@ -904,6 +919,7 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamconnecttest.com
   - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com

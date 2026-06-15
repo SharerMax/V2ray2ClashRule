@@ -130,6 +130,14 @@ payload:
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-SUFFIX,juequling.com
   - DOMAIN-SUFFIX,log-upload.mihoyo.com
+  - DOMAIN-SUFFIX,seasungames.cn
+  - DOMAIN-SUFFIX,seasungames.com
+  - DOMAIN-SUFFIX,seasunwbl.com
+  - DOMAIN-SUFFIX,xishanju.com
+  - DOMAIN-SUFFIX,xoyo.com
+  - DOMAIN-SUFFIX,xoyocdn.com
+  - DOMAIN-SUFFIX,cbjq.com
+  - DOMAIN-SUFFIX,testplus.cn
   - DOMAIN-SUFFIX,battlecare.net
   - DOMAIN-SUFFIX,gameitop.com
   - DOMAIN-SUFFIX,gameloop.com
@@ -241,10 +249,17 @@ payload:
   - DOMAIN-SUFFIX,xinwuji.com
   - DOMAIN-SUFFIX,yokaverse.com
   - DOMAIN-SUFFIX,zhuoyou.com
+  - DOMAIN-SUFFIX,37.com
+  - DOMAIN-SUFFIX,37.com.cn
+  - DOMAIN-SUFFIX,37wan.net
+  - DOMAIN-SUFFIX,37wanimg.com
   - DOMAIN-SUFFIX,7k7k.com
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,astral-vector.com
+  - DOMAIN-SUFFIX,changyou.com
+  - DOMAIN-SUFFIX,cy.com
+  - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,feihuo.com
   - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,fxt365.com
@@ -745,6 +760,9 @@ payload:
   - DOMAIN-SUFFIX,172mix.com
   - DOMAIN-SUFFIX,17k.com
   - DOMAIN-SUFFIX,51zmt.top
+  - DOMAIN-SUFFIX,6.cn
+  - DOMAIN-SUFFIX,6rooms.com
+  - DOMAIN-SUFFIX,xiu123.cn
   - DOMAIN-SUFFIX,anitabi.cn
   - DOMAIN-SUFFIX,baofeng.com
   - DOMAIN-SUFFIX,baofeng.net
@@ -763,7 +781,12 @@ payload:
   - DOMAIN-SUFFIX,muwai.com
   - DOMAIN-SUFFIX,dongdianqiu.com
   - DOMAIN-SUFFIX,dongqiudi.com
+  - DOMAIN-SUFFIX,duoduocdn.com
+  - DOMAIN-SUFFIX,zhibo8.cc
+  - DOMAIN-SUFFIX,zhibo8.com
   - DOMAIN-SUFFIX,faloo.com
+  - DOMAIN-SUFFIX,fengniao.com
+  - DOMAIN-SUFFIX,img-space.com
   - DOMAIN-SUFFIX,goka.top
   - DOMAIN-SUFFIX,haidubooks.com
   - DOMAIN-SUFFIX,heiyan.com
@@ -804,6 +827,7 @@ payload:
   - DOMAIN-SUFFIX,tgbus.com
   - DOMAIN-SUFFIX,vgtime.com
   - DOMAIN-SUFFIX,17173.com
+  - DOMAIN-SUFFIX,17173cdn.com
   - DOMAIN-SUFFIX,18183.com
   - DOMAIN-SUFFIX,3dmgame.com
   - DOMAIN-SUFFIX,ali213.net
@@ -818,6 +842,7 @@ payload:
   - DOMAIN-SUFFIX,ign.com.cn
   - DOMAIN-SUFFIX,nadianshi.com
   - DOMAIN-SUFFIX,news.yxrb.net
+  - DOMAIN-SUFFIX,sgamer.com
   - DOMAIN-SUFFIX,shoutanjjj.com
   - DOMAIN-SUFFIX,ucg.cn
   - DOMAIN-SUFFIX,youxichaguan.com

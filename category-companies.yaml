@@ -7734,6 +7734,10 @@ payload:
   - DOMAIN-SUFFIX,plug.game
   - DOMAIN-SUFFIX,prismlive.com
   - DOMAIN-SUFFIX,neuralink.com
+  - DOMAIN-SUFFIX,nichost.ru
+  - DOMAIN-SUFFIX,nic.ru
+  - DOMAIN-SUFFIX,r01.ru
+  - DOMAIN-SUFFIX,sweb.ru
   - DOMAIN-SUFFIX,geforce.cn
   - DOMAIN-SUFFIX,geforce.co.kr
   - DOMAIN-SUFFIX,geforce.co.uk
@@ -7921,6 +7925,9 @@ payload:
   - DOMAIN-SUFFIX,razerzone.jp
   - DOMAIN-SUFFIX,respawnbyrazer.com
   - DOMAIN-SUFFIX,rzr.to
+  - DOMAIN-SUFFIX,reg.cloud
+  - DOMAIN-SUFFIX,reg.com
+  - DOMAIN-SUFFIX,reg.ru
   - DOMAIN-SUFFIX,restream-media.net
   - DOMAIN-SUFFIX,restream.ru
   - DOMAIN-SUFFIX,more.tv
