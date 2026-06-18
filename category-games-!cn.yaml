@@ -65,6 +65,8 @@ payload:
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN,supercell.helpshift.com
+  - DOMAIN,supercell.zendesk.com
   - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN,media-rockstargames-com.akamaized.net
   - DOMAIN,videos-rockstargames-com.akamaized.net
@@ -711,7 +713,6 @@ payload:
   - DOMAIN-SUFFIX,seeurlpcl.com
   - DOMAIN-SUFFIX,squadbusters.com
   - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,supercell.helpshift.com
   - DOMAIN-SUFFIX,supercell.net
   - DOMAIN-SUFFIX,supercellcreators.com
   - DOMAIN-SUFFIX,supercellgames.com

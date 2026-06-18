@@ -306,6 +306,7 @@ payload:
   - DOMAIN-SUFFIX,s.mindbox.ru
   - DOMAIN-SUFFIX,a.mts.ru
   - DOMAIN-SUFFIX,obs.mts.ru
+  - DOMAIN-SUFFIX,samsungadhub.com
   - DOMAIN-SUFFIX,samsungads.com
   - DOMAIN-SUFFIX,snapads.com
   - DOMAIN-SUFFIX,ads.yahoo.com

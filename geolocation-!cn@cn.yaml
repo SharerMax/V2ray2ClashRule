@@ -882,8 +882,8 @@ payload:
   - DOMAIN-SUFFIX,swiftui.com.cn
   - DOMAIN-SUFFIX,researchkit.cn
   - DOMAIN-SUFFIX,researchkit.com.cn
+  - DOMAIN-SUFFIX,jetbrains.com.cn
   - DOMAIN-SUFFIX,cdn.jetbrains.com
-  - DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
   - DOMAIN-SUFFIX,microsoftreactor.cn
   - DOMAIN-SUFFIX,microsoftreactor.com.cn
   - DOMAIN-SUFFIX,reactorms.com.cn
