@@ -146,9 +146,11 @@ payload:
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
   - DOMAIN-SUFFIX,globalsigncdn.com
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,godaddy
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
+  - DOMAIN-SUFFIX,wsimg.com
+  - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,eca.hinet.net
   - DOMAIN-SUFFIX,gtlsca.nat.gov.tw

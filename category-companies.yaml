@@ -5329,9 +5329,11 @@ payload:
   - DOMAIN-SUFFIX,z.com
   - DOMAIN-SUFFIX,zeibit.ai
   - DOMAIN-SUFFIX,ztrendlab.com
-  - DOMAIN-SUFFIX,godaddy.com
-  - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,godaddy
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,godaddy.net
+  - DOMAIN-SUFFIX,wsimg.com
+  - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,antiphishing.nl
   - DOMAIN-SUFFIX,antiphishing.ru
   - DOMAIN-SUFFIX,cert-gib.com
@@ -7660,7 +7662,9 @@ payload:
   - DOMAIN-SUFFIX,popcornjs.org
   - DOMAIN-SUFFIX,publicsuffix.org
   - DOMAIN-SUFFIX,seamonkey-project.org
+  - DOMAIN-SUFFIX,tb.pro
   - DOMAIN-SUFFIX,thunderbird.net
+  - DOMAIN-SUFFIX,thundermail.com
   - DOMAIN-SUFFIX,webmademovies.org
   - DOMAIN-SUFFIX,msi.cn
   - DOMAIN-SUFFIX,msi.com
