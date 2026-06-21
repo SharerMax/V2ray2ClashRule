@@ -2,13 +2,6 @@
 # type: classic
 payload:
   - DOMAIN,gog.qtlglb.com
-  - DOMAIN,gogalaxy.gog-statics.com
-  - DOMAIN,menu-static.gog-statics.com
-  - DOMAIN,productcard.gog-statics.com
-  - DOMAIN,static-login.gog-statics.com
-  - DOMAIN,www4-static.gog-statics.com
-  - DOMAIN,gog-cdn-fastly.gog.com
-  - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
@@ -47,6 +40,3 @@ payload:
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$

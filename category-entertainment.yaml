@@ -21,12 +21,7 @@ payload:
   - DOMAIN,dlgarenanow-a.akamaihd.net
   - DOMAIN,dlmobilegarena-a.akamaihd.net
   - DOMAIN,gog.qtlglb.com
-  - DOMAIN,gogalaxy.gog-statics.com
-  - DOMAIN,menu-static.gog-statics.com
-  - DOMAIN,productcard.gog-statics.com
-  - DOMAIN,static-login.gog-statics.com
-  - DOMAIN,www4-static.gog-statics.com
-  - DOMAIN,gog-cdn-fastly.gog.com
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog-cdn.akamaized.net
   - DOMAIN,hb.imgix.net
   - DOMAIN,opgg-static.akamaized.net
@@ -1925,9 +1920,6 @@ payload:
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
   - DOMAIN-REGEX,(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
   - DOMAIN-REGEX,(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
