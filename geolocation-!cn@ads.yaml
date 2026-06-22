@@ -169,6 +169,7 @@ payload:
   - DOMAIN-SUFFIX,microad.co.jp
   - DOMAIN-SUFFIX,microad.jp
   - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,analytics.tiktok.com

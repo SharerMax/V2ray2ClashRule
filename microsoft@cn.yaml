@@ -3,37 +3,55 @@
 payload:
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,emoi-cncdn.bing.com
-  - DOMAIN,www.microsoft.com
+  - DOMAIN,azuremigrate.download.prss.microsoft.com
+  - DOMAIN,azuremigratetest.download.prss.microsoft.com
+  - DOMAIN,azurestackhub.download.prss.microsoft.com
+  - DOMAIN,azurestackhubuat.download.prss.microsoft.com
   - DOMAIN,b.c2r.ts.cdn.office.net
-  - DOMAIN,bg.v4.a.dl.ws.microsoft.com
-  - DOMAIN,bg4.v4.a.dl.ws.microsoft.com
-  - DOMAIN,build.microsoft.com
-  - DOMAIN,cdn.marketplaceimages.windowsphone.com
+  - DOMAIN,cbdstest.download.prss.microsoft.com
   - DOMAIN,cn.windowssearch.com
+  - DOMAIN,collaborate.download.prss.microsoft.com
+  - DOMAIN,collaborateppe.download.prss.microsoft.com
   - DOMAIN,ctldl.windowsupdate.com
-  - DOMAIN,devblogs.microsoft.com
   - DOMAIN,developer.microsoft.com
-  - DOMAIN,docs.microsoft.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,download.visualstudio.microsoft.com
+  - DOMAIN,dreamspark.download.prss.microsoft.com
+  - DOMAIN,dreamsparkuat.download.prss.microsoft.com
   - DOMAIN,f.c2r.ts.cdn.office.net
-  - DOMAIN,fs.microsoft.com
-  - DOMAIN,learn.microsoft.com
+  - DOMAIN,itacademy.download.prss.microsoft.com
+  - DOMAIN,itacademyuat.download.prss.microsoft.com
+  - DOMAIN,lex.download.prss.microsoft.com
+  - DOMAIN,lexuat.download.prss.microsoft.com
+  - DOMAIN,mbs.download.prss.microsoft.com
+  - DOMAIN,mpnbenefits.download.prss.microsoft.com
+  - DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+  - DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
+  - DOMAIN,msdn.download.prss.microsoft.com
+  - DOMAIN,msdprod-ad.download.prss.microsoft.com
+  - DOMAIN,msproduct.download.prss.microsoft.com
   - DOMAIN,myvs.download.prss.microsoft.com
   - DOMAIN,oemsoc.download.prss.microsoft.com
+  - DOMAIN,oemsocuat.download.prss.microsoft.com
   - DOMAIN,officecdn.microsoft.com
-  - DOMAIN,res-1.cdn.office.net
-  - DOMAIN,res.cdn.office.net
+  - DOMAIN,officemkt.download.prss.microsoft.com
+  - DOMAIN,officemktuat.download.prss.microsoft.com
+  - DOMAIN,osrelease.download.prss.microsoft.com
+  - DOMAIN,rsm.download.prss.microsoft.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,shell.cdn.office.net
   - DOMAIN,software.download.prss.microsoft.com
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,storecorefulfillment.download.prss.microsoft.com
+  - DOMAIN,storeedge.microsoft.com
   - DOMAIN,storeedgefd.dsx.mp.microsoft.com
+  - DOMAIN,surface.download.prss.microsoft.com
   - DOMAIN,surface.downloads.prss.microsoft.com
+  - DOMAIN,vlportal.download.prss.microsoft.com
+  - DOMAIN,volic.download.prss.microsoft.com
   - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vz.download.prss.microsoft.com
-  - DOMAIN,wscont1.apps.microsoft.com
-  - DOMAIN,wscont2.apps.microsoft.com
+  - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN-SUFFIX,21vbc.com
   - DOMAIN-SUFFIX,21vbluecloud.com
   - DOMAIN-SUFFIX,21vbluecloud.net
@@ -53,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,azure-connectedvehicles.cn
   - DOMAIN-SUFFIX,azure-devices-provisioning.cn
   - DOMAIN-SUFFIX,azure-devices.cn
+  - DOMAIN-SUFFIX,azure-mobile.cn
   - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,azurecr-test.cn
   - DOMAIN-SUFFIX,azurecr.cn
@@ -84,9 +103,12 @@ payload:
   - DOMAIN-SUFFIX,msftcloudes.cn
   - DOMAIN-SUFFIX,msidentity.cn
   - DOMAIN-SUFFIX,msidlabpbmc.cn
+  - DOMAIN-SUFFIX,sovcloud-mx.cn
+  - DOMAIN-SUFFIX,sovcloud-static.cn
+  - DOMAIN-SUFFIX,sovcloud-usercontent.cn
+  - DOMAIN-SUFFIX,sovcloud.cn
   - DOMAIN-SUFFIX,trafficmanager.cn
   - DOMAIN-SUFFIX,trustcenter.cn
-  - DOMAIN-SUFFIX,unity3dcloud.cn
   - DOMAIN-SUFFIX,windowsazure.cn
   - DOMAIN-SUFFIX,windowsazurestatus.cn
   - DOMAIN-SUFFIX,azchcdna.com
@@ -131,9 +153,7 @@ payload:
   - DOMAIN-SUFFIX,reactorms.com.cn
   - DOMAIN-SUFFIX,microsoftnews.cn
   - DOMAIN-SUFFIX,msn.cn
-  - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,xboxlive.cn
-  - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,dynamics.cn
   - DOMAIN-SUFFIX,engkoo.com
   - DOMAIN-SUFFIX,lync.cn
@@ -168,5 +188,6 @@ payload:
   - DOMAIN-SUFFIX,powerautomate.cn
   - DOMAIN-SUFFIX,powerbi.cn
   - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,download.windowsupdate.com

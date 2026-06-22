@@ -4,7 +4,9 @@ payload:
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com

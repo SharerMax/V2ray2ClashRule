@@ -68,6 +68,9 @@ payload:
   - DOMAIN-SUFFIX,antafu.com
   - DOMAIN-SUFFIX,antaq.com
   - DOMAIN-SUFFIX,yiyan.baidu.com
+  - DOMAIN-SUFFIX,dumate.cn
+  - DOMAIN-SUFFIX,miaoda.cn
+  - DOMAIN-SUFFIX,mcpworld.com
   - DOMAIN-SUFFIX,tiangong.cn
   - DOMAIN-SUFFIX,bigmodel.cn
   - DOMAIN-SUFFIX,chatglm.cn

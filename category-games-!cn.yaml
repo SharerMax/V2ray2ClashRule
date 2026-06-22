@@ -362,7 +362,10 @@ payload:
   - DOMAIN-SUFFIX,garenanow.com
   - DOMAIN-SUFFIX,seagroup.com
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog-statics.com
+  - DOMAIN-SUFFIX,gogalaxy.com
+  - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
@@ -677,7 +680,9 @@ payload:
   - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
   - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
   - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com

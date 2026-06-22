@@ -266,6 +266,10 @@ payload:
   - DOMAIN-SUFFIX,gameabc.com
   - DOMAIN-SUFFIX,gamemei.com
   - DOMAIN-SUFFIX,heavenlywind.cc
+  - DOMAIN-SUFFIX,laohu.com
+  - DOMAIN-SUFFIX,wanmei.com
+  - DOMAIN-SUFFIX,wmsj.cn
+  - DOMAIN-SUFFIX,wmupd.com
   - DOMAIN-SUFFIX,ledu.com
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,morefreegame.com
@@ -276,8 +280,6 @@ payload:
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
   - DOMAIN-SUFFIX,tuyoo.com
-  - DOMAIN-SUFFIX,wanmei.com
-  - DOMAIN-SUFFIX,wmsj.cn
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,ycgame.com
@@ -615,10 +617,12 @@ payload:
   - DOMAIN-SUFFIX,aliwx.com.cn
   - DOMAIN-SUFFIX,aliwx.net
   - DOMAIN-SUFFIX,ishuqi.com
+  - DOMAIN-SUFFIX,newstjk.com
   - DOMAIN-SUFFIX,shuqi.com
   - DOMAIN-SUFFIX,shuqiapi.com
   - DOMAIN-SUFFIX,shuqiread.com
   - DOMAIN-SUFFIX,shuqireader.com
+  - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,sqreader.com
   - DOMAIN-SUFFIX,91q.com
   - DOMAIN-SUFFIX,dmhmusic.com
@@ -775,6 +779,8 @@ payload:
   - DOMAIN-SUFFIX,6rooms.com
   - DOMAIN-SUFFIX,xiu123.cn
   - DOMAIN-SUFFIX,anitabi.cn
+  - DOMAIN-SUFFIX,b612kaji.com
+  - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,baofeng.com
   - DOMAIN-SUFFIX,baofeng.net
   - DOMAIN-SUFFIX,baozou.com
@@ -808,7 +814,6 @@ payload:
   - DOMAIN-SUFFIX,inke.cn
   - DOMAIN-SUFFIX,ikstatic.cn
   - DOMAIN-SUFFIX,jjwxc.net
-  - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kjcdn.com
   - DOMAIN-SUFFIX,kujiang.com
   - DOMAIN-SUFFIX,1905.com

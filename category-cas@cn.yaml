@@ -19,7 +19,6 @@ payload:
   - DOMAIN,crl.pki.goog
   - DOMAIN,crls.pki.goog
   - DOMAIN,ocsp.pki.goog
-  - DOMAIN,www.microsoft.com
   - DOMAIN-SUFFIX,dcocsp.cn
   - DOMAIN-SUFFIX,digicert.cn
   - DOMAIN-SUFFIX,alphassl.com

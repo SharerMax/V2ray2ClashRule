@@ -73,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
   - DOMAIN-SUFFIX,tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
-  - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,huaweicloud-dns.net
   - DOMAIN-SUFFIX,huaweicloud-dns.org
   - DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com

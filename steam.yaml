@@ -47,7 +47,9 @@ payload:
   - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
   - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
   - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com

@@ -341,6 +341,10 @@ payload:
   - DOMAIN-SUFFIX,gameabc.com
   - DOMAIN-SUFFIX,gamemei.com
   - DOMAIN-SUFFIX,heavenlywind.cc
+  - DOMAIN-SUFFIX,laohu.com
+  - DOMAIN-SUFFIX,wanmei.com
+  - DOMAIN-SUFFIX,wmsj.cn
+  - DOMAIN-SUFFIX,wmupd.com
   - DOMAIN-SUFFIX,ledu.com
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,morefreegame.com
@@ -351,8 +355,6 @@ payload:
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
   - DOMAIN-SUFFIX,tuyoo.com
-  - DOMAIN-SUFFIX,wanmei.com
-  - DOMAIN-SUFFIX,wmsj.cn
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,ycgame.com
@@ -621,7 +623,10 @@ payload:
   - DOMAIN-SUFFIX,garenanow.com
   - DOMAIN-SUFFIX,seagroup.com
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog-statics.com
+  - DOMAIN-SUFFIX,gogalaxy.com
+  - DOMAIN-SUFFIX,insights-collector.gog.com
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN-SUFFIX,honkaiimpact3.com
   - DOMAIN-SUFFIX,honkaistarrail.com
@@ -936,7 +941,9 @@ payload:
   - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
   - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
   - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com

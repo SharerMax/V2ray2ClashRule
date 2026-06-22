@@ -21,7 +21,9 @@ payload:
   - DOMAIN-SUFFIX,supermariobros.com.cn
   - DOMAIN-SUFFIX,leagueoflegends.cn
   - DOMAIN-SUFFIX,lpl.com.cn
+  - DOMAIN-SUFFIX,csgo.com.cn
   - DOMAIN-SUFFIX,csgo.wmsj.cn
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-SUFFIX,client-update.queniuqe.com
