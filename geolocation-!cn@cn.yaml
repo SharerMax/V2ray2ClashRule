@@ -1211,7 +1211,10 @@ payload:
   - DOMAIN-SUFFIX,razerapi.com
   - DOMAIN-SUFFIX,razersynapse.com
   - DOMAIN-SUFFIX,razerzone.com
+  - DOMAIN-SUFFIX,samsung.com.cn
+  - DOMAIN-SUFFIX,samsungcloudcn.com
   - DOMAIN-SUFFIX,samsungeshop.com.cn
+  - DOMAIN-SUFFIX,samsunghealthcn.com
   - DOMAIN-SUFFIX,stmicroelectronics.com.cn
   - DOMAIN-SUFFIX,quickconnect.cn
   - DOMAIN-SUFFIX,synology.cn
