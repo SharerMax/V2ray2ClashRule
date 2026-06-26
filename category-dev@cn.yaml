@@ -4,6 +4,7 @@ payload:
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,update.crashlytics.com
+  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,cdn.ampproject.org
   - DOMAIN-SUFFIX,swiftui.cn
   - DOMAIN-SUFFIX,swiftui.com.cn

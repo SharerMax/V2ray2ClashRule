@@ -63,6 +63,10 @@ payload:
   - DOMAIN,geetest.datasink.sensorsdata.cn
   - DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
   - DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+  - DOMAIN,account-cn.alibabacloud.com
+  - DOMAIN,api.alibabacloud.com
+  - DOMAIN,cn.alibabacloud.com
+  - DOMAIN,status.alibabacloud.com
   - DOMAIN,p3-novel.byteimg.com
   - DOMAIN,p6-novel.byteimg.com
   - DOMAIN,ads3-normal-hl.zijieapi.com
@@ -4097,6 +4101,9 @@ payload:
   - DOMAIN-SUFFIX,kunlunwe.com
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,myalicdn.com
+  - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
   - DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
   - DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com

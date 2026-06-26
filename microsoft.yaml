@@ -80,7 +80,6 @@ payload:
   - DOMAIN,ctldl.windowsupdate.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.microsoft.com
-  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
   - DOMAIN,f.c2r.ts.cdn.office.net

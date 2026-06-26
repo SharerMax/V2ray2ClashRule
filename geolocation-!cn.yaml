@@ -889,6 +889,10 @@ payload:
   - DOMAIN,wwis-dubc1-vip97.adobe.com
   - DOMAIN,wwis-dubc1-vip98.adobe.com
   - DOMAIN,wwis-dubc1-vip99.adobe.com
+  - DOMAIN,account-cn.alibabacloud.com
+  - DOMAIN,api.alibabacloud.com
+  - DOMAIN,cn.alibabacloud.com
+  - DOMAIN,status.alibabacloud.com
   - DOMAIN,android.googlesource.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
@@ -1657,7 +1661,6 @@ payload:
   - DOMAIN,ctldl.windowsupdate.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.microsoft.com
-  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
   - DOMAIN,f.c2r.ts.cdn.office.net

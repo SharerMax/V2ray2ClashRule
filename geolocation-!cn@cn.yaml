@@ -143,7 +143,12 @@ payload:
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,update.crashlytics.com
+  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,cdn.ampproject.org
+  - DOMAIN,account-cn.alibabacloud.com
+  - DOMAIN,api.alibabacloud.com
+  - DOMAIN,cn.alibabacloud.com
+  - DOMAIN,status.alibabacloud.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,update.crashlytics.com
@@ -615,6 +620,7 @@ payload:
   - DOMAIN,tp.louisvuitton.com
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,emoi-cncdn.bing.com
+  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
   - DOMAIN,azurestackhub.download.prss.microsoft.com
@@ -627,7 +633,6 @@ payload:
   - DOMAIN,ctldl.windowsupdate.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.microsoft.com
-  - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dreamspark.download.prss.microsoft.com
   - DOMAIN,dreamsparkuat.download.prss.microsoft.com
   - DOMAIN,f.c2r.ts.cdn.office.net
