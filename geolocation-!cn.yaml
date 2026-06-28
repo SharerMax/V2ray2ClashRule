@@ -1874,6 +1874,7 @@ payload:
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,tapnow.ai
+  - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,pubmatic.com
   - DOMAIN-SUFFIX,pubmatic.co.jp
   - DOMAIN-SUFFIX,taboola.com
@@ -7893,6 +7894,8 @@ payload:
   - DOMAIN-SUFFIX,dailymotion.com
   - DOMAIN-SUFFIX,dm-event.net
   - DOMAIN-SUFFIX,dmcdn.net
+  - DOMAIN-SUFFIX,dandanplay.com
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,dandanzan.cc
   - DOMAIN-SUFFIX,nunuyy.cc
   - DOMAIN-SUFFIX,dazn.com
@@ -8668,6 +8671,7 @@ payload:
   - DOMAIN-SUFFIX,qobuz.com
   - DOMAIN-SUFFIX,sendvid.com
   - DOMAIN-SUFFIX,syosetu.com
+  - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,weverse.io
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,amp-api.podcast.apple.com
@@ -19772,6 +19776,7 @@ payload:
   - DOMAIN-SUFFIX,chromebook.com
   - DOMAIN-SUFFIX,chromecast.com
   - DOMAIN-SUFFIX,chromeos.dev
+  - DOMAIN-SUFFIX,chromestatus.com
   - DOMAIN-SUFFIX,chromium.org
   - DOMAIN-SUFFIX,chronicle.security
   - DOMAIN-SUFFIX,chroniclesec.com
@@ -21125,6 +21130,7 @@ payload:
   - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-content.com.cn
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
@@ -21686,6 +21692,7 @@ payload:
   - DOMAIN-SUFFIX,apple-ibooks.cn
   - DOMAIN-SUFFIX,apple-inc.net
   - DOMAIN-SUFFIX,apple-livephotoskit.com
+  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-maps.cn
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-usa.net
@@ -21748,6 +21755,7 @@ payload:
   - DOMAIN-SUFFIX,applereach.com
   - DOMAIN-SUFFIX,applereach.net
   - DOMAIN-SUFFIX,apples-msk.ru
+  - DOMAIN-SUFFIX,appleschoolcontent.com
   - DOMAIN-SUFFIX,applescreensavers.com
   - DOMAIN-SUFFIX,applescript.info
   - DOMAIN-SUFFIX,appleshare.info
@@ -21767,6 +21775,8 @@ payload:
   - DOMAIN-SUFFIX,appule.com
   - DOMAIN-SUFFIX,appye.com
   - DOMAIN-SUFFIX,apyle.com
+  - DOMAIN-SUFFIX,apzones.com
+  - DOMAIN-SUFFIX,axm-usercontent-apple.com
   - DOMAIN-SUFFIX,beddit.tv
   - DOMAIN-SUFFIX,braeburncapital.com
   - DOMAIN-SUFFIX,burstly.net
