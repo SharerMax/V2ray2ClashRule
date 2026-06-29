@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,wpscdn.cn
   - DOMAIN-SUFFIX,wpscdn.com
   - DOMAIN-SUFFIX,qwps.cn
-  - DOMAIN-SUFFIX,kscord.com
+  - DOMAIN-SUFFIX,kimxz.com
   - DOMAIN-SUFFIX,51dzt.com
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,docer.com
@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,kingsoft.com
   - DOMAIN-SUFFIX,ks-live.com
   - DOMAIN-SUFFIX,ksmobile.com
+  - DOMAIN-SUFFIX,ksord.com
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,kcdnvip.com
   - DOMAIN-SUFFIX,ks-cdn.com
