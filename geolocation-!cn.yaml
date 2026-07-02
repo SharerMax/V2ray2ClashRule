@@ -671,6 +671,8 @@ payload:
   - DOMAIN,bcovlive-a.akamaihd.net
   - DOMAIN,bcsecure01-a.akamaihd.net
   - DOMAIN,brightcove.imgix.net
+  - DOMAIN,acd89244c803f7181.awsglobalaccelerator.com
+  - DOMAIN,afa7f374f51cc8991.awsglobalaccelerator.com
   - DOMAIN,d33wubrfki0l68.cloudfront.net
   - DOMAIN,live-patreon-marketing.pantheonsite.io
   - DOMAIN,public-us-pingsx.api.clonoth.com
@@ -3567,6 +3569,7 @@ payload:
   - DOMAIN-SUFFIX,bank131.com
   - DOMAIN-SUFFIX,bankermak.ru
   - DOMAIN-SUFFIX,bfa.ru
+  - DOMAIN-SUFFIX,blanc.ru
   - DOMAIN-SUFFIX,bm-bank.ru
   - DOMAIN-SUFFIX,bspb.ru
   - DOMAIN-SUFFIX,commerzbank.ru
@@ -4959,6 +4962,7 @@ payload:
   - DOMAIN-SUFFIX,whatsappbrand.com
   - DOMAIN-SUFFIX,graph.whatsapp.com
   - DOMAIN-SUFFIX,graph.whatsapp.net
+  - DOMAIN-SUFFIX,botim.me
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
   - DOMAIN-SUFFIX,binance.cc
@@ -5140,6 +5144,7 @@ payload:
   - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,invity.io
+  - DOMAIN-SUFFIX,litecoin.org
   - DOMAIN-SUFFIX,maple.finance
   - DOMAIN-SUFFIX,megaeth.com
   - DOMAIN-SUFFIX,merkl.xyz
@@ -9546,6 +9551,7 @@ payload:
   - DOMAIN-SUFFIX,slashdot.org
   - DOMAIN-SUFFIX,technews.tw
   - DOMAIN-SUFFIX,techradar.com
+  - DOMAIN-SUFFIX,techspot.com
   - DOMAIN-SUFFIX,theverge.com
   - DOMAIN-SUFFIX,tomsguide.com
   - DOMAIN-SUFFIX,zdnet.com
@@ -14138,6 +14144,9 @@ payload:
   - DOMAIN-SUFFIX,hongkongdollvideo.org
   - DOMAIN-SUFFIX,honnaka.jp
   - DOMAIN-SUFFIX,hoodamateurs.com
+  - DOMAIN-SUFFIX,hornet.com
+  - DOMAIN-SUFFIX,hornetapp.com
+  - DOMAIN-SUFFIX,hornetx.com
   - DOMAIN-SUFFIX,hornybitches.org
   - DOMAIN-SUFFIX,hornybutt.com
   - DOMAIN-SUFFIX,hornychat.net
@@ -18290,7 +18299,10 @@ payload:
   - DOMAIN-SUFFIX,bitballoon.com
   - DOMAIN-SUFFIX,netlify.app
   - DOMAIN-SUFFIX,netlify.com
+  - DOMAIN-SUFFIX,netlifydns.com
   - DOMAIN-SUFFIX,netlifystatus.com
+  - DOMAIN-SUFFIX,netlifyusercontent.com
+  - DOMAIN-SUFFIX,ntl.fyi
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion-status.com
   - DOMAIN-SUFFIX,notion.com

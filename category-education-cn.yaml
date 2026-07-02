@@ -103,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,bczeducation.cn
   - DOMAIN-SUFFIX,banxiaoer.com
   - DOMAIN-SUFFIX,banxiaoer.net
+  - DOMAIN-SUFFIX,beie.org
   - DOMAIN-SUFFIX,biyehome.net
   - DOMAIN-SUFFIX,burningvocabulary.cn
   - DOMAIN-SUFFIX,burningvocabulary.com
@@ -120,6 +121,7 @@ payload:
   - DOMAIN-SUFFIX,zgjsks.com
   - DOMAIN-SUFFIX,zgsydw.com
   - DOMAIN-SUFFIX,gk100.com
+  - DOMAIN-SUFFIX,guojibk.com
   - DOMAIN-SUFFIX,huatu.com
   - DOMAIN-SUFFIX,sydw8.com
   - DOMAIN-SUFFIX,ictbda.cn

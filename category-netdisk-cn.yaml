@@ -78,11 +78,12 @@ payload:
   - DOMAIN-SUFFIX,123pan.cn
   - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,123panpay.com
+  - DOMAIN-SUFFIX,guangyacdn.com
+  - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,ctfile.com
   - DOMAIN-SUFFIX,feimaoyun.com
   - DOMAIN-SUFFIX,filez.com
-  - DOMAIN-SUFFIX,guangyapan.com
   - DOMAIN-SUFFIX,jianguoyun.com
   - DOMAIN-SUFFIX,pan.baidu.com
   - DOMAIN-SUFFIX,pan.quark.cn

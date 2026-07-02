@@ -257,6 +257,8 @@ payload:
   - DOMAIN-SUFFIX,9xgame.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,astral-vector.com
+  - DOMAIN-SUFFIX,66rpg.com
+  - DOMAIN-SUFFIX,cgyouxi.com
   - DOMAIN-SUFFIX,changyou.com
   - DOMAIN-SUFFIX,cy.com
   - DOMAIN-SUFFIX,playcool.com
@@ -273,16 +275,19 @@ payload:
   - DOMAIN-SUFFIX,ledu.com
   - DOMAIN-SUFFIX,longtugame.com
   - DOMAIN-SUFFIX,morefreegame.com
+  - DOMAIN-SUFFIX,nalrer.cn
+  - DOMAIN-SUFFIX,tuyoo.com
   - DOMAIN-SUFFIX,phira.cn
   - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
-  - DOMAIN-SUFFIX,tuyoo.com
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,ycgame.com
+  - DOMAIN-SUFFIX,yjwujian.cn
+  - DOMAIN-SUFFIX,yysls.cn
   - DOMAIN-SUFFIX,aamgame.net
   - DOMAIN-SUFFIX,aamgame.com
   - DOMAIN-SUFFIX,aamgame.mobi
@@ -421,6 +426,7 @@ payload:
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com
   - DOMAIN-SUFFIX,douyinpay.com
+  - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyu.tv
   - DOMAIN-SUFFIX,douyucdn.cn
@@ -721,6 +727,16 @@ payload:
   - DOMAIN-SUFFIX,yk-ssp.ad.youku.com
   - DOMAIN-SUFFIX,ykad-data.youku.com
   - DOMAIN-SUFFIX,webnovel.com
+  - DOMAIN-SUFFIX,aireads.cn
+  - DOMAIN-SUFFIX,chatdrama.cn
+  - DOMAIN-SUFFIX,chatdrama.net
+  - DOMAIN-SUFFIX,chatqidian.cn
+  - DOMAIN-SUFFIX,chatqidian.net
+  - DOMAIN-SUFFIX,chattext.cn
+  - DOMAIN-SUFFIX,chatwrite.net
+  - DOMAIN-SUFFIX,chatxiaoxiang.com
+  - DOMAIN-SUFFIX,chatyuewen.cn
+  - DOMAIN-SUFFIX,dishu3.com
   - DOMAIN-SUFFIX,hongxiu.com
   - DOMAIN-SUFFIX,qdmm.com
   - DOMAIN-SUFFIX,qidian.com
@@ -730,6 +746,7 @@ payload:
   - DOMAIN-SUFFIX,xs.cn
   - DOMAIN-SUFFIX,xs8.cn
   - DOMAIN-SUFFIX,xxsy.net
+  - DOMAIN-SUFFIX,xxsypro.com
   - DOMAIN-SUFFIX,yuewen.com
   - DOMAIN-SUFFIX,duowan.com
   - DOMAIN-SUFFIX,dwstatic.com
