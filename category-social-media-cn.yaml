@@ -21,6 +21,9 @@ payload:
   - DOMAIN-SUFFIX,okjike.com
   - DOMAIN-SUFFIX,okjk.co
   - DOMAIN-SUFFIX,ruguoapp.com
+  - DOMAIN-SUFFIX,sina
+  - DOMAIN-SUFFIX,weibo
+  - DOMAIN-SUFFIX,xn--9krt00a
   - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,picself.cn
   - DOMAIN-SUFFIX,sina.cn

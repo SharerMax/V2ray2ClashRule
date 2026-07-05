@@ -6,6 +6,49 @@ payload:
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+  - DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+  - DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+  - DOMAIN,aod-ssl.itunes.apple.com
+  - DOMAIN,aod.itunes.apple.com
+  - DOMAIN,apptrailers.itunes.apple.com
+  - DOMAIN,bag.itunes.apple.com
+  - DOMAIN,bookkeeper.itunes.apple.com
+  - DOMAIN,client-api.itunes.apple.com
+  - DOMAIN,cma.itunes.apple.com
+  - DOMAIN,downloaddispatch.itunes.apple.com
+  - DOMAIN,entitlements-edge.itunes.apple.com
+  - DOMAIN,fpinit.itunes.apple.com
+  - DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
+  - DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
+  - DOMAIN,inappcheck.itunes.apple.com
+  - DOMAIN,init.itunes.apple.com
+  - DOMAIN,iosapps.itunes.apple.com
+  - DOMAIN,misc-assets.itunes.apple.com
+  - DOMAIN,mvod.itunes.apple.com
+  - DOMAIN,myapp.itunes.apple.com
+  - DOMAIN,np-edge.itunes.apple.com
+  - DOMAIN,osxapps.itunes.apple.com
+  - DOMAIN,pd-nk.itunes.apple.com
+  - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play.itunes.apple.com
+  - DOMAIN,se-edge.itunes.apple.com
+  - DOMAIN,se2.itunes.apple.com
+  - DOMAIN,search.itunes.apple.com
+  - DOMAIN,sf-api-token-service.itunes.apple.com
+  - DOMAIN,sp.itunes.apple.com
+  - DOMAIN,streamingaudio.itunes.apple.com
+  - DOMAIN,su.itunes.apple.com
+  - DOMAIN,sync.itunes.apple.com
+  - DOMAIN,tf-feedback.itunes.apple.com
+  - DOMAIN,universal-activity-service.itunes.apple.com
+  - DOMAIN,upp.itunes.apple.com
+  - DOMAIN,bag-cdn.itunes-apple.com.akadns.net
+  - DOMAIN,iosapps.itunes.g.aaplimg.com
+  - DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+  - DOMAIN,itunes-apple.com.akadns.net
+  - DOMAIN,itunes.apple.com
+  - DOMAIN,itunesconnect.apple.com
+  - DOMAIN,osxapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,bluearchive-cn.com
   - DOMAIN-SUFFIX,legendofzelda.cn
   - DOMAIN-SUFFIX,legendofzelda.com.cn
@@ -37,6 +80,11 @@ payload:
   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
   - DOMAIN-SUFFIX,xboxlive.cn
   - DOMAIN-SUFFIX,yostar.cn
+  - DOMAIN-SUFFIX,apple-itunes.cn
+  - DOMAIN-SUFFIX,itunes-apple.cn
+  - DOMAIN-SUFFIX,itunesapple.cn
+  - DOMAIN-SUFFIX,itunesradio.cn
+  - DOMAIN-SUFFIX,itunesradio.com.cn
   - DOMAIN-SUFFIX,amazonprimevideo.cn
   - DOMAIN-SUFFIX,amazonprimevideo.com.cn
   - DOMAIN-SUFFIX,ggpht.cn

@@ -126,6 +126,7 @@ payload:
   - DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
   - DOMAIN-SUFFIX,cohere.ai
   - DOMAIN-SUFFIX,cohere.com
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,clipdrop.co

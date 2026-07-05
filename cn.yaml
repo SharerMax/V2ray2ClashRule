@@ -101,14 +101,21 @@ payload:
   - DOMAIN,community.oneplus.com
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,alipay
+  - DOMAIN-SUFFIX,anquan
   - DOMAIN-SUFFIX,baidu
   - DOMAIN-SUFFIX,citic
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,icbc
+  - DOMAIN-SUFFIX,shouji
+  - DOMAIN-SUFFIX,sina
   - DOMAIN-SUFFIX,sohu
   - DOMAIN-SUFFIX,taobao
   - DOMAIN-SUFFIX,tmall
   - DOMAIN-SUFFIX,unicom
+  - DOMAIN-SUFFIX,weibo
+  - DOMAIN-SUFFIX,xihuan
+  - DOMAIN-SUFFIX,yun
+  - DOMAIN-SUFFIX,xn--9krt00a
   - DOMAIN-SUFFIX,xn--fiqs8s
   - DOMAIN-SUFFIX,xn--fiqz9s
   - DOMAIN-SUFFIX,xn--zfr164b
@@ -1872,6 +1879,9 @@ payload:
   - DOMAIN-SUFFIX,okjike.com
   - DOMAIN-SUFFIX,okjk.co
   - DOMAIN-SUFFIX,ruguoapp.com
+  - DOMAIN-SUFFIX,sina
+  - DOMAIN-SUFFIX,weibo
+  - DOMAIN-SUFFIX,xn--9krt00a
   - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,picself.cn
   - DOMAIN-SUFFIX,sina.cn
@@ -6177,6 +6187,10 @@ payload:
   - DOMAIN-SUFFIX,wztsy.cn
   - DOMAIN-SUFFIX,wztsy.com
   - DOMAIN-SUFFIX,yiwanzhushou.com
+  - DOMAIN-SUFFIX,anquan
+  - DOMAIN-SUFFIX,shouji
+  - DOMAIN-SUFFIX,xihuan
+  - DOMAIN-SUFFIX,yun
   - DOMAIN-SUFFIX,360.cn
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,360.net

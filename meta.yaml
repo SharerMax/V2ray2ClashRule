@@ -552,6 +552,7 @@ payload:
   - DOMAIN-SUFFIX,whatsappbrand.com
   - DOMAIN-SUFFIX,graph.whatsapp.com
   - DOMAIN-SUFFIX,graph.whatsapp.net
+  - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com

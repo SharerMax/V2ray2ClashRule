@@ -131,6 +131,7 @@ payload:
   - DOMAIN-SUFFIX,aznbcontent.cn
   - DOMAIN-SUFFIX,aztask.cn
   - DOMAIN-SUFFIX,azure-api.cn
+  - DOMAIN-SUFFIX,azure-api.net
   - DOMAIN-SUFFIX,azure-apihub.cn
   - DOMAIN-SUFFIX,azure-automation.cn
   - DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -179,6 +180,7 @@ payload:
   - DOMAIN-SUFFIX,azureserviceprofiler.com
   - DOMAIN-SUFFIX,azuresmartspaces.net
   - DOMAIN-SUFFIX,azurestackvalidation.com
+  - DOMAIN-SUFFIX,azurestaticapps.net
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,b2clogin.cn
   - DOMAIN-SUFFIX,b3itech.cn
@@ -290,6 +292,7 @@ payload:
   - DOMAIN-SUFFIX,office365tw.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,cn.bing.com

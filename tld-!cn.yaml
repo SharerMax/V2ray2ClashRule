@@ -210,7 +210,6 @@ payload:
   - DOMAIN-SUFFIX,pn
   - DOMAIN-SUFFIX,pr
   - DOMAIN-SUFFIX,ps
-  - DOMAIN-SUFFIX,ps
   - DOMAIN-SUFFIX,pt
   - DOMAIN-SUFFIX,py
   - DOMAIN-SUFFIX,qa
@@ -231,7 +230,6 @@ payload:
   - DOMAIN-SUFFIX,sl
   - DOMAIN-SUFFIX,sm
   - DOMAIN-SUFFIX,sn
-  - DOMAIN-SUFFIX,so
   - DOMAIN-SUFFIX,so
   - DOMAIN-SUFFIX,sr
   - DOMAIN-SUFFIX,ss
@@ -420,10 +418,8 @@ payload:
   - DOMAIN-SUFFIX,weir
   - DOMAIN-SUFFIX,woodside
   - DOMAIN-SUFFIX,zara
-  - DOMAIN-SUFFIX,africamagic
   - DOMAIN-SUFFIX,agakhan
   - DOMAIN-SUFFIX,akdn
-  - DOMAIN-SUFFIX,bar
   - DOMAIN-SUFFIX,bharti
   - DOMAIN-SUFFIX,bingo
   - DOMAIN-SUFFIX,casa
@@ -447,7 +443,6 @@ payload:
   - DOMAIN-SUFFIX,sucks
   - DOMAIN-SUFFIX,tattoo
   - DOMAIN-SUFFIX,vana
-  - DOMAIN-SUFFIX,virgin
   - DOMAIN-SUFFIX,vodka
   - DOMAIN-SUFFIX,wine
   - DOMAIN-SUFFIX,wme
@@ -695,6 +690,7 @@ payload:
   - DOMAIN-SUFFIX,aol
   - DOMAIN-SUFFIX,aws
   - DOMAIN-SUFFIX,azure
+  - DOMAIN-SUFFIX,bing
   - DOMAIN-SUFFIX,chrome
   - DOMAIN-SUFFIX,cisco
   - DOMAIN-SUFFIX,dclk
@@ -755,7 +751,6 @@ payload:
   - DOMAIN-SUFFIX,ricoh
   - DOMAIN-SUFFIX,rogers
   - DOMAIN-SUFFIX,sakura
-  - DOMAIN-SUFFIX,sas
   - DOMAIN-SUFFIX,sfr
   - DOMAIN-SUFFIX,shaw
   - DOMAIN-SUFFIX,skype
