@@ -711,6 +711,7 @@ payload:
   - DOMAIN-SUFFIX,logs.chelaile.net.cn
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,sensors.umetrip.com.cn
+  - DOMAIN-SUFFIX,pub.network
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adjust.io
   - DOMAIN-SUFFIX,adjust.net.in

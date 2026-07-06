@@ -711,4 +711,5 @@ payload:
   - DOMAIN-SUFFIX,logs.chelaile.net.cn
   - DOMAIN-SUFFIX,analytics.umetrip.com
   - DOMAIN-SUFFIX,sensors.umetrip.com.cn
+  - DOMAIN-SUFFIX,pub.network
   - DOMAIN-REGEX,^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
