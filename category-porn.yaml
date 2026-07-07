@@ -319,6 +319,8 @@ payload:
   - DOMAIN-SUFFIX,nudevista.es
   - DOMAIN-SUFFIX,nudevista.net
   - DOMAIN-SUFFIX,nudevista.vip
+  - DOMAIN-SUFFIX,pawchive.pw
+  - DOMAIN-SUFFIX,pawchive.st
   - DOMAIN-SUFFIX,bikaa.xyz
   - DOMAIN-SUFFIX,bikac.xyz
   - DOMAIN-SUFFIX,bikaios.xyz
