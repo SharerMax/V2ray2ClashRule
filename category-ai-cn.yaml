@@ -67,6 +67,10 @@ payload:
   - DOMAIN-SUFFIX,tongyi.com
   - DOMAIN-SUFFIX,antafu.com
   - DOMAIN-SUFFIX,antaq.com
+  - DOMAIN-SUFFIX,aorizon.cn
+  - DOMAIN-SUFFIX,happyhorse.cn
+  - DOMAIN-SUFFIX,happyshrimp.cn
+  - DOMAIN-SUFFIX,sleeplesshorizon.cn
   - DOMAIN-SUFFIX,yiyan.baidu.com
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,miaoda.cn

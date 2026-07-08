@@ -248,6 +248,18 @@ payload:
   - DOMAIN-SUFFIX,xn--p1ai
   - DOMAIN-SUFFIX,ru.com
   - DOMAIN-SUFFIX,ru.net
+  - DOMAIN-SUFFIX,aiesa.ru
+  - DOMAIN-SUFFIX,alice.yandex.net
+  - DOMAIN-SUFFIX,alice.yandex.ru
+  - DOMAIN-SUFFIX,alicepro.yandex.ru
+  - DOMAIN-SUFFIX,copymonkey.app
+  - DOMAIN-SUFFIX,gerwin.io
+  - DOMAIN-SUFFIX,giga.chat
+  - DOMAIN-SUFFIX,gptunnel.ru
+  - DOMAIN-SUFFIX,polza.ai
+  - DOMAIN-SUFFIX,robotext.io
+  - DOMAIN-SUFFIX,rugpt.io
+  - DOMAIN-SUFFIX,tokenator.top
   - DOMAIN-SUFFIX,betboom.ru
   - DOMAIN-SUFFIX,mobile-bb.com
   - DOMAIN-SUFFIX,bk6bba-resources.com
@@ -263,6 +275,11 @@ payload:
   - DOMAIN-SUFFIX,winlinebet.ru
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,flowwow-images.com
+  - DOMAIN-SUFFIX,flowwow.com
+  - DOMAIN-SUFFIX,funpay.com
+  - DOMAIN-SUFFIX,funpay.ru
+  - DOMAIN-SUFFIX,sfunpay.com
   - DOMAIN-SUFFIX,ewisdom.us.kg
   - DOMAIN-SUFFIX,o3.ru
   - DOMAIN-SUFFIX,o3t.ru
@@ -1271,6 +1288,7 @@ payload:
   - DOMAIN-SUFFIX,tilda.ws
   - DOMAIN-SUFFIX,tildaapi.com
   - DOMAIN-SUFFIX,tildacdn.com
+  - DOMAIN-SUFFIX,tildacdn.net
   - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,timeweb.com
   - DOMAIN-SUFFIX,twcstorage.ru

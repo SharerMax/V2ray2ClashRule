@@ -5,11 +5,8 @@ payload:
   - DOMAIN-SUFFIX,weibo
   - DOMAIN-SUFFIX,xn--9krt00a
   - DOMAIN-SUFFIX,97973.com
-  - DOMAIN-SUFFIX,hk.weibo.com
-  - DOMAIN-SUFFIX,my.weibo.com
-  - DOMAIN-SUFFIX,overseas.weibo.com
+  - DOMAIN-SUFFIX,krcom.cn
   - DOMAIN-SUFFIX,picself.cn
-  - DOMAIN-SUFFIX,sg.weibo.com
   - DOMAIN-SUFFIX,sina.cn
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,sina.com.cn
@@ -21,9 +18,6 @@ payload:
   - DOMAIN-SUFFIX,sinajs.cn
   - DOMAIN-SUFFIX,sinajs.com
   - DOMAIN-SUFFIX,t.cn
-  - DOMAIN-SUFFIX,th.weibo.com
-  - DOMAIN-SUFFIX,tw.weibo.com
-  - DOMAIN-SUFFIX,us.weibo.com
   - DOMAIN-SUFFIX,videoself.cn
   - DOMAIN-SUFFIX,wbimg.cn
   - DOMAIN-SUFFIX,wbimg.com
@@ -34,6 +28,13 @@ payload:
   - DOMAIN-SUFFIX,weibocdn.com
   - DOMAIN-SUFFIX,weibopay.com
   - DOMAIN-SUFFIX,xhaiwai.com
+  - DOMAIN-SUFFIX,hk.weibo.com
+  - DOMAIN-SUFFIX,my.weibo.com
+  - DOMAIN-SUFFIX,overseas.weibo.com
+  - DOMAIN-SUFFIX,sg.weibo.com
+  - DOMAIN-SUFFIX,th.weibo.com
+  - DOMAIN-SUFFIX,tw.weibo.com
+  - DOMAIN-SUFFIX,us.weibo.com
   - DOMAIN-SUFFIX,ad.sina.com.cn
   - DOMAIN-SUFFIX,ad.us.sinaimg.cn
   - DOMAIN-SUFFIX,adbox.sina.com.cn

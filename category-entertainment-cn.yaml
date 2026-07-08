@@ -99,6 +99,13 @@ payload:
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,sl916.com
+  - DOMAIN-SUFFIX,17173.com
+  - DOMAIN-SUFFIX,17173cdn.com
+  - DOMAIN-SUFFIX,changyou.com
+  - DOMAIN-SUFFIX,cy.com
+  - DOMAIN-SUFFIX,playcool.com
+  - DOMAIN-SUFFIX,yeyou.com
+  - DOMAIN-SUFFIX,yeyoucdn.com
   - DOMAIN-SUFFIX,cowlevel.net
   - DOMAIN-SUFFIX,cdncl.net
   - DOMAIN-SUFFIX,hero.com
@@ -259,9 +266,6 @@ payload:
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,66rpg.com
   - DOMAIN-SUFFIX,cgyouxi.com
-  - DOMAIN-SUFFIX,changyou.com
-  - DOMAIN-SUFFIX,cy.com
-  - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,feihuo.com
   - DOMAIN-SUFFIX,forevernine.com
   - DOMAIN-SUFFIX,fxt365.com
@@ -277,10 +281,18 @@ payload:
   - DOMAIN-SUFFIX,morefreegame.com
   - DOMAIN-SUFFIX,nalrer.cn
   - DOMAIN-SUFFIX,tuyoo.com
+  - DOMAIN-SUFFIX,nikkigames.cn
+  - DOMAIN-SUFFIX,nikkigames.com.cn
+  - DOMAIN-SUFFIX,papegames.cn
+  - DOMAIN-SUFFIX,papegames.com
   - DOMAIN-SUFFIX,phira.cn
   - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,zjshulong.com
+  - DOMAIN-SUFFIX,tanwan.com
+  - DOMAIN-SUFFIX,twyx.cn
+  - DOMAIN-SUFFIX,twyxh.com
+  - DOMAIN-SUFFIX,zx.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
   - DOMAIN-SUFFIX,winegame.net
@@ -846,6 +858,7 @@ payload:
   - DOMAIN-SUFFIX,sfacg.com
   - DOMAIN-SUFFIX,shuhai.com
   - DOMAIN-SUFFIX,tadu.com
+  - DOMAIN-SUFFIX,vistopia.com.cn
   - DOMAIN-SUFFIX,vsread.com
   - DOMAIN-SUFFIX,xinlishumeng.com
   - DOMAIN-SUFFIX,xyys.com
@@ -857,8 +870,6 @@ payload:
   - DOMAIN-SUFFIX,zongheng.com
   - DOMAIN-SUFFIX,tgbus.com
   - DOMAIN-SUFFIX,vgtime.com
-  - DOMAIN-SUFFIX,17173.com
-  - DOMAIN-SUFFIX,17173cdn.com
   - DOMAIN-SUFFIX,18183.com
   - DOMAIN-SUFFIX,3dmgame.com
   - DOMAIN-SUFFIX,ali213.net

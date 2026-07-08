@@ -842,6 +842,7 @@ payload:
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,zjfcdn.com
   - DOMAIN-SUFFIX,zjgslb.com
+  - DOMAIN-SUFFIX,zlinkurl.cn
   - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,toutiaocdn.com

@@ -37,6 +37,11 @@ payload:
   - DOMAIN,web-analytics.wildberries.ru
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,flowwow-images.com
+  - DOMAIN-SUFFIX,flowwow.com
+  - DOMAIN-SUFFIX,funpay.com
+  - DOMAIN-SUFFIX,funpay.ru
+  - DOMAIN-SUFFIX,sfunpay.com
   - DOMAIN-SUFFIX,ewisdom.us.kg
   - DOMAIN-SUFFIX,o3.ru
   - DOMAIN-SUFFIX,o3t.ru
