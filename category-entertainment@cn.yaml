@@ -6,6 +6,15 @@ payload:
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,xz.pphimalayanrt.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+  - DOMAIN,amp-api-edge.music.apple.com
+  - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,js-cdn.music.apple.com
+  - DOMAIN,music.apple.com
+  - DOMAIN,musicstatus.music.apple.com
+  - DOMAIN,play.music.apple.com
+  - DOMAIN,speedysub.music.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,podcasts.apple.com
   - DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
   - DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
   - DOMAIN,aod-ssl.itunes.apple.com
@@ -30,7 +39,9 @@ payload:
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,se-edge.itunes.apple.com
   - DOMAIN,se2.itunes.apple.com
   - DOMAIN,search.itunes.apple.com

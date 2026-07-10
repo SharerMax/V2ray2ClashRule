@@ -394,6 +394,13 @@ payload:
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,p-events-delivery.akamaized.net
+  - DOMAIN,amp-api-edge.music.apple.com
+  - DOMAIN,amp-api.music.apple.com
+  - DOMAIN,js-cdn.music.apple.com
+  - DOMAIN,music.apple.com
+  - DOMAIN,musicstatus.music.apple.com
+  - DOMAIN,play.music.apple.com
+  - DOMAIN,speedysub.music.apple.com
   - DOMAIN,certs-lb.apple.com.akadns.net
   - DOMAIN,certs.apple.com
   - DOMAIN,crl-lb.apple.com.akadns.net
@@ -402,6 +409,8 @@ payload:
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,valid.apple.com
   - DOMAIN,valid.origin-apple.com.akadns.net
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,podcasts.apple.com
   - DOMAIN,apple-tv-plus-press.apple.com
   - DOMAIN,hls-amt.itunes.apple.com
   - DOMAIN,hls.itunes.apple.com
@@ -435,7 +444,9 @@ payload:
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
+  - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN,play.itunes.apple.com
+  - DOMAIN,podcasts.itunes.apple.com
   - DOMAIN,se-edge.itunes.apple.com
   - DOMAIN,se2.itunes.apple.com
   - DOMAIN,search.itunes.apple.com
@@ -458,12 +469,9 @@ payload:
   - DOMAIN,configuration-lb.ls-apple.com.akadns.net
   - DOMAIN,push-apple.com.akadns.net
   - DOMAIN,amp-api-edge.apps.apple.com
-  - DOMAIN,amp-api-edge.music.apple.com
   - DOMAIN,amp-api-search-edge.apps.apple.com
   - DOMAIN,amp-api.apps.apple.com
-  - DOMAIN,amp-api.music.apple.com
   - DOMAIN,api-edge.apps.apple.com
-  - DOMAIN,auth.music.apple.com
   - DOMAIN,communities.apple.com
   - DOMAIN,discussionschinese.apple.com
   - DOMAIN,fides-pol.apple.com
@@ -472,12 +480,8 @@ payload:
   - DOMAIN,gspe85-cn-ssl.ls.apple.com
   - DOMAIN,init.gc-lb.apple.com.akadns.net
   - DOMAIN,init.gc.apple.com
-  - DOMAIN,js-cdn.music.apple.com
   - DOMAIN,km.support.apple.com
   - DOMAIN,maps.apple.com
-  - DOMAIN,musicstatus.music.apple.com
-  - DOMAIN,play.music.apple.com
-  - DOMAIN,speedysub.music.apple.com
   - DOMAIN,www.support.apple.com
   - DOMAIN,a1.mzstatic.com
   - DOMAIN,a2.mzstatic.com
@@ -587,7 +591,6 @@ payload:
   - DOMAIN,mesu-china.apple.com.akadns.net
   - DOMAIN,mesu.apple.com
   - DOMAIN,ml.cdn-apple.com
-  - DOMAIN,music.apple.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
   - DOMAIN,pancake.apple.com
@@ -2331,6 +2334,19 @@ payload:
   - DOMAIN-SUFFIX,webkitgtk.org
   - DOMAIN-SUFFIX,wpewebkit.org
   - DOMAIN-SUFFIX,webobjects.com
+  - DOMAIN-SUFFIX,applemusic.berlin
+  - DOMAIN-SUFFIX,applemusic.co
+  - DOMAIN-SUFFIX,applemusic.com
+  - DOMAIN-SUFFIX,applemusic.com.au
+  - DOMAIN-SUFFIX,applemusic.hamburg
+  - DOMAIN-SUFFIX,applemusic.wang
+  - DOMAIN-SUFFIX,applemusicconnect.com
+  - DOMAIN-SUFFIX,applemusicfestival.com
+  - DOMAIN-SUFFIX,musickit.net
+  - DOMAIN-SUFFIX,wwwapplemusic.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,applepodcasts.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,appldnld.apple.com
   - DOMAIN-SUFFIX,configuration.apple.com
@@ -3270,6 +3286,81 @@ payload:
   - DOMAIN-SUFFIX,apple.xn--czr694b
   - DOMAIN-SUFFIX,apple.xn--fiqs8s
   - DOMAIN-SUFFIX,apple.xyz
+  - DOMAIN-SUFFIX,app-store.wang
+  - DOMAIN-SUFFIX,appe-store.com
+  - DOMAIN-SUFFIX,apple-appstore.cn
+  - DOMAIN-SUFFIX,appleappstore.cn
+  - DOMAIN-SUFFIX,appleappstore.net
+  - DOMAIN-SUFFIX,appleappstore.tv
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,appstore.co.id
+  - DOMAIN-SUFFIX,appstore.hk
+  - DOMAIN-SUFFIX,appstore.my
+  - DOMAIN-SUFFIX,appstore.ph
+  - DOMAIN-SUFFIX,appstoreapple.cn
+  - DOMAIN-SUFFIX,asto.re
+  - DOMAIN-SUFFIX,tvappstore.net
+  - DOMAIN-SUFFIX,applecare.berlin
+  - DOMAIN-SUFFIX,applecare.cc
+  - DOMAIN-SUFFIX,applecare.eu
+  - DOMAIN-SUFFIX,applecare.hamburg
+  - DOMAIN-SUFFIX,applecare.wang
+  - DOMAIN-SUFFIX,appleaccount.net
+  - DOMAIN-SUFFIX,appleid-applemx.com
+  - DOMAIN-SUFFIX,appleid-applemx.us
+  - DOMAIN-SUFFIX,appleid-iclou.com
+  - DOMAIN-SUFFIX,appleid-uk.us
+  - DOMAIN-SUFFIX,appleid.berlin
+  - DOMAIN-SUFFIX,appleid.com
+  - DOMAIN-SUFFIX,appleid.hamburg
+  - DOMAIN-SUFFIX,appleid.hk
+  - DOMAIN-SUFFIX,ids-apple.com
+  - DOMAIN-SUFFIX,myappleid.com
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appleenews.com
+  - DOMAIN-SUFFIX,applenews.berlin
+  - DOMAIN-SUFFIX,applenews.hamburg
+  - DOMAIN-SUFFIX,applenews.tv
+  - DOMAIN-SUFFIX,applenewsformat.com
+  - DOMAIN-SUFFIX,appleone.audio
+  - DOMAIN-SUFFIX,appleone.blog
+  - DOMAIN-SUFFIX,appleone.chat
+  - DOMAIN-SUFFIX,appleone.cloud
+  - DOMAIN-SUFFIX,appleone.club
+  - DOMAIN-SUFFIX,appleone.community
+  - DOMAIN-SUFFIX,appleone.film
+  - DOMAIN-SUFFIX,appleone.guide
+  - DOMAIN-SUFFIX,appleone.host
+  - DOMAIN-SUFFIX,appleone.space
+  - DOMAIN-SUFFIX,appleone.tech
+  - DOMAIN-SUFFIX,appleone.website
+  - DOMAIN-SUFFIX,apple-pay.com
+  - DOMAIN-SUFFIX,apple-pay.rs
+  - DOMAIN-SUFFIX,apple-pay.wang
+  - DOMAIN-SUFFIX,applepay.berlin
+  - DOMAIN-SUFFIX,applepay.co.rs
+  - DOMAIN-SUFFIX,applepay.com.tw
+  - DOMAIN-SUFFIX,applepay.hamburg
+  - DOMAIN-SUFFIX,applepay.hk
+  - DOMAIN-SUFFIX,applepay.info
+  - DOMAIN-SUFFIX,applepay.jp
+  - DOMAIN-SUFFIX,applepay.rs
+  - DOMAIN-SUFFIX,applepay.tv
+  - DOMAIN-SUFFIX,applepaycash.cn
+  - DOMAIN-SUFFIX,applepaycash.com.cn
+  - DOMAIN-SUFFIX,applepaycash.net
+  - DOMAIN-SUFFIX,applepaycash.tv
+  - DOMAIN-SUFFIX,applepaymerchantsupplies.info
+  - DOMAIN-SUFFIX,applepaysupplies.berlin
+  - DOMAIN-SUFFIX,applepaysupplies.cn
+  - DOMAIN-SUFFIX,applepaysupplies.com
+  - DOMAIN-SUFFIX,applepaysupplies.com.cn
+  - DOMAIN-SUFFIX,applepaysupplies.info
+  - DOMAIN-SUFFIX,applepaysupplies.net
+  - DOMAIN-SUFFIX,applepaysupplies.tv
+  - DOMAIN-SUFFIX,applewallet.com
+  - DOMAIN-SUFFIX,applewallet.tv
   - DOMAIN-SUFFIX,aplestore.com
   - DOMAIN-SUFFIX,apple-store.cn
   - DOMAIN-SUFFIX,apple-store.net
@@ -3315,20 +3406,28 @@ payload:
   - DOMAIN-SUFFIX,applestoreonline.com
   - DOMAIN-SUFFIX,applestorepro.eu
   - DOMAIN-SUFFIX,onlineapplestore.com
-  - DOMAIN-SUFFIX,app-store.wang
-  - DOMAIN-SUFFIX,appe-store.com
-  - DOMAIN-SUFFIX,apple-appstore.cn
-  - DOMAIN-SUFFIX,appleappstore.cn
-  - DOMAIN-SUFFIX,appleappstore.net
-  - DOMAIN-SUFFIX,appleappstore.tv
-  - DOMAIN-SUFFIX,appsto.re
-  - DOMAIN-SUFFIX,appstore.co.id
-  - DOMAIN-SUFFIX,appstore.hk
-  - DOMAIN-SUFFIX,appstore.my
-  - DOMAIN-SUFFIX,appstore.ph
-  - DOMAIN-SUFFIX,appstoreapple.cn
-  - DOMAIN-SUFFIX,asto.re
-  - DOMAIN-SUFFIX,tvappstore.net
+  - DOMAIN-SUFFIX,appletv.com
+  - DOMAIN-SUFFIX,appletv.fr
+  - DOMAIN-SUFFIX,appletv.wang
+  - DOMAIN-SUFFIX,appletv4.cn
+  - DOMAIN-SUFFIX,appletv4.com.cn
+  - DOMAIN-SUFFIX,appletvapp.apple
+  - DOMAIN-SUFFIX,apple-watch.com.ru
+  - DOMAIN-SUFFIX,applewatch.hk
+  - DOMAIN-SUFFIX,applewatch.tv
+  - DOMAIN-SUFFIX,applewatch.tw
+  - DOMAIN-SUFFIX,applewatch.wang
+  - DOMAIN-SUFFIX,applewatchedition.com
+  - DOMAIN-SUFFIX,applewatchseries3.net
+  - DOMAIN-SUFFIX,applewatchsport.com
+  - DOMAIN-SUFFIX,i-book.com
+  - DOMAIN-SUFFIX,i-book.net
+  - DOMAIN-SUFFIX,ibook.co.nz
+  - DOMAIN-SUFFIX,ibook.com
+  - DOMAIN-SUFFIX,ibook.eu
+  - DOMAIN-SUFFIX,ibook.net
+  - DOMAIN-SUFFIX,ibookpartner.com
+  - DOMAIN-SUFFIX,ibooksauthor.com
   - DOMAIN-SUFFIX,apple-imac.com
   - DOMAIN-SUFFIX,appleimac.com
   - DOMAIN-SUFFIX,imac-apple.com
@@ -3342,6 +3441,9 @@ payload:
   - DOMAIN-SUFFIX,imac.rs
   - DOMAIN-SUFFIX,imacapple.com
   - DOMAIN-SUFFIX,imacapplecomputer.com
+  - DOMAIN-SUFFIX,imovie.eu
+  - DOMAIN-SUFFIX,imoviegallery.com
+  - DOMAIN-SUFFIX,imoviestage.com
   - DOMAIN-SUFFIX,ebookforipad.com
   - DOMAIN-SUFFIX,euroipad.com
   - DOMAIN-SUFFIX,findmyipad.com
@@ -3366,6 +3468,52 @@ payload:
   - DOMAIN-SUFFIX,ipadmini.lk
   - DOMAIN-SUFFIX,ipadpro.buzz
   - DOMAIN-SUFFIX,ukipad.com
+  - DOMAIN-SUFFIX,aplleipods.com
+  - DOMAIN-SUFFIX,appleclassicipod.com
+  - DOMAIN-SUFFIX,downloadsforipod.com
+  - DOMAIN-SUFFIX,ipod.ca
+  - DOMAIN-SUFFIX,ipod.ch
+  - DOMAIN-SUFFIX,ipod.cm
+  - DOMAIN-SUFFIX,ipod.co
+  - DOMAIN-SUFFIX,ipod.co.nz
+  - DOMAIN-SUFFIX,ipod.co.uk
+  - DOMAIN-SUFFIX,ipod.co.za
+  - DOMAIN-SUFFIX,ipod.com
+  - DOMAIN-SUFFIX,ipod.com.au
+  - DOMAIN-SUFFIX,ipod.com.cn
+  - DOMAIN-SUFFIX,ipod.com.fr
+  - DOMAIN-SUFFIX,ipod.com.hk
+  - DOMAIN-SUFFIX,ipod.com.sg
+  - DOMAIN-SUFFIX,ipod.com.tw
+  - DOMAIN-SUFFIX,ipod.de
+  - DOMAIN-SUFFIX,ipod.es
+  - DOMAIN-SUFFIX,ipod.eu
+  - DOMAIN-SUFFIX,ipod.fr
+  - DOMAIN-SUFFIX,ipod.gr
+  - DOMAIN-SUFFIX,ipod.hk
+  - DOMAIN-SUFFIX,ipod.is
+  - DOMAIN-SUFFIX,ipod.net
+  - DOMAIN-SUFFIX,ipod.no
+  - DOMAIN-SUFFIX,ipod.pk
+  - DOMAIN-SUFFIX,ipod.rs
+  - DOMAIN-SUFFIX,ipod.ru
+  - DOMAIN-SUFFIX,ipod.tw
+  - DOMAIN-SUFFIX,ipodcentre.nl
+  - DOMAIN-SUFFIX,ipodcleaner.com
+  - DOMAIN-SUFFIX,ipoditouch.com
+  - DOMAIN-SUFFIX,ipodnano.com
+  - DOMAIN-SUFFIX,ipodnano.net
+  - DOMAIN-SUFFIX,ipodprices.com
+  - DOMAIN-SUFFIX,ipodrip.ca
+  - DOMAIN-SUFFIX,ipodrocks.com.au
+  - DOMAIN-SUFFIX,ipods.com
+  - DOMAIN-SUFFIX,ipodshop.com.au
+  - DOMAIN-SUFFIX,ipodtouch.co
+  - DOMAIN-SUFFIX,ipodtouch.com
+  - DOMAIN-SUFFIX,myipod.net
+  - DOMAIN-SUFFIX,offrezdesipods.com
+  - DOMAIN-SUFFIX,simplyipod.com
+  - DOMAIN-SUFFIX,wwwipodlounge.com
   - DOMAIN-SUFFIX,appleiphone.hu
   - DOMAIN-SUFFIX,appleiphone.net
   - DOMAIN-SUFFIX,appleiphonecell.com
@@ -3424,52 +3572,10 @@ payload:
   - DOMAIN-SUFFIX,iphoneunlockimei.com
   - DOMAIN-SUFFIX,iphonexs.tv
   - DOMAIN-SUFFIX,onlyiphone5case.com
-  - DOMAIN-SUFFIX,aplleipods.com
-  - DOMAIN-SUFFIX,appleclassicipod.com
-  - DOMAIN-SUFFIX,downloadsforipod.com
-  - DOMAIN-SUFFIX,ipod.ca
-  - DOMAIN-SUFFIX,ipod.ch
-  - DOMAIN-SUFFIX,ipod.cm
-  - DOMAIN-SUFFIX,ipod.co
-  - DOMAIN-SUFFIX,ipod.co.nz
-  - DOMAIN-SUFFIX,ipod.co.uk
-  - DOMAIN-SUFFIX,ipod.co.za
-  - DOMAIN-SUFFIX,ipod.com
-  - DOMAIN-SUFFIX,ipod.com.au
-  - DOMAIN-SUFFIX,ipod.com.cn
-  - DOMAIN-SUFFIX,ipod.com.fr
-  - DOMAIN-SUFFIX,ipod.com.hk
-  - DOMAIN-SUFFIX,ipod.com.sg
-  - DOMAIN-SUFFIX,ipod.com.tw
-  - DOMAIN-SUFFIX,ipod.de
-  - DOMAIN-SUFFIX,ipod.es
-  - DOMAIN-SUFFIX,ipod.eu
-  - DOMAIN-SUFFIX,ipod.fr
-  - DOMAIN-SUFFIX,ipod.gr
-  - DOMAIN-SUFFIX,ipod.hk
-  - DOMAIN-SUFFIX,ipod.is
-  - DOMAIN-SUFFIX,ipod.net
-  - DOMAIN-SUFFIX,ipod.no
-  - DOMAIN-SUFFIX,ipod.pk
-  - DOMAIN-SUFFIX,ipod.rs
-  - DOMAIN-SUFFIX,ipod.ru
-  - DOMAIN-SUFFIX,ipod.tw
-  - DOMAIN-SUFFIX,ipodcentre.nl
-  - DOMAIN-SUFFIX,ipodcleaner.com
-  - DOMAIN-SUFFIX,ipoditouch.com
-  - DOMAIN-SUFFIX,ipodnano.com
-  - DOMAIN-SUFFIX,ipodnano.net
-  - DOMAIN-SUFFIX,ipodprices.com
-  - DOMAIN-SUFFIX,ipodrip.ca
-  - DOMAIN-SUFFIX,ipodrocks.com.au
-  - DOMAIN-SUFFIX,ipods.com
-  - DOMAIN-SUFFIX,ipodshop.com.au
-  - DOMAIN-SUFFIX,ipodtouch.co
-  - DOMAIN-SUFFIX,ipodtouch.com
-  - DOMAIN-SUFFIX,myipod.net
-  - DOMAIN-SUFFIX,offrezdesipods.com
-  - DOMAIN-SUFFIX,simplyipod.com
-  - DOMAIN-SUFFIX,wwwipodlounge.com
+  - DOMAIN-SUFFIX,iphoto.eu
+  - DOMAIN-SUFFIX,iphoto.no
+  - DOMAIN-SUFFIX,iphoto.se
+  - DOMAIN-SUFFIX,iphoto.wang
   - DOMAIN-SUFFIX,imacsources.com
   - DOMAIN-SUFFIX,launchpad.wang
   - DOMAIN-SUFFIX,mac.wang
@@ -3497,111 +3603,18 @@ payload:
   - DOMAIN-SUFFIX,macbookpros.com
   - DOMAIN-SUFFIX,macbooksale.com
   - DOMAIN-SUFFIX,wwwmacbookair.com
-  - DOMAIN-SUFFIX,apple-watch.com.ru
-  - DOMAIN-SUFFIX,applewatch.hk
-  - DOMAIN-SUFFIX,applewatch.tv
-  - DOMAIN-SUFFIX,applewatch.tw
-  - DOMAIN-SUFFIX,applewatch.wang
-  - DOMAIN-SUFFIX,applewatchedition.com
-  - DOMAIN-SUFFIX,applewatchseries3.net
-  - DOMAIN-SUFFIX,applewatchsport.com
-  - DOMAIN-SUFFIX,applemusic.berlin
-  - DOMAIN-SUFFIX,applemusic.co
-  - DOMAIN-SUFFIX,applemusic.com
-  - DOMAIN-SUFFIX,applemusic.com.au
-  - DOMAIN-SUFFIX,applemusic.hamburg
-  - DOMAIN-SUFFIX,applemusic.wang
-  - DOMAIN-SUFFIX,applemusicconnect.com
-  - DOMAIN-SUFFIX,applemusicfestival.com
-  - DOMAIN-SUFFIX,musickit.net
-  - DOMAIN-SUFFIX,wwwapplemusic.com
-  - DOMAIN-SUFFIX,apple.comscoreresearch.com
-  - DOMAIN-SUFFIX,apple.news
-  - DOMAIN-SUFFIX,appleenews.com
-  - DOMAIN-SUFFIX,applenews.berlin
-  - DOMAIN-SUFFIX,applenews.hamburg
-  - DOMAIN-SUFFIX,applenews.tv
-  - DOMAIN-SUFFIX,applenewsformat.com
-  - DOMAIN-SUFFIX,apple-pay.com
-  - DOMAIN-SUFFIX,apple-pay.rs
-  - DOMAIN-SUFFIX,apple-pay.wang
-  - DOMAIN-SUFFIX,applepay.berlin
-  - DOMAIN-SUFFIX,applepay.co.rs
-  - DOMAIN-SUFFIX,applepay.com.tw
-  - DOMAIN-SUFFIX,applepay.hamburg
-  - DOMAIN-SUFFIX,applepay.hk
-  - DOMAIN-SUFFIX,applepay.info
-  - DOMAIN-SUFFIX,applepay.jp
-  - DOMAIN-SUFFIX,applepay.rs
-  - DOMAIN-SUFFIX,applepay.tv
-  - DOMAIN-SUFFIX,applepaycash.cn
-  - DOMAIN-SUFFIX,applepaycash.com.cn
-  - DOMAIN-SUFFIX,applepaycash.net
-  - DOMAIN-SUFFIX,applepaycash.tv
-  - DOMAIN-SUFFIX,applepaymerchantsupplies.info
-  - DOMAIN-SUFFIX,applepaysupplies.berlin
-  - DOMAIN-SUFFIX,applepaysupplies.cn
-  - DOMAIN-SUFFIX,applepaysupplies.com
-  - DOMAIN-SUFFIX,applepaysupplies.com.cn
-  - DOMAIN-SUFFIX,applepaysupplies.info
-  - DOMAIN-SUFFIX,applepaysupplies.net
-  - DOMAIN-SUFFIX,applepaysupplies.tv
-  - DOMAIN-SUFFIX,applewallet.com
-  - DOMAIN-SUFFIX,applewallet.tv
-  - DOMAIN-SUFFIX,i-book.com
-  - DOMAIN-SUFFIX,i-book.net
-  - DOMAIN-SUFFIX,ibook.co.nz
-  - DOMAIN-SUFFIX,ibook.com
-  - DOMAIN-SUFFIX,ibook.eu
-  - DOMAIN-SUFFIX,ibook.net
-  - DOMAIN-SUFFIX,ibookpartner.com
-  - DOMAIN-SUFFIX,ibooksauthor.com
-  - DOMAIN-SUFFIX,iphoto.eu
-  - DOMAIN-SUFFIX,iphoto.no
-  - DOMAIN-SUFFIX,iphoto.se
-  - DOMAIN-SUFFIX,iphoto.wang
-  - DOMAIN-SUFFIX,imovie.eu
-  - DOMAIN-SUFFIX,imoviegallery.com
-  - DOMAIN-SUFFIX,imoviestage.com
-  - DOMAIN-SUFFIX,applecare.berlin
-  - DOMAIN-SUFFIX,applecare.cc
-  - DOMAIN-SUFFIX,applecare.eu
-  - DOMAIN-SUFFIX,applecare.hamburg
-  - DOMAIN-SUFFIX,applecare.wang
+  - DOMAIN-SUFFIX,apple-darwin.com
+  - DOMAIN-SUFFIX,apple-darwin.net
+  - DOMAIN-SUFFIX,apple-darwin.org
   - DOMAIN-SUFFIX,appledarwin.com
   - DOMAIN-SUFFIX,appledarwin.net
   - DOMAIN-SUFFIX,darwinsource.com
   - DOMAIN-SUFFIX,darwinsource.org
   - DOMAIN-SUFFIX,darwinsourcecode.com
-  - DOMAIN-SUFFIX,appleaccount.net
-  - DOMAIN-SUFFIX,appleid-applemx.com
-  - DOMAIN-SUFFIX,appleid-applemx.us
-  - DOMAIN-SUFFIX,appleid-iclou.com
-  - DOMAIN-SUFFIX,appleid-uk.us
-  - DOMAIN-SUFFIX,appleid.berlin
-  - DOMAIN-SUFFIX,appleid.com
-  - DOMAIN-SUFFIX,appleid.hamburg
-  - DOMAIN-SUFFIX,appleid.hk
-  - DOMAIN-SUFFIX,ids-apple.com
-  - DOMAIN-SUFFIX,myappleid.com
-  - DOMAIN-SUFFIX,appletv.com
-  - DOMAIN-SUFFIX,appletv.fr
-  - DOMAIN-SUFFIX,appletv.wang
-  - DOMAIN-SUFFIX,appletv4.cn
-  - DOMAIN-SUFFIX,appletv4.com.cn
-  - DOMAIN-SUFFIX,appletvapp.apple
-  - DOMAIN-SUFFIX,appleone.audio
-  - DOMAIN-SUFFIX,appleone.blog
-  - DOMAIN-SUFFIX,appleone.chat
-  - DOMAIN-SUFFIX,appleone.cloud
-  - DOMAIN-SUFFIX,appleone.club
-  - DOMAIN-SUFFIX,appleone.community
-  - DOMAIN-SUFFIX,appleone.film
-  - DOMAIN-SUFFIX,appleone.guide
-  - DOMAIN-SUFFIX,appleone.host
-  - DOMAIN-SUFFIX,appleone.space
-  - DOMAIN-SUFFIX,appleone.tech
-  - DOMAIN-SUFFIX,appleone.website
+  - DOMAIN-SUFFIX,macos.com.au
+  - DOMAIN-SUFFIX,macossierra.com
+  - DOMAIN-SUFFIX,macosx.info
+  - DOMAIN-SUFFIX,macosxlion.com
   - DOMAIN-SUFFIX,shazam.com
   - DOMAIN-SUFFIX,1to1computing.com.au
   - DOMAIN-SUFFIX,1to1conference.com.au
@@ -3625,9 +3638,6 @@ payload:
   - DOMAIN-SUFFIX,appl.com
   - DOMAIN-SUFFIX,appl4e.com
   - DOMAIN-SUFFIX,appla.com
-  - DOMAIN-SUFFIX,apple-darwin.com
-  - DOMAIN-SUFFIX,apple-darwin.net
-  - DOMAIN-SUFFIX,apple-darwin.org
   - DOMAIN-SUFFIX,apple-dns.cn
   - DOMAIN-SUFFIX,apple-dns.com
   - DOMAIN-SUFFIX,apple-dns.com.cn
@@ -3697,7 +3707,6 @@ payload:
   - DOMAIN-SUFFIX,appleoriginalproductions.com
   - DOMAIN-SUFFIX,appleos.tv
   - DOMAIN-SUFFIX,applepencil.net
-  - DOMAIN-SUFFIX,applepodcasts.com
   - DOMAIN-SUFFIX,applepremiumreseller.com.au
   - DOMAIN-SUFFIX,applepremiumresellers.com.au
   - DOMAIN-SUFFIX,applereach.com
@@ -3815,10 +3824,6 @@ payload:
   - DOMAIN-SUFFIX,macintosh.eu
   - DOMAIN-SUFFIX,macintoshsoftware.com
   - DOMAIN-SUFFIX,macmini.com
-  - DOMAIN-SUFFIX,macos.com.au
-  - DOMAIN-SUFFIX,macossierra.com
-  - DOMAIN-SUFFIX,macosx.info
-  - DOMAIN-SUFFIX,macosxlion.com
   - DOMAIN-SUFFIX,macpazar.com
   - DOMAIN-SUFFIX,macreach.com
   - DOMAIN-SUFFIX,macreach.net

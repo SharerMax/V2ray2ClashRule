@@ -200,6 +200,7 @@ payload:
   - DOMAIN-SUFFIX,mryys.cn
   - DOMAIN-SUFFIX,mryys.com
   - DOMAIN-SUFFIX,mysqil.com
+  - DOMAIN-SUFFIX,mystery0.vip
   - DOMAIN-SUFFIX,pljzy.top
   - DOMAIN-SUFFIX,runningcheese.com
   - DOMAIN-SUFFIX,skywt.cn
@@ -407,6 +408,7 @@ payload:
   - DOMAIN-SUFFIX,szlcsc.com
   - DOMAIN-SUFFIX,zs-jlc.com
   - DOMAIN-SUFFIX,zxhgroup.com
+  - DOMAIN-SUFFIX,listenai.com
   - DOMAIN-SUFFIX,quecmall.cn
   - DOMAIN-SUFFIX,quectel.com.cn
   - DOMAIN-SUFFIX,iotronic.tech
@@ -1346,6 +1348,7 @@ payload:
   - DOMAIN-SUFFIX,yihaikerry.net.cn
   - DOMAIN-SUFFIX,luhua.cn
   - DOMAIN-SUFFIX,shuanghui.net
+  - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com
@@ -2382,6 +2385,7 @@ payload:
   - DOMAIN-SUFFIX,taikanglife.com
   - DOMAIN-SUFFIX,taikangzhijia.com
   - DOMAIN-SUFFIX,tkhealthcare.com
+  - DOMAIN-SUFFIX,baicaf.com
   - DOMAIN-SUFFIX,cc-pay.cn
   - DOMAIN-SUFFIX,daikuan.com
   - DOMAIN-SUFFIX,helipay.com
@@ -3400,6 +3404,7 @@ payload:
   - DOMAIN-SUFFIX,burningvocabulary.com
   - DOMAIN-SUFFIX,centuryenglish.com
   - DOMAIN-SUFFIX,cugbonline.cn
+  - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dearedu.com
   - DOMAIN-SUFFIX,dgjy.net
   - DOMAIN-SUFFIX,dict.cn
@@ -3901,6 +3906,7 @@ payload:
   - DOMAIN-SUFFIX,pan.baidu.com
   - DOMAIN-SUFFIX,pan.quark.cn
   - DOMAIN-SUFFIX,pan.xunlei.com
+  - DOMAIN-SUFFIX,share123.top
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,yun.139.com
   - DOMAIN-SUFFIX,yunpan.com
@@ -4610,6 +4616,30 @@ payload:
   - DOMAIN-SUFFIX,eufycn.com
   - DOMAIN-SUFFIX,eufymake.com.cn
   - DOMAIN-SUFFIX,soundcore.com.cn
+  - DOMAIN-SUFFIX,aux-home.com
+  - DOMAIN-SUFFIX,auxauto.com.cn
+  - DOMAIN-SUFFIX,auxcss.com
+  - DOMAIN-SUFFIX,auxgroup.com
+  - DOMAIN-SUFFIX,auxshop.cn
+  - DOMAIN-SUFFIX,auxshop.com
+  - DOMAIN-SUFFIX,auxsmart.com.cn
+  - DOMAIN-SUFFIX,auxsol.com
+  - DOMAIN-SUFFIX,auxsolar.com.cn
+  - DOMAIN-SUFFIX,auxsolcloud.com
+  - DOMAIN-SUFFIX,auxtelecom.com
+  - DOMAIN-SUFFIX,auxwy.com
+  - DOMAIN-SUFFIX,auxyl.com
+  - DOMAIN-SUFFIX,mzgjbj.com
+  - DOMAIN-SUFFIX,mzyyfck.com
+  - DOMAIN-SUFFIX,mzyygb.com
+  - DOMAIN-SUFFIX,mzyygk.com
+  - DOMAIN-SUFFIX,mzyyzl.com
+  - DOMAIN-SUFFIX,nbmzyl.com
+  - DOMAIN-SUFFIX,nbmzyy.com
+  - DOMAIN-SUFFIX,nbyzfeyy.com
+  - DOMAIN-SUFFIX,sanxing.com
+  - DOMAIN-SUFFIX,shuyifuwu.com.cn
+  - DOMAIN-SUFFIX,solarcloud.top
   - DOMAIN-SUFFIX,zuoyebang.cc
   - DOMAIN-SUFFIX,zuoyebang.com
   - DOMAIN-SUFFIX,zybang.com
@@ -7324,6 +7354,9 @@ payload:
   - DOMAIN-SUFFIX,xsbapp.cn
   - DOMAIN-SUFFIX,juziwulian.com
   - DOMAIN-SUFFIX,kaadas.com
+  - DOMAIN-SUFFIX,lulian.cn
+  - DOMAIN-SUFFIX,ugnas.cloud
+  - DOMAIN-SUFFIX,ugnas.com
   - DOMAIN-SUFFIX,onedns.net
   - DOMAIN-SUFFIX,shellpub.com
   - DOMAIN-SUFFIX,threatbook.cn
@@ -7796,6 +7829,7 @@ payload:
   - DOMAIN-SUFFIX,gdrc.com
   - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,gezida.com
+  - DOMAIN-SUFFIX,gifpay.com
   - DOMAIN-SUFFIX,globrand.com
   - DOMAIN-SUFFIX,gm86.com
   - DOMAIN-SUFFIX,gmz88.com
@@ -7857,6 +7891,7 @@ payload:
   - DOMAIN-SUFFIX,hongyuanqh.com
   - DOMAIN-SUFFIX,houdao.com
   - DOMAIN-SUFFIX,houyuantuan.com
+  - DOMAIN-SUFFIX,hprtupgrade.com
   - DOMAIN-SUFFIX,hteacher.net
   - DOMAIN-SUFFIX,huashengdaili.com
   - DOMAIN-SUFFIX,huize.com
@@ -7879,8 +7914,10 @@ payload:
   - DOMAIN-SUFFIX,imacos.top
   - DOMAIN-SUFFIX,imgcdc.com
   - DOMAIN-SUFFIX,imooc.com
+  - DOMAIN-SUFFIX,indeedpower.com
   - DOMAIN-SUFFIX,indienova.com
   - DOMAIN-SUFFIX,infini-fantasy.com
+  - DOMAIN-SUFFIX,iposl.com
   - DOMAIN-SUFFIX,iranshao.com
   - DOMAIN-SUFFIX,irs01.com
   - DOMAIN-SUFFIX,istoreos.com
@@ -8174,6 +8211,8 @@ payload:
   - DOMAIN-SUFFIX,taoche.com
   - DOMAIN-SUFFIX,te5.com
   - DOMAIN-SUFFIX,tenxcloud.com
+  - DOMAIN-SUFFIX,tggfl.com
+  - DOMAIN-SUFFIX,thispx.com
   - DOMAIN-SUFFIX,thmnet.com
   - DOMAIN-SUFFIX,tianlailive.com
   - DOMAIN-SUFFIX,tianlala.com
@@ -8185,6 +8224,7 @@ payload:
   - DOMAIN-SUFFIX,titanar.com
   - DOMAIN-SUFFIX,tjjt360.com
   - DOMAIN-SUFFIX,tmcdn.net
+  - DOMAIN-SUFFIX,tmwanba.com
   - DOMAIN-SUFFIX,tobosu.com
   - DOMAIN-SUFFIX,tom.com
   - DOMAIN-SUFFIX,tongdun.net
