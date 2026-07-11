@@ -2008,6 +2008,8 @@ payload:
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,gfw.report
   - DOMAIN-SUFFIX,guardianproject.info
+  - DOMAIN-SUFFIX,happ.info
+  - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,hiddify.com
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,lokinet.org
@@ -5027,6 +5029,9 @@ payload:
   - DOMAIN-SUFFIX,botim.me
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,binance.cc
   - DOMAIN-SUFFIX,binance.charity
   - DOMAIN-SUFFIX,binance.cloud
@@ -5191,6 +5196,7 @@ payload:
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,dogecoin.com
   - DOMAIN-SUFFIX,drpc.org
   - DOMAIN-SUFFIX,dydx.exchange
@@ -5218,11 +5224,16 @@ payload:
   - DOMAIN-SUFFIX,mytokenapi.com
   - DOMAIN-SUFFIX,nodereal.io
   - DOMAIN-SUFFIX,oasis.io
+  - DOMAIN-SUFFIX,onemoment.cc
   - DOMAIN-SUFFIX,onfinality.io
   - DOMAIN-SUFFIX,opensea.io
   - DOMAIN-SUFFIX,osl.com
   - DOMAIN-SUFFIX,paxful.com
+  - DOMAIN-SUFFIX,payget.pro
+  - DOMAIN-SUFFIX,platov.co
   - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,ramon.cash
+  - DOMAIN-SUFFIX,ramon.money
   - DOMAIN-SUFFIX,ripple.com
   - DOMAIN-SUFFIX,rsk.co
   - DOMAIN-SUFFIX,satoshilabs.com
@@ -6503,6 +6514,7 @@ payload:
   - DOMAIN-SUFFIX,pornhubapparel.com
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,redino.tw
+  - DOMAIN-SUFFIX,templatemonster.com
   - DOMAIN-SUFFIX,anandtech.com
   - DOMAIN-SUFFIX,betterexplained.com
   - DOMAIN-SUFFIX,brilliant.org
@@ -19131,6 +19143,7 @@ payload:
   - DOMAIN-SUFFIX,mate-desktop.org
   - DOMAIN-SUFFIX,mingw.org
   - DOMAIN-SUFFIX,mobatek.net
+  - DOMAIN-SUFFIX,motocms.com
   - DOMAIN-SUFFIX,mpv.io
   - DOMAIN-SUFFIX,msys2.org
   - DOMAIN-SUFFIX,mysql.com
@@ -19187,6 +19200,7 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,ziglang.org
   - DOMAIN-SUFFIX,zsh.org
+  - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,elegantthemes.com
   - DOMAIN-SUFFIX,hivepress.io
   - DOMAIN-SUFFIX,motopress.com

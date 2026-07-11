@@ -65,6 +65,8 @@ payload:
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,gfw.report
   - DOMAIN-SUFFIX,guardianproject.info
+  - DOMAIN-SUFFIX,happ.info
+  - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,hiddify.com
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,lokinet.org
