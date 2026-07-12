@@ -397,6 +397,7 @@ payload:
   - DOMAIN-SUFFIX,e.mindbox.ru
   - DOMAIN-SUFFIX,g.mindbox.ru
   - DOMAIN-SUFFIX,s.mindbox.ru
+  - DOMAIN-SUFFIX,ad.api.moji.com
   - DOMAIN-SUFFIX,a.mts.ru
   - DOMAIN-SUFFIX,obs.mts.ru
   - DOMAIN-SUFFIX,youdaoads.com
@@ -600,7 +601,6 @@ payload:
   - DOMAIN-SUFFIX,a.adtng.com
   - DOMAIN-SUFFIX,aaxads.com
   - DOMAIN-SUFFIX,ad-srv.net
-  - DOMAIN-SUFFIX,ad.api.moji.com
   - DOMAIN-SUFFIX,ad.wang502.com
   - DOMAIN-SUFFIX,adbutter.net
   - DOMAIN-SUFFIX,addthisedge.com

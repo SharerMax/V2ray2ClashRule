@@ -738,7 +738,6 @@ payload:
   - DOMAIN-SUFFIX,iluckysf.net
   - DOMAIN-SUFFIX,itmanager.club
   - DOMAIN-SUFFIX,itoutiaoliving.com
-  - DOMAIN-SUFFIX,jianying.com
   - DOMAIN-SUFFIX,jokecommunity.cn
   - DOMAIN-SUFFIX,jokecommunity.com
   - DOMAIN-SUFFIX,jokecommunity.net
@@ -843,6 +842,11 @@ payload:
   - DOMAIN-SUFFIX,zjfcdn.com
   - DOMAIN-SUFFIX,zjgslb.com
   - DOMAIN-SUFFIX,zlinkurl.cn
+  - DOMAIN-SUFFIX,jianying.com
+  - DOMAIN-SUFFIX,jimeng.com
+  - DOMAIN-SUFFIX,vlabimg.com
+  - DOMAIN-SUFFIX,vlabstatic.com
+  - DOMAIN-SUFFIX,vlabvod.com
   - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,toutiaoapi.com
   - DOMAIN-SUFFIX,toutiaocdn.com
