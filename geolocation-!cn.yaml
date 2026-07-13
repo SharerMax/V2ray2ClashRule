@@ -841,11 +841,7 @@ payload:
   - DOMAIN,lmlicenses.wip4.adobe.com
   - DOMAIN,na1r.services.adobe.com
   - DOMAIN,ood.opsource.net
-  - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.com
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,wip.adobe.com
   - DOMAIN,wip1.adobe.com
   - DOMAIN,wip2.adobe.com
@@ -1872,6 +1868,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,crixet.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
@@ -3376,7 +3373,6 @@ payload:
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru
   - DOMAIN-SUFFIX,myapelsin.ru
-  - DOMAIN-SUFFIX,alfabank.oavdo.amc
   - DOMAIN-SUFFIX,bbr.ru
   - DOMAIN-SUFFIX,bcs.ru
   - DOMAIN-SUFFIX,bcs-bank.ru
@@ -7405,7 +7401,6 @@ payload:
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itch.zone
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,573.jp
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kiwi.jp
@@ -8362,6 +8357,7 @@ payload:
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,iyf.tv
   - DOMAIN-SUFFIX,yfsp.tv
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kfs.io
@@ -19702,7 +19698,6 @@ payload:
   - DOMAIN-SUFFIX,gbiz
   - DOMAIN-SUFFIX,gle
   - DOMAIN-SUFFIX,gmail
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
   - DOMAIN-SUFFIX,guge
@@ -23891,7 +23886,6 @@ payload:
   - DOMAIN-SUFFIX,clearlinux.org
   - DOMAIN-SUFFIX,ospray.net
   - DOMAIN-SUFFIX,ospray.org
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel.ac
   - DOMAIN-SUFFIX,intel.ae
   - DOMAIN-SUFFIX,intel.af

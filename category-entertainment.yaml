@@ -579,7 +579,6 @@ payload:
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,itch.io
   - DOMAIN-SUFFIX,itch.zone
-  - DOMAIN-SUFFIX,konami
   - DOMAIN-SUFFIX,573.jp
   - DOMAIN-SUFFIX,kgisystems.com
   - DOMAIN-SUFFIX,kiwi.jp
@@ -1536,6 +1535,7 @@ payload:
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,iyf.tv
   - DOMAIN-SUFFIX,yfsp.tv
+  - DOMAIN-SUFFIX,kick.com
   - DOMAIN-SUFFIX,kingkong.com.tw
   - DOMAIN-SUFFIX,kingkongapp.com
   - DOMAIN-SUFFIX,kfs.io

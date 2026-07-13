@@ -500,7 +500,6 @@ payload:
   - DOMAIN-SUFFIX,xn--h2brj9c8c
   - DOMAIN-SUFFIX,xn--mgbgu82a
   - DOMAIN-SUFFIX,xn--mgba3a4f16a
-  - DOMAIN-SUFFIX,xn--mgba3a4fra
   - DOMAIN-SUFFIX,xn--mgbtx2b
   - DOMAIN-SUFFIX,xn--mgbayh7gpa
   - DOMAIN-SUFFIX,xn--80ao21a
@@ -714,7 +713,6 @@ payload:
   - DOMAIN-SUFFIX,godaddy
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,guge
   - DOMAIN-SUFFIX,hangout
   - DOMAIN-SUFFIX,hkt

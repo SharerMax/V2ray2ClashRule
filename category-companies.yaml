@@ -33,11 +33,7 @@ payload:
   - DOMAIN,lmlicenses.wip4.adobe.com
   - DOMAIN,na1r.services.adobe.com
   - DOMAIN,ood.opsource.net
-  - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.com
-  - DOMAIN,practivate.adobe.ipp
-  - DOMAIN,practivate.adobe.newoa
-  - DOMAIN,practivate.adobe.ntp
   - DOMAIN,wip.adobe.com
   - DOMAIN,wip1.adobe.com
   - DOMAIN,wip2.adobe.com
@@ -1488,7 +1484,6 @@ payload:
   - DOMAIN-SUFFIX,gbiz
   - DOMAIN-SUFFIX,gle
   - DOMAIN-SUFFIX,gmail
-  - DOMAIN-SUFFIX,goo
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
   - DOMAIN-SUFFIX,guge
@@ -5677,7 +5672,6 @@ payload:
   - DOMAIN-SUFFIX,clearlinux.org
   - DOMAIN-SUFFIX,ospray.net
   - DOMAIN-SUFFIX,ospray.org
-  - DOMAIN-SUFFIX,intel
   - DOMAIN-SUFFIX,intel.ac
   - DOMAIN-SUFFIX,intel.ae
   - DOMAIN-SUFFIX,intel.af

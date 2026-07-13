@@ -2407,6 +2407,7 @@ payload:
   - DOMAIN-SUFFIX,baicaf.com
   - DOMAIN-SUFFIX,cc-pay.cn
   - DOMAIN-SUFFIX,daikuan.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,helipay.com
   - DOMAIN-SUFFIX,hsqh.net
   - DOMAIN-SUFFIX,iboxpay.com
@@ -3745,6 +3746,7 @@ payload:
   - DOMAIN-SUFFIX,safeskill.cn
   - DOMAIN-SUFFIX,zhiexa.com
   - DOMAIN-SUFFIX,linka2a.net
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,asklink.com
   - DOMAIN-SUFFIX,easytier.cn
   - DOMAIN-SUFFIX,feihengip.com
