@@ -347,6 +347,7 @@ payload:
   - DOMAIN-SUFFIX,php.cn
   - DOMAIN-SUFFIX,pingcode.com
   - DOMAIN-SUFFIX,tipdm.org
+  - DOMAIN-SUFFIX,weboss.hk
   - DOMAIN-SUFFIX,zuidaima.com
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,arrow.cn
@@ -1263,6 +1264,12 @@ payload:
   - DOMAIN-SUFFIX,mtime.com
   - DOMAIN-SUFFIX,pearvideo.com
   - DOMAIN-SUFFIX,pipi.cn
+  - DOMAIN-SUFFIX,rrmj.plus
+  - DOMAIN-SUFFIX,rrsp.app
+  - DOMAIN-SUFFIX,rrsp.com.cn
+  - DOMAIN-SUFFIX,qwapp.top
+  - DOMAIN-SUFFIX,qwdjapp.com
+  - DOMAIN-SUFFIX,yichengwlkj.com
   - DOMAIN-SUFFIX,sfacg.com
   - DOMAIN-SUFFIX,shuhai.com
   - DOMAIN-SUFFIX,tadu.com
@@ -3448,8 +3455,10 @@ payload:
   - DOMAIN-SUFFIX,zggqzp.com
   - DOMAIN-SUFFIX,zgjsks.com
   - DOMAIN-SUFFIX,zgsydw.com
+  - DOMAIN-SUFFIX,gaojidata.com
   - DOMAIN-SUFFIX,gk100.com
   - DOMAIN-SUFFIX,guojibk.com
+  - DOMAIN-SUFFIX,gzasc.com
   - DOMAIN-SUFFIX,huatu.com
   - DOMAIN-SUFFIX,sydw8.com
   - DOMAIN-SUFFIX,ictbda.cn
@@ -8197,7 +8206,6 @@ payload:
   - DOMAIN-SUFFIX,qugame.com
   - DOMAIN-SUFFIX,qunjielong.com
   - DOMAIN-SUFFIX,rockyenglish.com
-  - DOMAIN-SUFFIX,rrmj.plus
   - DOMAIN-SUFFIX,rtbasia.com
   - DOMAIN-SUFFIX,ruan8.com
   - DOMAIN-SUFFIX,ruiwen.com
