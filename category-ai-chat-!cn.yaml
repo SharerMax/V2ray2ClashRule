@@ -79,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -127,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
   - DOMAIN-SUFFIX,cohere.ai
   - DOMAIN-SUFFIX,cohere.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com

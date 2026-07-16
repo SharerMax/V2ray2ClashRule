@@ -1261,6 +1261,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -6962,6 +6963,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
   - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azurehdinsight.cn
   - DOMAIN-SUFFIX,azureiotcentral.com
@@ -7089,6 +7091,7 @@ payload:
   - DOMAIN-SUFFIX,office365tw.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
@@ -8221,6 +8224,7 @@ payload:
   - DOMAIN-SUFFIX,sovec.net
   - DOMAIN-SUFFIX,so-net.net.tw
   - DOMAIN-SUFFIX,spacex.com
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,spacemail.com
   - DOMAIN-SUFFIX,spaceship.com
   - DOMAIN-SUFFIX,st.com
