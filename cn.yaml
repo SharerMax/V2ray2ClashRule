@@ -63,6 +63,7 @@ payload:
   - DOMAIN,geetest.datasink.sensorsdata.cn
   - DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
   - DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+  - DOMAIN,api.blipsandchitz.me
   - DOMAIN,account-cn.alibabacloud.com
   - DOMAIN,api.alibabacloud.com
   - DOMAIN,cn.alibabacloud.com
@@ -8517,6 +8518,7 @@ payload:
   - DOMAIN-SUFFIX,vhengdata.com
   - DOMAIN-SUFFIX,wanji.net.cn
   - DOMAIN-SUFFIX,yebinnet.com
+  - DOMAIN-SUFFIX,hrsecn.com
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
