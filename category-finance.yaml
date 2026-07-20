@@ -417,6 +417,7 @@ payload:
   - DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
   - DOMAIN-SUFFIX,bank131.com
   - DOMAIN-SUFFIX,bankermak.ru
+  - DOMAIN-SUFFIX,best2pay.net
   - DOMAIN-SUFFIX,bfa.ru
   - DOMAIN-SUFFIX,blanc.ru
   - DOMAIN-SUFFIX,bm-bank.ru
@@ -425,6 +426,7 @@ payload:
   - DOMAIN-SUFFIX,finambank.ru
   - DOMAIN-SUFFIX,forshtadt.ru
   - DOMAIN-SUFFIX,homecredit.ru
+  - DOMAIN-SUFFIX,hva.im
   - DOMAIN-SUFFIX,ibamoscow.ru
   - DOMAIN-SUFFIX,jpmorgan.ru
   - DOMAIN-SUFFIX,korona.com
@@ -436,6 +438,8 @@ payload:
   - DOMAIN-SUFFIX,prvbank.ru
   - DOMAIN-SUFFIX,pskb.ru
   - DOMAIN-SUFFIX,pvubank.com
+  - DOMAIN-SUFFIX,rbsgate.com
+  - DOMAIN-SUFFIX,rbsuat.com
   - DOMAIN-SUFFIX,rencapbank.ru
   - DOMAIN-SUFFIX,rencredit.ru
   - DOMAIN-SUFFIX,rncoluminis.ru
