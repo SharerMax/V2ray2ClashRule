@@ -18,6 +18,20 @@ payload:
   - DOMAIN-SUFFIX,hqdoc.com
   - DOMAIN-SUFFIX,hqpcb.com
   - DOMAIN-SUFFIX,infineon.cn
+  - DOMAIN-SUFFIX,gosinoic.com
+  - DOMAIN-SUFFIX,h3c.com
+  - DOMAIN-SUFFIX,moedu.com
+  - DOMAIN-SUFFIX,thunis.com
+  - DOMAIN-SUFFIX,tsinghuaic.com
+  - DOMAIN-SUFFIX,tsingtengms.com
+  - DOMAIN-SUFFIX,unicloud.com
+  - DOMAIN-SUFFIX,unigroup.com.cn
+  - DOMAIN-SUFFIX,uniscan.cn
+  - DOMAIN-SUFFIX,unisdigital.com
+  - DOMAIN-SUFFIX,unisemicon.com
+  - DOMAIN-SUFFIX,unisoc.com
+  - DOMAIN-SUFFIX,unispc.com
+  - DOMAIN-SUFFIX,uniswdc.com
   - DOMAIN-SUFFIX,fa-part.com
   - DOMAIN-SUFFIX,forface3d.com
   - DOMAIN-SUFFIX,jlc-3dp.cn

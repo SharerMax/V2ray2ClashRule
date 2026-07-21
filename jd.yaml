@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,7fresh.com
   - DOMAIN-SUFFIX,baitiao.com
   - DOMAIN-SUFFIX,blackdragon.com
+  - DOMAIN-SUFFIX,buyjingxi.com
   - DOMAIN-SUFFIX,caiyu.com
   - DOMAIN-SUFFIX,chicalot.cn
   - DOMAIN-SUFFIX,chinabank.com.cn
@@ -181,6 +182,7 @@ payload:
   - DOMAIN-SUFFIX,jddapeigou.com
   - DOMAIN-SUFFIX,jddebug.com
   - DOMAIN-SUFFIX,jddglobal.com
+  - DOMAIN-SUFFIX,jddj.com
   - DOMAIN-SUFFIX,jdemall.com
   - DOMAIN-SUFFIX,jdfw1.com
   - DOMAIN-SUFFIX,jdgslb.com
@@ -197,6 +199,7 @@ payload:
   - DOMAIN-SUFFIX,jdx.com
   - DOMAIN-SUFFIX,jhscm.com
   - DOMAIN-SUFFIX,jingdong.com
+  - DOMAIN-SUFFIX,jingdonghealth.cn
   - DOMAIN-SUFFIX,jingdongjinrong.com
   - DOMAIN-SUFFIX,jingpinhui.com
   - DOMAIN-SUFFIX,jingxi.com
