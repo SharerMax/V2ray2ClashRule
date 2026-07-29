@@ -1914,6 +1914,7 @@ payload:
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,youmind.ai
   - DOMAIN-SUFFIX,youmind.com
@@ -1987,6 +1988,7 @@ payload:
   - DOMAIN-SUFFIX,jorropo.net
   - DOMAIN-SUFFIX,nftstorage.link
   - DOMAIN-SUFFIX,via0.com
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,citizenlab.ca
   - DOMAIN-SUFFIX,citizenlab.org
@@ -3462,15 +3464,16 @@ payload:
   - DOMAIN-SUFFIX,megamarket.tech
   - DOMAIN-SUFFIX,sberauto.com
   - DOMAIN-SUFFIX,sberbank-insurance.ru
+  - DOMAIN-SUFFIX,sberbank-tele.com
+  - DOMAIN-SUFFIX,sberbankaktivno.ru
+  - DOMAIN-SUFFIX,sberbankins.ru
   - DOMAIN-SUFFIX,sbercloud.ru
   - DOMAIN-SUFFIX,sbercloud.tech
   - DOMAIN-SUFFIX,sberdevices.ru
   - DOMAIN-SUFFIX,sberdisk.ru
   - DOMAIN-SUFFIX,sberfactoring.ru
-  - DOMAIN-SUFFIX,sberindex.ru
-  - DOMAIN-SUFFIX,sberbankaktivno.ru
-  - DOMAIN-SUFFIX,sberbankins.ru
   - DOMAIN-SUFFIX,sberhealth.ru
+  - DOMAIN-SUFFIX,sberindex.ru
   - DOMAIN-SUFFIX,sberleasing.ru
   - DOMAIN-SUFFIX,sberlogistics.ru
   - DOMAIN-SUFFIX,sbermegamarket.ru
@@ -7125,6 +7128,7 @@ payload:
   - DOMAIN-SUFFIX,bowlroll.net
   - DOMAIN-SUFFIX,cdnvideo.ru
   - DOMAIN-SUFFIX,cdnvideohub.com
+  - DOMAIN-SUFFIX,kinescopecdn.net
   - DOMAIN-SUFFIX,trbcdn.net
   - DOMAIN-SUFFIX,kinorium.com
   - DOMAIN-SUFFIX,kinopoisk.ru
@@ -7142,6 +7146,7 @@ payload:
   - DOMAIN-SUFFIX,amediateka.ru
   - DOMAIN-SUFFIX,beeline.tv
   - DOMAIN-SUFFIX,ivi.ru
+  - DOMAIN-SUFFIX,ivicdn.tv
   - DOMAIN-SUFFIX,premier.one
   - DOMAIN-SUFFIX,smotreshka.tv
   - DOMAIN-SUFFIX,start.ru
@@ -18156,6 +18161,7 @@ payload:
   - DOMAIN-SUFFIX,mcafee.com
   - DOMAIN-SUFFIX,norton.com
   - DOMAIN-SUFFIX,pandasecurity.com
+  - DOMAIN-SUFFIX,ceno.app
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,epicbrowser.com
   - DOMAIN-SUFFIX,extendfirefox.com
@@ -22853,6 +22859,7 @@ payload:
   - DOMAIN-SUFFIX,bwhstatus.com
   - DOMAIN-SUFFIX,beget.com
   - DOMAIN-SUFFIX,beget.ru
+  - DOMAIN-SUFFIX,blurams.app
   - DOMAIN-SUFFIX,blurams.com
   - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,cfblob.com
