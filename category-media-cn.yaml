@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,cntv.cn
   - DOMAIN-SUFFIX,cntv.com.cn
   - DOMAIN-SUFFIX,cntvwb.cn
+  - DOMAIN-SUFFIX,cri.cn
   - DOMAIN-SUFFIX,gjgbdszt.cn
   - DOMAIN-SUFFIX,gjgbdszt.com.cn
   - DOMAIN-SUFFIX,gjgbdszt.net.cn
@@ -173,6 +174,7 @@ payload:
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,cbinews.com
+  - DOMAIN-SUFFIX,ccidcom.com
   - DOMAIN-SUFFIX,ce.cn
   - DOMAIN-SUFFIX,cfgw.net.cn
   - DOMAIN-SUFFIX,cheaa.com
@@ -204,6 +206,7 @@ payload:
   - DOMAIN-SUFFIX,cs.com.cn
   - DOMAIN-SUFFIX,ctdsb.net
   - DOMAIN-SUFFIX,ctoutiao.com
+  - DOMAIN-SUFFIX,cww.net.cn
   - DOMAIN-SUFFIX,cyol.com
   - DOMAIN-SUFFIX,cyol.net
   - DOMAIN-SUFFIX,cyzone.cn
@@ -228,6 +231,8 @@ payload:
   - DOMAIN-SUFFIX,eastday.com
   - DOMAIN-SUFFIX,ebrun.com
   - DOMAIN-SUFFIX,eeo.com.cn
+  - DOMAIN-SUFFIX,egsea.com
+  - DOMAIN-SUFFIX,stcn.com
   - DOMAIN-SUFFIX,evolife.cn
   - DOMAIN-SUFFIX,expreview.com
   - DOMAIN-SUFFIX,fjsen.com
@@ -242,6 +247,9 @@ payload:
   - DOMAIN-SUFFIX,guangmingdaily.cn
   - DOMAIN-SUFFIX,guancha.cn
   - DOMAIN-SUFFIX,guigu.org
+  - DOMAIN-SUFFIX,gxnews.com.cn
+  - DOMAIN-SUFFIX,gxxw.com
+  - DOMAIN-SUFFIX,gxrb.com.cn
   - DOMAIN-SUFFIX,gxtv.cn
   - DOMAIN-SUFFIX,gxxmt.com
   - DOMAIN-SUFFIX,liangtv.cn
@@ -284,6 +292,8 @@ payload:
   - DOMAIN-SUFFIX,wallstreetcn.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jfdaily.com
+  - DOMAIN-SUFFIX,jfdaily.com.cn
+  - DOMAIN-SUFFIX,shobserver.cn
   - DOMAIN-SUFFIX,shobserver.com
   - DOMAIN-SUFFIX,jinantimes.com.cn
   - DOMAIN-SUFFIX,jiqizhixin.com
@@ -338,6 +348,7 @@ payload:
   - DOMAIN-SUFFIX,qingdaonews.com
   - DOMAIN-SUFFIX,qianzhan.com
   - DOMAIN-SUFFIX,qingdaochina.org
+  - DOMAIN-SUFFIX,qstheory.cn
   - DOMAIN-SUFFIX,qzwb.com
   - DOMAIN-SUFFIX,rednet.cn
   - DOMAIN-SUFFIX,scgchc.com
@@ -357,7 +368,6 @@ payload:
   - DOMAIN-SUFFIX,ssajax.cn
   - DOMAIN-SUFFIX,ssimg.cn
   - DOMAIN-SUFFIX,stockstar.com
-  - DOMAIN-SUFFIX,stcn.com
   - DOMAIN-SUFFIX,szhk.com
   - DOMAIN-SUFFIX,sznews.com
   - DOMAIN-SUFFIX,szpgm.com
@@ -377,6 +387,7 @@ payload:
   - DOMAIN-SUFFIX,xinmin.cn
   - DOMAIN-SUFFIX,xinminweekly.com.cn
   - DOMAIN-SUFFIX,xkb.com.cn
+  - DOMAIN-SUFFIX,xuexi.cn
   - DOMAIN-SUFFIX,ycwb.com
   - DOMAIN-SUFFIX,yicai.com
   - DOMAIN-SUFFIX,yunnan.cn

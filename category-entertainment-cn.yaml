@@ -24,6 +24,7 @@ payload:
   - DOMAIN,rtlog5-applog.fqnovel.com
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,wlog.kuaishou.com
+  - DOMAIN,ykimg.alicdn.com
   - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3304399.net
   - DOMAIN-SUFFIX,3839.com
@@ -567,6 +568,16 @@ payload:
   - DOMAIN-SUFFIX,lizhiinc.com
   - DOMAIN-SUFFIX,lz310.com
   - DOMAIN-SUFFIX,lzpipi.com
+  - DOMAIN-SUFFIX,1kkk.com
+  - DOMAIN-SUFFIX,cdndm5.com
+  - DOMAIN-SUFFIX,dm5.cn
+  - DOMAIN-SUFFIX,dm5.com
+  - DOMAIN-SUFFIX,dm9.com
+  - DOMAIN-SUFFIX,gmanhua.com
+  - DOMAIN-SUFFIX,hkmanga.com
+  - DOMAIN-SUFFIX,manben.com
+  - DOMAIN-SUFFIX,manbenapi.com
+  - DOMAIN-SUFFIX,manhuaren.com
   - DOMAIN-SUFFIX,pplive.cn
   - DOMAIN-SUFFIX,pplive.com
   - DOMAIN-SUFFIX,pptv.com
@@ -718,7 +729,6 @@ payload:
   - DOMAIN-SUFFIX,podcast.xyz
   - DOMAIN-SUFFIX,9xsecndns.cn
   - DOMAIN-SUFFIX,kumiao.com
-  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,ykimg.com

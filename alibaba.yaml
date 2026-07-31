@@ -5,6 +5,7 @@ payload:
   - DOMAIN,api.alibabacloud.com
   - DOMAIN,cn.alibabacloud.com
   - DOMAIN,status.alibabacloud.com
+  - DOMAIN,ykimg.alicdn.com
   - DOMAIN-SUFFIX,alibaba
   - DOMAIN-SUFFIX,alipay
   - DOMAIN-SUFFIX,taobao
@@ -155,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,elemecdn.cn
   - DOMAIN-SUFFIX,elemecdn.com
   - DOMAIN-SUFFIX,elenet.me
+  - DOMAIN-SUFFIX,fengniaojipei.net
   - DOMAIN-SUFFIX,adashx.ut.ele.me
   - DOMAIN-SUFFIX,h-adashx.ut.ele.me
   - DOMAIN-SUFFIX,v6-adashx.ut.ele.me
@@ -215,7 +217,6 @@ payload:
   - DOMAIN-SUFFIX,z.gds.cnzz.com
   - DOMAIN-SUFFIX,9xsecndns.cn
   - DOMAIN-SUFFIX,kumiao.com
-  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,ykimg.com
@@ -253,9 +254,12 @@ payload:
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabacapital.com
   - DOMAIN-SUFFIX,alibabachengdun.com
+  - DOMAIN-SUFFIX,alibabachengdun.net
   - DOMAIN-SUFFIX,alibabacorp.com
   - DOMAIN-SUFFIX,alibabadesign.com
   - DOMAIN-SUFFIX,alibabadoctor.com
+  - DOMAIN-SUFFIX,alibabafonts.com
+  - DOMAIN-SUFFIX,alibabafoundation.com
   - DOMAIN-SUFFIX,alibabafuturehotel.com
   - DOMAIN-SUFFIX,alibabagroup.com
   - DOMAIN-SUFFIX,alibabapictures.com
@@ -294,6 +298,7 @@ payload:
   - DOMAIN-SUFFIX,alixiaomi.com
   - DOMAIN-SUFFIX,alizhaopin.com
   - DOMAIN-SUFFIX,alyms.cn
+  - DOMAIN-SUFFIX,alysm.cn
   - DOMAIN-SUFFIX,asczwa.com
   - DOMAIN-SUFFIX,asczxcefsv.com
   - DOMAIN-SUFFIX,asmlink.cn
@@ -313,6 +318,8 @@ payload:
   - DOMAIN-SUFFIX,emas-poc.com
   - DOMAIN-SUFFIX,gongyi.xin
   - DOMAIN-SUFFIX,hupan.com
+  - DOMAIN-SUFFIX,hzchengdun.com
+  - DOMAIN-SUFFIX,hzchengdun.net
   - DOMAIN-SUFFIX,ialicdn.com
   - DOMAIN-SUFFIX,iconfont.cn
   - DOMAIN-SUFFIX,ics.design
@@ -329,6 +336,7 @@ payload:
   - DOMAIN-SUFFIX,mei.com
   - DOMAIN-SUFFIX,miaostreet.com
   - DOMAIN-SUFFIX,miaoya.cn
+  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mshare.cc
   - DOMAIN-SUFFIX,nic.xin
   - DOMAIN-SUFFIX,philanthropy.xin
@@ -346,6 +354,7 @@ payload:
   - DOMAIN-SUFFIX,ttpod.com
   - DOMAIN-SUFFIX,xin.xin
   - DOMAIN-SUFFIX,xinlingshou.cn
+  - DOMAIN-SUFFIX,xixikf.cn
   - DOMAIN-SUFFIX,yowhale.com
   - DOMAIN-SUFFIX,yunos-inc.com
   - DOMAIN-SUFFIX,yunos.com
@@ -374,6 +383,7 @@ payload:
   - DOMAIN-SUFFIX,antgroup.com
   - DOMAIN-SUFFIX,antgroup-inc.cn
   - DOMAIN-SUFFIX,sm.cn
+  - DOMAIN-SUFFIX,yisou.com
   - DOMAIN-SUFFIX,1688.com
   - DOMAIN-SUFFIX,duanqu.com
   - DOMAIN-SUFFIX,etao.com
@@ -387,11 +397,13 @@ payload:
   - DOMAIN-SUFFIX,taobaocdn.com
   - DOMAIN-SUFFIX,taobizhong.com
   - DOMAIN-SUFFIX,taopiaopiao.com
+  - DOMAIN-SUFFIX,taotian.com
   - DOMAIN-SUFFIX,tb.cn
   - DOMAIN-SUFFIX,tbcache.com
   - DOMAIN-SUFFIX,tbcdn.cn
   - DOMAIN-SUFFIX,tburl.in
   - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,tmall.ru
   - DOMAIN-SUFFIX,tmalltv.com
   - DOMAIN-SUFFIX,tmjl.ai

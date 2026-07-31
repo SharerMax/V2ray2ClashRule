@@ -196,13 +196,16 @@ payload:
   - DOMAIN-SUFFIX,code-class.ru
   - DOMAIN-SUFFIX,gb.ru
   - DOMAIN-SUFFIX,lerna.ru
+  - DOMAIN-SUFFIX,o-uchi.ru
   - DOMAIN-SUFFIX,skbx.pro
   - DOMAIN-SUFFIX,skillbox.pro
   - DOMAIN-SUFFIX,skillbox.ru
   - DOMAIN-SUFFIX,skillfactory.ru
   - DOMAIN-SUFFIX,tetrika-school.ru
   - DOMAIN-SUFFIX,uchi.ru
+  - DOMAIN-SUFFIX,uchilk.ru
   - DOMAIN-SUFFIX,umschool.net
+  - DOMAIN-SUFFIX,xn----otbzjdu.xn--p1ai
   - DOMAIN-SUFFIX,yaklass.ru
   - DOMAIN-SUFFIX,cybersport.ru
   - DOMAIN-SUFFIX,epicevents.gg
@@ -221,8 +224,8 @@ payload:
   - DOMAIN-SUFFIX,icq.biz
   - DOMAIN-SUFFIX,icq.com
   - DOMAIN-SUFFIX,icq.de
-  - DOMAIN-SUFFIX,icq.fr
   - DOMAIN-SUFFIX,icq.eu
+  - DOMAIN-SUFFIX,icq.fr
   - DOMAIN-SUFFIX,icq.im
   - DOMAIN-SUFFIX,icq.lt
   - DOMAIN-SUFFIX,icq.mobi

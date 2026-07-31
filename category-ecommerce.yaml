@@ -39,8 +39,20 @@ payload:
   - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
   - DOMAIN,ecapi-pchome.cdn.hinet.net
   - DOMAIN,pchomeonline.com.tw
+  - DOMAIN-SUFFIX,apiauto.ru
+  - DOMAIN-SUFFIX,auto.ru
+  - DOMAIN-SUFFIX,autoru.me
+  - DOMAIN-SUFFIX,avto.ru
+  - DOMAIN-SUFFIX,cm.expert
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,cian.ru
+  - DOMAIN-SUFFIX,cian.site
+  - DOMAIN-SUFFIX,ciangroup.ru
+  - DOMAIN-SUFFIX,dmir.ru
+  - DOMAIN-SUFFIX,poudobnee.com
+  - DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
   - DOMAIN-SUFFIX,flowwow-images.com
   - DOMAIN-SUFFIX,flowwow.com
   - DOMAIN-SUFFIX,funpay.com
@@ -187,6 +199,8 @@ payload:
   - DOMAIN-SUFFIX,wolfberries.ru
   - DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
   - DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
+  - DOMAIN-SUFFIX,drom.ru
+  - DOMAIN-SUFFIX,rdrom.ru
   - DOMAIN-SUFFIX,adidas.ae
   - DOMAIN-SUFFIX,adidas.at
   - DOMAIN-SUFFIX,adidas.be
