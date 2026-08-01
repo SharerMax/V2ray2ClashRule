@@ -323,6 +323,9 @@ payload:
   - DOMAIN-SUFFIX,java
   - DOMAIN-SUFFIX,java.com
   - DOMAIN-SUFFIX,java.net
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,datalore.io
   - DOMAIN-SUFFIX,intellij.com
   - DOMAIN-SUFFIX,intellij.net
@@ -331,15 +334,20 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.cloud
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.com.cn
+  - DOMAIN-SUFFIX,jetbrains.dev
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.ru
   - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN-SUFFIX,kotlinconf.com
   - DOMAIN-SUFFIX,kotlinlang.org
+  - DOMAIN-SUFFIX,ktor.io
+  - DOMAIN-SUFFIX,myjetbrains.com
+  - DOMAIN-SUFFIX,talkingkotlin.com
   - DOMAIN-SUFFIX,youtrack.cloud
   - DOMAIN-SUFFIX,cdn.jetbrains.com
-  - DOMAIN-SUFFIX,grazie.ai
-  - DOMAIN-SUFFIX,grazie.aws.intellij.net
-  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jfrog.com
   - DOMAIN-SUFFIX,jfrog.org
   - DOMAIN-SUFFIX,bintray.com

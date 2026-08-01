@@ -1256,6 +1256,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,jules.google
@@ -1688,6 +1689,7 @@ payload:
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
   - DOMAIN-SUFFIX,466453.com
+  - DOMAIN-SUFFIX,actifio.com
   - DOMAIN-SUFFIX,adgoogle.net
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,angulardart.org
@@ -1871,6 +1873,7 @@ payload:
   - DOMAIN-SUFFIX,oneworldmanystories.com
   - DOMAIN-SUFFIX,openthread.io
   - DOMAIN-SUFFIX,openweave.io
+  - DOMAIN-SUFFIX,openxla.org
   - DOMAIN-SUFFIX,orbitera.com
   - DOMAIN-SUFFIX,page.link
   - DOMAIN-SUFFIX,pagespeedmobilizer.com
@@ -1978,6 +1981,7 @@ payload:
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-measurement-cn.com

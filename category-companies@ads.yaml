@@ -108,6 +108,7 @@ payload:
   - DOMAIN-SUFFIX,adwords.com
   - DOMAIN-SUFFIX,adwordsexpress.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,app-ads-services.com
   - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-SUFFIX,app-analytics-services-att.com
   - DOMAIN-SUFFIX,app-measurement-cn.com

@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,jules.google
