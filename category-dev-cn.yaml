@@ -56,8 +56,6 @@ payload:
   - DOMAIN-SUFFIX,linyaps.org.cn
   - DOMAIN-SUFFIX,uniontech.cn
   - DOMAIN-SUFFIX,uniontech.com
-  - DOMAIN-SUFFIX,gitee.com
-  - DOMAIN-SUFFIX,gitee.io
   - DOMAIN-SUFFIX,goproxy.cn
   - DOMAIN-SUFFIX,goproxy.io
   - DOMAIN-SUFFIX,bisheng.cn
