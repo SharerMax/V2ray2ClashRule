@@ -2,7 +2,7 @@
 # type: classic
 payload:
   - DOMAIN-SUFFIX,10099.com.cn
-  - DOMAIN-SUFFIX,chn.cn
+  - DOMAIN-SUFFIX,cbn.cn
   - DOMAIN-SUFFIX,ahitv.com
   - DOMAIN-SUFFIX,cqccn.com
   - DOMAIN-SUFFIX,gcable.com.cn

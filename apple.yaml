@@ -94,6 +94,9 @@ payload:
   - DOMAIN,init.gc.apple.com
   - DOMAIN,km.support.apple.com
   - DOMAIN,maps.apple.com
+  - DOMAIN,tj-pod1-smp-device.apple.com
+  - DOMAIN,tj-pod2-smp-device.apple.com
+  - DOMAIN,tj-pod3-smp-device.apple.com
   - DOMAIN,www.support.apple.com
   - DOMAIN,a1.mzstatic.com
   - DOMAIN,a2.mzstatic.com
@@ -238,7 +241,6 @@ payload:
   - DOMAIN,swscan-cdn.apple.com.akadns.net
   - DOMAIN,swscan.apple.com
   - DOMAIN,sylvan.apple.com
-  - DOMAIN,tj-pod1-smp-device.apple.com
   - DOMAIN,updates-http.cdn-apple.com
   - DOMAIN,updates-http.cdn-apple.com.akadns.net
   - DOMAIN,updates.cdn-apple.com

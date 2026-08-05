@@ -137,6 +137,8 @@ payload:
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,deepwiki.com
+  - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,clipdrop.co
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,agentclientprotocol.com

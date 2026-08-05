@@ -323,6 +323,7 @@ payload:
   - DOMAIN-SUFFIX,rutube.ru
   - DOMAIN-SUFFIX,rutubelist.ru
   - DOMAIN-SUFFIX,rtbcdn.ru
+  - DOMAIN-SUFFIX,rutube.sport
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blz-contentstack.com
@@ -1703,6 +1704,12 @@ payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,movenetworks.com
   - DOMAIN-SUFFIX,movetv.com
+  - DOMAIN-SUFFIX,glitchwave.com
+  - DOMAIN-SUFFIX,rateyourmusic.com
+  - DOMAIN-SUFFIX,rym.fm
+  - DOMAIN-SUFFIX,snmc.io
+  - DOMAIN-SUFFIX,sonematic.net
+  - DOMAIN-SUFFIX,sonemic.com
   - DOMAIN-SUFFIX,imageworks.com
   - DOMAIN-SUFFIX,motionpictureser.com
   - DOMAIN-SUFFIX,playshow.io
