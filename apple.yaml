@@ -3,6 +3,16 @@
 payload:
   - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
   - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+  - DOMAIN,cdn.apple-mapkit.com
+  - DOMAIN,cdn1.apple-mapkit.com
+  - DOMAIN,cdn2.apple-mapkit.com
+  - DOMAIN,cdn3.apple-mapkit.com
+  - DOMAIN,cdn4.apple-mapkit.com
+  - DOMAIN,cdn-cn.apple-mapkit.com
+  - DOMAIN,cdn-cn1.apple-mapkit.com
+  - DOMAIN,cdn-cn2.apple-mapkit.com
+  - DOMAIN,cdn-cn3.apple-mapkit.com
+  - DOMAIN,cdn-cn4.apple-mapkit.com
   - DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
   - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
   - DOMAIN,p-events-delivery.akamaized.net
@@ -103,16 +113,6 @@ payload:
   - DOMAIN,a3.mzstatic.com
   - DOMAIN,a4.mzstatic.com
   - DOMAIN,a5.mzstatic.com
-  - DOMAIN,cdn.apple-mapkit.com
-  - DOMAIN,cdn1.apple-mapkit.com
-  - DOMAIN,cdn2.apple-mapkit.com
-  - DOMAIN,cdn3.apple-mapkit.com
-  - DOMAIN,cdn4.apple-mapkit.com
-  - DOMAIN,cdn-cn.apple-mapkit.com
-  - DOMAIN,cdn-cn1.apple-mapkit.com
-  - DOMAIN,cdn-cn2.apple-mapkit.com
-  - DOMAIN,cdn-cn3.apple-mapkit.com
-  - DOMAIN,cdn-cn4.apple-mapkit.com
   - DOMAIN,cl1-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl2-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl3-cdn.origin-apple.com.akadns.net
@@ -1599,7 +1599,6 @@ payload:
   - DOMAIN-SUFFIX,apple-ibooks.cn
   - DOMAIN-SUFFIX,apple-inc.net
   - DOMAIN-SUFFIX,apple-livephotoskit.com
-  - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN-SUFFIX,apple-maps.cn
   - DOMAIN-SUFFIX,apple-online.com
   - DOMAIN-SUFFIX,apple-studies.com

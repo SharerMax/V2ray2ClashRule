@@ -184,7 +184,6 @@ payload:
   - DOMAIN-SUFFIX,businesscatalyst.com
   - DOMAIN-SUFFIX,ccnsite.com
   - DOMAIN-SUFFIX,ccpsx.com
-  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,dollarfotoclub.com
   - DOMAIN-SUFFIX,dollarphotoclub.com
   - DOMAIN-SUFFIX,dollarphotosclub.com
@@ -260,4 +259,5 @@ payload:
   - DOMAIN-SUFFIX,scene7.com
   - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN-SUFFIX,advertising.adobe.com
+  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,tubemogul.com

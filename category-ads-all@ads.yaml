@@ -136,7 +136,9 @@ payload:
   - DOMAIN,mc.yango.com
   - DOMAIN,pixel.yandex.com
   - DOMAIN,report.ap.yandex-net.ru
+  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,advertising.adobe.com
+  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,a.alimama.cn
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -610,13 +612,11 @@ payload:
   - DOMAIN-SUFFIX,adcolony.com
   - DOMAIN-SUFFIX,adinplay.com
   - DOMAIN-SUFFIX,adnxs.com
-  - DOMAIN-SUFFIX,ads.trafficjunky.net
   - DOMAIN-SUFFIX,advertserve.com
   - DOMAIN-SUFFIX,adview.cn
   - DOMAIN-SUFFIX,casalemedia.com
   - DOMAIN-SUFFIX,contextual.media.net
   - DOMAIN-SUFFIX,cpmstar.com
-  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,httpool.com
   - DOMAIN-SUFFIX,lijit.com
   - DOMAIN-SUFFIX,mfadsrvr.com

@@ -568,8 +568,6 @@ payload:
   - DOMAIN-SUFFIX,foxweatherwatch.com
   - DOMAIN-SUFFIX,fssta.com
   - DOMAIN-SUFFIX,fxn.ws
-  - DOMAIN-SUFFIX,fxnetwork.com
-  - DOMAIN-SUFFIX,fxnetworks.com
   - DOMAIN-SUFFIX,bentobox.tv
   - DOMAIN-SUFFIX,kicu.tv
   - DOMAIN-SUFFIX,ktvu.com
@@ -746,8 +744,6 @@ payload:
   - DOMAIN-SUFFIX,hketgroup.com
   - DOMAIN-SUFFIX,ulifestyle.com.hk
   - DOMAIN-SUFFIX,umagazine.com.hk
-  - DOMAIN-SUFFIX,hkopentv.com
-  - DOMAIN-SUFFIX,fantv.hk
   - DOMAIN-SUFFIX,huffingtonpost.ca
   - DOMAIN-SUFFIX,huffingtonpost.co.uk
   - DOMAIN-SUFFIX,huffingtonpost.co.za
@@ -1354,10 +1350,10 @@ payload:
   - DOMAIN-SUFFIX,tokyo-sports.co.jp
   - DOMAIN-SUFFIX,tospo-keiba.jp
   - DOMAIN-SUFFIX,mytvsuper.com
-  - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,bigbigchannel.com.hk
   - DOMAIN-SUFFIX,bigbigshop.com
   - DOMAIN-SUFFIX,encoretvb.com
+  - DOMAIN-SUFFIX,neigbuy.com
   - DOMAIN-SUFFIX,tvb.com
   - DOMAIN-SUFFIX,tvb.com.au
   - DOMAIN-SUFFIX,tvbanywhere.com
@@ -1459,7 +1455,6 @@ payload:
   - DOMAIN-SUFFIX,ync.ne.jp
   - DOMAIN-SUFFIX,yomikyo.or.jp
   - DOMAIN-SUFFIX,yomilogi.com
-  - DOMAIN-SUFFIX,yomiuri-johkai.co.jp
   - DOMAIN-SUFFIX,yomiuri-johkai.co.jp
   - DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
   - DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com

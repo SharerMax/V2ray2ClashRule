@@ -136,16 +136,6 @@ payload:
   - DOMAIN,mc.yango.com
   - DOMAIN,pixel.yandex.com
   - DOMAIN,report.ap.yandex-net.ru
-  - DOMAIN,pinggai0.caixin.com
-  - DOMAIN,pinggai1.caixin.com
-  - DOMAIN,pinggai2.caixin.com
-  - DOMAIN,pinggai3.caixin.com
-  - DOMAIN,pinggai4.caixin.com
-  - DOMAIN,pinggai5.caixin.com
-  - DOMAIN,pinggai6.caixin.com
-  - DOMAIN,pinggai7.caixin.com
-  - DOMAIN,pinggai8.caixin.com
-  - DOMAIN,pinggai9.caixin.com
   - DOMAIN,logs.ads.vungle.com
   - DOMAIN-SUFFIX,adivery.com
   - DOMAIN-SUFFIX,adivery.ir
@@ -154,7 +144,9 @@ payload:
   - DOMAIN-SUFFIX,sabavision.com
   - DOMAIN-SUFFIX,tapsell.ir
   - DOMAIN-SUFFIX,yektanet.com
+  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,advertising.adobe.com
+  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,a.alimama.cn
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
@@ -606,7 +598,6 @@ payload:
   - DOMAIN-SUFFIX,ad-srv.net
   - DOMAIN-SUFFIX,ad.wang502.com
   - DOMAIN-SUFFIX,adbutter.net
-  - DOMAIN-SUFFIX,addthisedge.com
   - DOMAIN-SUFFIX,ads.huan.tv
   - DOMAIN-SUFFIX,ads.huantest.com
   - DOMAIN-SUFFIX,ads.trafficjunky.net
@@ -615,7 +606,6 @@ payload:
   - DOMAIN-SUFFIX,adtechus.com
   - DOMAIN-SUFFIX,adtrue.com
   - DOMAIN-SUFFIX,adxprtz.com
-  - DOMAIN-SUFFIX,cdn.advertserve.com
   - DOMAIN-SUFFIX,cdn.banclip.com
   - DOMAIN-SUFFIX,cfts1tifqr.com
   - DOMAIN-SUFFIX,contentabc.com
@@ -661,7 +651,6 @@ payload:
   - DOMAIN-SUFFIX,uberads.com
   - DOMAIN-SUFFIX,wwads.cn
   - DOMAIN-SUFFIX,ad.12306.cn
-  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,hubcloud.com.cn
   - DOMAIN-SUFFIX,beizi.biz
   - DOMAIN-SUFFIX,click.ali213.net
@@ -669,8 +658,6 @@ payload:
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,adq.chinaso.com
-  - DOMAIN-SUFFIX,stat.chinaso.com
   - DOMAIN-SUFFIX,mlog.hiido.com
   - DOMAIN-SUFFIX,ylog.hiido.com
   - DOMAIN-SUFFIX,ad.hpplay.cn
@@ -682,13 +669,8 @@ payload:
   - DOMAIN-SUFFIX,ironbeast.io
   - DOMAIN-SUFFIX,advapi.joyplus.tv
   - DOMAIN-SUFFIX,advapikj.joyplus.tv
-  - DOMAIN-SUFFIX,cdn.pocoiq.cn
-  - DOMAIN-SUFFIX,oct.pocoiq.cn
-  - DOMAIN-SUFFIX,dn-growing.qbox.me
   - DOMAIN-SUFFIX,g1.tagtic.cn
   - DOMAIN-SUFFIX,xy-log.tagtic.cn
-  - DOMAIN-SUFFIX,ad.unimhk.com
-  - DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
   - DOMAIN-SUFFIX,telecome.cn
   - DOMAIN-SUFFIX,unioncom.cc
   - DOMAIN-SUFFIX,yfanads.cn

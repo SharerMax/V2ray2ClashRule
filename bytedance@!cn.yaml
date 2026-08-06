@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,bytedapm.com
-  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,tik-tokapi.com
@@ -50,3 +49,5 @@ payload:
   - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,capcutcdn-us.com

@@ -116,9 +116,15 @@ payload:
   - DOMAIN,rx.techomespace.com
   - DOMAIN,public.ns.nwps.fi
   - DOMAIN,kids.ns.nwps.fi
+  - DOMAIN,dns.astracat.ru
   - DOMAIN,frd4wvnobp.cloudflare-gateway.com
   - DOMAIN,dnsguard.pub
   - DOMAIN,doh.18bit.cn
+  - DOMAIN,5u35p8m9i7.cloudflare-gateway.com
+  - DOMAIN,dns.malw.link
+  - DOMAIN,dns.mafioznik.xyz
+  - DOMAIN,dns.geohide.ru
+  - DOMAIN,xbox-dns.ru
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,nextdns.io

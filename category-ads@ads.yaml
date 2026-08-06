@@ -136,7 +136,9 @@ payload:
   - DOMAIN,mc.yango.com
   - DOMAIN,pixel.yandex.com
   - DOMAIN,report.ap.yandex-net.ru
+  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,advertising.adobe.com
+  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,tubemogul.com
   - DOMAIN-SUFFIX,a.alimama.cn
   - DOMAIN-SUFFIX,adash-c.m.taobao.com

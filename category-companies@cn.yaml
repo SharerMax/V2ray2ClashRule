@@ -122,6 +122,16 @@ payload:
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
   - DOMAIN,www.amd.com
+  - DOMAIN,cdn.apple-mapkit.com
+  - DOMAIN,cdn1.apple-mapkit.com
+  - DOMAIN,cdn2.apple-mapkit.com
+  - DOMAIN,cdn3.apple-mapkit.com
+  - DOMAIN,cdn4.apple-mapkit.com
+  - DOMAIN,cdn-cn.apple-mapkit.com
+  - DOMAIN,cdn-cn1.apple-mapkit.com
+  - DOMAIN,cdn-cn2.apple-mapkit.com
+  - DOMAIN,cdn-cn3.apple-mapkit.com
+  - DOMAIN,cdn-cn4.apple-mapkit.com
   - DOMAIN,amp-api-edge.music.apple.com
   - DOMAIN,amp-api.music.apple.com
   - DOMAIN,js-cdn.music.apple.com
@@ -207,16 +217,6 @@ payload:
   - DOMAIN,a3.mzstatic.com
   - DOMAIN,a4.mzstatic.com
   - DOMAIN,a5.mzstatic.com
-  - DOMAIN,cdn.apple-mapkit.com
-  - DOMAIN,cdn1.apple-mapkit.com
-  - DOMAIN,cdn2.apple-mapkit.com
-  - DOMAIN,cdn3.apple-mapkit.com
-  - DOMAIN,cdn4.apple-mapkit.com
-  - DOMAIN,cdn-cn.apple-mapkit.com
-  - DOMAIN,cdn-cn1.apple-mapkit.com
-  - DOMAIN,cdn-cn2.apple-mapkit.com
-  - DOMAIN,cdn-cn3.apple-mapkit.com
-  - DOMAIN,cdn-cn4.apple-mapkit.com
   - DOMAIN,cl1-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl2-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl3-cdn.origin-apple.com.akadns.net
