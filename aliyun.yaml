@@ -44,8 +44,13 @@ payload:
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,myalicdn.com
   - DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+  - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
   - DOMAIN-SUFFIX,log-global.aliyuncs.com
   - DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
@@ -74,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+  - DOMAIN-SUFFIX,registry.aliyuncs.com
   - DOMAIN-SUFFIX,acjs.aliyun.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,adash.man.aliyuncs.com

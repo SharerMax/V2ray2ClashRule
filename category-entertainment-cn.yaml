@@ -445,7 +445,10 @@ payload:
   - DOMAIN-SUFFIX,ultracachenode.com
   - DOMAIN-SUFFIX,woaihuoshan.com
   - DOMAIN-SUFFIX,wohst8.com
+  - DOMAIN-SUFFIX,douyinec.com
   - DOMAIN-SUFFIX,douyinpay.com
+  - DOMAIN-SUFFIX,ulpay.com
+  - DOMAIN-SUFFIX,lifexue.com
   - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyu.tv
