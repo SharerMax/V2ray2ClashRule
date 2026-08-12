@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,sseinfo.com
   - DOMAIN-SUFFIX,szse.cn
   - DOMAIN-SUFFIX,cninfo.com.cn
+  - DOMAIN-SUFFIX,chinaclear.cn
   - DOMAIN-SUFFIX,hsbc.com.cn
   - DOMAIN-SUFFIX,hsbcqh.com.cn
   - DOMAIN-SUFFIX,hsbcinsurance.com.cn

@@ -844,6 +844,7 @@ payload:
   - DOMAIN,vscode.blob.core.windows.net
   - DOMAIN,vscode.search.windows.net
   - DOMAIN,vsmarketplacebadge.apphb.com
+  - DOMAIN,nix-community.github.io
   - DOMAIN,cdn.ampproject.org
   - DOMAIN,amp.akamaized.net
   - DOMAIN,3dns-1.adobe.com
@@ -18936,6 +18937,17 @@ payload:
   - DOMAIN-SUFFIX,mongodb.org
   - DOMAIN-SUFFIX,nginx.com
   - DOMAIN-SUFFIX,nginx.org
+  - DOMAIN-SUFFIX,nix.dev
+  - DOMAIN-SUFFIX,nix.store
+  - DOMAIN-SUFFIX,nixcon.org
+  - DOMAIN-SUFFIX,nixcon2017.org
+  - DOMAIN-SUFFIX,nixlang.com
+  - DOMAIN-SUFFIX,nixos.org
+  - DOMAIN-SUFFIX,nixpkgs.org
+  - DOMAIN-SUFFIX,builtwithnix.org
+  - DOMAIN-SUFFIX,mynixos.com
+  - DOMAIN-SUFFIX,nix-community.org
+  - DOMAIN-SUFFIX,nixos.wiki
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,lede-project.org
   - DOMAIN-SUFFIX,perl.apache.org
@@ -19114,7 +19126,6 @@ payload:
   - DOMAIN-SUFFIX,netfilter.org
   - DOMAIN-SUFFIX,newpipe.net
   - DOMAIN-SUFFIX,nftables.org
-  - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,nodesource.com
   - DOMAIN-SUFFIX,notepad-plus-plus.org
   - DOMAIN-SUFFIX,openresty.org
@@ -26984,6 +26995,7 @@ payload:
   - DOMAIN-SUFFIX,yandex.eu
   - DOMAIN-SUFFIX,yandex.fi
   - DOMAIN-SUFFIX,yandex.fr
+  - DOMAIN-SUFFIX,yandex.it
   - DOMAIN-SUFFIX,yandex.jobs
   - DOMAIN-SUFFIX,yandex.kg
   - DOMAIN-SUFFIX,yandex.kz

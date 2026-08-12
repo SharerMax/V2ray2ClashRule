@@ -3,6 +3,7 @@
 payload:
   - DOMAIN,ctdsb.clouddiffuse.xyz
   - DOMAIN-SUFFIX,36dianping.com
+  - DOMAIN-SUFFIX,36linkr.com
   - DOMAIN-SUFFIX,36kr.com
   - DOMAIN-SUFFIX,36krcdn.com
   - DOMAIN-SUFFIX,36krcnd.com
@@ -163,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,anhuiyun.com
   - DOMAIN-SUFFIX,anzhuo.cn
   - DOMAIN-SUFFIX,bandao.cn
+  - DOMAIN-SUFFIX,banyuetan.org
   - DOMAIN-SUFFIX,bbtnews.com.cn
   - DOMAIN-SUFFIX,bianews.com
   - DOMAIN-SUFFIX,bjd.com.cn
@@ -176,6 +178,10 @@ payload:
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,cbinews.com
   - DOMAIN-SUFFIX,ccidcom.com
+  - DOMAIN-SUFFIX,ccreports.com.cn
+  - DOMAIN-SUFFIX,tfcaijing.com
+  - DOMAIN-SUFFIX,time-weekly.com
+  - DOMAIN-SUFFIX,timesmedia.com.cn
   - DOMAIN-SUFFIX,ce.cn
   - DOMAIN-SUFFIX,cfgw.net.cn
   - DOMAIN-SUFFIX,cheaa.com
@@ -190,6 +196,7 @@ payload:
   - DOMAIN-SUFFIX,chuanbaoguancha.cn
   - DOMAIN-SUFFIX,scol.com.cn
   - DOMAIN-SUFFIX,scdaily.cn
+  - DOMAIN-SUFFIX,cih-index.com
   - DOMAIN-SUFFIX,cnfol.com
   - DOMAIN-SUFFIX,cnfolimg.com
   - DOMAIN-SUFFIX,cnhubei.com
@@ -309,6 +316,7 @@ payload:
   - DOMAIN-SUFFIX,kankannews.com
   - DOMAIN-SUFFIX,kksmg.com
   - DOMAIN-SUFFIX,statickksmg.com
+  - DOMAIN-SUFFIX,kanshangjie.com
   - DOMAIN-SUFFIX,kf.cn
   - DOMAIN-SUFFIX,kjrb.com.cn
   - DOMAIN-SUFFIX,stdaily.com

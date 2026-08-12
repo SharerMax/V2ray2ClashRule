@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,cbern.com.cn
   - DOMAIN-SUFFIX,smartedu.cn
   - DOMAIN-SUFFIX,eduyun.cn
+  - DOMAIN-SUFFIX,univs.cn
   - DOMAIN-SUFFIX,cedf.cn
   - DOMAIN-SUFFIX,cedf.org.cn
   - DOMAIN-SUFFIX,chdi.com.cn
@@ -92,6 +93,10 @@ payload:
   - DOMAIN-SUFFIX,zbbm.gov.cn
   - DOMAIN-SUFFIX,zbbm.net
   - DOMAIN-SUFFIX,neea.cn
+  - DOMAIN-SUFFIX,hep.com.cn
+  - DOMAIN-SUFFIX,mypep.cn
+  - DOMAIN-SUFFIX,peeavp.com.cn
+  - DOMAIN-SUFFIX,pep.com.cn
   - DOMAIN-SUFFIX,21cnjy.com
   - DOMAIN-SUFFIX,91yunxiao.com
   - DOMAIN-SUFFIX,aiyunxiao.com
