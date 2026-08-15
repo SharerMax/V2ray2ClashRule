@@ -5607,6 +5607,7 @@ payload:
   - DOMAIN-SUFFIX,ali-gtm-01.net
   - DOMAIN-SUFFIX,ali-gtm-pressure.com
   - DOMAIN-SUFFIX,ali-restore.net
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,arco.design
   - DOMAIN-SUFFIX,baikevod.com
   - DOMAIN-SUFFIX,bdactivity.com
@@ -5770,6 +5771,7 @@ payload:
   - DOMAIN-SUFFIX,qingfuwucdn.net
   - DOMAIN-SUFFIX,qualitycloud.top
   - DOMAIN-SUFFIX,samasty.com
+  - DOMAIN-SUFFIX,searchpstatp.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
   - DOMAIN-SUFFIX,shidianguji.com
