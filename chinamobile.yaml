@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,cmpay.com
   - DOMAIN-SUFFIX,cmcc-cs.cn
   - DOMAIN-SUFFIX,online-cmcc.cn
+  - DOMAIN-SUFFIX,5gxcx.net
   - DOMAIN-SUFFIX,andfx.cn
   - DOMAIN-SUFFIX,andfx.net
   - DOMAIN-SUFFIX,cmicapm.com
@@ -26,8 +27,10 @@ payload:
   - DOMAIN-SUFFIX,cytxl.com.cn
   - DOMAIN-SUFFIX,fetion-portal.com
   - DOMAIN-SUFFIX,fetionpic.com
+  - DOMAIN-SUFFIX,hfx.net
   - DOMAIN-SUFFIX,mmarket.com
   - DOMAIN-SUFFIX,mmarket6.com
+  - DOMAIN-SUFFIX,komect.com
   - DOMAIN-SUFFIX,chinamobiledevice.com
   - DOMAIN-SUFFIX,cmdcxls.com
   - DOMAIN-SUFFIX,cxzx10086.cn
