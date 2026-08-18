@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,nexitallysafe.com
   - DOMAIN-SUFFIX,nexitcore.com
+  - DOMAIN-SUFFIX,nordcdn.com
+  - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,paofu.cloud
   - DOMAIN-SUFFIX,paofuyun.me
   - DOMAIN-SUFFIX,shadowsocks.com
