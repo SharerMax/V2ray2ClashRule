@@ -2,7 +2,6 @@
 # type: classic
 payload:
   - DOMAIN,bj1.api.bing.com
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com

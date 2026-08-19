@@ -5,7 +5,6 @@ payload:
   - DOMAIN,azuremarketplace.microsoft.com
   - DOMAIN,location.microsoft.com
   - DOMAIN,bj1.api.bing.com
-  - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
