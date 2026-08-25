@@ -316,9 +316,6 @@ payload:
   - DOMAIN-SUFFIX,ads.yahoo.com
   - DOMAIN-SUFFIX,gemini.yahoo.com
   - DOMAIN-SUFFIX,ysm.yahoo.com
-  - DOMAIN-SUFFIX,ads.yahoo.com
-  - DOMAIN-SUFFIX,gemini.yahoo.com
-  - DOMAIN-SUFFIX,ysm.yahoo.com
   - DOMAIN-SUFFIX,adfox.ru
   - DOMAIN-SUFFIX,adfox.yandex.ru
   - DOMAIN-SUFFIX,admetrica.ru

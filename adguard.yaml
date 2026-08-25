@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,adguard.io
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,adguardaccount.com
+  - DOMAIN-SUFFIX,adguardaccount.net
   - DOMAIN-SUFFIX,adguardcdn.com
   - DOMAIN-SUFFIX,adtidy.net
   - DOMAIN-SUFFIX,adtidy.org
