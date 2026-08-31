@@ -192,7 +192,6 @@ payload:
   - DOMAIN-SUFFIX,collector.xhamster.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
-  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
