@@ -2233,6 +2233,8 @@ payload:
   - DOMAIN-SUFFIX,shrbank.com
   - DOMAIN-SUFFIX,mybank.cn
   - DOMAIN-SUFFIX,ms-bank.cn
+  - DOMAIN-SUFFIX,tctpwebankcdn.net
+  - DOMAIN-SUFFIX,wbweilicai.com
   - DOMAIN-SUFFIX,webank.com
   - DOMAIN-SUFFIX,webankcdn.net
   - DOMAIN-SUFFIX,csxbank.com
@@ -3765,6 +3767,7 @@ payload:
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,diandianlife.top
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
   - DOMAIN-SUFFIX,coze-dns-01.com
@@ -3848,6 +3851,7 @@ payload:
   - DOMAIN-SUFFIX,minimaxi.com
   - DOMAIN-SUFFIX,xingyeai.com
   - DOMAIN-SUFFIX,codebuddy.cn
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
@@ -6646,6 +6650,7 @@ payload:
   - DOMAIN-SUFFIX,360panyun.cn
   - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360safe.com
+  - DOMAIN-SUFFIX,360scdn.com
   - DOMAIN-SUFFIX,360shouji.com
   - DOMAIN-SUFFIX,360so.com
   - DOMAIN-SUFFIX,360sou.cn
@@ -6898,7 +6903,9 @@ payload:
   - DOMAIN-SUFFIX,tencentcdb.cn
   - DOMAIN-SUFFIX,tencentcdb.com
   - DOMAIN-SUFFIX,tencentcdb.com.cn
+  - DOMAIN-SUFFIX,tencentclb.cn
   - DOMAIN-SUFFIX,tencentclb.com
+  - DOMAIN-SUFFIX,tencentclb.com.cn
   - DOMAIN-SUFFIX,tencentcloud-aiot.com
   - DOMAIN-SUFFIX,tencentcloudapi.com
   - DOMAIN-SUFFIX,tencentcloudclub.com
@@ -7327,6 +7334,8 @@ payload:
   - DOMAIN-SUFFIX,tencent.com.cn
   - DOMAIN-SUFFIX,tencent.net
   - DOMAIN-SUFFIX,tencent.net.cn
+  - DOMAIN-SUFFIX,tencentmiying.com
+  - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,wechat.com

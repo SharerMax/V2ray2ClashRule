@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,diandianlife.top
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,butterfly-static.cn
   - DOMAIN-SUFFIX,butterflyai.cn
   - DOMAIN-SUFFIX,coze-dns-01.com
@@ -89,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,minimaxi.com
   - DOMAIN-SUFFIX,xingyeai.com
   - DOMAIN-SUFFIX,codebuddy.cn
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
