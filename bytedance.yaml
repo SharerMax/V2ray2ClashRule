@@ -28,6 +28,7 @@ payload:
   - DOMAIN,p8-juejin.byteimg.com
   - DOMAIN,p9-juejin.byteimg.com
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - DOMAIN,roovza-launches.appsflyersdk.com
   - DOMAIN,roovza.inapps.appsflyersdk.com
   - DOMAIN,roovza.launches.appsflyersdk.com

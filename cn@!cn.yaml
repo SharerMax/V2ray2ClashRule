@@ -3,6 +3,7 @@
 payload:
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - DOMAIN,roovza-launches.appsflyersdk.com
   - DOMAIN,roovza.inapps.appsflyersdk.com
   - DOMAIN,roovza.launches.appsflyersdk.com
