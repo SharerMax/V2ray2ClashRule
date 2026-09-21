@@ -9,6 +9,7 @@ payload:
   - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN-SUFFIX,extendfirefox.com
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com

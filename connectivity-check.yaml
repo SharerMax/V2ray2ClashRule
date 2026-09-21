@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,cp.cloudflare.com
   - DOMAIN-SUFFIX,network-test.debian.org
   - DOMAIN-SUFFIX,detectportal.firefox.com
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,kuketz.de
   - DOMAIN-SUFFIX,ipv6check-http.steamserver.net
   - DOMAIN-SUFFIX,ipv6check-udp.steamserver.net

@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,ctexcel.fr
   - DOMAIN-SUFFIX,ctexcel.us
   - DOMAIN-SUFFIX,189.cn
+  - DOMAIN-SUFFIX,189cube.com
   - DOMAIN-SUFFIX,189smarthome.com
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,bestpay.cn
@@ -18,4 +19,5 @@ payload:
   - DOMAIN-SUFFIX,chntel.com
   - DOMAIN-SUFFIX,dlife.cn
   - DOMAIN-SUFFIX,play.cn
+  - DOMAIN-SUFFIX,tv189.com
   - DOMAIN-SUFFIX,vnet.cn

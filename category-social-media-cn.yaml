@@ -75,6 +75,7 @@ payload:
   - DOMAIN-SUFFIX,askdiandian.com
   - DOMAIN-SUFFIX,diandianlife.top
   - DOMAIN-SUFFIX,redelight.cn
+  - DOMAIN-SUFFIX,rnote.com
   - DOMAIN-SUFFIX,xhscdn.com
   - DOMAIN-SUFFIX,xhscdn.net
   - DOMAIN-SUFFIX,xhslink.com
@@ -88,14 +89,29 @@ payload:
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,tieba.com
+  - DOMAIN-SUFFIX,baihe.com
   - DOMAIN-SUFFIX,dandan818.com
   - DOMAIN-SUFFIX,dandanvoice.com
+  - DOMAIN-SUFFIX,duoduo.link
+  - DOMAIN-SUFFIX,hammi.cn
+  - DOMAIN-SUFFIX,uboxs.com
   - DOMAIN-SUFFIX,fanfou.com
+  - DOMAIN-SUFFIX,immomo.com
+  - DOMAIN-SUFFIX,momocdn.com
   - DOMAIN-SUFFIX,izuiyou.com
   - DOMAIN-SUFFIX,ixiaochuan.cn
   - DOMAIN-SUFFIX,xiaochuankeji.cn
+  - DOMAIN-SUFFIX,zuiyou.tv
+  - DOMAIN-SUFFIX,jiayuan.com
   - DOMAIN-SUFFIX,maimai.cn
   - DOMAIN-SUFFIX,taou.com
+  - DOMAIN-SUFFIX,qianliaowang.com
+  - DOMAIN-SUFFIX,qlchat.com
+  - DOMAIN-SUFFIX,soulapp.cn
+  - DOMAIN-SUFFIX,tancdn.com
+  - DOMAIN-SUFFIX,tantanapp.com
   - DOMAIN-SUFFIX,uneed.com
   - DOMAIN-SUFFIX,uneedx.com
+  - DOMAIN-SUFFIX,zastatic.com
+  - DOMAIN-SUFFIX,zhenai.com
   - DOMAIN-SUFFIX,zsxq.com

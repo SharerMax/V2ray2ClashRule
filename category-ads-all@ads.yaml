@@ -602,6 +602,7 @@ payload:
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,crash2.zhihu.com
   - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+  - DOMAIN-SUFFIX,syh.zybang.com
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adjust.io
   - DOMAIN-SUFFIX,adjust.net.in

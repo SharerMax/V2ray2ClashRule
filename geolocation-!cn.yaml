@@ -781,9 +781,10 @@ payload:
   - DOMAIN,developers.facebook.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
-  - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
   - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebaseappdistribution.googleapis.com
+  - DOMAIN,firebaseapptesters.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
   - DOMAIN,firebasedynamiclinks.googleapis.com
@@ -989,9 +990,10 @@ payload:
   - DOMAIN,android.googlesource.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
-  - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
   - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebaseappdistribution.googleapis.com
+  - DOMAIN,firebaseapptesters.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
   - DOMAIN,firebasedynamiclinks.googleapis.com
@@ -1856,6 +1858,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
@@ -1864,6 +1867,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN-SUFFIX,flow.google.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -9266,10 +9270,9 @@ payload:
   - DOMAIN-SUFFIX,facebook.cc
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.design
-  - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,facebook.hu
   - DOMAIN-SUFFIX,facebook.in
-  - DOMAIN-SUFFIX,fecebook.net
+  - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,facebook.nl
   - DOMAIN-SUFFIX,facebook.org
   - DOMAIN-SUFFIX,facebook.se
@@ -9476,6 +9479,7 @@ payload:
   - DOMAIN-SUFFIX,fecbooc.com
   - DOMAIN-SUFFIX,fecbook.com
   - DOMAIN-SUFFIX,feceboock.com
+  - DOMAIN-SUFFIX,fecebook.net
   - DOMAIN-SUFFIX,feceboox.com
   - DOMAIN-SUFFIX,fececbook.com
   - DOMAIN-SUFFIX,feook.com
@@ -9545,6 +9549,7 @@ payload:
   - DOMAIN-SUFFIX,sportstream.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,terragraph.com
+  - DOMAIN-SUFFIX,tfbnw.net
   - DOMAIN-SUFFIX,thefacebook.com
   - DOMAIN-SUFFIX,thefacebook.net
   - DOMAIN-SUFFIX,thefind.com
@@ -18080,6 +18085,7 @@ payload:
   - DOMAIN-SUFFIX,censorship.no
   - DOMAIN-SUFFIX,epicbrowser.com
   - DOMAIN-SUFFIX,extendfirefox.com
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com
@@ -18744,9 +18750,11 @@ payload:
   - DOMAIN-SUFFIX,getfedora.org
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.dev
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,flathub.org
   - DOMAIN-SUFFIX,flatpak.org
   - DOMAIN-SUFFIX,flutter.dev
@@ -18759,6 +18767,8 @@ payload:
   - DOMAIN-SUFFIX,framercanvas.com
   - DOMAIN-SUFFIX,framerstatic.com
   - DOMAIN-SUFFIX,framerusercontent.com
+  - DOMAIN-SUFFIX,codebuff.com
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,fury.blog
   - DOMAIN-SUFFIX,fury.co
   - DOMAIN-SUFFIX,fury.dev
@@ -19415,9 +19425,11 @@ payload:
   - DOMAIN-SUFFIX,fastlane.tools
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.dev
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,flutter.dev
   - DOMAIN-SUFFIX,flutterapp.com
   - DOMAIN-SUFFIX,pub.dev
@@ -19443,6 +19455,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
@@ -19451,6 +19464,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN-SUFFIX,flow.google.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -24655,10 +24669,9 @@ payload:
   - DOMAIN-SUFFIX,facebook.cc
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.design
-  - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,facebook.hu
   - DOMAIN-SUFFIX,facebook.in
-  - DOMAIN-SUFFIX,fecebook.net
+  - DOMAIN-SUFFIX,facebook.net
   - DOMAIN-SUFFIX,facebook.nl
   - DOMAIN-SUFFIX,facebook.org
   - DOMAIN-SUFFIX,facebook.se
@@ -24865,6 +24878,7 @@ payload:
   - DOMAIN-SUFFIX,fecbooc.com
   - DOMAIN-SUFFIX,fecbook.com
   - DOMAIN-SUFFIX,feceboock.com
+  - DOMAIN-SUFFIX,fecebook.net
   - DOMAIN-SUFFIX,feceboox.com
   - DOMAIN-SUFFIX,fececbook.com
   - DOMAIN-SUFFIX,feook.com
@@ -24934,6 +24948,7 @@ payload:
   - DOMAIN-SUFFIX,sportstream.com
   - DOMAIN-SUFFIX,supportfacebook.com
   - DOMAIN-SUFFIX,terragraph.com
+  - DOMAIN-SUFFIX,tfbnw.net
   - DOMAIN-SUFFIX,thefacebook.com
   - DOMAIN-SUFFIX,thefacebook.net
   - DOMAIN-SUFFIX,thefind.com
@@ -25844,6 +25859,7 @@ payload:
   - DOMAIN-SUFFIX,motorolanews.com
   - DOMAIN-SUFFIX,motorolasolutions.com
   - DOMAIN-SUFFIX,extendfirefox.com
+  - DOMAIN-SUFFIX,firefox-portal-detection.com
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com

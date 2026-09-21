@@ -22,9 +22,10 @@ payload:
   - DOMAIN,developers.facebook.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,firebase-settings.crashlytics.com
-  - DOMAIN,firebase.google.com
   - DOMAIN,firebase.googleapis.com
   - DOMAIN,firebaseappcheck.googleapis.com
+  - DOMAIN,firebaseappdistribution.googleapis.com
+  - DOMAIN,firebaseapptesters.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
   - DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
   - DOMAIN,firebasedynamiclinks.googleapis.com
@@ -233,9 +234,11 @@ payload:
   - DOMAIN-SUFFIX,getfedora.org
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,firebase.com
+  - DOMAIN-SUFFIX,firebase.dev
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,firebaseapp.com
   - DOMAIN-SUFFIX,firebaseio.com
+  - DOMAIN-SUFFIX,firebase.google.com
   - DOMAIN-SUFFIX,flathub.org
   - DOMAIN-SUFFIX,flatpak.org
   - DOMAIN-SUFFIX,flutter.dev
@@ -248,6 +251,8 @@ payload:
   - DOMAIN-SUFFIX,framercanvas.com
   - DOMAIN-SUFFIX,framerstatic.com
   - DOMAIN-SUFFIX,framerusercontent.com
+  - DOMAIN-SUFFIX,codebuff.com
+  - DOMAIN-SUFFIX,freebuff.com
   - DOMAIN-SUFFIX,fury.blog
   - DOMAIN-SUFFIX,fury.co
   - DOMAIN-SUFFIX,fury.dev

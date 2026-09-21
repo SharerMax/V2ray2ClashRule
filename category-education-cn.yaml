@@ -56,6 +56,11 @@ payload:
   - DOMAIN-SUFFIX,fenbike.com
   - DOMAIN-SUFFIX,fenbilantian.cn
   - DOMAIN-SUFFIX,fenbilantian.com
+  - DOMAIN-SUFFIX,zuoyebang.cc
+  - DOMAIN-SUFFIX,zuoyebang.com
+  - DOMAIN-SUFFIX,zybang.com
+  - DOMAIN-SUFFIX,kuaiduizuoye.com
+  - DOMAIN-SUFFIX,syh.zybang.com
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,rainclassroom.com
   - DOMAIN-SUFFIX,yuketang.cn
@@ -116,6 +121,7 @@ payload:
   - DOMAIN-SUFFIX,centuryenglish.com
   - DOMAIN-SUFFIX,cepsp.cn
   - DOMAIN-SUFFIX,eol.cn
+  - DOMAIN-SUFFIX,gaokao.cn
   - DOMAIN-SUFFIX,cugbonline.cn
   - DOMAIN-SUFFIX,dcshfu.com
   - DOMAIN-SUFFIX,dearedu.com
@@ -135,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,gzasc.com
   - DOMAIN-SUFFIX,huatu.com
   - DOMAIN-SUFFIX,sydw8.com
+  - DOMAIN-SUFFIX,huijiaoyun.com
   - DOMAIN-SUFFIX,ictbda.cn
   - DOMAIN-SUFFIX,ictbda.com
   - DOMAIN-SUFFIX,modex.com.cn
@@ -146,7 +153,6 @@ payload:
   - DOMAIN-SUFFIX,jzagile.com
   - DOMAIN-SUFFIX,keboyunxiao.com
   - DOMAIN-SUFFIX,ketangpai.com
-  - DOMAIN-SUFFIX,kuaiduizuoye.com
   - DOMAIN-SUFFIX,liulishuo.com
   - DOMAIN-SUFFIX,llsapp.com
   - DOMAIN-SUFFIX,llscdn.com
@@ -155,6 +161,8 @@ payload:
   - DOMAIN-SUFFIX,maimemo.com
   - DOMAIN-SUFFIX,maimemostatus.com
   - DOMAIN-SUFFIX,markji.com
+  - DOMAIN-SUFFIX,mddclass.com
+  - DOMAIN-SUFFIX,sksight.com
   - DOMAIN-SUFFIX,neoscholar.com
   - DOMAIN-SUFFIX,neoschool.com
   - DOMAIN-SUFFIX,oldboyedu.com

@@ -49,7 +49,10 @@ payload:
   - DOMAIN-SUFFIX,bjinfobank.com
   - DOMAIN-SUFFIX,blyun.com
   - DOMAIN-SUFFIX,medalink.cn
+  - DOMAIN-SUFFIX,cae.cn
+  - DOMAIN-SUFFIX,cas.cn
   - DOMAIN-SUFFIX,chinabooktrading.com
+  - DOMAIN-SUFFIX,chinaxiv.org
   - DOMAIN-SUFFIX,cidp.com.cn
   - DOMAIN-SUFFIX,cnbksy.com
   - DOMAIN-SUFFIX,ccf.org.cn
@@ -91,3 +94,4 @@ payload:
   - DOMAIN-SUFFIX,wenxin-ge.com
   - DOMAIN-SUFFIX,wind.com.cn
   - DOMAIN-SUFFIX,yiigle.com
+  - DOMAIN-SUFFIX,zsyyb.cn
