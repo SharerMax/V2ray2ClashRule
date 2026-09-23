@@ -327,6 +327,7 @@ payload:
   - DOMAIN,www.pxcc.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
+  - DOMAIN,drivers.amd.com
   - DOMAIN,cdn.apple-mapkit.com
   - DOMAIN,cdn1.apple-mapkit.com
   - DOMAIN,cdn2.apple-mapkit.com

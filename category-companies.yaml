@@ -385,6 +385,7 @@ payload:
   - DOMAIN,static.siege-amazon.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
+  - DOMAIN,drivers.amd.com
   - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
   - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN,cdn.apple-mapkit.com

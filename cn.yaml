@@ -9055,6 +9055,7 @@ payload:
   - DOMAIN-SUFFIX,vxhcm.com
   - DOMAIN-SUFFIX,wanji.net.cn
   - DOMAIN-SUFFIX,yebinnet.com
+  - DOMAIN-SUFFIX,sjfls6.com
   - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - DOMAIN-REGEX,.+\.awsdns-cn-[0-9][a-e0-9]\.cn$

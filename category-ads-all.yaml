@@ -622,7 +622,6 @@ payload:
   - DOMAIN-SUFFIX,ads.huantest.com
   - DOMAIN-SUFFIX,ads.trafficjunky.net
   - DOMAIN-SUFFIX,ads.wteam.xyz
-  - DOMAIN-SUFFIX,adservice.sigmob.cn
   - DOMAIN-SUFFIX,adtechus.com
   - DOMAIN-SUFFIX,adtrue.com
   - DOMAIN-SUFFIX,adxprtz.com
@@ -772,6 +771,7 @@ payload:
   - DOMAIN-SUFFIX,mfadsrvr.com
   - DOMAIN-SUFFIX,mgid.com
   - DOMAIN-SUFFIX,ns1p.net
+  - DOMAIN-SUFFIX,sigmob.cn
   - DOMAIN-SUFFIX,sigmob.com
   - DOMAIN-SUFFIX,spotxchange.com
   - DOMAIN-SUFFIX,unimhk.com
