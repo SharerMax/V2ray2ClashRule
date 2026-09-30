@@ -11,6 +11,8 @@ payload:
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -1008,6 +1010,8 @@ payload:
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
@@ -1859,6 +1863,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
@@ -1931,6 +1936,9 @@ payload:
   - DOMAIN-SUFFIX,jasper.ai
   - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,moonshot.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaivm.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,agentclientprotocol.com
   - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,arena.ai
@@ -1949,7 +1957,6 @@ payload:
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
-  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
@@ -1959,6 +1966,7 @@ payload:
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,plannotator.ai
@@ -2053,6 +2061,7 @@ payload:
   - DOMAIN-SUFFIX,happ.info
   - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,hiddify.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,incy.cc
   - DOMAIN-SUFFIX,jitsi.org
   - DOMAIN-SUFFIX,karing.app
@@ -19456,6 +19465,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,gemini.gstatic.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
@@ -25127,6 +25137,8 @@ payload:
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,azure
   - DOMAIN-SUFFIX,21vbc.com
   - DOMAIN-SUFFIX,21vbluecloud.com

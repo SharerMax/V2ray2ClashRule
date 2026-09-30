@@ -316,6 +316,7 @@ payload:
   - DOMAIN-SUFFIX,sxlcdn.cn
   - DOMAIN-SUFFIX,sxlcdn.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
   - DOMAIN-SUFFIX,openmidas.com
@@ -7288,6 +7289,7 @@ payload:
   - DOMAIN-SUFFIX,uranus.sogou.com
   - DOMAIN-SUFFIX,wuliao.epro.sogou.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
   - DOMAIN-SUFFIX,openmidas.com

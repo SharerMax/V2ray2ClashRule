@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,sxlcdn.cn
   - DOMAIN-SUFFIX,sxlcdn.com
   - DOMAIN-SUFFIX,cnb.cool
+  - DOMAIN-SUFFIX,cnb.space
   - DOMAIN-SUFFIX,coding.me
   - DOMAIN-SUFFIX,coding.net
   - DOMAIN-SUFFIX,openmidas.com
