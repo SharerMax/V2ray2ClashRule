@@ -66,8 +66,6 @@ payload:
   - DOMAIN,sentry.popmechanic.ru
   - DOMAIN,ads-img.mozilla.org
   - DOMAIN,ads.mozilla.org
-  - DOMAIN,incoming.telemetry.mozilla.org
-  - DOMAIN,incoming-telemetry.thunderbird.net
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openai.qualtrics.com

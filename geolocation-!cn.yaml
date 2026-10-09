@@ -5073,8 +5073,6 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.org
   - DOMAIN-SUFFIX,whatsapp.tv
   - DOMAIN-SUFFIX,whatsappbrand.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,botim.me
   - DOMAIN-SUFFIX,asproex.com
   - DOMAIN-SUFFIX,asproexapi.com
@@ -18824,6 +18822,7 @@ payload:
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,github1s.com
   - DOMAIN-SUFFIX,sourcegraph.com
@@ -25137,8 +25136,6 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.org
   - DOMAIN-SUFFIX,whatsapp.tv
   - DOMAIN-SUFFIX,whatsappbrand.com
-  - DOMAIN-SUFFIX,graph.whatsapp.com
-  - DOMAIN-SUFFIX,graph.whatsapp.net
   - DOMAIN-SUFFIX,atmeta.com
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,meta.ai
@@ -25363,6 +25360,7 @@ payload:
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
+  - DOMAIN-SUFFIX,cafe.github.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,adaptivecards.io
   - DOMAIN-SUFFIX,api-extractor.com
