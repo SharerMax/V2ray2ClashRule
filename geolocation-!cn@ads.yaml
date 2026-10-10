@@ -4,10 +4,6 @@ payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,o33249.ingest.sentry.io
   - DOMAIN,openai.qualtrics.com
-  - DOMAIN,error-tracking.megamarket.tech
-  - DOMAIN,metrics.21-school.ru
-  - DOMAIN,sentry.sberauto.com
-  - DOMAIN,tracing-http.megamarket.tech
   - DOMAIN,visor.sberbank.ru
   - DOMAIN,stats.avito.ru
   - DOMAIN,ad.ozone.ru
@@ -146,8 +142,6 @@ payload:
   - DOMAIN,report.ap.yandex-net.ru
   - DOMAIN-SUFFIX,ads.sber.ru
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
-  - DOMAIN-SUFFIX,neon.click
-  - DOMAIN-SUFFIX,sbermarketing.ru
   - DOMAIN-SUFFIX,adsgram.ai
   - DOMAIN-SUFFIX,ad.games.dmm.com
   - DOMAIN-SUFFIX,bluekai.com
@@ -322,7 +316,6 @@ payload:
   - DOMAIN-SUFFIX,metrika.yandex.ru
   - DOMAIN-SUFFIX,webvisor.com
   - DOMAIN-SUFFIX,webvisor.org
-  - DOMAIN-SUFFIX,yabs.yandex.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yandex-metrica.ru
   - DOMAIN-SUFFIX,yandexmetrica.com
