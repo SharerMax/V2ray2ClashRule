@@ -8113,6 +8113,7 @@ payload:
   - DOMAIN-SUFFIX,playstation
   - DOMAIN-SUFFIX,playstation.com
   - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstationnetwork.com
   - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
   - DOMAIN-SUFFIX,imageworks.com
   - DOMAIN-SUFFIX,motionpictureser.com
@@ -8129,12 +8130,14 @@ payload:
   - DOMAIN-SUFFIX,wwtbam.com
   - DOMAIN-SUFFIX,yourfantasybeginsnow.com
   - DOMAIN-SUFFIX,sony
-  - DOMAIN-SUFFIX,sonynetwork.co.jp
   - DOMAIN-SUFFIX,nuro.jp
   - DOMAIN-SUFFIX,so-net.ne.jp
+  - DOMAIN-SUFFIX,sonynetwork.co.jp
   - DOMAIN-SUFFIX,sony-semicon.co.jp
   - DOMAIN-SUFFIX,sony-semicon.com
   - DOMAIN-SUFFIX,ginzasonypark.jp
+  - DOMAIN-SUFFIX,scea.com
+  - DOMAIN-SUFFIX,so-net.net.tw
   - DOMAIN-SUFFIX,sony-africa.com
   - DOMAIN-SUFFIX,sony-asia.com
   - DOMAIN-SUFFIX,sony-europe.com
@@ -8177,6 +8180,7 @@ payload:
   - DOMAIN-SUFFIX,sony.com.pa
   - DOMAIN-SUFFIX,sony.com.pe
   - DOMAIN-SUFFIX,sony.com.ph
+  - DOMAIN-SUFFIX,sony.com.py
   - DOMAIN-SUFFIX,sony.com.sg
   - DOMAIN-SUFFIX,sony.com.sv
   - DOMAIN-SUFFIX,sony.com.tr
@@ -8217,14 +8221,15 @@ payload:
   - DOMAIN-SUFFIX,sonydesign.com
   - DOMAIN-SUFFIX,sonydna.com
   - DOMAIN-SUFFIX,sonyglobalsolutions.jp
+  - DOMAIN-SUFFIX,sonyinteractive.com
   - DOMAIN-SUFFIX,sonykigyo.jp
   - DOMAIN-SUFFIX,sonylatvija.com
+  - DOMAIN-SUFFIX,sonymusic.com.hk
   - DOMAIN-SUFFIX,sonypcl.jp
   - DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
   - DOMAIN-SUFFIX,sonystoragemedia.co.jp
   - DOMAIN-SUFFIX,sonytc.co.jp
   - DOMAIN-SUFFIX,sovec.net
-  - DOMAIN-SUFFIX,so-net.net.tw
   - DOMAIN-SUFFIX,spacex.com
   - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,spacemail.com
