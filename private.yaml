@@ -9,6 +9,8 @@ payload:
   - DOMAIN,oasisauth.h3c.com
   - DOMAIN,routerlogin.com
   - DOMAIN,www.routerlogin.com
+  - DOMAIN,localhost.weixin.qq.com
+  - DOMAIN,localhost.work.weixin.qq.com
   - DOMAIN,tplogin.cn
   - DOMAIN,miwifi.com
   - DOMAIN,www.miwifi.com

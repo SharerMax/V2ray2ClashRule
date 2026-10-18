@@ -947,8 +947,19 @@ payload:
   - DOMAIN-SUFFIX,rzd.ru
   - DOMAIN-SUFFIX,tutu.ru
   - DOMAIN-SUFFIX,fasten.ru
+  - DOMAIN-SUFFIX,beget.app
+  - DOMAIN-SUFFIX,beget.cloud
   - DOMAIN-SUFFIX,beget.com
+  - DOMAIN-SUFFIX,beget.de
+  - DOMAIN-SUFFIX,beget.hosting
+  - DOMAIN-SUFFIX,beget.pro
   - DOMAIN-SUFFIX,beget.ru
+  - DOMAIN-SUFFIX,beget.tech
+  - DOMAIN-SUFFIX,begetcdn.cloud
+  - DOMAIN-SUFFIX,beserver.ru
+  - DOMAIN-SUFFIX,bget.ru
+  - DOMAIN-SUFFIX,sprut.io
+  - DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
   - DOMAIN-SUFFIX,carrot-mail.io
   - DOMAIN-SUFFIX,carrotquest-mail.io
   - DOMAIN-SUFFIX,carrotquest.app
@@ -1517,6 +1528,8 @@ payload:
   - DOMAIN-SUFFIX,tildacdn.net
   - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,timeweb.com
+  - DOMAIN-SUFFIX,timeweb.tech
+  - DOMAIN-SUFFIX,timewebcloud.kz
   - DOMAIN-SUFFIX,twcstorage.ru
   - DOMAIN-SUFFIX,ucoz.ae
   - DOMAIN-SUFFIX,ucoz.club

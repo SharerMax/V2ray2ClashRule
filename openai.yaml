@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud

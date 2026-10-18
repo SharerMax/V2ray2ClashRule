@@ -55,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
   - DOMAIN-SUFFIX,envato-static.com
@@ -114,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -147,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,clipdrop.co
   - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,meta.ai
