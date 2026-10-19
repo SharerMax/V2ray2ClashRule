@@ -58,7 +58,6 @@ payload:
   - DOMAIN,ocsp.microsoft.com
   - DOMAIN,oneocsp.microsoft.com
   - DOMAIN,www.microsoft.com
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN,img-s-msn-com.akamaized.net
@@ -426,8 +425,6 @@ payload:
   - DOMAIN-SUFFIX,onedrive.org
   - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,asobostudio.com
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com

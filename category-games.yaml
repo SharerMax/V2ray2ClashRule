@@ -99,7 +99,6 @@ payload:
   - DOMAIN,ubisoft.siteintercept.qualtrics.com
   - DOMAIN,datarouter.apps.netherrealm.com
   - DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
-  - DOMAIN,flightsimulator.azureedge.net
   - DOMAIN,prodforza.blob.core.windows.net
   - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3304399.net
@@ -1067,8 +1066,6 @@ payload:
   - DOMAIN-SUFFIX,wbagora.com
   - DOMAIN-SUFFIX,wbgames.com
   - DOMAIN-SUFFIX,wbinsights.com
-  - DOMAIN-SUFFIX,asobostudio.com
-  - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
