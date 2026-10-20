@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,kremlin.ru
   - DOMAIN-SUFFIX,mil.ru
   - DOMAIN-SUFFIX,nalog.ru
+  - DOMAIN-SUFFIX,regionvideo.ru
   - DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
   - DOMAIN-SUFFIX,xn--90aivcdt6dxbc.xn--p1ai
   - DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai
@@ -143,3 +144,5 @@ payload:
   - DOMAIN-SUFFIX,yamal.ru
   - DOMAIN-SUFFIX,yanao.ru
   - DOMAIN-SUFFIX,zdrav10.ru
+  - DOMAIN-SUFFIX,mospat.ru
+  - DOMAIN-SUFFIX,patriarchia.ru

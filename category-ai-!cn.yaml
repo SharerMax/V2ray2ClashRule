@@ -173,6 +173,7 @@ payload:
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
+  - DOMAIN-SUFFIX,magnific.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai

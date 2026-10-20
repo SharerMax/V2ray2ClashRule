@@ -210,6 +210,8 @@ payload:
   - DOMAIN,ulrichsweb.serialssolutions.com
   - DOMAIN,wrds-www.wharton.upenn.edu
   - DOMAIN,chinapower.csis.org
+  - DOMAIN,kp-config-smart-tv.akamaized.net
+  - DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,blzddistkr1-a.akamaihd.net
@@ -1795,6 +1797,8 @@ payload:
   - DOMAIN,sentry.iptv.rt.ru
   - DOMAIN,impala-media-production.s3.amazonaws.com
   - DOMAIN,cdn.js7k.com
+  - DOMAIN,kp-config-smart-tv.akamaized.net
+  - DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,ads.yandex.com
   - DOMAIN,ads.yango.com
@@ -1957,6 +1961,7 @@ payload:
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,lovart.ai
+  - DOMAIN-SUFFIX,magnific.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
@@ -7216,6 +7221,7 @@ payload:
   - DOMAIN-SUFFIX,kinorium.com
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+  - DOMAIN-SUFFIX,kp.yandex.net
   - DOMAIN-SUFFIX,okkoapi.tv
   - DOMAIN-SUFFIX,playfamily.ru
   - DOMAIN-SUFFIX,okko.sport
@@ -19214,6 +19220,7 @@ payload:
   - DOMAIN-SUFFIX,piwheels.org
   - DOMAIN-SUFFIX,plasma-mobile.org
   - DOMAIN-SUFFIX,postgresql.org
+  - DOMAIN-SUFFIX,postman.com
   - DOMAIN-SUFFIX,putty.org
   - DOMAIN-SUFFIX,r-project.org
   - DOMAIN-SUFFIX,raspberrypi.org
@@ -26018,6 +26025,7 @@ payload:
   - DOMAIN-SUFFIX,kion.ru
   - DOMAIN-SUFFIX,mtsmedia.ru
   - DOMAIN-SUFFIX,on-media.ru
+  - DOMAIN-SUFFIX,mts-link.ru
   - DOMAIN-SUFFIX,musixmatch.com
   - DOMAIN-SUFFIX,mxmcdn.net
   - DOMAIN-SUFFIX,mxlogin.com
@@ -26885,6 +26893,7 @@ payload:
   - DOMAIN-SUFFIX,ysm.yahoo.com
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+  - DOMAIN-SUFFIX,kp.yandex.net
   - DOMAIN-SUFFIX,yandex
   - DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
   - DOMAIN-SUFFIX,berizaryad.ru
