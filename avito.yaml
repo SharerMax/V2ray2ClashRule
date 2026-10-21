@@ -2,5 +2,7 @@
 # type: classic
 payload:
   - DOMAIN,stats.avito.ru
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech

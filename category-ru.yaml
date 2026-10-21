@@ -283,8 +283,10 @@ payload:
   - DOMAIN-SUFFIX,autoru.me
   - DOMAIN-SUFFIX,avto.ru
   - DOMAIN-SUFFIX,cm.expert
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,cian.ru
   - DOMAIN-SUFFIX,cian.site
   - DOMAIN-SUFFIX,ciangroup.ru
@@ -805,12 +807,23 @@ payload:
   - DOMAIN-SUFFIX,emias.mos.ru
   - DOMAIN-SUFFIX,emias.ru
   - DOMAIN-SUFFIX,vipmed.ru
+  - DOMAIN-SUFFIX,hello-doc.ru
+  - DOMAIN-SUFFIX,hellodoc.app
+  - DOMAIN-SUFFIX,hellodoc.ru
   - DOMAIN-SUFFIX,reso-med.com
   - DOMAIN-SUFFIX,reso-med.ru
   - DOMAIN-SUFFIX,mgfoms.ru
   - DOMAIN-SUFFIX,spboms.ru
   - DOMAIN-SUFFIX,oms.karelia.ru
   - DOMAIN-SUFFIX,mofoms.ru
+  - DOMAIN-SUFFIX,medflex.ru
+  - DOMAIN-SUFFIX,medlock.ru
+  - DOMAIN-SUFFIX,medrocket.me
+  - DOMAIN-SUFFIX,medrocket.ru
+  - DOMAIN-SUFFIX,medtochka.ru
+  - DOMAIN-SUFFIX,probolezny.ru
+  - DOMAIN-SUFFIX,prodoctorov.ru
+  - DOMAIN-SUFFIX,protabletky.ru
   - DOMAIN-SUFFIX,medsi-premium.ru
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
@@ -2177,3 +2190,5 @@ payload:
   - DOMAIN-SUFFIX,flocktory.com
   - DOMAIN-SUFFIX,roistat.com
   - DOMAIN-SUFFIX,targetads.io
+  - DOMAIN-SUFFIX,terratraf.com
+  - DOMAIN-SUFFIX,terratraf.io

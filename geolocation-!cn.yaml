@@ -28,6 +28,7 @@ payload:
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.us.sentry.io
   - DOMAIN,openai.qualtrics.com
   - DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
   - DOMAIN,pplx-res.cloudinary.com
@@ -486,6 +487,7 @@ payload:
   - DOMAIN,d36nr0u3xmc4mm.cloudfront.net
   - DOMAIN,d3aqoihi2n8ty8.cloudfront.net
   - DOMAIN,d3c27h4odz752x.cloudfront.net
+  - DOMAIN,d3stzm2eumvgb4.cloudfront.net
   - DOMAIN,d3vd9lfkzbru3h.cloudfront.net
   - DOMAIN,d6d4ismr40iw.cloudfront.net
   - DOMAIN,d6tizftlrpuof.cloudfront.net
@@ -1819,13 +1821,23 @@ payload:
   - DOMAIN,teamviewer.com.cdn.cloudflare.net
   - DOMAIN,fandom.zendesk.com
   - DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
+  - DOMAIN-SUFFIX,antspace.dev
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN-SUFFIX,ciciai.com
@@ -5010,6 +5022,17 @@ payload:
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
   - DOMAIN-SUFFIX,discordapp.io
   - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,freenode.net
   - DOMAIN-SUFFIX,intercom.com
   - DOMAIN-SUFFIX,intercom.io
@@ -5360,8 +5383,10 @@ payload:
   - DOMAIN-SUFFIX,autoru.me
   - DOMAIN-SUFFIX,avto.ru
   - DOMAIN-SUFFIX,cm.expert
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.ru
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,cian.ru
   - DOMAIN-SUFFIX,cian.site
   - DOMAIN-SUFFIX,ciangroup.ru
