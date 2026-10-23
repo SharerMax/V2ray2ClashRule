@@ -120,6 +120,7 @@ payload:
   - DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
   - DOMAIN,ecapi-pchome.cdn.hinet.net
   - DOMAIN,pchomeonline.com.tw
+  - DOMAIN,funko.my.site.com
   - DOMAIN,imperial.insendi.com
   - DOMAIN,scholar.google.ae
   - DOMAIN,scholar.google.at
@@ -5303,6 +5304,8 @@ payload:
   - DOMAIN-SUFFIX,bittrex.com
   - DOMAIN-SUFFIX,blast.io
   - DOMAIN-SUFFIX,blockchain.com
+  - DOMAIN-SUFFIX,blockchair.com
+  - DOMAIN-SUFFIX,blockchair.net
   - DOMAIN-SUFFIX,blockfrost.io
   - DOMAIN-SUFFIX,btcbox.co.jp
   - DOMAIN-SUFFIX,cex.io
@@ -5319,10 +5322,12 @@ payload:
   - DOMAIN-SUFFIX,coredao.org
   - DOMAIN-SUFFIX,crypto.com
   - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,cryptoid.info
   - DOMAIN-SUFFIX,cryptomus.com
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,delets.cash
   - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,dogecoin.com
   - DOMAIN-SUFFIX,drpc.org
@@ -5339,6 +5344,7 @@ payload:
   - DOMAIN-SUFFIX,hyperliquid.xyz
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,invity.io
+  - DOMAIN-SUFFIX,kurs.expert
   - DOMAIN-SUFFIX,litecoin.org
   - DOMAIN-SUFFIX,maple.finance
   - DOMAIN-SUFFIX,megaeth.com
@@ -6651,16 +6657,24 @@ payload:
   - DOMAIN-SUFFIX,walmartimages.com
   - DOMAIN-SUFFIX,wmt.co
   - DOMAIN-SUFFIX,wish.com
+  - DOMAIN-SUFFIX,24.place
   - DOMAIN-SUFFIX,allkeyshop.com
   - DOMAIN-SUFFIX,axbdoll.com.tw
+  - DOMAIN-SUFFIX,craftifyx.com
   - DOMAIN-SUFFIX,gamewtb.com
   - DOMAIN-SUFFIX,gg.deals
   - DOMAIN-SUFFIX,i69.com.tw
   - DOMAIN-SUFFIX,kinguin.net
+  - DOMAIN-SUFFIX,makeship.com
+  - DOMAIN-SUFFIX,ownaj.com
   - DOMAIN-SUFFIX,pornhubapparel.com
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,redino.tw
-  - DOMAIN-SUFFIX,templatemonster.com
+  - DOMAIN-SUFFIX,tgtime.store
+  - DOMAIN-SUFFIX,youtooz.com
+  - DOMAIN-SUFFIX,funko.com
+  - DOMAIN-SUFFIX,glitchprod.com
+  - DOMAIN-SUFFIX,glitchproductions.store
   - DOMAIN-SUFFIX,anandtech.com
   - DOMAIN-SUFFIX,betterexplained.com
   - DOMAIN-SUFFIX,brilliant.org
@@ -7863,6 +7877,7 @@ payload:
   - DOMAIN-SUFFIX,steamconnecttest.com
   - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamos.cloud
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamstatic.com
@@ -7948,6 +7963,7 @@ payload:
   - DOMAIN-SUFFIX,worldoftanks.com
   - DOMAIN-SUFFIX,worldoftanks.eu
   - DOMAIN-SUFFIX,worldofwarplanes.com
+  - DOMAIN-SUFFIX,worldofwarships.asia
   - DOMAIN-SUFFIX,worldofwarships.com
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
@@ -8015,6 +8031,7 @@ payload:
   - DOMAIN-SUFFIX,ficgs.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,game-repack.site
+  - DOMAIN-SUFFIX,gamebanana.com
   - DOMAIN-SUFFIX,joinsquad.com
   - DOMAIN-SUFFIX,loverslab.com
   - DOMAIN-SUFFIX,minecraft.wiki
@@ -8032,11 +8049,15 @@ payload:
   - DOMAIN-SUFFIX,prismlauncher.org
   - DOMAIN-SUFFIX,protondb.com
   - DOMAIN-SUFFIX,quiltmc.org
+  - DOMAIN-SUFFIX,r2modman.com
   - DOMAIN-SUFFIX,rayark.download
   - DOMAIN-SUFFIX,rayark.net
   - DOMAIN-SUFFIX,speedrun.com
   - DOMAIN-SUFFIX,spigotmc.org
   - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,thunderstore.io
+  - DOMAIN-SUFFIX,thunderstore.org
+  - DOMAIN-SUFFIX,wplace.live
   - DOMAIN-SUFFIX,ptzwx.com
   - DOMAIN-SUFFIX,quanben-xiaoshuo.com
   - DOMAIN-SUFFIX,quanben.io
@@ -8415,6 +8436,7 @@ payload:
   - DOMAIN-SUFFIX,dlsitestudio.com
   - DOMAIN-SUFFIX,nijiyome.jp
   - DOMAIN-SUFFIX,triokini.com
+  - DOMAIN-SUFFIX,fanfiction.net
   - DOMAIN-SUFFIX,fanfictionero.com
   - DOMAIN-SUFFIX,fic.fan
   - DOMAIN-SUFFIX,ficador.com
@@ -9188,6 +9210,7 @@ payload:
   - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,ms.dzen.ru
   - DOMAIN-SUFFIX,dzeninfra.ru
+  - DOMAIN-SUFFIX,fanfiction.net
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,habrastorage.org
   - DOMAIN-SUFFIX,hkgolden.com
@@ -19074,6 +19097,8 @@ payload:
   - DOMAIN-SUFFIX,readthedocs.com
   - DOMAIN-SUFFIX,readthedocs.io
   - DOMAIN-SUFFIX,readthedocs.org
+  - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,redhat.org
   - DOMAIN-SUFFIX,redis.io
   - DOMAIN-SUFFIX,redislabs.com
   - DOMAIN-SUFFIX,ruby-lang.org
@@ -19082,8 +19107,6 @@ payload:
   - DOMAIN-SUFFIX,rustup.rs
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,docs.rs
-  - DOMAIN-SUFFIX,redhat.com
-  - DOMAIN-SUFFIX,redhat.org
   - DOMAIN-SUFFIX,scala-lang.org
   - DOMAIN-SUFFIX,scala-sbt.org
   - DOMAIN-SUFFIX,getsentry.com
@@ -19284,6 +19307,11 @@ payload:
   - DOMAIN-SUFFIX,hivepress.io
   - DOMAIN-SUFFIX,motopress.com
   - DOMAIN-SUFFIX,wpmailsmtp.com
+  - DOMAIN-SUFFIX,templatemonster.com
+  - DOMAIN-SUFFIX,tmimgcdn.com
+  - DOMAIN-SUFFIX,getsafety.com
+  - DOMAIN-SUFFIX,pyup.io
+  - DOMAIN-SUFFIX,safetycli.com
   - DOMAIN-SUFFIX,2gis.ae
   - DOMAIN-SUFFIX,2gis.am
   - DOMAIN-SUFFIX,2gis.az
