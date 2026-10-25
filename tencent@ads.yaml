@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,bugly.qq.com
   - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,hq-tracking.qq.com
   - DOMAIN-SUFFIX,htrace.wetvinfo.com
   - DOMAIN-SUFFIX,isdspeed.qq.com

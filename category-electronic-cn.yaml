@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,hqchip.com
   - DOMAIN-SUFFIX,hqdoc.com
   - DOMAIN-SUFFIX,hqpcb.com
-  - DOMAIN-SUFFIX,infineon.cn
   - DOMAIN-SUFFIX,gosinoic.com
   - DOMAIN-SUFFIX,h3c.com
   - DOMAIN-SUFFIX,moedu.com
@@ -32,6 +31,10 @@ payload:
   - DOMAIN-SUFFIX,unisoc.com
   - DOMAIN-SUFFIX,unispc.com
   - DOMAIN-SUFFIX,uniswdc.com
+  - DOMAIN-SUFFIX,infineon.cn
+  - DOMAIN-SUFFIX,iotronic.tech
+  - DOMAIN-SUFFIX,quecmall.cn
+  - DOMAIN-SUFFIX,quectel.com.cn
   - DOMAIN-SUFFIX,fa-part.com
   - DOMAIN-SUFFIX,forface3d.com
   - DOMAIN-SUFFIX,jlc-3dp.cn
@@ -76,9 +79,7 @@ payload:
   - DOMAIN-SUFFIX,zs-jlc.com
   - DOMAIN-SUFFIX,zxhgroup.com
   - DOMAIN-SUFFIX,listenai.com
-  - DOMAIN-SUFFIX,quecmall.cn
-  - DOMAIN-SUFFIX,quectel.com.cn
-  - DOMAIN-SUFFIX,iotronic.tech
+  - DOMAIN-SUFFIX,nanocorechip.com
   - DOMAIN-SUFFIX,rock-chips.com
   - DOMAIN-SUFFIX,seeed.cn
   - DOMAIN-SUFFIX,seeed.cc
