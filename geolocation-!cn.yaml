@@ -502,6 +502,7 @@ payload:
   - DOMAIN,d1k2us671qcoau.cloudfront.net
   - DOMAIN,d2anahhhmp1ffz.cloudfront.net
   - DOMAIN,yt3.googleusercontent.com
+  - DOMAIN,dropbox.zendesk.com
   - DOMAIN,paper-attachments.s3.amazonaws.com
   - DOMAIN,o4504926511693824.ingest.sentry.io
   - DOMAIN,www.quora.com.cdn.cloudflare.net
@@ -9102,21 +9103,29 @@ payload:
   - DOMAIN-SUFFIX,toy-people.com
   - DOMAIN-SUFFIX,wanuxi.com
   - DOMAIN-SUFFIX,yorozoonews.jp
+  - DOMAIN-SUFFIX,addtodropbox.com
+  - DOMAIN-SUFFIX,dash.ai
   - DOMAIN-SUFFIX,db.tt
+  - DOMAIN-SUFFIX,docsend.com
   - DOMAIN-SUFFIX,dropbox-dns.com
   - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,dropbox.tech
   - DOMAIN-SUFFIX,dropboxapi.com
   - DOMAIN-SUFFIX,dropboxbusiness.com
   - DOMAIN-SUFFIX,dropboxcaptcha.com
+  - DOMAIN-SUFFIX,dropboxexperiment.com
   - DOMAIN-SUFFIX,dropboxforum.com
   - DOMAIN-SUFFIX,dropboxforums.com
   - DOMAIN-SUFFIX,dropboxinsiders.com
+  - DOMAIN-SUFFIX,dropboxlegal.com
   - DOMAIN-SUFFIX,dropboxmail.com
   - DOMAIN-SUFFIX,dropboxpartners.com
   - DOMAIN-SUFFIX,dropboxstatic.com
+  - DOMAIN-SUFFIX,dropboxteam.com
   - DOMAIN-SUFFIX,dropboxusercontent.com
   - DOMAIN-SUFFIX,getdropbox.com
+  - DOMAIN-SUFFIX,hellofax.com
+  - DOMAIN-SUFFIX,hellosign.com
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz

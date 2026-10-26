@@ -10,5 +10,10 @@ payload:
   - DOMAIN-SUFFIX,hdrezka.org
   - DOMAIN-SUFFIX,hdrezka.site
   - DOMAIN-SUFFIX,rezka.ag
+  - DOMAIN-SUFFIX,rezka.fi
+  - DOMAIN-SUFFIX,statichdrezka.ac
   - DOMAIN-SUFFIX,hdrzk.org
+  - DOMAIN-SUFFIX,static.voidboost.com
   - DOMAIN-SUFFIX,stream.voidboost.cc
+  - DOMAIN-SUFFIX,stream.voidboost.one
+  - DOMAIN-SUFFIX,voidslam.org
