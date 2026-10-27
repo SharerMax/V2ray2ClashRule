@@ -10,6 +10,7 @@ payload:
   - DOMAIN,ipv6test.wcode.net
   - DOMAIN,mip.chinaz.com
   - DOMAIN,v6test.ipgg.cn
+  - DOMAIN-SUFFIX,testipv6.cn
   - DOMAIN-SUFFIX,chaip.me
   - DOMAIN-SUFFIX,check-host.cn
   - DOMAIN-SUFFIX,cip.cc
@@ -53,5 +54,4 @@ payload:
   - DOMAIN-SUFFIX,todetect.cn
   - DOMAIN-SUFFIX,whatip.cn
   - DOMAIN-SUFFIX,whatismyip.com.cn
-  - DOMAIN-SUFFIX,testipv6.cn
   - DOMAIN-SUFFIX,whois.pconline.com.cn

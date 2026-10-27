@@ -227,7 +227,6 @@ payload:
   - DOMAIN,nbbb1bb7.pmhcjk.com
   - DOMAIN,q676790b.pmhcjk.com
   - DOMAIN,agb9r0ad.qllfkl.com
-  - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN,dqd0jw5gvbchn.cloudfront.net
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net
   - DOMAIN,d22qjgkvxw22r6.cloudfront.net
@@ -244,7 +243,6 @@ payload:
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
-  - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
   - DOMAIN,adeventtracker.spotify.com
@@ -1697,6 +1695,7 @@ payload:
   - DOMAIN-SUFFIX,netflixdnstest8.com
   - DOMAIN-SUFFIX,netflixdnstest9.com
   - DOMAIN-SUFFIX,netflixdnstest10.com
+  - DOMAIN-SUFFIX,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,nico
   - DOMAIN-SUFFIX,nico.ms
   - DOMAIN-SUFFIX,nicochannel.jp
@@ -1809,6 +1808,7 @@ payload:
   - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,tospotify.com
+  - DOMAIN-SUFFIX,spotify.com.edgesuite.net
   - DOMAIN-SUFFIX,subscene.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com

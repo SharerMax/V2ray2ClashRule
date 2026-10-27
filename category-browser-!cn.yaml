@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,firefox.hu
   - DOMAIN-SUFFIX,firefoxtweetmachine.com
   - DOMAIN-SUFFIX,firefoxusercontent.com
+  - DOMAIN-SUFFIX,librewolf.dev
+  - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,chrome
   - DOMAIN-SUFFIX,chrome.com
@@ -27,7 +29,6 @@ payload:
   - DOMAIN-SUFFIX,iridiumbrowser.de
   - DOMAIN-SUFFIX,kiwibrowser.com
   - DOMAIN-SUFFIX,kmeleonbrowser.org
-  - DOMAIN-SUFFIX,librewolf.net
   - DOMAIN-SUFFIX,minbrowser.org
   - DOMAIN-SUFFIX,netsurf-browser.org
   - DOMAIN-SUFFIX,opera.com

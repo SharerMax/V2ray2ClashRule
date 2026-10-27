@@ -3,6 +3,8 @@
 payload:
   - DOMAIN,azure.microsoft.com
   - DOMAIN,azuremarketplace.microsoft.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN-SUFFIX,azure
   - DOMAIN-SUFFIX,21vbc.com
   - DOMAIN-SUFFIX,21vbluecloud.com
@@ -85,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,devopsms.com
   - DOMAIN-SUFFIX,gotcosmos.com
   - DOMAIN-SUFFIX,hdinsightservices.cn
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,management-azure-devices-int.net
   - DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
   - DOMAIN-SUFFIX,management-azure-devices.cn

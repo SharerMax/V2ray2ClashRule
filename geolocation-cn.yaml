@@ -3848,7 +3848,6 @@ payload:
   - DOMAIN-SUFFIX,zsyyb.cn
   - DOMAIN-SUFFIX,allhistory.com
   - DOMAIN-SUFFIX,fgo.wiki
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,mbalib.com
   - DOMAIN-SUFFIX,sec-wiki.com
   - DOMAIN-SUFFIX,shidianbaike.com
@@ -3994,6 +3993,7 @@ payload:
   - DOMAIN-SUFFIX,linka2a.net
   - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,shunjing.xin
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,asklink.com
   - DOMAIN-SUFFIX,easytier.cn
   - DOMAIN-SUFFIX,feihengip.com
@@ -4384,6 +4384,7 @@ payload:
   - DOMAIN-SUFFIX,duiba.com.cn
   - DOMAIN-SUFFIX,easyliao.com
   - DOMAIN-SUFFIX,faceid.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,finclip.com
   - DOMAIN-SUFFIX,foundertype.com
   - DOMAIN-SUFFIX,fxbaogao.com
@@ -6621,6 +6622,7 @@ payload:
   - DOMAIN-SUFFIX,msmartlife.cn
   - DOMAIN-SUFFIX,msmartlife.com
   - DOMAIN-SUFFIX,smartmidea.net
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,narwal.com
   - DOMAIN-SUFFIX,narwaltech.com
   - DOMAIN-SUFFIX,126.com

@@ -6,7 +6,6 @@ payload:
   - DOMAIN,cdn-spotify-experiments.conductrics.com
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,heads4-ak-spotify-com.akamaized.net
-  - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
   - DOMAIN,spotify.map.fastlylb.net
   - DOMAIN,adeventtracker.spotify.com
@@ -29,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,tospotify.com
+  - DOMAIN-SUFFIX,spotify.com.edgesuite.net
