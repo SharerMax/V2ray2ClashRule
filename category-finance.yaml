@@ -644,6 +644,7 @@ payload:
   - DOMAIN-SUFFIX,schwabassetmanagement.com
   - DOMAIN-SUFFIX,schwabcdn.com
   - DOMAIN-SUFFIX,schwabplan.com
+  - DOMAIN-SUFFIX,thinkorswim.com
   - DOMAIN-SUFFIX,sc.com
   - DOMAIN-SUFFIX,standardchartered.com
   - DOMAIN-SUFFIX,link.com
@@ -656,6 +657,7 @@ payload:
   - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,transferwise.com
   - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,firstrade.com
   - DOMAIN-SUFFIX,fxcorporate.com
   - DOMAIN-SUFFIX,jivara.global
   - DOMAIN-SUFFIX,mql5.com
