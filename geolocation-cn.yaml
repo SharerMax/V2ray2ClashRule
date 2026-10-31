@@ -3994,6 +3994,9 @@ payload:
   - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,kakaxing.com
+  - DOMAIN-SUFFIX,favonis.cloud
+  - DOMAIN-SUFFIX,favonis.com
+  - DOMAIN-SUFFIX,favonis.space
   - DOMAIN-SUFFIX,asklink.com
   - DOMAIN-SUFFIX,easytier.cn
   - DOMAIN-SUFFIX,feihengip.com
@@ -5374,9 +5377,12 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,ttcdn-us.com

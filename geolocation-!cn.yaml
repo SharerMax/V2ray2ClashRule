@@ -7254,6 +7254,7 @@ payload:
   - DOMAIN-SUFFIX,chemequations.com
   - DOMAIN-SUFFIX,divdyn.com
   - DOMAIN-SUFFIX,geogebra.org
+  - DOMAIN-SUFFIX,githubhelp.com
   - DOMAIN-SUFFIX,wolframalpha.com
   - DOMAIN-SUFFIX,bestdori.com
   - DOMAIN-SUFFIX,colorfulstage.com
@@ -8041,6 +8042,7 @@ payload:
   - DOMAIN-SUFFIX,stargazer-games.com
   - DOMAIN-SUFFIX,stellasora.global
   - DOMAIN-SUFFIX,stellasora.jp
+  - DOMAIN-SUFFIX,amdgaming.com
   - DOMAIN-SUFFIX,chunkbase.com
   - DOMAIN-SUFFIX,dinopoloclub.com
   - DOMAIN-SUFFIX,dodi-repacks.download
@@ -8796,9 +8798,12 @@ payload:
   - DOMAIN-SUFFIX,tiktokglobalshopv.com
   - DOMAIN-SUFFIX,tiktokminis.us
   - DOMAIN-SUFFIX,tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktokshop.com
+  - DOMAIN-SUFFIX,tiktokstaticb.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,tiktokv.eu
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokvapp.com
   - DOMAIN-SUFFIX,tiktokw.eu
   - DOMAIN-SUFFIX,tiktokw.us
   - DOMAIN-SUFFIX,ttcdn-us.com
@@ -11619,6 +11624,7 @@ payload:
   - DOMAIN-SUFFIX,18comic-god.xyz
   - DOMAIN-SUFFIX,18comic.cc
   - DOMAIN-SUFFIX,18comic.company
+  - DOMAIN-SUFFIX,18comic.ink
   - DOMAIN-SUFFIX,18comic.org
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,asjmapihost.cc
@@ -25428,6 +25434,7 @@ payload:
   - DOMAIN-SUFFIX,bingapistatistics.com
   - DOMAIN-SUFFIX,bingparachute.com
   - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingstatic.com
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   - DOMAIN-SUFFIX,bluehatnights.com
@@ -25803,6 +25810,7 @@ payload:
   - DOMAIN-SUFFIX,msfteducation.ca
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftnet.org
+  - DOMAIN-SUFFIX,msftstatic.com
   - DOMAIN-SUFFIX,msgamesresearch.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,mshome.net
