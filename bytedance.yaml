@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,instreet.com
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubaoapps.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,maoxiangai.com
@@ -732,6 +733,7 @@ payload:
   - DOMAIN-SUFFIX,doubo03.com
   - DOMAIN-SUFFIX,draftstatic.com
   - DOMAIN-SUFFIX,druid.vip
+  - DOMAIN-SUFFIX,edge-byted.com
   - DOMAIN-SUFFIX,fedlearner.net
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,gcloudcache.com
@@ -920,6 +922,7 @@ payload:
   - DOMAIN-SUFFIX,ppxstatic.com
   - DOMAIN-SUFFIX,ppxvod.com
   - DOMAIN-SUFFIX,xiaoxiaapi.com
+  - DOMAIN-SUFFIX,haimian.com
   - DOMAIN-SUFFIX,dailygn.com
   - DOMAIN-SUFFIX,nvsgames.cn
   - DOMAIN-SUFFIX,buydouke.com

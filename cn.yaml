@@ -356,12 +356,14 @@ payload:
   - DOMAIN-SUFFIX,tipdm.org
   - DOMAIN-SUFFIX,weboss.hk
   - DOMAIN-SUFFIX,zuidaima.com
+  - DOMAIN-SUFFIX,allwinnertech.com
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,arrow.cn
   - DOMAIN-SUFFIX,avermedia.cn
   - DOMAIN-SUFFIX,boe.com
   - DOMAIN-SUFFIX,boe.com.cn
   - DOMAIN-SUFFIX,bouffalolab.com
+  - DOMAIN-SUFFIX,cambricon.com
   - DOMAIN-SUFFIX,cxmt.com
   - DOMAIN-SUFFIX,esp8266.cn
   - DOMAIN-SUFFIX,esp8266.com.cn
@@ -434,6 +436,7 @@ payload:
   - DOMAIN-SUFFIX,zs-jlc.com
   - DOMAIN-SUFFIX,zxhgroup.com
   - DOMAIN-SUFFIX,listenai.com
+  - DOMAIN-SUFFIX,mthreads.com
   - DOMAIN-SUFFIX,nanocorechip.com
   - DOMAIN-SUFFIX,rock-chips.com
   - DOMAIN-SUFFIX,seeed.cn
@@ -442,6 +445,8 @@ payload:
   - DOMAIN-SUFFIX,seeedstudio.com.cn
   - DOMAIN-SUFFIX,sipeed.com
   - DOMAIN-SUFFIX,maixhub.com
+  - DOMAIN-SUFFIX,southchip.com
+  - DOMAIN-SUFFIX,t-head.cn
   - DOMAIN-SUFFIX,ti.com.cn
   - DOMAIN-SUFFIX,wch.cn
   - DOMAIN-SUFFIX,wch-ic.com
@@ -1417,6 +1422,10 @@ payload:
   - DOMAIN-SUFFIX,luhua.cn
   - DOMAIN-SUFFIX,shuanghui.net
   - DOMAIN-SUFFIX,micun.com
+  - DOMAIN-SUFFIX,qiaqiafood.com
+  - DOMAIN-SUFFIX,busyming.com
+  - DOMAIN-SUFFIX,hnlshm.com
+  - DOMAIN-SUFFIX,zymls.com
   - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com
@@ -3955,6 +3964,7 @@ payload:
   - DOMAIN-SUFFIX,instreet.com
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubaoapps.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,maoxiangai.com
@@ -4852,6 +4862,7 @@ payload:
   - DOMAIN-SUFFIX,alisports.com
   - DOMAIN-SUFFIX,alitianji.com
   - DOMAIN-SUFFIX,aliunicorn.com
+  - DOMAIN-SUFFIX,alivecdn.com
   - DOMAIN-SUFFIX,aliway.com
   - DOMAIN-SUFFIX,aliwork.com
   - DOMAIN-SUFFIX,alixiaomi.com
@@ -4891,6 +4902,7 @@ payload:
   - DOMAIN-SUFFIX,m-now.cn
   - DOMAIN-SUFFIX,maitix.com
   - DOMAIN-SUFFIX,mappcloud.com
+  - DOMAIN-SUFFIX,mayibao.cn
   - DOMAIN-SUFFIX,mdeer.com
   - DOMAIN-SUFFIX,mei.com
   - DOMAIN-SUFFIX,miaostreet.com
@@ -4928,6 +4940,7 @@ payload:
   - DOMAIN-SUFFIX,hemamax.com
   - DOMAIN-SUFFIX,hemaos.com
   - DOMAIN-SUFFIX,hemashare.cn
+  - DOMAIN-SUFFIX,hmxs.cn
   - DOMAIN-SUFFIX,shyhhema.com
   - DOMAIN-SUFFIX,antfortune.com
   - DOMAIN-SUFFIX,fund123.cn
@@ -5208,6 +5221,7 @@ payload:
   - DOMAIN-SUFFIX,instreet.com
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubaoapps.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,maoxiangai.com
@@ -5874,6 +5888,7 @@ payload:
   - DOMAIN-SUFFIX,doubo03.com
   - DOMAIN-SUFFIX,draftstatic.com
   - DOMAIN-SUFFIX,druid.vip
+  - DOMAIN-SUFFIX,edge-byted.com
   - DOMAIN-SUFFIX,fedlearner.net
   - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,gcloudcache.com
@@ -6058,6 +6073,7 @@ payload:
   - DOMAIN-SUFFIX,ppxstatic.com
   - DOMAIN-SUFFIX,ppxvod.com
   - DOMAIN-SUFFIX,xiaoxiaapi.com
+  - DOMAIN-SUFFIX,haimian.com
   - DOMAIN-SUFFIX,dailygn.com
   - DOMAIN-SUFFIX,nvsgames.cn
   - DOMAIN-SUFFIX,buydouke.com
@@ -7515,6 +7531,7 @@ payload:
   - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,tenpayglobal.com
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,wechatpay.cn
@@ -7529,6 +7546,8 @@ payload:
   - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxmpurl.cn
+  - DOMAIN-SUFFIX,wesure.cn
+  - DOMAIN-SUFFIX,wesure100.com
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,imweb.io
   - DOMAIN-SUFFIX,ivweb.io
@@ -7845,6 +7864,7 @@ payload:
   - DOMAIN-SUFFIX,sc96655.com
   - DOMAIN-SUFFIX,isxtv.com
   - DOMAIN-SUFFIX,sdgdwljt.com
+  - DOMAIN-SUFFIX,mnc015.mcc460.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,10086.cn
   - DOMAIN-SUFFIX,139.com
   - DOMAIN-SUFFIX,chinamobile.com
@@ -7878,6 +7898,10 @@ payload:
   - DOMAIN-SUFFIX,cxzx10086.cn
   - DOMAIN-SUFFIX,fxltsbl.com
   - DOMAIN-SUFFIX,zdsdp.com
+  - DOMAIN-SUFFIX,mnc000.mcc460.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc002.mcc460.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc004.mcc460.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,mnc007.mcc460.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ctexcel.ca
   - DOMAIN-SUFFIX,ctexcel.com
   - DOMAIN-SUFFIX,ctexcel.com.hk
@@ -7896,6 +7920,7 @@ payload:
   - DOMAIN-SUFFIX,play.cn
   - DOMAIN-SUFFIX,tv189.com
   - DOMAIN-SUFFIX,vnet.cn
+  - DOMAIN-SUFFIX,mnc011.mcc460.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,chinatowercom.cn
   - DOMAIN-SUFFIX,china-tower.com
   - DOMAIN-SUFFIX,tower.com.cn

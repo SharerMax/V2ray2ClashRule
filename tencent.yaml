@@ -601,6 +601,7 @@ payload:
   - DOMAIN-SUFFIX,tencentmiying.com
   - DOMAIN-SUFFIX,tengmed.com
   - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,tenpayglobal.com
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,wechatpay.cn
@@ -615,6 +616,8 @@ payload:
   - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxmpurl.cn
+  - DOMAIN-SUFFIX,wesure.cn
+  - DOMAIN-SUFFIX,wesure100.com
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com
   - DOMAIN-SUFFIX,alloyteam.com

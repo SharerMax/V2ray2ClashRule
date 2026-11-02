@@ -238,6 +238,8 @@ payload:
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
   - DOMAIN-SUFFIX,vodafone.nl
+  - DOMAIN-SUFFIX,vodafoneziggo.nl
+  - DOMAIN-SUFFIX,ziggo.nl
   - DOMAIN-SUFFIX,wisecoin.com
   - DOMAIN-SUFFIX,wiseid.com
   - DOMAIN-SUFFIX,wisekey.com

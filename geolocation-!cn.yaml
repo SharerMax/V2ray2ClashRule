@@ -4995,6 +4995,8 @@ payload:
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
   - DOMAIN-SUFFIX,vodafone.nl
+  - DOMAIN-SUFFIX,vodafoneziggo.nl
+  - DOMAIN-SUFFIX,ziggo.nl
   - DOMAIN-SUFFIX,wisecoin.com
   - DOMAIN-SUFFIX,wiseid.com
   - DOMAIN-SUFFIX,wisekey.com
@@ -8076,6 +8078,7 @@ payload:
   - DOMAIN-SUFFIX,speedrun.com
   - DOMAIN-SUFFIX,spigotmc.org
   - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,steampeek.hu
   - DOMAIN-SUFFIX,thunderstore.io
   - DOMAIN-SUFFIX,thunderstore.org
   - DOMAIN-SUFFIX,wplace.live
@@ -18679,15 +18682,6 @@ payload:
   - DOMAIN-SUFFIX,zeit.co
   - DOMAIN-SUFFIX,zeit.sh
   - DOMAIN-SUFFIX,zeitworld.com
-  - DOMAIN-SUFFIX,editorx.com
-  - DOMAIN-SUFFIX,parastorage.com
-  - DOMAIN-SUFFIX,wix-code.com
-  - DOMAIN-SUFFIX,wix.com
-  - DOMAIN-SUFFIX,wixanswers.com
-  - DOMAIN-SUFFIX,wixapps.net
-  - DOMAIN-SUFFIX,wixmp.com
-  - DOMAIN-SUFFIX,wixsite.com
-  - DOMAIN-SUFFIX,wixstatic.com
   - DOMAIN-SUFFIX,outbound.io
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,zdusercontent.com
@@ -19189,6 +19183,19 @@ payload:
   - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,v8.dev
   - DOMAIN-SUFFIX,v8project.org
+  - DOMAIN-SUFFIX,webflow-ext.com
+  - DOMAIN-SUFFIX,webflow.com
+  - DOMAIN-SUFFIX,webflow.io
+  - DOMAIN-SUFFIX,website-files.com
+  - DOMAIN-SUFFIX,editorx.com
+  - DOMAIN-SUFFIX,parastorage.com
+  - DOMAIN-SUFFIX,wix-code.com
+  - DOMAIN-SUFFIX,wix.com
+  - DOMAIN-SUFFIX,wixanswers.com
+  - DOMAIN-SUFFIX,wixapps.net
+  - DOMAIN-SUFFIX,wixmp.com
+  - DOMAIN-SUFFIX,wixsite.com
+  - DOMAIN-SUFFIX,wixstatic.com
   - DOMAIN-SUFFIX,videopress.com
   - DOMAIN-SUFFIX,w.org
   - DOMAIN-SUFFIX,wordcamp.org
@@ -19207,6 +19214,7 @@ payload:
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,badgen.net
   - DOMAIN-SUFFIX,bitvise.com
+  - DOMAIN-SUFFIX,bmonkeys.net
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,centos.org
@@ -19303,7 +19311,6 @@ payload:
   - DOMAIN-SUFFIX,vim.org
   - DOMAIN-SUFFIX,wapm.io
   - DOMAIN-SUFFIX,wasmer.io
-  - DOMAIN-SUFFIX,webflow.com
   - DOMAIN-SUFFIX,weblate.org
   - DOMAIN-SUFFIX,wireshark.org
   - DOMAIN-SUFFIX,x.org
@@ -19312,6 +19319,8 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,ziglang.org
   - DOMAIN-SUFFIX,zsh.org
+  - DOMAIN-SUFFIX,boldgrid.com
+  - DOMAIN-SUFFIX,cloudwp.dev
   - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,elegantthemes.com
   - DOMAIN-SUFFIX,hivepress.io

@@ -59,6 +59,10 @@ payload:
   - DOMAIN-SUFFIX,luhua.cn
   - DOMAIN-SUFFIX,shuanghui.net
   - DOMAIN-SUFFIX,micun.com
+  - DOMAIN-SUFFIX,qiaqiafood.com
+  - DOMAIN-SUFFIX,busyming.com
+  - DOMAIN-SUFFIX,hnlshm.com
+  - DOMAIN-SUFFIX,zymls.com
   - DOMAIN-SUFFIX,logger.qmai.cn
   - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com
