@@ -941,7 +941,7 @@ payload:
   - DOMAIN-SUFFIX,overclocker.ru
   - DOMAIN-SUFFIX,overclocking.ru
   - DOMAIN-SUFFIX,overi.ru
-  - DOMAIN-SUFFIX,xn--80AGLFYFK.xn--p1ai
+  - DOMAIN-SUFFIX,xn--80aglfyfk.xn--p1ai
   - DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
   - DOMAIN-SUFFIX,xn--b1agatafrepfl.xn--p1ai
   - DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai
@@ -982,6 +982,7 @@ payload:
   - DOMAIN-SUFFIX,beget.cloud
   - DOMAIN-SUFFIX,beget.com
   - DOMAIN-SUFFIX,beget.de
+  - DOMAIN-SUFFIX,beget.email
   - DOMAIN-SUFFIX,beget.hosting
   - DOMAIN-SUFFIX,beget.pro
   - DOMAIN-SUFFIX,beget.ru

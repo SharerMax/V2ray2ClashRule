@@ -22946,6 +22946,7 @@ payload:
   - DOMAIN-SUFFIX,beget.cloud
   - DOMAIN-SUFFIX,beget.com
   - DOMAIN-SUFFIX,beget.de
+  - DOMAIN-SUFFIX,beget.email
   - DOMAIN-SUFFIX,beget.hosting
   - DOMAIN-SUFFIX,beget.pro
   - DOMAIN-SUFFIX,beget.ru
@@ -27895,7 +27896,7 @@ payload:
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
   - DOMAIN-REGEX,(^|\.)bilibili3(0[1-9]|1[0-2])\.xyz$
   - DOMAIN-REGEX,(^|\.)cav1(0[2-9]|1[0-9])\.com$
-  - DOMAIN-REGEX,javdb\d+\.com$
+  - DOMAIN-REGEX,(^|\.)javdb\d+\.com$
   - DOMAIN-REGEX,(^|\.)[1-5]gaoap\.com$
   - DOMAIN-REGEX,(^|\.)[1-9]+aipai\.(com|net)$
   - DOMAIN-REGEX,(^|\.)[1-9]+zipai\.(com|net)$
@@ -27915,7 +27916,7 @@ payload:
   - DOMAIN-REGEX,(^|\.)783([a-z][a-z]?)?\.tv$
   - DOMAIN-REGEX,(^|\.)7mm0([0-1][0-9]?)?\.com$
   - DOMAIN-REGEX,(^|\.)8dgo[1-57-9]\.com$
-  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?.com$
+  - DOMAIN-REGEX,(^|\.)91cg([1-9]|[0-9][1-9])?\.com$
   - DOMAIN-REGEX,(^|\.)91p[0-9][0-9]?\.com$
   - DOMAIN-REGEX,(^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$
   - DOMAIN-REGEX,(^|\.)91porn[0-9]{3}\.me$
