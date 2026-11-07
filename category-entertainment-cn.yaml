@@ -164,7 +164,6 @@ payload:
   - DOMAIN-SUFFIX,hkgcloudcs.com
   - DOMAIN-SUFFIX,ihappystudio.cn
   - DOMAIN-SUFFIX,ihappystudio.com
-  - DOMAIN-SUFFIX,in.th
   - DOMAIN-SUFFIX,ludosuperstar.cn
   - DOMAIN-SUFFIX,ludoworld.net
   - DOMAIN-SUFFIX,mahjongai.net
@@ -788,6 +787,7 @@ payload:
   - DOMAIN-SUFFIX,duowan.com
   - DOMAIN-SUFFIX,dwstatic.com
   - DOMAIN-SUFFIX,yy.com
+  - DOMAIN-SUFFIX,yyeshop.cn
   - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,ldmnq.com
   - DOMAIN-SUFFIX,lsplayer.com

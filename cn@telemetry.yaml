@@ -113,6 +113,15 @@ payload:
   - DOMAIN-SUFFIX,crash.163.com
   - DOMAIN-SUFFIX,crashlytics.163.com
   - DOMAIN-SUFFIX,sentry.music.163.com
+  - DOMAIN-SUFFIX,base.api.my7v.com
+  - DOMAIN-SUFFIX,dc-conf-o.api.leiniao.com
+  - DOMAIN-SUFFIX,dc-conf-t.api.leiniao.com
+  - DOMAIN-SUFFIX,dc-o.api.leiniao.com
+  - DOMAIN-SUFFIX,dc-t.api.leiniao.com
+  - DOMAIN-SUFFIX,dc-uo.api.leiniao.com
+  - DOMAIN-SUFFIX,dc-ut.api.leiniao.com
+  - DOMAIN-SUFFIX,qms-report-o.api.leiniao.com
+  - DOMAIN-SUFFIX,qms-report-t.api.leiniao.com
   - DOMAIN-SUFFIX,badjs.weixinbridge.com
   - DOMAIN-SUFFIX,monitor.music.qq.com
   - DOMAIN-SUFFIX,report.tencentmusic.com

@@ -102,6 +102,12 @@ payload:
   - DOMAIN-SUFFIX,mypep.cn
   - DOMAIN-SUFFIX,peeavp.com.cn
   - DOMAIN-SUFFIX,pep.com.cn
+  - DOMAIN-SUFFIX,diyifanwen.com
+  - DOMAIN-SUFFIX,zuowen8.com
+  - DOMAIN-SUFFIX,zuowenjun.com
+  - DOMAIN-SUFFIX,zuowenku.net
+  - DOMAIN-SUFFIX,zuowenwang.net
+  - DOMAIN-SUFFIX,zww.com.cn
   - DOMAIN-SUFFIX,21cnjy.com
   - DOMAIN-SUFFIX,91yunxiao.com
   - DOMAIN-SUFFIX,aiyunxiao.com
@@ -135,6 +141,8 @@ payload:
   - DOMAIN-SUFFIX,zggqzp.com
   - DOMAIN-SUFFIX,zgjsks.com
   - DOMAIN-SUFFIX,zgsydw.com
+  - DOMAIN-SUFFIX,gaodun.com
+  - DOMAIN-SUFFIX,gaodunwangxiao.com
   - DOMAIN-SUFFIX,gaojidata.com
   - DOMAIN-SUFFIX,gk100.com
   - DOMAIN-SUFFIX,guojibk.com
@@ -192,10 +200,6 @@ payload:
   - DOMAIN-SUFFIX,zhan.com
   - DOMAIN-SUFFIX,zhihuishu.com
   - DOMAIN-SUFFIX,zjzs.net
-  - DOMAIN-SUFFIX,zuowen8.com
-  - DOMAIN-SUFFIX,zuowenjun.com
-  - DOMAIN-SUFFIX,zuowenku.net
-  - DOMAIN-SUFFIX,zuowenwang.net
   - DOMAIN-SUFFIX,qianxuecloud.com
   - DOMAIN-SUFFIX,qianxueyunke.com
   - DOMAIN-SUFFIX,zhixingyunke.com

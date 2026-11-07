@@ -185,6 +185,9 @@ payload:
   - DOMAIN-SUFFIX,ger.file.myqcloud.com
   - DOMAIN-SUFFIX,rumt-sg.com
   - DOMAIN-SUFFIX,rumt-us.com
+  - DOMAIN-SUFFIX,tencentgames.com
+  - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN-SUFFIX,nikke-en.com
   - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,ctexcel.ca
   - DOMAIN-SUFFIX,ctexcel.com

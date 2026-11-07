@@ -433,7 +433,6 @@ payload:
   - DOMAIN-SUFFIX,hkgcloudcs.com
   - DOMAIN-SUFFIX,ihappystudio.cn
   - DOMAIN-SUFFIX,ihappystudio.com
-  - DOMAIN-SUFFIX,in.th
   - DOMAIN-SUFFIX,ludosuperstar.cn
   - DOMAIN-SUFFIX,ludoworld.net
   - DOMAIN-SUFFIX,mahjongai.net
@@ -500,6 +499,9 @@ payload:
   - DOMAIN-SUFFIX,anticheatexpert.com
   - DOMAIN-SUFFIX,17roco.com
   - DOMAIN-SUFFIX,roco.qq.com
+  - DOMAIN-SUFFIX,tencentgames.com
+  - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN-SUFFIX,nikke-en.com
   - DOMAIN-SUFFIX,fanxingliveshow.com
   - DOMAIN-SUFFIX,kgimg.com
   - DOMAIN-SUFFIX,kglink.cn
