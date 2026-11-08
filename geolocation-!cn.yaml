@@ -2,8 +2,11 @@
 # type: classic
 payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,production-copilot-host-westus.webpubsub.azure.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
@@ -804,6 +807,7 @@ payload:
   - DOMAIN,update.crashlytics.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,production-copilot-host-westus.webpubsub.azure.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
@@ -1681,6 +1685,7 @@ payload:
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,production-copilot-host-westus.webpubsub.azure.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
@@ -1948,6 +1953,7 @@ payload:
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokbot.com
   - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,youmind.ai
