@@ -9335,8 +9335,11 @@ payload:
   - DOMAIN-SUFFIX,mewe.com
   - DOMAIN-SUFFIX,parler.com
   - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,questionablequesting.com
   - DOMAIN-SUFFIX,safechat.com
   - DOMAIN-SUFFIX,sis001.com
+  - DOMAIN-SUFFIX,spacebattles.com
+  - DOMAIN-SUFFIX,v2ex.co
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,bsky.app
   - DOMAIN-SUFFIX,bsky.network
@@ -18958,6 +18961,8 @@ payload:
   - DOMAIN-SUFFIX,golang.com
   - DOMAIN-SUFFIX,golang.net
   - DOMAIN-SUFFIX,golang.org
+  - DOMAIN-SUFFIX,grafana.com
+  - DOMAIN-SUFFIX,grafana.net
   - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,nomadproject.io

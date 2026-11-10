@@ -4106,6 +4106,7 @@ payload:
   - DOMAIN-SUFFIX,yuanbao.tencent.com
   - DOMAIN-SUFFIX,yuanqi.tencent.com
   - DOMAIN-SUFFIX,baichuan-ai.com
+  - DOMAIN-SUFFIX,nia-teams.com
   - DOMAIN-SUFFIX,cueme.cn
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,namiso.com
