@@ -3,6 +3,7 @@
 payload:
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,download.visualstudio.microsoft.com
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
   - DOMAIN,azurestackhub.download.prss.microsoft.com
@@ -48,7 +49,6 @@ payload:
   - DOMAIN,surface.downloads.prss.microsoft.com
   - DOMAIN,vlportal.download.prss.microsoft.com
   - DOMAIN,volic.download.prss.microsoft.com
-  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vz.download.prss.microsoft.com
   - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN-SUFFIX,21vbc.com

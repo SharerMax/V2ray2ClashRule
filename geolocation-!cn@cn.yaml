@@ -50,8 +50,10 @@ payload:
   - DOMAIN,init.itunes.apple.com
   - DOMAIN,iosapps.itunes.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
+  - DOMAIN,musicstatus.itunes.apple.com
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
+  - DOMAIN,mzstorekit.itunes.apple.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
@@ -207,6 +209,7 @@ payload:
   - DOMAIN,firebase-settings.crashlytics.com
   - DOMAIN,update.crashlytics.com
   - DOMAIN,download.visualstudio.microsoft.com
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,cdn.ampproject.org
   - DOMAIN,account-cn.alibabacloud.com
   - DOMAIN,api.alibabacloud.com
@@ -374,8 +377,10 @@ payload:
   - DOMAIN,init.itunes.apple.com
   - DOMAIN,iosapps.itunes.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
+  - DOMAIN,musicstatus.itunes.apple.com
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
+  - DOMAIN,mzstorekit.itunes.apple.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
@@ -407,6 +412,7 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,api-edge.apps.apple.com
   - DOMAIN,communities.apple.com
+  - DOMAIN,configuration.ls.apple.com
   - DOMAIN,discussionschinese.apple.com
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,gspe12-cn-ssl.ls.apple.com
@@ -666,6 +672,7 @@ payload:
   - DOMAIN,s19.upd.kaspersky.com
   - DOMAIN,bj1.api.bing.com
   - DOMAIN,download.visualstudio.microsoft.com
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
   - DOMAIN,azurestackhub.download.prss.microsoft.com
@@ -711,7 +718,6 @@ payload:
   - DOMAIN,surface.downloads.prss.microsoft.com
   - DOMAIN,vlportal.download.prss.microsoft.com
   - DOMAIN,volic.download.prss.microsoft.com
-  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vz.download.prss.microsoft.com
   - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN,cn.download.nvidia.com
@@ -1081,6 +1087,7 @@ payload:
   - DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
   - DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
   - DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+  - DOMAIN-SUFFIX,captive.apple.com
   - DOMAIN-SUFFIX,asus.com.cn
   - DOMAIN-SUFFIX,att.cn
   - DOMAIN-SUFFIX,attcorp.cn

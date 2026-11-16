@@ -362,6 +362,9 @@ payload:
   - DOMAIN-SUFFIX,vtbbo.ru
   - DOMAIN-SUFFIX,vtbglobalperspectives.com
   - DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+  - DOMAIN-SUFFIX,bank.yandex.ru
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,credit-zenit.ru
   - DOMAIN-SUFFIX,zenit-card.ru
   - DOMAIN-SUFFIX,zenit.ru
@@ -396,7 +399,6 @@ payload:
   - DOMAIN-SUFFIX,bancaintesa.ru
   - DOMAIN-SUFFIX,bank-arzamas.ru
   - DOMAIN-SUFFIX,bank-hlynov.ru
-  - DOMAIN-SUFFIX,bank.yandex.ru
   - DOMAIN-SUFFIX,bankermak.ru
   - DOMAIN-SUFFIX,bankofkazan.ru
   - DOMAIN-SUFFIX,bankperm.ru

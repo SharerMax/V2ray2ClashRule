@@ -383,8 +383,10 @@ payload:
   - DOMAIN,init.itunes.apple.com
   - DOMAIN,iosapps.itunes.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
+  - DOMAIN,musicstatus.itunes.apple.com
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
+  - DOMAIN,mzstorekit.itunes.apple.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
@@ -843,9 +845,11 @@ payload:
   - DOMAIN,d29vzk4ow07wi7.cloudfront.net
   - DOMAIN,az764295.vo.msecnd.net
   - DOMAIN,bingsettingssearch.trafficmanager.net
+  - DOMAIN,builds.dotnet.microsoft.com
   - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developer.microsoft.com
+  - DOMAIN,dotnetcli.trafficmanager.net
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dtlgalleryint.cloudapp.net
   - DOMAIN,packages.microsoft.com
@@ -854,9 +858,11 @@ payload:
   - DOMAIN,psg-int-eastus.cloudapp.net
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rt.services.visualstudio.com
+  - DOMAIN,sundry-star-net-geo.trafficmanager.net
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN,vscode.blob.core.windows.net
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vscode.search.windows.net
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN,nix-community.github.io
@@ -1311,8 +1317,10 @@ payload:
   - DOMAIN,init.itunes.apple.com
   - DOMAIN,iosapps.itunes.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
+  - DOMAIN,musicstatus.itunes.apple.com
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
+  - DOMAIN,mzstorekit.itunes.apple.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,osxapps.itunes.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
@@ -1347,6 +1355,7 @@ payload:
   - DOMAIN,amp-api.apps.apple.com
   - DOMAIN,api-edge.apps.apple.com
   - DOMAIN,communities.apple.com
+  - DOMAIN,configuration.ls.apple.com
   - DOMAIN,discussionschinese.apple.com
   - DOMAIN,fides-pol.apple.com
   - DOMAIN,gspe12-cn-ssl.ls.apple.com
@@ -1718,9 +1727,11 @@ payload:
   - DOMAIN,productionresultssa19.blob.core.windows.net
   - DOMAIN,az764295.vo.msecnd.net
   - DOMAIN,bingsettingssearch.trafficmanager.net
+  - DOMAIN,builds.dotnet.microsoft.com
   - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,default.exp-tas.com
   - DOMAIN,developer.microsoft.com
+  - DOMAIN,dotnetcli.trafficmanager.net
   - DOMAIN,download.visualstudio.microsoft.com
   - DOMAIN,dtlgalleryint.cloudapp.net
   - DOMAIN,packages.microsoft.com
@@ -1729,9 +1740,11 @@ payload:
   - DOMAIN,psg-int-eastus.cloudapp.net
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rt.services.visualstudio.com
+  - DOMAIN,sundry-star-net-geo.trafficmanager.net
   - DOMAIN,vscode-sync-insiders.trafficmanager.net
   - DOMAIN,vscode-sync.trafficmanager.net
   - DOMAIN,vscode.blob.core.windows.net
+  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vscode.search.windows.net
   - DOMAIN,vsmarketplacebadge.apphb.com
   - DOMAIN,crl.microsoft.com
@@ -1792,7 +1805,6 @@ payload:
   - DOMAIN,surface.downloads.prss.microsoft.com
   - DOMAIN,vlportal.download.prss.microsoft.com
   - DOMAIN,volic.download.prss.microsoft.com
-  - DOMAIN,vscode.download.prss.microsoft.com
   - DOMAIN,vz.download.prss.microsoft.com
   - DOMAIN,windbg.download.prss.microsoft.com
   - DOMAIN,api-js.mindbox.ru
@@ -2081,6 +2093,7 @@ payload:
   - DOMAIN-SUFFIX,vpngate.net
   - DOMAIN-SUFFIX,docs.rw
   - DOMAIN-SUFFIX,log.rw
+  - DOMAIN-SUFFIX,remna.dev
   - DOMAIN-SUFFIX,remna.st
   - DOMAIN-SUFFIX,try.rw
   - DOMAIN-SUFFIX,2dust.link
@@ -3679,6 +3692,9 @@ payload:
   - DOMAIN-SUFFIX,vtbbo.ru
   - DOMAIN-SUFFIX,vtbglobalperspectives.com
   - DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+  - DOMAIN-SUFFIX,bank.yandex.ru
+  - DOMAIN-SUFFIX,yandex-bank.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,credit-zenit.ru
   - DOMAIN-SUFFIX,zenit-card.ru
   - DOMAIN-SUFFIX,zenit.ru
@@ -3713,7 +3729,6 @@ payload:
   - DOMAIN-SUFFIX,bancaintesa.ru
   - DOMAIN-SUFFIX,bank-arzamas.ru
   - DOMAIN-SUFFIX,bank-hlynov.ru
-  - DOMAIN-SUFFIX,bank.yandex.ru
   - DOMAIN-SUFFIX,bankermak.ru
   - DOMAIN-SUFFIX,bankofkazan.ru
   - DOMAIN-SUFFIX,bankperm.ru
@@ -5359,6 +5374,7 @@ payload:
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,cyberx.com
   - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,debot.ai
   - DOMAIN-SUFFIX,delets.cash
   - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,dogecoin.com
@@ -22241,6 +22257,7 @@ payload:
   - DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
   - DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
   - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,captive.apple.com
   - DOMAIN-SUFFIX,advertising.apple.com
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
@@ -27099,6 +27116,7 @@ payload:
   - DOMAIN-SUFFIX,yastat.net
   - DOMAIN-SUFFIX,yastatic-net.ru
   - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yb-payment.ru
   - DOMAIN-SUFFIX,yccdn.ru
   - DOMAIN-SUFFIX,ydb.tech
   - DOMAIN-SUFFIX,yndx.net
