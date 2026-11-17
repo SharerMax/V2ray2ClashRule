@@ -189,6 +189,18 @@ payload:
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,yingxiong.com
+  - DOMAIN-SUFFIX,hgto.cc
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,kurobbs.com
   - DOMAIN-SUFFIX,kurogame.com
   - DOMAIN-SUFFIX,kurogame.xyz
@@ -444,11 +456,12 @@ payload:
   - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,curseforge.com
   - DOMAIN-SUFFIX,forgecdn.net
-  - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,cygames.com
+  - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN-SUFFIX,worldflipper.jp
-  - DOMAIN-SUFFIX,worldflipper.akamaized.net
   - DOMAIN-SUFFIX,umamusume.akamaized.net
+  - DOMAIN-SUFFIX,worldflipper.akamaized.net
   - DOMAIN-SUFFIX,dawngate.com
   - DOMAIN-SUFFIX,eastore.com
   - DOMAIN-SUFFIX,lordofultima.com
