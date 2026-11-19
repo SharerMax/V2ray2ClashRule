@@ -18,9 +18,11 @@ payload:
   - DOMAIN-SUFFIX,58lovepet.com
   - DOMAIN-SUFFIX,58uxd.com
   - DOMAIN-SUFFIX,58v5.cn
+  - DOMAIN-SUFFIX,58wos.com.cn
   - DOMAIN-SUFFIX,58xinghuo.cn
   - DOMAIN-SUFFIX,58xinghuo.com
   - DOMAIN-SUFFIX,58xueche.com
+  - DOMAIN-SUFFIX,ajkimg.com
   - DOMAIN-SUFFIX,anjuke.com
   - DOMAIN-SUFFIX,anjukestatic.com
   - DOMAIN-SUFFIX,chinahr.com
@@ -41,5 +43,8 @@ payload:
   - DOMAIN-SUFFIX,zhuanspirit.com
   - DOMAIN-SUFFIX,zhuanstatic.com
   - DOMAIN-SUFFIX,zhuanzhuan.com
+  - DOMAIN-SUFFIX,zhaoliangji.com
+  - DOMAIN-SUFFIX,zhaoliangjipc.com
+  - DOMAIN-SUFFIX,qpmcn.com
   - DOMAIN-SUFFIX,kaoshibao.com
   - DOMAIN-SUFFIX,zaixiankaoshi.com

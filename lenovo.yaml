@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,thinkcloudlab.com
   - DOMAIN-SUFFIX,thinkpad.com
   - DOMAIN-SUFFIX,zhiliaowenda.com.cn
+  - DOMAIN-SUFFIX,lefile.cn
+  - DOMAIN-SUFFIX,lenovofuturecenter.com
+  - DOMAIN-SUFFIX,lenovofoundation.cn
   - DOMAIN-SUFFIX,lecoo.com
   - DOMAIN-SUFFIX,blurdev.com
   - DOMAIN-SUFFIX,chainedbox.com

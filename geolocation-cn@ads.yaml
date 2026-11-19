@@ -438,6 +438,7 @@ payload:
   - DOMAIN-SUFFIX,stat.y.qq.com
   - DOMAIN-SUFFIX,tmead.y.qq.com
   - DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+  - DOMAIN-SUFFIX,tencentads.com
   - DOMAIN-SUFFIX,ad.browser.qq.com
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.qun.qq.com
