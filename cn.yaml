@@ -181,6 +181,7 @@ payload:
   - DOMAIN-SUFFIX,byd.com
   - DOMAIN-SUFFIX,chery.cn
   - DOMAIN-SUFFIX,faw.cn
+  - DOMAIN-SUFFIX,faw-vw.com
   - DOMAIN-SUFFIX,geely.com
   - DOMAIN-SUFFIX,gwm.com.cn
   - DOMAIN-SUFFIX,jac.com.cn
@@ -3442,6 +3443,9 @@ payload:
   - DOMAIN-SUFFIX,didapinche.com
   - DOMAIN-SUFFIX,dmall.com
   - DOMAIN-SUFFIX,dmallcdn.com
+  - DOMAIN-SUFFIX,echooai.com
+  - DOMAIN-SUFFIX,fazhipro.com
+  - DOMAIN-SUFFIX,saasfz.com
   - DOMAIN-SUFFIX,fang.com
   - DOMAIN-SUFFIX,soufun.com
   - DOMAIN-SUFFIX,soufun.com.cn
