@@ -7780,6 +7780,7 @@ payload:
   - DOMAIN-SUFFIX,panasonic.com
   - DOMAIN-SUFFIX,panasonic.jp
   - DOMAIN-SUFFIX,technics.com
+  - DOMAIN-SUFFIX,hkt
   - DOMAIN-SUFFIX,1010.com.hk
   - DOMAIN-SUFFIX,esmarthealth.com
   - DOMAIN-SUFFIX,hkcsl.com
@@ -7800,6 +7801,7 @@ payload:
   - DOMAIN-SUFFIX,now-ashare.com
   - DOMAIN-SUFFIX,viu.tv
   - DOMAIN-SUFFIX,viu.com
+  - DOMAIN-SUFFIX,pccw
   - DOMAIN-SUFFIX,pccw.com
   - DOMAIN-SUFFIX,pccwglobal.com
   - DOMAIN-SUFFIX,pccwsolutions.com

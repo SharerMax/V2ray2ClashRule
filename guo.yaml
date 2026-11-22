@@ -2,6 +2,8 @@
 # type: classic
 payload:
   - DOMAIN,himalaya-exchange.zendesk.com
+  - DOMAIN-SUFFIX,rolfoundation.org
+  - DOMAIN-SUFFIX,rolsociety.org
   - DOMAIN-SUFFIX,g-tvapp.com
   - DOMAIN-SUFFIX,gclubs.com
   - DOMAIN-SUFFIX,gettr.com
@@ -19,6 +21,4 @@ payload:
   - DOMAIN-SUFFIX,nfscdict.com
   - DOMAIN-SUFFIX,nfscofficial.com
   - DOMAIN-SUFFIX,rexcha.com
-  - DOMAIN-SUFFIX,rolfoundation.org
-  - DOMAIN-SUFFIX,rolsociety.org
   - DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org

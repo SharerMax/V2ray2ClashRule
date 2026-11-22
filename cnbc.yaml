@@ -2,6 +2,5 @@
 # type: classic
 payload:
   - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbccouncils.com
   - DOMAIN-SUFFIX,cnbcfm.com
-  - DOMAIN-SUFFIX,nbcuni.com
-  - DOMAIN-SUFFIX,nbcudigitaladops.com
