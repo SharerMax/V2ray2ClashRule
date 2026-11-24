@@ -314,6 +314,10 @@ payload:
   - DOMAIN-SUFFIX,zx.com
   - DOMAIN-SUFFIX,tgpro.top
   - DOMAIN-SUFFIX,tgprocs.net
+  - DOMAIN-SUFFIX,wahlap.net
+  - DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
+  - DOMAIN-SUFFIX,maimai.wahlap.com
+  - DOMAIN-SUFFIX,chunithm.wahlap.com
   - DOMAIN-SUFFIX,winegame.net
   - DOMAIN-SUFFIX,wo1wan.com
   - DOMAIN-SUFFIX,ycgame.com
