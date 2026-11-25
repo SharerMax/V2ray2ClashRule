@@ -3,3 +3,4 @@
 payload:
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,dotdeb.org
+  - DOMAIN-SUFFIX,debian.map.fastlydns.net
